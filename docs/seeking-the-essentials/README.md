@@ -17,6 +17,7 @@ The other philosopher whose works I have studied to some extent is Aristotle. Fi
 
 ### Ethics
 - [The Nature of Life](https://pranigopu.github.io/seeking-the-essentials/nature-of-life.html)
+- [The Nature of Value](https://pranigopu.github.io/seeking-the-essentials/nature-of-value.html)
 - [The Nature of Morality](https://pranigopu.github.io/seeking-the-essentials/nature-of-morality.html)
 
 ### Politics
