@@ -53,6 +53,8 @@ _To put it concisely, it is not suffering but the pursuit of values that betters
 
 To add to this, note that my focus in philosophy and life as such is not suffering but happiness; I care not primarily to avoid the negatives but primarily to pursue the positives. In other words, I live not to avoid death or even pain and suffering but to live and live fully, with the greatest efficacy and enjoyment I can achieve.
 
+---
+
 **NOTE ON THE DEFINITIONS**:
 
 Note that I define "struggle" as a kind of non-automatic pursuit of value. The fact that it is non-automatic means there can often be a form of resistance that must be overcome, leading to effort — possibly painful effort. Suffering, on the other hand, is a loss of values or frustration in the pursuit of values. The effort to overcome suffering is a struggle, but suffering as such does not necessarily involve struggle, just as struggle as such does not necessarily involve suffering.
