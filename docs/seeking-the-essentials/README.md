@@ -8,7 +8,7 @@ The other philosopher whose works I have studied to some extent is Aristotle. Fi
 
 ---
 
-**Now for articles...**
+**Now for the main articles...**
 
 ---
 
