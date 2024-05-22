@@ -2,7 +2,6 @@
 
 ## 1. Generalising & formalising probability as a measure
 _The need for such a generalisation and formalisation is to allow us to talk about probability in an unambiguous but sufficiently generalised context while making the presentation of these ideas more concise (thus easier to retain)_.
-<br><br>
 
 What is probability, and when does probability come into the picture? Cognition has two basic states, namely ignorance and knowledge. In ignorance, we have no information about the nature of the object of cognition, so we have no certainty whatsoever about any of its potential. In knowledge, we have all the information about the _essential_ nature of the object of cognition - essential within a given context - to have certainty about its potential, i.e. about how it will act or be acted upon. However, cognition is not binary; when learning the nature of something, we do not go always from no knowledge to full knowledge - full within a given context. There may be and often are states of cognition for partial information, so that we may know only part of the object's potential. In essence, probability is the quantification of the level of certainty or uncertainty we have regarding some aspect of the potential of an object of cognition, which may be an entity, an environment, a phenomenon, etc. 
 
@@ -11,13 +10,11 @@ Random process is a process with a defined set of possible outcomes wherein one 
 
 ### Quantifying probabilities as proportions
 Let us begin by quantifying certainty about a certain outcome as $1$ and $0$, wherein $1$ quantifies the certainty of the outcome being observed and $0$ quantifies the certainty of the outcome not being observed. We do not choose these values arbitrarily; they are based on the idea of expected proportions. If something is certain to be observed in a given context, we expect it to be observed in $100$% of the cases wherein the given context holds. Similarly, if something is certain to not be observed in a given context, we expect it to be observed in $0$% of the cases wherein the context holds. If we are uncertain, our expectation has to be between $0$% and $100$%, since an uncertain outcome may be observed only some of the times, i.e. some proportion of the times less than $1$ but greater than $0$. In this light, we see that probability is the quantification of expectations (more specifically, the expectations about the outcomes of a random process).
-<br><br>
 
 The idea of probability as the proportion of times we expect to observe an outcome does not make sense for rare or once-in-a-lifetime outcomes or random processes that produce such outcomes. However, the idea of probability as proportion makes sense if you consider not the number of times we expect to observe an outcome in reality, but rather, the number of possible _hypothetical_ states in which we expect the outcome to be observed. A possible or hypothetical state here refers to a state of the environment in question that can be hypothesised based on what we know; of course, a hypothesis implies assumptions about unknowns, i.e. it refers to a possibility given our knowledge, which may never in fact be true.
 
 ### Measure
 Consider a random process $\theta$. It is clear that some but any outcome of $\theta$ will certainly be observed; we have this certainty at any moment. At a given moment, since each set of outcomes of $\theta$ have some probability of being observed but the probability of observing some but any outcome of $\theta$ is $1$, it follows that sum of the probabilities of each pairwise disjoint subset of outcomes that together make up the set of all possible outcomes is $1$. In other words, each of these subsets of outcomes may be expected to be observed in only some proportion of cases, but together, their proportion of being observed must add up to $1$ as together they make up the whole of the potential of $\theta$ in the given context. Seeing probabilities as "proportional" potential helps us see that the probability of any subset of the set of all possible outcomes is a part of the whole. It is handy, then, that there is a concept that formalises such "proportional" quantification of a set, namely, the concept of "measure". Using this concept, we can define probability as a kind of measure, thus being able to apply the properties of measures in general to probabilities in particular.
-<br><br>
 
 A measure is a function that maps each subset of a given set $X$ to a non-negative real value called "mass" (_the non-negativity property_), such that the mass of $X$ as a whole is the total mass of pairwise disjoint subsets of $X$ that together make up $X$ (_the additivity property_). Note, of course, that the subset may be a set with but one element. A measure generalises and formalises the concept of quantifying some aspect of each subset of a set that is present in the subset as a part of the whole. For example, a counting measure quantifies the size of a subset; each subset's size is a part of the size of the set as a whole. Other examples of measures present in subsets of a set as parts of a whole are area of a shape and its parts, volume of a solid and its parts, the probability of some and all of the outcomes of a random process, etc.
 
@@ -44,13 +41,11 @@ A random process can be used to generalise the distribution of some metric of a 
 
 #### Sample
 A single individual drawn from a population.
-<br><br>
 
 **NOTE**: There are many sampling methods (random sampling, selective sampling, systematic sampling, etc.). However, random sampling with replacement is the one we shall use and the reason will become clear in the following subsections.
 
 #### Random sample
 A single sample, i.e. a single outcome drawn from a random process.
-<br><br>
 
 **NOTE 1: "Sampling from a distribution"**:<br>If we know or assume the random process follows a specific probability distribution, or alternatively, if we define a random or pseudorandom process that is designed to follow a specific probability distribution, then the sample is said to be drawn from the given distribution.
 
@@ -136,14 +131,10 @@ _To reinforce the last few statements_...
 2. Comparing the way the probability density values for each of two distributions helps us compare the way outcomes from each distribution are expected to be spread over space, time, the population or some other metric.
 3. The key purpose of probability density is to study the spread of the distribution, i.e. to study how and in what proportions is the total probability mass concentrated across the sample space.
 
-<br>
-
 Probability density is hence a useful concept, albeit a more abstract concept than probability mass. Of course, just as with CDF, we can study the spread of the distribution using the probability measure and the derivatives of cumulative probability mass, but the concept a probability density function, i.e. PDF offers economy in thought, reference and notation. For convenience, we shall notate the PDF $F^1$ as $f$. Just to clarify, given a point $x$ in the sample space:
 
 - $f(x) = \frac{d \mathbb{P}((-\infty, x])}{dx} = \frac{d F(x)}{dx} = F^1(x)$
 - **_Probability density defined at a point_** $x$ **_is the gradient of the cumulative probability mass at_** $x$
-
-<br>
 
 **NOTE 1: The domain of CDF and PDF**:<br>Both the CDF and the PDF are defined not for intervals but single points in the sample space; they are less generalised functions than a probability measure and have to be treated as specific kinds of operations using the probability measure.
 
