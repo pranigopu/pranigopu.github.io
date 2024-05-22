@@ -81,7 +81,7 @@ $\mathbb{P}(\{x \in X | f(x) = y \in B\}) = \mathbb{P}(f^{-1}(B))$
 
 $f^{-1}(B)$ _is shorthand for the set_ $\displaystyle \bigcup_{y \in B} f^{-1}(y)$
 
-But this is exactly the pushforward measure of $\mathbb{P}$ through $f$ applied to $B$, i.e. $f_*\mathbb{P}(B)$. Hence, we see the use of pushforward in formalising the idea of applying a distribution of outcomes to a transformation of these outcomes using the transformation function. **_As a side note_**_, know that in the discrete case,_ $U$ _can hold one or more elements, but in the continuous case, the probability mass of any discrete set of points (one or many) is zero, so we have to generalise our statements using subsets (which could be continuous too)_.
+But this is exactly the pushforward measure of $\mathbb{P}$ through $f$ applied to $B$, i.e. $f_*\mathbb{P}(B)$. Hence, we see the use of pushforward in formalising the idea of applying a distribution of outcomes to a transformation of these outcomes using the transformation function. **_As a side note_**_, know that in the discrete case,_ $B$ _can hold one or more elements, but in the continuous case, the probability mass of any discrete set of points (one or many) is zero, so we have to generalise our statements using subsets (which could be continuous too)_.
 
 ## 4. Mathematically defining probability distributions
 In the previous section, we defined probability distributions as measures, specifically as probability measures. Thus, mathematics being the science of measurement is the science we must use to explore probability distributions. To do this, we must express probability distributions as mathematical objects.
