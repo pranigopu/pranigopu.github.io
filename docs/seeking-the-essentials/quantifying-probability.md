@@ -23,7 +23,6 @@ A probability measure is the formalisation of probability as a kind of measure. 
 
 ## 2. Studying populations with probability
 Now, we shall define (if necessary) and integrate the concepts of population, random process, sample and random sample. We do this to integrate the idea of probability to the wider concept of studying non-enumerable classes of entities or events using data, thus integrating probability to the study of statistics in a wider sense. Why is this relevant?
-<br><br>
 
 A non-enumerable class is one whose members cannot all be studied, making the class "unlimited", either only in practice or in both theory and practice. To study the nature of the members of a non-enumerable class as a whole (i.e. in general), we need to make generalisations, through either induction or statistics (i.e. measurements on raw data); the statistical approach is weaker, but in many cases, it is the only approach that can be taken. When we need to study a non-enumerable class using the data of samples drawn from it, we deal with uncertainty about the characteristics of the class as a whole. This is because samples are particulars; using data alone without induction, universals can only be approximated from particulars (_universals also cannot be deduced from particulars_). Hence, drawing and measuring samples from the population is part of a random process, which makes probability measures the right tools to study such a class further in such a context.
 
@@ -42,7 +41,7 @@ A random process can be used to generalise the distribution of some metric of a 
 #### Sample
 A single individual drawn from a population.
 
-**NOTE**: There are many sampling methods (random sampling, selective sampling, systematic sampling, etc.). However, random sampling with replacement is the one we shall use and the reason will become clear in the following subsections.
+**NOTE**: _There are many sampling methods (random sampling, selective sampling, systematic sampling, etc.). However, random sampling with replacement is the one we shall use and the reason will become clear in the following subsections._
 
 #### Random sample
 A single sample, i.e. a single outcome drawn from a random process.
@@ -73,7 +72,7 @@ Let measure $M$ be defined for a set $X$ in a specific context. Now, consider a 
 
 $f_*M(y) = M(f^{-1}(y)) = M(\{x \in X | f(x) = y\})$
 
-**NOTE**: $f^{-1}$ is the inverse of the function $f$, defined such that it inputs an element $y$ of $Y$ and outputs the element or elements of $X$ that map to $y$ through $f$. Note that $f^{-1}$ is not necessarily a function, since it may map one image to a set of many preimages (thus, it is a one-to-many relation rather than a function). In general, we shall consider the inverse of a function as a map from a number to a set of numbers.
+**NOTE**: _$f^{-1}$ is the inverse of the function $f$, defined such that it inputs an element $y$ of $Y$ and outputs the element or elements of $X$ that map to $y$ through $f$. Note that $f^{-1}$ is not necessarily a function, since it may map one image to a set of many preimages (thus, it is a one-to-many relation rather than a function). In general, we shall consider the inverse of a function as a map from a number to a set of numbers._
 
 ### Pushforward probability measure
 Let $\mathbb{P}$ be a probability distribution defined for a random process $\theta$ whose sample space is $X$. Now, consider the sample space $Y$ of $\theta$ after transforming any and every outcome of $\theta$ by a function $f$. It is clear that since the transformed outcomes come from the same core random process, their distribution can be derived from the distribution of the untransformed outcomes, namely $\mathbb{P}$. In particular, we can see that the probability mass of any subset of values $B$ in $Y$ is exactly the probability mass of the set of all values in $X$ that map to the values in $B$, because (1) the values in $B$ are but a subset of transformed outcomes of $\theta$ and (2) the sample space of $\theta$ is $X$. Hence, the probability mass of $B$ is given by:
@@ -88,7 +87,7 @@ But this is exactly the pushforward measure of $\mathbb{P}$ through $f$ applied 
 In the previous section, we defined probability distributions as measures, specifically as probability measures. Thus, mathematics being the science of measurement is the science we must use to explore probability distributions. To do this, we must express probability distributions as mathematical objects.
 
 ### Cumulative distribution function
- Consider a probability distribution $\mathbb{P}$ defined for a random process $\theta$ whose sample space is $X$. Then, formally, the cumulative distribution function (CDF) $F$ of $\mathbb{P}$ at the point $x \in X$ is given by:
+Consider a probability distribution $\mathbb{P}$ defined for a random process $\theta$ whose sample space is $X$. Then, formally, the cumulative distribution function (CDF) $F$ of $\mathbb{P}$ at the point $x \in X$ is given by:
 
 $F(x) = \mathbb{P}((-\infty, x])$
 
@@ -120,7 +119,6 @@ With this result, we have that:
 $\displaystyle \mathbb{P}([a, b]) = \int_a^b F^1(t) dt$
 
 Hence, we get $F^1$ as the function such that its integral for any interval $[a, b]$ is the probability mass of that interval under the distribution $\mathbb{P}$. In other words, $F^1$ is a curve such that the area under the curve for any interval represents the probability mass of that interval under the distribution $\mathbb{P}$. From this, we can see that $F^1$ is valuable in visualising, conceptualising and thus studying the spread of the mass of the distribution.
-<br><br>
 
 Now, also consider what $F^1(x)$ represents for any point $x$ in the sample space. Evidently, it is the gradient, i.e. rate of change of the cumulative probability mass at that point. A higher gradient represents a higher rise in probability mass at that point, which shows a higher concentration of the probability mass in a small neighbourhood of that point. Thus, we term the gradient of the cumulative probability mass at a point as the probability density at the point.
 <br><br>
