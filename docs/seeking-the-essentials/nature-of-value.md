@@ -4,11 +4,7 @@
 
 A value is — in broad terms — that which one acts to gain and/or keep. But why must one act toward something for that to be his value? Could he not simply wish or want it without acting toward it? Here, we have to identify the purpose behind the concept of value. The distinction between a potential that is being pursued to be realised and a potential only being considered is that the former denotes active concretisation whereas the latter does not (the importance of this distinction is explained in the note below). This already shows why a value can only exist if it is being concretised in some form.
 
----
-
-**NOTE**: Concretisation separates the causally ineffective results of consciousness (at least in the present context) from the causally effective results of consciousness in the present context; this is a distinction that underlies the effect of every result of consciousness. This is the distinction being made by differentiating  the concept of value from a wish or a want. To be clear, a wish or want is not nothing and has some effect (especially if as they may affect actions in a broader context); I am only speaking of the actual, i.e. presently concrete facts (to be extra clear, a wish or want does affect the consciousness in some way, of course, but by itself it does not affect the reality apart from it).
-
----
+**NOTE**: _Concretisation separates the causally ineffective results of consciousness (at least in the present context) from the causally effective results of consciousness in the present context; this is a distinction that underlies the effect of every result of consciousness. This is the distinction being made by differentiating  the concept of value from a wish or a want. To be clear, a wish or want is not nothing and has some effect (especially if as they may affect actions in a broader context); I am only speaking of the actual, i.e. presently concrete facts (to be extra clear, a wish or want does affect the consciousness in some way, of course, but by itself it does not affect the reality apart from it)._
 
 To go even further, we observe that the source of value is the reality of life, reality as it is in the here and now. More precisely, a value is — in essence — that which supports and sustains life. Now, life is — ultimately — a concrete, ongoing phenomenon. Hence, a value that is not being concretised is a contradiction in terms: it is that which supports and sustains life while not supporting and sustaining life in any concrete, i.e. actual sense. In other words, it is simply not a value (at least not yet; it could be called a potential value, just not an actual one).
 
@@ -30,11 +26,7 @@ My position here mirrors what I said in my introductory essay on philosophy, "Th
 
 _Hence, in essence and ultimately, hypocrisy destroys efficacy._
 
----
-
-**NOTE**: Even if you try to pretend or forcefully value things whose value you have contradicted and left contradicted, you would rely not on an internalised, self-driven value-judgement mechanism (which is sustainable) but a willpower-based approach that constantly fights against the self-driven mechanism you have internalised already; willpower is not unlimited nor is it omnipotent, which means the latter approach is not sustainable and is bound to fail. Even if it does not fail in a narrower context, it is — by the brute-force nature of the approach — a drain on your efficacy in life as a whole, since your capacity to push yourself is limited, precious and does not replenish automatically or indefinitely.
-
----
+**NOTE**: _Even if you try to pretend or forcefully value things whose value you have contradicted and left contradicted, you would rely not on an internalised, self-driven value-judgement mechanism (which is sustainable) but a willpower-based approach that constantly fights against the self-driven mechanism you have internalised already; willpower is not unlimited nor is it omnipotent, which means the latter approach is not sustainable and is bound to fail. Even if it does not fail in a narrower context, it is — by the brute-force nature of the approach — a drain on your efficacy in life as a whole, since your capacity to push yourself is limited, precious and does not replenish automatically or indefinitely._
 
 ### Re-integrating contradicted values
 Just as in the case of contradicting truth in general, correcting a contradiction in value requires the acceptance of the contradiction and a correction of its effects (in thought and action). The concrete course of action required can vary from just accepting and learning from your faults to seeking forgiveness, making amends or even atoning for one’s faults. Guilt and regret can often be appropriate, and if they are, they are constructive since they instil in you the desire to learn from and correct your faults and the consequences of your ill-actions. Note that not feeling guilt or regret for something you know to be objectively wrong is not a good thing; you are not "spared" from the consequences of your actions. In fact, it indicates something worse, namely that your internal mechanism is not able to orient itself toward your values and thus toward your life, which means it is objectively deficient. Such deficiency is indicative of a degraded or destroyed sense of self-value and value for one’s own life.
@@ -51,15 +43,15 @@ To expand on the previous point, I posit that in some (and I do stress "some") c
 
 ---
 
-**NOTE**: I want to stress that I do not regard suffering to be valuable in and of itself. It is not suffering but the overcoming of suffering that is valuable. Furthermore, while struggle is an important aspect of human existence, suffering is not, although it is a necessary possibility and often a reality; this is similar in essence to the fact that disease as such is not important to health, although some form of struggle is often important (e.g. exercise, hygiene, inoculation, treatment, etc.). After all, suffering as such is a form of loss, not a path to values, just as disease is a loss of health, not a means to get healthier. Of course, suffering is a fact of existence, just as disease is, and thus, it has value as a fact, i.e. as a source of knowledge about how to deal with reality. Other than that, by themselves, suffering and disease have no value.
+**NOTE ON SUFFERING**:
+
+I want to stress that I do not regard suffering to be valuable in and of itself. It is not suffering but the overcoming of suffering that is valuable. Furthermore, while struggle is an important aspect of human existence, suffering is not, although it is a necessary possibility and often a reality; this is similar in essence to the fact that disease as such is not important to health, although some form of struggle is often important (e.g. exercise, hygiene, inoculation, treatment, etc.). After all, suffering as such is a form of loss, not a path to values, just as disease is a loss of health, not a means to get healthier. Of course, suffering is a fact of existence, just as disease is, and thus, it has value as a fact, i.e. as a source of knowledge about how to deal with reality. Other than that, by themselves, suffering and disease have no value.
 
 Even when suffering leads to positive outcomes (e.g. a greater appreciation for certain values, a greater capacity for enduring certain kinds of hardship, etc.), the positive effects are not from suffering as such but from an increase in objectivity and efficacy; it is not suffering but struggle or orientation toward values that is the fundamental cause of the positive outcomes. To be sure, suffering is often a part of one’s experience of life and can form the basis of one’s struggle to pursue values; it is certainly valuable to learn to overcome it, and such knowledge often comes only by enduring it. However, my point is that one must seek not suffering but values; if suffering is experienced as a part of one’s pursuit of values, so be it, but by its nature, it is never essential to such a pursuit, and by itself, it goes against such a pursuit.
 
 _To put it concisely, it is not suffering but the pursuit of values that betters you; such a pursuit can involve struggle, but struggle as such does not need or imply suffering._
 
 To add to this, note that my focus in philosophy and life as such is not suffering but happiness; I care not primarily to avoid the negatives but primarily to pursue the positives. In other words, I live not to avoid death or even pain and suffering but to live and live fully, with the greatest efficacy and enjoyment I can achieve.
-
----
 
 **NOTE ON THE DEFINITIONS**:
 
