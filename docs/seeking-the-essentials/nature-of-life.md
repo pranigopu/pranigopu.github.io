@@ -45,11 +45,11 @@ Keep in mind that consciousness and volition are functions of life; they have no
 
 ---
 
-**Reinforcing a key point made**: _Consciousness and volition are extensions of life due to the facts that (1) life is the source of purpose and goal-driven behaviour, i.e. the only end in itself, and (2) consciousness and volition are both types of goal-driven phenomena and forms of existence. In other terms, I show that consciousness and volition are functions of life by linking them to the broader concept of goal-driven behaviour, which originates from the nature of living beings._
+**Reinforcing a key point made**: Consciousness and volition are extensions of life due to the facts that (1) life is the source of purpose and goal-driven behaviour, i.e. the only end in itself, and (2) consciousness and volition are both types of goal-driven phenomena and forms of existence. In other terms, I show that consciousness and volition are functions of life by linking them to the broader concept of goal-driven behaviour, which originates from the nature of living beings.
 
 _Thanks to ChatGPT for making this clearer to me by analysing my arguments._
 
-_Note also that volition is essentially self-aware consciousness, and consciousness is essentially the faculty of awareness, and awareness is essentially purposeful interaction with the environment; hence, the link becomes even clearer._
+Note also that volition is essentially self-aware consciousness, and consciousness is essentially the faculty of awareness, and awareness is essentially purposeful interaction with the environment; hence, the link becomes even clearer.
 
 ---
 
