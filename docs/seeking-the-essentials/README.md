@@ -8,6 +8,10 @@ The other philosopher whose works I have studied to some extent is Aristotle. Fi
 
 ---
 
+**Now for articles...**
+
+---
+
 ## Philosophy
 - [Motivation for Philosophy](https://pranigopu.github.io/seeking-the-essentials/motivation-for-philosophy.html)
 
