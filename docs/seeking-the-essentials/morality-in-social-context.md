@@ -30,7 +30,7 @@ If the capacity to reason is a key part of what makes a volitional being such a 
 ### 5. Concretising the nature of the value of volitional beings
 Reason and morality are in the domain of the individual and the individual alone. People can cooperate, collaborate and influence each other, but ultimately, reason — the basis of which is volition — demands individual effort first and foremost. Hence, morality, an extension of reason in the context of sustaining one's own life long-range, is also in the domain of the individual. In other words, to benefit from rationality and morality in the broadest context, i.e. in the long-run, requires freedom as defined in a non-contradictory context, i.e. freedom that rejects the violation of life and autonomy. To expect the outcomes of rationality or morality by coercion is more than tyrannical, it is irrational, since it ignores the very basis of reason and morality.
 
-As examples, consider the following:
+_As examples, consider the following..._
 
 - Freer cultures → Greater intellectual and material progress
     - Ancient Greece and the Roman Republic
