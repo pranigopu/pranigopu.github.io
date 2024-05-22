@@ -6,6 +6,8 @@ My predominant philosophical inspiration is the philosophy of Ayn Rand (which is
 
 The other philosopher whose works I have studied to some extent is Aristotle. First-hand, I have only studied his work on logic, definitions and the part of his work called “Categories”. Whenever I refer to other philosophies or thinkers, know that my knowledge of them is not based on first-hand study but either lectures or reading of summaries or second-hand references. I aim to expand my knowledge of other philosophers and thinkers eventually, but for now, such is the case.
 
+---
+
 ## Philosophy
 - [Motivation for Philosophy](https://pranigopu.github.io/seeking-the-essentials/motivation-for-philosophy.html)
 
