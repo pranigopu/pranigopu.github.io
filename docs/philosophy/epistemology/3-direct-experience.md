@@ -12,7 +12,7 @@
   - [Reliability of sense-perception](#reliability-of-sense-perception)
   - [Expanding the idea of sense-perception](#expanding-the-idea-of-sense-perception)
     - [The scope of sense-perception](#the-scope-of-sense-perception)
-- [Perception](#perception)
+- [Validating perception](#validating-perception)
 - [Validating the experience of mental states](#validating-the-experience-of-mental-states)
 
 ---
@@ -89,7 +89,7 @@ Note that we can extend the range of our senses by observing the direct or indir
 
 What about "extrasensory" entities? Let us say an entity X is extrasensory, i.e. it cannot be detected with any kind of senses whatsoever. Hence, it does not interact with any entity that we can interact with. If we do learn about it, then this notion is contradicted and X would not be, in fact, extrasensory. If we do not learn about it, then what are we referring to? Hence, to make any claims about such an entity is to make claims about nothing, in essence.
 
-# Perception
+# Validating perception
 
 _First, a definition_...
 
