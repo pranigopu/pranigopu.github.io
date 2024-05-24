@@ -4,16 +4,37 @@
 
 **Contents**:
 
+- [Life is necessarily conditional](#life-is-necessarily-conditional)
 - [Life, consciousness and volition](#life-consciousness-and-volition)
 - [Life as a volitional being](#life-as-a-volitional-being)
   - [The essence of life as a volitional being](#the-essence-of-life-as-a-volitional-being)
   - [Volitional life is tied to the pursuit of happiness](#volitional-life-is-tied-to-the-pursuit-of-happiness)
   - [The basis and role of ethics in volitional life](#the-basis-and-role-of-ethics-in-volitional-life)
   - [Self-preservation for a volitional being](#self-preservation-for-a-volitional-being)
-- [Life is necessarily conditional](#life-is-necessarily-conditional)
 - [The life-affirming nature of caring for the future beyond you](#the-life-affirming-nature-of-caring-for-the-future-beyond-you)
 
 ---
+
+# Life is necessarily conditional
+The essential characteristic of life is the existence of an alternative; a living being is always faced by the alternative (i.e. self-realisable potential) between its own existence and non-existence. Only a living being has such an alternative since only a living being is able to sustain itself; note that to be able to do something is to have every necessary condition to do it, including self-generated action. If such an alternative were erased, a being would have no life since it has no necessity to sustain its own existence, hence it does not act to sustain it.
+
+One may ask: is it not possible for an indestructible being to have other goals? Consider if it does. Evidently, then, the goal is not based on sustaining its own existence since its existence is unconditional. Note the implications: there is no better or worse way of changing something that is unconditional (since "better" and "worse" rely on the concepts of "good" and "bad", which in turn rely on the pursuit of a goal that must be actively pursued, i.e. which is not unconditional, and thus, cannot be taken for granted). Hence, there is no point in pursuing efficacy with regards to its own existence since there is no "good" or "bad" way of existing as such; "good" and "bad" with respect to what? The capacity to exist? But this capacity is unconditional. Now, if the goal is not based on sustaining its own existence, it is also not based on its own existence at all, because there is nothing that is relevant to it as a need, a want or a motive with respect to its own self or its own existence. Then, the goal should be based on something beyond its existence, i.e. its existence itself is a means to some end beyond itself, an end originating from someone else; in other words, it is an automaton, in essence.
+
+Keep in mind that consciousness and volition are functions of life; they have no meaning apart from life, since they are extensions of goal-driven behaviour, and hence, they are extensions of the process of sustaining one's own existence, i.e. extensions of the process of life (which is the basis of purpose and goal-driven behaviour). Hence, we see that without the alternative of death, there can be no life, no consciousness, no volition, and thus, no self. In effect, you — as a volitional being — would cease to exist if your "life" were unconditional. This is an absurd statement for a reason: it is impossible for "life" to be unconditional, and thus, it is impossible for any sort of "self" (i.e. experience of existence or "consciousness") to exist as an indestructible unit. Incidentally, this also dispels the notion of an "eternal soul".
+
+---
+
+**Reinforcing a key point made**: Consciousness and volition are extensions of life due to the facts that (1) life is the source of purpose and goal-driven behaviour, i.e. the only end in itself, and (2) consciousness and volition are both types of goal-driven phenomena and forms of existence. In other terms, I show that consciousness and volition are functions of life by linking them to the broader concept of goal-driven behaviour, which originates from the nature of living beings.
+
+_Thanks to ChatGPT for making this clearer to me by analysing my arguments._
+
+Note also that volition is essentially self-aware consciousness, and consciousness is essentially the faculty of awareness, and awareness is essentially purposeful interaction with the environment; hence, the link becomes even clearer.
+
+---
+
+You are not and cannot be eternal; this is not a damnation but an inherent fact about a wonderful phenomenon of irreplaceable value. To hold that there is a self beyond life is treason to your own self — your own existence — since it disregards the objective primacy of the value of your life and also disregards that which makes your existence possible: the unique, conditional integration of parts of reality. To a living human being, mind and body, spirit and matter — these are aspects of an inseparable whole, none existing nor capable of existing without the other in a living human being.
+
+**NOTE**: _It is not valid to say "life needs death in order to have value", just as it is not valid to say that "health needs disease in order to have value". The fact inherent in life is that it is conditional; death is merely the failure of that condition, not the fundamental aspect or basis of it, nor — of course — is it fundamental to the success of that condition._
 
 # Life, consciousness and volition
 Life is, in essence, the self-generated, self-sustaining action of an entity. Evidently, what the particular nature of life is depends on the particular nature of the "self", i.e. of the entity whose existence is being sustained. Hence, when we — as humans — identify the essential characteristics of ourselves as the fact and faculty of awareness (i.e. consciousness) as well as the capacity for self-directed focus (i.e. volition), these characteristics are what decide what "life" means in our context.
@@ -66,27 +87,6 @@ He may give his life for his loved ones to save them because their value in his 
 _Additional points_...
 
 ---
-
-# Life is necessarily conditional
-The essential characteristic of life is the existence of an alternative; a living being is always faced by the alternative (i.e. self-realisable potential) between its own existence and non-existence. Only a living being has such an alternative since only a living being is able to sustain itself; note that to be able to do something is to have every necessary condition to do it, including self-generated action. If such an alternative were erased, a being would have no life since it has no necessity to sustain its own existence, hence it does not act to sustain it.
-
-One may ask: is it not possible for an indestructible being to have other goals? Consider if it does. Evidently, then, the goal is not based on sustaining its own existence since its existence is unconditional. Note the implications: there is no better or worse way of changing something that is unconditional (since "better" and "worse" rely on the concepts of "good" and "bad", which in turn rely on the pursuit of a goal that must be actively pursued, i.e. which is not unconditional, and thus, cannot be taken for granted). Hence, there is no point in pursuing efficacy with regards to its own existence since there is no "good" or "bad" way of existing as such; "good" and "bad" with respect to what? The capacity to exist? But this capacity is unconditional. Now, if the goal is not based on sustaining its own existence, it is also not based on its own existence at all, because there is nothing that is relevant to it as a need, a want or a motive with respect to its own self or its own existence. Then, the goal should be based on something beyond its existence, i.e. its existence itself is a means to some end beyond itself, an end originating from someone else; in other words, it is an automaton, in essence.
-
-Keep in mind that consciousness and volition are functions of life; they have no meaning apart from life, since they are extensions of goal-driven behaviour, and hence, they are extensions of the process of sustaining one's own existence, i.e. extensions of the process of life (which is the basis of purpose and goal-driven behaviour). Hence, we see that without the alternative of death, there can be no life, no consciousness, no volition, and thus, no self. In effect, you — as a volitional being — would cease to exist if your "life" were unconditional. This is an absurd statement for a reason: it is impossible for "life" to be unconditional, and thus, it is impossible for any sort of "self" (i.e. experience of existence or "consciousness") to exist as an indestructible unit. Incidentally, this also dispels the notion of an "eternal soul".
-
----
-
-**Reinforcing a key point made**: Consciousness and volition are extensions of life due to the facts that (1) life is the source of purpose and goal-driven behaviour, i.e. the only end in itself, and (2) consciousness and volition are both types of goal-driven phenomena and forms of existence. In other terms, I show that consciousness and volition are functions of life by linking them to the broader concept of goal-driven behaviour, which originates from the nature of living beings.
-
-_Thanks to ChatGPT for making this clearer to me by analysing my arguments._
-
-Note also that volition is essentially self-aware consciousness, and consciousness is essentially the faculty of awareness, and awareness is essentially purposeful interaction with the environment; hence, the link becomes even clearer.
-
----
-
-You are not and cannot be eternal; this is not a damnation but an inherent fact about a wonderful phenomenon of irreplaceable value. To hold that there is a self beyond life is treason to your own self — your own existence — since it disregards the objective primacy of the value of your life and also disregards that which makes your existence possible: the unique, conditional integration of parts of reality. To a living human being, mind and body, spirit and matter — these are aspects of an inseparable whole, none existing nor capable of existing without the other in a living human being.
-
-**NOTE**: _It is not valid to say "life needs death in order to have value", just as it is not valid to say that "health needs disease in order to have value". The fact inherent in life is that it is conditional; death is merely the failure of that condition, not the fundamental aspect or basis of it, nor — of course — is it fundamental to the success of that condition._
 
 # The life-affirming nature of caring for the future beyond you
 **_This is an extension of "Life as a volitional being"_**
