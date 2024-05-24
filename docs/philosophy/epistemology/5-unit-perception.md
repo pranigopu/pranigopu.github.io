@@ -8,11 +8,11 @@
 - [Definition of unit](#definition-of-unit)
 - [Objectivity of units](#objectivity-of-units)
 - [Examples of units](#examples-of-units)
-- [Entities, components \& attributes](#entities-components--attributes)
+- [Entities, components and attributes](#entities-components-and-attributes)
 - [Essential and fundamental characteristics](#essential-and-fundamental-characteristics)
   - [Essentials vs. fundamentals](#essentials-vs-fundamentals)
   - [Importance of context](#importance-of-context)
-  - [Objectivity of essentials \& fundamentals](#objectivity-of-essentials--fundamentals)
+  - [Objectivity of essentials and fundamentals](#objectivity-of-essentials-and-fundamentals)
 - [Measurement](#measurement)
   - [Purpose of measurement](#purpose-of-measurement)
   - [Hierarchy of measurements](#hierarchy-of-measurements)
@@ -43,7 +43,7 @@ A person is a unit of the human population; the word by itself denotes any human
 2.<br>
 Metre is a unit of distance. It denotes a one-dimensional stretch of space that is physically specified and constant. A general stretch of one-dimensional space may contain many such one-dimensional stretches of space, each of which can be differentiated according to its position and direction. Yet each such stretch is a metre of distance and is thus a unit of distance.
 
-# Entities, components & attributes
+# Entities, components and attributes
 **NOTE**: _We have defined entities and actions in metaphysics and epistemology._
 
 The perception of an entity can be reduced into its components; perception is the integration of sensations in a particular order, and a selective focus can isolate parts of a perception from the whole. A component is nothing but a perceivable, i.e. concrete part of the entity.
@@ -89,7 +89,7 @@ The characteristic which is responsible for all of an object's distinctive chara
 ## Importance of context
 Essentials and fundamentals can only be identified in a certain cognitive context; we cannot identify more than we know. Furthermore, the required context in which we need to retain the nature of the units subsumed by a concept may necessitate a more limited cognitive context, thereby limiting what we may identify as essentials or fundamentals. In either case, we see that essentials and fundamentals are defined with respect to a certain context.
 
-## Objectivity of essentials & fundamentals
+## Objectivity of essentials and fundamentals
 Metaphysically, things have no essentials and fundamentals as such; essentials and fundamentals exist only in the context of particulars. Metaphysically — i.e. independent of consciousness — only concretes exist as such, and the identity of a concrete consists of everything that it is and not just some set of basic features. Essentials and fundamentals are identified based on our conscious purpose and knowledge — they are only relevant to unit-perception, not to perception as such. They do refer to reality and are objective, but they are not independent of consciousness as they are the products of a conscious, selective focus on reality.
 
 ---
