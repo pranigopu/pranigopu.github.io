@@ -10,7 +10,7 @@
     - [The general state of education in India](#the-general-state-of-education-in-india)
     - [Nazi Germany](#nazi-germany)
 - [How to pursue philosophy?](#how-to-pursue-philosophy)
-  - [As inextricably tied to concretes](#as-inextricably-tied-to-concretes)
+  - [Philosophy as inextricably tied to concretes](#philosophy-as-inextricably-tied-to-concretes)
   - [Philosophy as broad knowledge and not prophetic wisdom](#philosophy-as-broad-knowledge-and-not-prophetic-wisdom)
 
 ---
@@ -51,7 +51,7 @@ A very clear aspect of their ideology is the lack of value for the individual. T
 What is the root of such tribalism? Essentially, it is reducing or removing the importance of individual values in favour of group allegiance. This involves denying the value of reason on a more fundamental, i.e. individual level, since loyalty to the group supersedes the judgement of an individual. Of course, people may practise rationality to some extent, but merely as a tool to advance goals beyond the group's basic ideology; we can see this in the way some degree of science and technology advanced under the Nazis, despite their primitive ethics and politics. In my understanding, this lack of value for reason on a fundamental level stems from the lack of regard for reality as a whole. To me, the motives for holding this view do not seem too hard to grasp; if you refuse to regard objective reality as important or even "real", you can accept and impose your own wishful notions.
 
 # How to pursue philosophy?
-## As inextricably tied to concretes
+## Philosophy as inextricably tied to concretes
 All knowledge is ultimately knowledge from and of concretes. As Aristotle said, only particulars exist. Abstractions are objective but do not exist apart from particulars; they are the results of the selective focus of consciousness on (the objectivity of abstractions is discussed in epistemology). Of course, the same holds for philosophical ideas. If a philosophy is to form the basis of your thoughts and actions, you must grasp how concretes integrate into the broad abstractions in philosophy and how the broad abstractions can be reduced back to concretes. You must grasp philosophy as much in terms of concretes experienced first-hand as in terms of abstractions.
 
 For example, the idea that life is the standard of value in ethics must be concretised in terms of the experience you gain in life as you live it and the particular choices you make to stay alive and advance your life. Similarly, the idea that reason is the only means to know reality must be concretised by staying in focus, looking at the world in terms of essentials, understanding what concrete goals to pursue and why, and of course, exercising your mind in learning how to act within reality to achieve your goals.
