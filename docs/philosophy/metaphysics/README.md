@@ -7,7 +7,7 @@
 - [Introduction](#introduction)
 - [Key definitions](#key-definitions)
 - [Axiom 1: Existence exists](#axiom-1-existence-exists)
-- [The axiomatic fact of consciousness](#the-axiomatic-fact-of-consciousness)
+- [_The axiomatic fact of consciousness_](#the-axiomatic-fact-of-consciousness)
 - [Axiom 2: The law of identity](#axiom-2-the-law-of-identity)
   - [Non-contradiction](#non-contradiction)
   - [Existence is identity](#existence-is-identity)
@@ -60,9 +60,13 @@ Existence exists. More precisely, only existence exists, and existence only exis
 
 Existence is not an irreducible whole; we exist and are aware of things that exist as a part of existence. Any part of existence, which we shall call a "thing", exists due to the nature of existence itself. Since a thing is a part of existence and not the whole, it is not true that only it exists, because saying so would deny the existence of other things that exist. However, since a thing is a part of existence, it is true that it only exists, because if it does not exist, then it is not a part of existence and hence is not a thing.
 
-# The axiomatic fact of consciousness
+---
+
+# _The axiomatic fact of consciousness_
 
 Existence exists and I am aware of it. In other words, there exists a faculty of perceiving that which exists, i.e. there exists consciousness. This is a fundamental, axiomatic (i.e. cognitively irreducible) fact; denying it is self-refuting.
+
+---
 
 # Axiom 2: The law of identity
 A thing is what it is, and this is the law of identity. If a thing is not what it is, it would both exist and not exist at the same time. But as a part of existence, it must only exist; hence, the law of identity is absolute.
