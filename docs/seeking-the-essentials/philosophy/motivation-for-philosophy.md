@@ -1,5 +1,21 @@
-# Motivation for Philosophy
-## Why bother with philosophy?
+**INTRODUCTION TO PHILOSOPHY**
+
+---
+
+**Contents**:
+
+- [Why bother with philosophy?](#why-bother-with-philosophy)
+  - [Concretising of philosophy's impact](#concretising-of-philosophys-impact)
+    - [Development of the natural sciences](#development-of-the-natural-sciences)
+    - [The general state of education in India](#the-general-state-of-education-in-india)
+    - [Nazi Germany](#nazi-germany)
+- [How to pursue philosophy?](#how-to-pursue-philosophy)
+  - [As inextricably tied to concretes](#as-inextricably-tied-to-concretes)
+  - [Philosophy as broad knowledge \& not prophetic wisdom](#philosophy-as-broad-knowledge--not-prophetic-wisdom)
+
+---
+
+# Why bother with philosophy?
 Philosophy is, in essence, the study of the fundamentals that integrate all thought and action. Thus, to understand why we need a philosophy, we must understand why we need integration and what is the nature of integration. To integrate means to hold as one unit (through implication) an unlimited class of concretes. The key method of mental integration is measurement omission. Why do this? Because it enables you to deal with a context that extends beyond known concretes and beyond the present moment. Doing so enables us to deal with a broader context, such as the wider environment around us, the future and life as a whole lived long-range.
 
 How is mental integration done? It has two aspects: (1) concept-formation and (2) generalisation. Both have been shown (in epistemology's fundamentals and expansion) as valid, i.e. objective. Now, note that concepts only integrate what is known and what can potentially be known in relation to what is known. For example, the concept of "cat" enables you to integrate (through a hierarchy of abstraction) every observation and knowledge you have about cats into one mental unit while at the same time enabling you to relate your observations and knowledge to cats that may be observed in the future. But it does not give you new knowledge about cats, it only enables you to apply old knowledge to new observations of a similar kind.
@@ -36,5 +52,15 @@ What is the root of such tribalism? Essentially, it is reducing or removing the 
 
 ---
 
-## Closing remarks
+# How to pursue philosophy?
+## As inextricably tied to concretes
+All knowledge is ultimately knowledge from and of concretes. As Aristotle said, only particulars exist. Abstractions are objective but do not exist apart from particulars; they are the results of the selective focus of consciousness on (the objectivity of abstractions is discussed in epistemology). Of course, the same holds for philosophical ideas. If a philosophy is to form the basis of your thoughts and actions, you must grasp how concretes integrate into the broad abstractions in philosophy and how the broad abstractions can be reduced back to concretes. You must grasp philosophy as much in terms of concretes experienced first-hand as in terms of abstractions.
+
+For example, the idea that life is the standard of value in ethics must be concretised in terms of the experience you gain in life as you live it and the particular choices you make to stay alive and advance your life. Similarly, the idea that reason is the only means to know reality must be concretised by staying in focus, looking at the world in terms of essentials, understanding what concrete goals to pursue and why, and of course, exercising your mind in learning how to act within reality to achieve your goals.
+
+Hence, to key point: philosophy is, in its fundamentals, the most practical area of study and has no value if divorced from practice. I reject the idea of doing philosophy for philosophy's sake. It is an area of study that is too abstract to hold meaning without conscientious concretisation and too essential to one's life to not put into practice whenever clarity is achieved.
+
+As a final point, while it is true that every abstraction draws its meaning from concretes, it is also true that given a valid abstraction, applying logic rigorously to reach another conclusion gives the conclusion as much validity as the starting abstraction; such is the nature of logic (which is based on the nature of reality, specifically the law of identity). Hence, it is necessary to concretise the foundations of a philosophical framework, but while it is useful to concretise the derived aspects of the framework, it is not necessary to do so to grasp and accept their validity with conviction (provided the logic is sound beyond rational, i.e. non-arbitrary doubt).
+
+## Philosophy as broad knowledge & not prophetic wisdom
 Fundamental principles do not determine the exact form of their result; the result itself would be derived from various other factors as well. The principles do, however, shape the core characteristics of the result, i.e. they shape the general direction through which the result forms.
