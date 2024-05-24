@@ -127,8 +127,6 @@ The concept of causality can be applied to entities as such (rather than just ac
 
 **NOTE 2**: The law of causality is a necessary, inseparable implication of the law of identity; you cannot have identity without causality.
 
----
-
 # The primacy of existence
 Metaphysically, existence is not defined in terms of "physical", "mental", etc., only in terms of existence qua existence, i.e. existence as a whole. The self-evident facts validated as axioms are: (1) Existence is absolute. (2) Everything that exists must be something in particular, i.e. it must exist as what it is; the law of identity. (3) What an entity does is an extension of what the entity is; the law of causality. (4) Consciousness exists and is the faculty that perceives that which exists. Whatever one's worldview is, it is the case that consciousness is indeed the faculty that perceives that which exists, no matter what "that" is, be it the product of one's mind, the external world, etc.
 

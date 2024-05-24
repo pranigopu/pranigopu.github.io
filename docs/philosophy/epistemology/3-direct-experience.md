@@ -40,8 +40,6 @@ Consciousness experiences reality; this is a corollary of the axiom of conscious
 
 **NOTE 2**: Even to have illusions or delusions, we must first grasp reality on some level. This point is further reinforced in the following section.
 
----
-
 ## Experiencing experiences vs. experiencing reality
 Fundamentally, we do not experience experiences. We can do so (ex. we can be aware of awareness or relive memories of past experiences), provided we have experienced reality first. To experience an experience is, in essence, to be aware of awareness, which begs the question: awareness of what? Note that an infinite regress (i.e. awareness of awareness of awareness to infinity) is nothing in particular, hence it is nothing. Thus, even to experience an experience presupposes the experience of that whose source is outside experience to begin with, i.e. whose source is reality outside consciousness.
 
