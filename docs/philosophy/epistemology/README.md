@@ -6,3 +6,5 @@ What is knowledge, how is it formed, and how can it be validated? This is the do
 1. [Key Concepts in Epistemology](https://pranigopu.github.io/philosophy/epistemology/1-key-concepts-in-epistemology.html)
 2. [Consciousness and Reality](https://pranigopu.github.io/philosophy/epistemology/2-consciousness-and-reality.html)
 3. [Direct Experience](https://pranigopu.github.io/philosophy/epistemology/3-direct-experience.html)
+4. [Integration of Perception](https://pranigopu.github.io/philosophy/epistemology/4-integration-of-perception.html) <br> **NOTE**: _This is the key link between concrete observations and abstractions._
+5. [Unit Perception](https://pranigopu.github.io/philosophy/epistemology/5-unit-perception.html)
