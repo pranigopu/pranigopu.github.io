@@ -2,7 +2,7 @@
 
 ---
 
-**TABLE OF CONTENTS**
+**Contents**:
 
 - [Concretisation as essential to value](#concretisation-as-essential-to-value)
 - [Non-contradiction in values](#non-contradiction-in-values)
