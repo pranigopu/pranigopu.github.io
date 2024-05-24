@@ -14,7 +14,6 @@
   - [Self-interest as a consequence of objective morality](#self-interest-as-a-consequence-of-objective-morality)
 - [Is principled behaviour potentially dangerous?](#is-principled-behaviour-potentially-dangerous)
 
-
 ---
 
 # The nature and distinction of objective morality
