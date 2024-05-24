@@ -16,7 +16,7 @@
 ---
 
 # Concretisation as essential to value
-**NOTE**: _Concretisation, by its nature, is and can only be in the moment, i.e. in the present, here and now._
+**NOTE**: _By its nature, the concretisation of value is and can only be in the moment, i.e. in the present, here and now._
 
 A value is — in broad terms — that which one acts to gain and/or keep. But why must one act toward something for that to be his value? Could he not simply wish or want it without acting toward it? Here, we have to identify the purpose behind the concept of value. The distinction between a potential that is being pursued to be realised and a potential only being considered is that the former denotes active concretisation whereas the latter does not (the importance of this distinction is explained in the note below). This already shows why a value can only exist if it is being concretised in some form.
 
