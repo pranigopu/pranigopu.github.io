@@ -41,7 +41,7 @@ Consciousness experiences reality; this is a corollary of the axiom of conscious
 **NOTE 2**: Even to have illusions or delusions, we must first grasp reality on some level. This point is further reinforced in the following section.
 
 ## Experiencing experiences vs. experiencing reality
-Fundamentally, we do not experience experiences. We can do so (ex. we can be aware of awareness or relive memories of past experiences), provided we have experienced reality first. To experience an experience is, in essence, to be aware of awareness, which begs the question: awareness of what? Note that an infinite regress (i.e. awareness of awareness of awareness to infinity) is nothing in particular, hence it is nothing. Thus, even to experience an experience presupposes the experience of that whose source is outside experience to begin with, i.e. whose source is reality outside consciousness.
+Fundamentally, we do not experience experiences. We can do so (e.g. we can be aware of awareness or relive memories of past experiences), provided we have experienced reality first. To experience an experience is, in essence, to be aware of awareness, which begs the question: awareness of what? Note that an infinite regress (i.e. awareness of awareness of awareness to infinity) is nothing in particular, hence it is nothing. Thus, even to experience an experience presupposes the experience of that whose source is outside experience to begin with, i.e. whose source is reality outside consciousness.
 
 ## Experiencing reality by effects vs. experiencing only effects
 We experience reality by means of its effects on our consciousness, and such effects — due to the law of causality — are of things in reality, and thus, are non-contradictory expressions (and thus experiences) of the identities of things in reality. It is invalid to say that we only experience the effects of reality on our consciousness and not reality as such. Why is it invalid? Because the effects are the means of experience, not the object of experience. Consider — what is an effect of reality on consciousness? It is, in fact, experience. But, as we saw before, experience cannot be only experience of experience, since at some point, experience presupposes an object whose source is outside experience to begin with. Hence, the second statement is invalid conceptually (i.e. it uses the concept of "experience" while denying its source, the source being direct interaction between consciousness and the reality outside it).
@@ -51,7 +51,7 @@ Experience does not "represent" reality, i.e. it does not (at its core) recreate
 
 ---
 
-**NOTE**: The above clarifications about the nature of experience are vital in clarifying the basic nature of the relationship between consciousness and reality as a whole. Ignoring these clarifications makes it easier to form false, non-objective and impractical views about knowledge-formation (ex. see the views of Kant, Hume and Descartes, each of whom reaches a different false conclusion on the nature of knowledge).
+**NOTE**: The above clarifications about the nature of experience are vital in clarifying the basic nature of the relationship between consciousness and reality as a whole. Ignoring these clarifications makes it easier to form false, non-objective and impractical views about knowledge-formation (e.g. see the views of Kant, Hume and Descartes, each of whom reaches a different false conclusion on the nature of knowledge).
 
 # Validating sense-perception
 Being irreducible data provided to our consciousness, the fact that sense-perception is valid (which we shall justify shortly) is the basis of the validity of knowledge. Note that we have not yet validated the higher forms of knowledge, namely concepts, generalisations, principles, etc. However, the validity of the senses is the first step in knowing that consciousness can know reality as it is, not subjectively but objectively.
@@ -69,7 +69,7 @@ The irreducible form of direct experience (irreducible in terms of other experie
 _Back to the discussion_...
 
 ## Reliability of sense-perception
-The senses are non-conscious windows to the environment; they input certain, specific types of information in certain, specific ways, ex. tactile, auditory, visual, etc. Our minds can be misled, but our senses are merely what provide the inputs derived from some part of reality; it is the task of our minds to interpret these inputs according to reality.
+The senses are non-conscious windows to the environment; they input certain, specific types of information in certain, specific ways, e.g. tactile, auditory, visual, etc. Our minds can be misled, but our senses are merely what provide the inputs derived from some part of reality; it is the task of our minds to interpret these inputs according to reality.
 
 "_The task of man’s senses is to give him the evidence of existence, but the task of identifying it belongs to his reason, his senses tell him only that something is, but what it is must be learned by his mind._" (Excerpt from "Objectivism: The Philosophy of Ayn Rand" by Leonard Peikoff, Chapter 2: "Sense Perception and Volition")
 
