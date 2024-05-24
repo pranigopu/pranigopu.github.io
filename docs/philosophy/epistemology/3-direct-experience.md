@@ -93,7 +93,7 @@ _First, a definition_...
 
 **Perception**:
 
-A form of direct experience that is the result of the automatically integrated material of sense-perception. More shall be discussed in the next section ("Perception, the start of cognition").
+A form of direct experience that is the result of the automatically integrated material of sense-perception. How is such integration done and is it valid? We shall discuss this now...
 
 ---
 
