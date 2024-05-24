@@ -5,10 +5,10 @@
 **Contents**:
 
 - [What is life?](#what-is-life)
-- [Life \& volition as an integrated whole](#life--volition-as-an-integrated-whole)
+- [Life and volition as an integrated whole](#life-and-volition-as-an-integrated-whole)
   - [Life as a volitional being](#life-as-a-volitional-being)
-  - [Life \& the pursuit of happiness](#life--the-pursuit-of-happiness)
-  - [The basis \& role of ethics in life](#the-basis--role-of-ethics-in-life)
+  - [Life and the pursuit of happiness](#life-and-the-pursuit-of-happiness)
+  - [The basis and role of ethics in life](#the-basis-and-role-of-ethics-in-life)
 - [Life is necessarily conditional](#life-is-necessarily-conditional)
 - [The meaning of "self-preservation"](#the-meaning-of-self-preservation)
 - [The life-affirming nature of caring for the future beyond you](#the-life-affirming-nature-of-caring-for-the-future-beyond-you)
@@ -18,7 +18,7 @@
 # What is life?
 Life is, in essence, the self-generated, self-sustaining action of an entity. Evidently, what the particular nature of life is depends on the particular nature of the "self", i.e. of the entity whose existence is being sustained. Hence, when we — as humans — identify the essential characteristics of ourselves as the fact and faculty of awareness (i.e. consciousness) as well as the capacity for self-directed focus (i.e. volition), these characteristics are what decide what "life" means in our context.
 
-# Life & volition as an integrated whole
+# Life and volition as an integrated whole
 It is crucial to note that the characteristics of consciousness and volition cannot exist in isolation, since they are ultimately attributes of an integrated physical whole; in the case of any conscious, volitional entity, there is no mind without a body, nor body without a mind. Also note that volition is an attribute of consciousness, being the result of self-awareness. Hence, when I say "volitional", I also necessarily mean "conscious".
 
 Hence, we observe that the essential characteristics of a volitional being are inseparable from physical life. But we also observe that these characteristics are integrated with physical life, i.e. "life" to us is an integrated whole such that physical and mental goals are ultimately (i.e. in final effect) the same. Hence, sustaining our mind and its capacity to function is an extension of sustaining our body and its capacity to function in a sufficiently broad context — and vice versa.
@@ -44,10 +44,10 @@ Volition is the faculty that integrates the actual with the potential, and a vol
 
 I have realised, time and again, that the value for one's own life is neither automatic nor guaranteed, and that willpower is finite and has a definite nature; it is not omnipotent even within my own mind. There have been times when I literally could not care about the bad consequences of my actions or inactions both in the present and the future despite being sufficiently aware of the consequences, i.e. I lost the value for my life on some level (a chief example is how I ruined my eyesight over many years of indulgence-based habits despite knowing how I was ruining it and knowing how to avoid it or at least slow it down). Looking back, it feels surreal how aware I was about my destruction of my own life on some level yet at the same time how apathetic I felt even in the face of my awareness. For example, (1) when faced with an overwhelming examination that I thought as very crucial to my life yet also insurmountable, and (2) when feeling forced into a potential career I have no interest in and no desire for, and (3) when feeling incapable of dealing with the world around me and having no confidence in my ability to gain such a capacity. I also realised that whenever I had been driven to improve my life, it was always due to a sense of efficacy in the present and confidence in such efficacy for the future. For example, certain longer periods of quieter times where I felt less overloaded or overwhelmed by work or interactions, certain periods of effective and engaging study and/or project work (often before examinations or deadlines, but sometimes also apart from it: my study of philosophy, computer programming — especially C programming — and some topics in mathematics and statistics are key examples from my past), etc. I saw that I could only enjoy the moment if my life was geared toward a positive or at least tolerable future; hence, I could enjoy my life only either in happiness or serenity — both these states presuppose efficacy in dealing with life and reality as it is and as it could be.
 
-## Life & the pursuit of happiness
+## Life and the pursuit of happiness
 Happiness is the state of consciousness that is the result of the non-contradictory achievement of one's life — non-contradictory implies that the present and long-range are an integrated, harmonious whole. In other words, happiness is the result of one's full, i.e. non-contradictory pursuit of life. To pursue one's life to the fullest is, in essence, to sustain one's life as a volitional being without undermining or undercutting it in any way; it is not something above and beyond self-preservation but true self-preservation itself. Hence, the pursuit of happiness is, in essence, self-preservation; it is not an optional benefit or even just desirable end result but the most vital need and prerogative of a volitional being.
 
-## The basis & role of ethics in life
+## The basis and role of ethics in life
 In ethics, we identify the values and principles that arise with respect to the standard of life as a volitional being, which means ethical values and principles apply not to particular species of life forms but rather to all life forms that are essentially volitional. Ethics, hence, does not derive from particular physical facts or features (e.g. facts in anatomy or biology) but from the broader fact of volition that abstracts any set of particular physical facts. Of course, when applying ethical principles in more concrete contexts, the more concrete facts (e.g. physical facts or features) can become relevant. However, for ethics as such, such facts are omitted, i.e. not denied but made variable, i.e. generalised over. Why is ethics defined in such broad terms? The reason is that ethics is meant to show us how to make choices from a fundamental level; hence, the very fact of volition (i.e. the capacity to choose) is the basis and starting point of ethics.
 
 # Life is necessarily conditional

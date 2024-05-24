@@ -11,7 +11,7 @@
     - [Nazi Germany](#nazi-germany)
 - [How to pursue philosophy?](#how-to-pursue-philosophy)
   - [As inextricably tied to concretes](#as-inextricably-tied-to-concretes)
-  - [Philosophy as broad knowledge \& not prophetic wisdom](#philosophy-as-broad-knowledge--not-prophetic-wisdom)
+  - [Philosophy as broad knowledge and not prophetic wisdom](#philosophy-as-broad-knowledge-and-not-prophetic-wisdom)
 
 ---
 
@@ -62,5 +62,5 @@ Hence, to key point: philosophy is, in its fundamentals, the most practical area
 
 As a final point, while it is true that every abstraction draws its meaning from concretes, it is also true that given a valid abstraction, applying logic rigorously to reach another conclusion gives the conclusion as much validity as the starting abstraction; such is the nature of logic (which is based on the nature of reality, specifically the law of identity). Hence, it is necessary to concretise the foundations of a philosophical framework, but while it is useful to concretise the derived aspects of the framework, it is not necessary to do so to grasp and accept their validity with conviction (provided the logic is sound beyond rational, i.e. non-arbitrary doubt).
 
-## Philosophy as broad knowledge & not prophetic wisdom
+## Philosophy as broad knowledge and not prophetic wisdom
 Fundamental principles do not determine the exact form of their result; the result itself would be derived from various other factors as well. The principles do, however, shape the core characteristics of the result, i.e. they shape the general direction through which the result forms.
