@@ -8,22 +8,9 @@ The other philosopher whose works I have studied to some extent is Aristotle. Fi
 
 ---
 
-**Now for the main articles...**
+## Explore
 
 ---
 
-## Philosophy
-- [Motivation for Philosophy](https://pranigopu.github.io/seeking-the-essentials/motivation-for-philosophy.html)
-
-### Ethics
-- [The Nature of Life](https://pranigopu.github.io/seeking-the-essentials/nature-of-life.html)
-- [The Nature of Value](https://pranigopu.github.io/seeking-the-essentials/nature-of-value.html)
-- [The Nature of Morality](https://pranigopu.github.io/seeking-the-essentials/nature-of-morality.html)
-- [Morality in a Social Context](https://pranigopu.github.io/seeking-the-essentials/morality-in-social-context.html) <br> **NOTE**: _This forms the basis for politics, so it is the main link between ethics and politics._
-
-### Politics
-- [A Case for Capitalism](https://pranigopu.github.io/seeking-the-essentials/case-for-capitalism.html)
-
-## Statistics
-- [Essence of Statistics](https://pranigopu.github.io/seeking-the-essentials/essence-of-statistics.html)
-- [Quantifying Probability](https://pranigopu.github.io/seeking-the-essentials/quantifying-probability.html)
+- [Philosophy](https://pranigopu.github.io/seeking-the-essentials/philosophy)
+- [Statistics](https://pranigopu.github.io/seeking-the-essentials/statistics)
