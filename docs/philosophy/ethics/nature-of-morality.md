@@ -4,9 +4,9 @@
 
 **Contents**:
 
-- [The nature \& distinction of objective morality](#the-nature--distinction-of-objective-morality)
+- [The nature and distinction of objective morality](#the-nature-and-distinction-of-objective-morality)
 - [The is-ought gap](#the-is-ought-gap)
-- [The primary focus of morality \& true egoism](#the-primary-focus-of-morality--true-egoism)
+- [The primary focus of morality and true egoism](#the-primary-focus-of-morality-and-true-egoism)
 - [Self-interest as moral](#self-interest-as-moral)
   - [Can morality be based on self-interest?](#can-morality-be-based-on-self-interest)
   - [Is self-interest essentially the subjective pursuit of desires?](#is-self-interest-essentially-the-subjective-pursuit-of-desires)
@@ -17,7 +17,7 @@
 
 ---
 
-# The nature & distinction of objective morality
+# The nature and distinction of objective morality
 Throughout human history, many moral systems have arisen. Most have been either deontological (i.e. duty-based), subjective (i.e. emotion or instinct-based) or consequence-based (e.g. consequentialism, utilitarianism, pragmatism, etc.). Very few have been objective, which is the kind of morality I hold to be true. The question I ask here is: what is the core nature of morality as I hold it, and how does it differ from other kinds of morality?
 
 An objective morality is one that holds one's own life — life as a volitional being — as the ultimate value, and hence, as the standard of value. It recognises that morality is the science of exercising one's volition from a fundamental level (i.e. in the broadest context, i.e. the context of one's life as a whole), and thus, it recognises that (1) morality only applies to acts and results of volition and (2) the application of volition — and thus morality — is contextual even as morality itself is absolute; such is the case for any abstract truth about reality, such as any law of science. The analogy of moral principles to scientific principles is apt, in my view; both are abstractions that integrate an unlimited class of concretes, both are truths from reality and of reality, and both serve as tools for human cognition and action, i.e. tools for humans to grasp the nature of reality in a certain context, the choices present in it and the aptness of the choices within the context. Scientific principles are not impositions or burdens placed upon action and potential but the means to facilitate action and realise potential. So is the case with moral principles. To put it more concretely, morality is the core, fundamental means to pursue happiness and success in life (practically, in the long range) and not a restriction or limitation on your pursuit of life and happiness.
@@ -49,7 +49,7 @@ As for an "egoist" following his subjective whims as long as he can get away wit
 
 **NOTE 2**: _I would argue that a truly moral person who, through the pursuit of his own life, has achieved moral and practical integrity, will not be psychologically unaffected by his own violation of his morals, due to the internalisation of his values (which is vital to the sustainable, consistent pursuit of values). If someone is psychologically unaffected by one's own immorality, that is the opposite of a life-affirming sign, because it points to a deficiency in one's integrity, and hence, one's capacity to pursue life as a whole._
 
-# The primary focus of morality & true egoism
+# The primary focus of morality and true egoism
 Morality is not drawn from the fear of bad consequences but from the pursuit of life and happiness; the fear of bad consequences, if any, is only a derivation and not the basis of morality. Morality does not say primarily, "You should not cheat, steal, murder, etc." but rather, "If you want to live well, do this." As a derivative necessity, yes, do not do immoral or evil things, but this is a derivation and not the core. The "constraints" are a part of the requirements for success in your pursuit of life and happiness — you can ignore them if you do not care to be successful in your pursuit. Again, it boils down to the fundamental choice of whether to pursue life (i.e. life as a volitional being) or not; it is your choice and only yours to make. Long story short, you can choose your goal, but you cannot choose the facts and principles needed to achieve that goal, because if your goal is a goal in reality, then its requirements for success are objective and hence absolute (albeit contextual, as any truth). Morality arises from the choice to pursue one's own life as a volitional being, which means life lived long-range, valuing both the actual and the potential of one's existence. If you choose this goal — which is the only pro-reality goal you can choose — there are objective and absolute values, virtues and principles you must uphold to succeed. If you do so, you are an egoist in the true sense, since it is your self and your life — as they are in fact, i.e, objectively — that are your highest values. When you are not concerned with your objective interests, you are concerned — fundamentally — with something apart from your own self and existence; that is not selfish.
 
 # Self-interest as moral
