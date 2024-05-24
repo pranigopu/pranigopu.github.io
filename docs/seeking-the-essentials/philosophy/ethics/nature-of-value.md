@@ -1,5 +1,20 @@
-# The Nature of Value
-## Concretisation as essential to value
+<b style="font-size:200%">The Nature of Value**</b>
+
+---
+
+**TABLE OF CONTENTS**
+
+- [Concretisation as essential to value](#concretisation-as-essential-to-value)
+- [Non-contradiction in values](#non-contradiction-in-values)
+  - [Re-integrating contradicted values](#re-integrating-contradicted-values)
+  - [Integrity in the pursuit of values](#integrity-in-the-pursuit-of-values)
+  - [The capacity for value implies \& needs the capacity for loss](#the-capacity-for-value-implies--needs-the-capacity-for-loss)
+- [Integrity of values](#integrity-of-values)
+- [Emotion in pursuing rational values \& virtues](#emotion-in-pursuing-rational-values--virtues)
+
+---
+
+# Concretisation as essential to value
 **NOTE**: _Concretisation, by its nature, is and can only be in the moment, i.e. in the present, here and now._
 
 A value is — in broad terms — that which one acts to gain and/or keep. But why must one act toward something for that to be his value? Could he not simply wish or want it without acting toward it? Here, we have to identify the purpose behind the concept of value. The distinction between a potential that is being pursued to be realised and a potential only being considered is that the former denotes active concretisation whereas the latter does not (the importance of this distinction is explained in the note below). This already shows why a value can only exist if it is being concretised in some form.
@@ -19,7 +34,7 @@ To go even further, we observe that the source of value is the reality of life, 
 
 ---
 
-## Non-contradiction in values
+# Non-contradiction in values
 Values are a form of truth; they identify that which one acts to gain and/or keep with respect to an objective standard. In other words, a value identifies that which is necessary or helpful to one's own life. Hence, like truth, values are non-contradictory, i.e. you cannot act against some value in a narrower context while maintaining that value or a generalisation of that value in a broader context, because by acting against the value in the narrower context you by implication — necessarily and inescapably — accept the value's negation in a broader context, thereby excluding any generalisation of that value. For example, you cannot value human beings (given certain conditions) in general if you do not value particular human beings (given the same certain conditions) in any given particular situation. It is not merely a matter of hypocrisy, i.e. of saying, "You have no right to value A if you do not value B." Instead, it is a matter of saying, "It is literally — necessarily and in fact — impossible for you and your mind to value A if you do not value B, no matter what you purport or desire." I need more observations to concretise this, but this is the philosophical conclusion.
 
 My position here mirrors what I said in my introductory essay on philosophy, "Those who decry the need for broader generalisations and principles are ultimately helpless to the broader implications of their decisions." The same applies — in essence — to values. What this means in more concrete terms can differ: a feeling of guilt, lack of motive or concern toward your alleged values, a tendency, inclination or drive to go against your alleged values, etc. Contradictions cannot and do not exist in reality, neither in truth nor in value (which is a form of truth); if you contradict your values in any way, either directly or by implication, you no longer hold that value unless and until you acknowledge and correct the contradiction (which can involve atonement). Furthermore, to ignore or evade such contradictions in any form is to ignore parts of reality, and since reality is interconnected, you are blinding yourself to reality on some level, evading the facts and making yourself helpless to them and — by extension, in the long-run — to reality as such. Lastly, by degrading or destroying your ability to internalise a value and make it a part of your self-driven value-judgement mechanism is to degrade or destroy your ability to pursue your life.
@@ -28,13 +43,13 @@ _Hence, in essence and ultimately, hypocrisy destroys efficacy._
 
 **NOTE**: _Even if you try to pretend or forcefully value things whose value you have contradicted and left contradicted, you would rely not on an internalised, self-driven value-judgement mechanism (which is sustainable) but a willpower-based approach that constantly fights against the self-driven mechanism you have internalised already; willpower is not unlimited nor is it omnipotent, which means the latter approach is not sustainable and is bound to fail. Even if it does not fail in a narrower context, it is — by the brute-force nature of the approach — a drain on your efficacy in life as a whole, since your capacity to push yourself is limited, precious and does not replenish automatically or indefinitely._
 
-### Re-integrating contradicted values
+## Re-integrating contradicted values
 Just as in the case of contradicting truth in general, correcting a contradiction in value requires the acceptance of the contradiction and a correction of its effects (in thought and action). The concrete course of action required can vary from just accepting and learning from your faults to seeking forgiveness, making amends or even atoning for one's faults. Guilt and regret can often be appropriate, and if they are, they are constructive since they instil in you the desire to learn from and correct your faults and the consequences of your ill-actions. Note that not feeling guilt or regret for something you know to be objectively wrong is not a good thing; you are not "spared" from the consequences of your actions. In fact, it indicates something worse, namely that your internal mechanism is not able to orient itself toward your values and thus toward your life, which means it is objectively deficient. Such deficiency is indicative of a degraded or destroyed sense of self-value and value for one's own life.
 
-### Integrity in the pursuit of values
+## Integrity in the pursuit of values
 To pursue values long-range is not and cannot be at the expense of values in the short-range. Likewise, the pursuit of values in the short-range cannot be in negligence of the values on the long-range. Why? Because the meaning of each and every value is derived from the context of life as a whole, which to a volitional being involves both the actual and the potential, and undermining the pursuit of life in any way undermines or even nullifies the pursuit of all values. No values exist in isolation of others and must be a part of an integrated, non-contradictory whole.
 
-### The capacity for value implies & needs the capacity for loss
+## The capacity for value implies & needs the capacity for loss
 The standard of value, i.e. life, is conditional; its success is not guaranteed. By extension, that which is necessary for life to be sustained and to flourish — i.e. the achievement of values — is also conditional and not guaranteed. Evidently then, inherent in the capacity to pursue values is the capacity to fail in this pursuit and thereby suffer loss; the latter is a necessary, inseparable implication of the former.
 
 Furthermore, the value one holds for life is not predicated primarily on a feeling or lack thereof (e.g. pleasure, lack of pain, etc.). Rather, the value one hold's for life is predicated on one's efficacy in life, i.e. one's objective capacity to live, pursue and achieve values. Happiness — the state of successful existence as a volitional being, i.e. in terms of both the actual and the potential — is an objective condition that requires objectivity (i.e. adherence to the facts of reality) in thought and action. Lacking the capacity to feel loss — even grave loss — is not in favour of one's life but strongly and severely against it; it represents a loss of objectivity in one's own internal value-seeking mechanism, which in turn represents a loss of efficacy in one's capacity to live as a human (note that willpower is limited and cannot indefinitely compensate for deficiencies in one's internal value-seeking mechanism).
@@ -74,12 +89,12 @@ By distinguishing between struggle and suffering, the text emphasises the import
 
 ---
 
-## Integrity of values
+# Integrity of values
 **_This is a generalisation of the non-contradiction of values._**
 
 _All values are ultimately one value_. In other words, every value is the same one value — i.e. one's own life — applied to the given context. For example, reason is the value for life applied to the context of cognition, a career is the value for life applied to one's long-range efficacy through productivity, a relationship is the value for life applied to the context of value-exchange, etc. Hence, we arrive at an important conclusion: something can be a value in a given context if and only if it is the application of one's value for life in the given context.
 
 Note that an attempted application of one's value for life is _in fact_ an application of one's value for life if and only if it is logical, i.e. non-contradictory with respect to the sum of one's knowledge. If it is illogical, i.e. contradictory with respect to the given context and/or a broader context, then it is necessarily detached from the source of value that is life. In other words, it is not a value. Hence, it is not valid to say, "It is a value, but since the loss is too great, it is not worth pursuing it." Logically, there can be no weighing of values against anti-values, there can only be value or lack thereof. In fact, either something is a value and worth pursuing in a given context, or it is not a value at all.
 
-## Emotion in pursuing rational values & virtues
+# Emotion in pursuing rational values & virtues
 Let us touch upon "emotion" vs. "reason". Emotion is based on our internal beliefs. But what are our internal beliefs based on? If they are arbitrary, i.e. irrational, our emotions will lead us to our ruin. If they are based on reason, however, our emotions will support our pursuit of values. A self-interested person will check his premises, make sure his core beliefs are in line with reality and correct them if they are not; doing so will lead to his emotions being in favour of a good life and not against it. Moreover, I reject any claim that we have no control over our core beliefs and I would reject it on three grounds: (1) my personal experience, (2) the fact that even severely neurotic people can learn to overcome their neuroses with the right steps and guidance (e.g. in psychotherapy) and (3) the fact that we humans have volition (i.e. free will) as a fundamental characteristic of our consciousness, which does not mean that we can choose to change our beliefs however we want, but rather that we can choose to focus on the facts and change our core beliefs over time, which does happen and has happened across the world and throughout history. And, by my personal experience, second-hand accounts and my understanding of the nature of emotion, I know that changing our core beliefs for the better also changes our emotions for the better. We are not doomed to an eternal wrestling match against our emotions in order to be virtuous, but rather, in time, our emotions will come to support our virtues. It is like programming a computer (the conscious mind being the programmer and the subconscious mind being the computer); it is not always easy, it needs the right kind of actions and can take a lot of focus, effort and time, but it is possible and of indispensable value to do so.
