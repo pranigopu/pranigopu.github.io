@@ -8,6 +8,7 @@ I am Prani Gopu, a.k.a. Pranav Gopalkrishna. I enjoy writing works of various ki
 
 ---
 
-- [Seeking the Essentials](https://pranigopu.github.io/seeking-the-essentials)
+- [Philosophy](https://pranigopu.github.io/philosophy)
+- [Statistics](https://pranigopu.github.io/statistics)
 - [Fiction](https://pranigopu.github.io/fiction)
 - [Poetry](https://pranigopu.github.io/poetry)
