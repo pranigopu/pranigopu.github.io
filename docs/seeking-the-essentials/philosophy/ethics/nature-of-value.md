@@ -1,4 +1,4 @@
-<b style="font-size:200%">The Nature of Value**</b>
+**THE NATURE OF VALUE**
 
 ---
 
