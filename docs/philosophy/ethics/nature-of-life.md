@@ -10,7 +10,7 @@
   - [Volitional life is tied to the pursuit of happiness](#volitional-life-is-tied-to-the-pursuit-of-happiness)
   - [The basis and role of ethics in volitional life](#the-basis-and-role-of-ethics-in-volitional-life)
   - [Self-preservation for a volitional being](#self-preservation-for-a-volitional-being)
-  - [Life is necessarily conditional](#life-is-necessarily-conditional)
+- [Life is necessarily conditional](#life-is-necessarily-conditional)
 - [The life-affirming nature of caring for the future beyond you](#the-life-affirming-nature-of-caring-for-the-future-beyond-you)
 
 ---
@@ -67,7 +67,7 @@ _Additional points_...
 
 ---
 
-## Life is necessarily conditional
+# Life is necessarily conditional
 The essential characteristic of life is the existence of an alternative; a living being is always faced by the alternative (i.e. self-realisable potential) between its own existence and non-existence. Only a living being has such an alternative since only a living being is able to sustain itself; note that to be able to do something is to have every necessary condition to do it, including self-generated action. If such an alternative were erased, a being would have no life since it has no necessity to sustain its own existence, hence it does not act to sustain it.
 
 One may ask: is it not possible for an indestructible being to have other goals? Consider if it does. Evidently, then, the goal is not based on sustaining its own existence since its existence is unconditional. Note the implications: there is no better or worse way of changing something that is unconditional (since "better" and "worse" rely on the concepts of "good" and "bad", which in turn rely on the pursuit of a goal that must be actively pursued, i.e. which is not unconditional, and thus, cannot be taken for granted). Hence, there is no point in pursuing efficacy with regards to its own existence since there is no "good" or "bad" way of existing as such; "good" and "bad" with respect to what? The capacity to exist? But this capacity is unconditional. Now, if the goal is not based on sustaining its own existence, it is also not based on its own existence at all, because there is nothing that is relevant to it as a need, a want or a motive with respect to its own self or its own existence. Then, the goal should be based on something beyond its existence, i.e. its existence itself is a means to some end beyond itself, an end originating from someone else; in other words, it is an automaton, in essence.
