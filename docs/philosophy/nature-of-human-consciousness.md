@@ -77,7 +77,7 @@ Note that (1) awareness is a necessary feature of consciousness, and (2) awarene
 **NOTE**: _Existence, identity and consciousness are self-evident facts, i.e. their validation lies in the fact of existence itself; trying to refute them would be a self-defeating exercise._
 
 # The locus of the self
-_Locus of X _⇒ _Core source of the identity of X_
+_Locus of X_ ⇒ _Core source of the identity of X_
 
 When I refer to myself, what am I talking about? In essence, I am talking about the fact and faculty of my awareness of existence. Now, note that it is self-evident that I exist, i.e. I am aware of existence. Since my awareness of the fact that I am aware is both necessary and sufficient to validate my existence, the fundamental feature of the self is consciousness, i.e. the faculty of awareness. By "fundamental feature" here, I mean the feature that unites all of the features that form my identity as a conscious being.
 
