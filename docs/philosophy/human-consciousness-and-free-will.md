@@ -39,25 +39,7 @@ _The question of free will is the central question_...
 
 In epistemology, I went over the basics of the relationship between reality and consciousness. However, implicit in the discussion on concept-formation was the idea that we can direct our own awareness toward the factual and away from the false and arbitrary. After all, reason depends on such ability. Hence, we see that validating free will is central to reaching and validating the principles of human cognition. In ethics, I take for granted that we have the capacity to choose our broad course of actions (i.e. not everything is within choice, but choices are relevant in the long-run). Without such a capacity, no code of values, virtues and principles would be necessary since no choice would be possible. Hence, we see that validating free will is central to reaching and validating the principles of human action, and thus, it is central to validating ethics. Of course, before getting to free will, we have to first establish the facts about human consciousness on which it is predicated.
 
----
-
-_First, some general definitions_...
-
-**Factor**:
-
-A factor is fact of an entity that is a cause for one or more results.
-
-**Fundamental feature**:
-
-A fundamental feature is the feature of an existent X that unites all of X's features in the given context. In other words, the fundamental feature is both necessary and sufficient as the validation for X's existence in the given context, and thus, is the fundamental factor in the nature and behaviour of X in the given context (since what a thing does is an expression of what it is).
-
----
-
-_Back to the discussion_...
-
 # Key concepts of human consciousness
-
-_First, some definitions_...
 
 **Perception**:
 
@@ -76,6 +58,22 @@ The faculty of awareness, i.e. the faculty of perceiving that which exists. Cons
 **NOTE: The use of "conscious" and "aware"**:
 
 The adjectives of "conscious" and "aware" will be used synonymously when referring to state of mind. The term "conscious" does have broader uses, however, such as when referring to the nature of an entity possessing the faculty of awareness.
+
+---
+
+_Some other key definitions_...
+
+**Factor**:
+
+A factor is fact of an entity that is a cause for one or more results.
+
+**Fundamental feature**:
+
+A fundamental feature is the feature of an existent X that unites all of X's features in the given context. In other words, the fundamental feature is both necessary and sufficient as the validation for X's existence in the given context, and thus, is the fundamental factor in the nature and behaviour of X in the given context (since what a thing does is an expression of what it is).
+
+---
+
+_Back to the discussion_...
 
 # The self-evident basics
 Existence exists, and we are conscious of it. Furthermore, everything that exists is something in particular, i.e. something that has a particular identity — this also applies to our consciousness, i.e. our consciousness also has a particular identity. In other words, we are conscious of something through a particular form of awareness. Furthermore, as discussed in metaphysics, existence exists independently of consciousness because consciousness is the faculty of awareness, i.e. the faculty of perceiving that which exists. 
