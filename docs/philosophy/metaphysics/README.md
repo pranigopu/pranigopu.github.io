@@ -15,7 +15,6 @@
   - [The principle of causality](#the-principle-of-causality)
 - [The primacy of existence](#the-primacy-of-existence)
 - [Additional points in metaphysics](#additional-points-in-metaphysics)
-  - [Consciousness needs an object](#consciousness-needs-an-object)
   - [Can we know the external world?](#can-we-know-the-external-world)
   - [Universal consciousness](#universal-consciousness)
   - [The structure and composition of consciousness and reality](#the-structure-and-composition-of-consciousness-and-reality)
@@ -37,23 +36,23 @@ Note that an idea being axiomatic does not mean it cannot be described in more d
 
 # Key definitions
 
-**1. Existence**:
-
 **NOTE**: _The definition for "existence" is ultimately ostensive, but an indication about its nature is given below._
+
+**Existence**:
 
 A thing, as opposed to nothing, exists. A "thing" may be anything that exists. Existence is the set of all things that exist and any "thing" is a subset of existence. Note that the term "subset of existence" may be finite or infinite (i.e. indeterminate in size). Also note that "subset" does not refer only to a subset in a perceptual sense, i.e. what can be observed sensorily, but also to a subset in a conceptual sense, wherein the subset includes all the concretes (which may be unlimited in number) subsumed under a concept (more on concepts discussed in epistemology).
 
-**2. Fact**:
+**Fact**:
 
 A fact is that which corresponds to reality; at the most basic level, facts are discovered by the act of awareness itself for self-evident, perceptual objects. In general, a fact is of anything that exists, ex. an entity, an event, a system, an attribute, an abstraction, etc. Note that things are what they are, i.e. reality is what it is; it is up to us to find the facts based on any observations and valid conceptual framework we may hold. Note that "validity" is with respect to our existing base of knowledge (i.e. facts and integrations of facts).
 
-**3. Identity**:
+**Identity**:
 
 An identity of a thing X is a set of facts that as a whole applies only to X in the given context; some or most of these facts may apply to something else, but not all. In seeking to know the nature of something, we search for the set of facts that distinguishes this thing from another; this set of facts is this thing's identity.
 
 _An extra definition for certain discussions_...
 
-**1. Conscious unit**:
+**Conscious unit**:
 
 Any particular part of active consciousness, such as a particular sensation, perception, concept, thought, emotion, etc.
 
@@ -62,13 +61,15 @@ Existence exists. More precisely, only existence exists, and existence only exis
 
 Existence is not an irreducible whole; we exist and are aware of things that exist as a part of existence. Any part of existence, which we shall call a "thing", exists due to the nature of existence itself. Since a thing is a part of existence and not the whole, it is not true that only it exists, because saying so would deny the existence of other things that exist. However, since a thing is a part of existence, it is true that it only exists, because if it does not exist, then it is not a part of existence and hence is not a thing.
 
----
-
 # _The axiomatic fact of consciousness_
 
 Existence exists and I am aware of it. In other words, there exists a faculty of perceiving that which exists, i.e. there exists consciousness. This is a fundamental, axiomatic (i.e. cognitively irreducible) fact; denying it is self-refuting.
 
 ---
+
+**NOTE: Consciousness needs an object**:
+
+Consciousness is necessarily the consciousness of something. To say that consciousness need not be conscious of anything is to say that consciousness can be aware of absolutely nothing while still being "conscious". This destroys the very meaning of consciousness, because it makes no distinction between the conscious, the unconscious, and the non-conscious. If this leads you to conclude that there is no consciousness, then you are contradicting the basic, inescapable fact of your own existence. How are you identifying "consciousness" when there is no such thing? How are you identifying "unconsciousness" without being aware of anything, i.e. without having the capacity to identify anything?
 
 # Axiom 2: The law of identity
 A thing is what it is, and this is the law of identity. If a thing is not what it is, it would both exist and not exist at the same time. But as a part of existence, it must only exist; hence, the law of identity is absolute.
@@ -99,13 +100,13 @@ _First, some definitions_...
 
 **NOTE**: _Entities and actions must ultimately be defined through ostensive definitions since they are concepts from direct perceptions that are irreducible to other perceptions; at the basic levels, an entity is grasped as a whole, an action or a change is a single perception, etc. But I shall indicate some defining aspects that can show where to look._
 
-**1. Entity**:
+**Entity**:
 
 An entity is a subset of existence whose identity is independent of one's consciousness; it is a concrete, or a concrete referent of an abstraction (hence, everything that exists is either an entity or a metaphysically inseparable aspect of an entity). It can be composed of one or more entities — components — each with its own identity, or it can be irreducible, but it exists and is what it is independent of consciousness. Note that an entity can be a specific arrangement (i.e. interconnections) of other entities (all entities are either irreducible entities or arrangements of irreducible entities) to which different non-identifying facts may apply at different times (ex. position, movement, change in shape — given that the arrangement is not tied to the shape).
 
 **NOTE**: _Given the above concept of entity, facts are thus facts of entities (i.e. facts are metaphysically inseparable from and derived from entities) ultimately (i.e. maybe indirectly, but certainly)._
 
-**2. Action**:
+**Action**:
 
 An action is a change of an entity, i.e. a difference in the past and the present of an entity. More precisely, an action is a change in the facts about an entity (identifying or non-identifying; of course, change in identifying facts would lead to the entity ceasing to exist). An action, thus, is necessarily of the entity, i.e. an action cannot exist apart from the entity, and thus, an action cannot exist apart from the entity's identity; an action is hence an aspect of the entity's identity (just to clarify, an action is inseparable from the entity, the entity is inseparable from its identity, thus an action is inseparable from the entity's identity). Moreover, due to the law of non-contradiction, an entity's action cannot be in contradiction to the entity and its identity. Hence, since an action of an entity can exist neither apart from (i.e. disconnected from) nor in contradiction to the entity and its identity, an action is an expression and extension of the entity's identity.
 
@@ -127,7 +128,7 @@ The concept of causality can be applied to entities as such (rather than just ac
 
 **NOTE 1**: Given that everything that exists is a part of reality that exists in a certain context (i.e. with respect to certain facts), a cause is not merely the actions of a set of entities, but the actions of a set of entities in a certain context (i.e. with respect to certain facts, ex. conditions, relationships, etc.).
 
-**NOTE 2**: The law of causality is a necessary, inseparable implication of the law of identity; you cannot have identity without causality.
+**NOTE 2**: The law of causality is a necessary, inseparable implication of the law of identity; you cannot have identity without causality. To go even further, causality is inherent in the very fact of existence; no part of existence exists nor can exist beyond causality.
 
 # The primacy of existence
 Metaphysically, existence is not defined in terms of "physical", "mental", etc., only in terms of existence qua existence, i.e. existence as a whole. The self-evident facts validated as axioms are: (1) Existence is absolute. (2) Everything that exists must be something in particular, i.e. it must exist as what it is; the law of identity. (3) What an entity does is an extension of what the entity is; the law of causality. (4) Consciousness exists and is the faculty that perceives that which exists. Whatever one's worldview is, it is the case that consciousness is indeed the faculty that perceives that which exists, no matter what "that" is, be it the product of one's mind, the external world, etc.
@@ -139,9 +140,6 @@ How do we grasp the external world (i.e. the world beyond our consciousness)? In
 Let us assume the opposite, i.e. the primacy of consciousness. Then, consciousness fundamentally creates reality, i.e. it creates everything that it perceives. If this were the case, then consciousness has to exist prior to what it perceives. But if this were the case, consciousness would have to be conscious of nothing, or unconscious, i.e. it would have to not exist when it creates something it can be conscious of — a contradiction. If consciousness were conscious of something when it created something to be conscious of, then we have the same situation but with an extra step. This results in an infinite regress that (1) does not serve to identify consciousness, and (2) contradicts the fact that one's consciousness has a starting point.
 
 # Additional points in metaphysics
-## Consciousness needs an object
-Consciousness is necessarily the consciousness of something. To say that consciousness need not be conscious of anything is to say that consciousness can be aware of absolutely nothing while still being "conscious". This destroys the very meaning of consciousness, because it makes no distinction between the conscious, the unconscious, and the non-conscious. If this leads you to conclude that there is no consciousness, then you are contradicting the basic, inescapable fact of your own existence. How are you identifying "consciousness" when there is no such thing? How are you identifying "unconsciousness" without being aware of anything, i.e. without having the capacity to identify anything?
-
 ## Can we know the external world?
 Again, this comes under epistemology, but since it is strongly based on the nature of consciousness, we shall speak of it here. There is a claim that everything we can ever know is what is within our consciousness, and thus, we cannot know reality as it is. This view ignores the source of knowledge as we gain it. It is obvious that everything that our consciousness holds is within consciousness. However, given the fact that consciousness has to begin with an input outside of itself, we have a clear, identifiable connection to a world outside our consciousness. How do we identify it? By identifying the conscious units that are irreducible to further mental units. These units may include internal or external sensations and we can identify the source of these sensations by identifying their point of entry into our awareness. Note that here, "internal" and "external" are terms relative to the physical apparatus on which our consciousness rests (to the extent that we can be aware of it). Even if a sensation is internal, its source is still initially outside our consciousness.
 
