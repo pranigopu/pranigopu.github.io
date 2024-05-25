@@ -55,13 +55,11 @@ The state of sustained perception of that which exists. Hence, perception is the
 
 The faculty of awareness, i.e. the faculty of perceiving that which exists. Consciousness implies consciousness of something. A content-less state of consciousness is a self-contradictory idea.
 
-**Factor**:
-
-A fact of an entity that is the basis of a cause for one or more results.
-
 **Fundamental feature**:
 
 A fundamental feature is the feature of an existent X that unites all of X's features in the given context. In other words, the fundamental feature is both necessary and sufficient as the validation for X's existence in the given context, and thus, is the fundamental factor in the nature and behaviour of X in the given context (since what a thing does is an expression of what it is).
+
+**NOTE**: _A factor is fact of an entity that is the basis of a cause for one or more results._
 
 ---
 
