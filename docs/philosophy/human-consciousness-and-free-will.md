@@ -140,7 +140,7 @@ To be conscious is to be an integrated being of mind and body, wherein the compo
 
 # Integrating free will to causality
 ## Free will as an extension of causality
-In [Metaphysics](https://pranigopu.github.io/philosophy/metaphysics), the law of causality is given as follows:
+In [Metaphysics](https://pranigopu.github.io/philosophy/metaphysics/#the-principle-of-causality), the principle of causality is given as follows:
 
 _Causality is the law of identity applied to actions, and by extension, events (which are the result of the actions and interactions of two or more entities). An entity's action can exist neither apart from its identity nor in contradiction to its identity, which is to say that an entity can only act according to its identity. By extension, a subset of existence can only change according to the identities of the entities acting and interacting within it._
 
