@@ -27,6 +27,8 @@ The basis of any knowledge is a set of axioms, i.e. irreducible facts underlying
 
 Since axioms are the basis of proof, axioms themselves cannot be proved. In particular, the axioms of reality are self-evident, i.e. the evidence of their existence is their very existence. This does not mean they must be accepted on faith; we can show that the axioms are indeed axiomatic by showing that they are the irreducible basis of anything we can know, discuss or act upon further. Hence, a valid metaphysical axiom, i.e. an axiom pertaining to the nature of reality as a whole cannot even be denied without first accepting it — denying it would be self-refuting.
 
+---
+
 **Short note on "proof" and "validation"**:
 
 Validation is the process of showing that an idea or a statement is or refers to a part of reality, i.e. that it is fact. Proof is a kind of validation that uses logic (i.e. the method of applying the law of identity and its corollaries). Logic relies on axioms which cannot be themselves subjected to logic (as they are the base of logic, logic presupposes them). But we can show that these axioms correspond to reality through (1) ostensible definitions (pointing and showing, i.e. relying on self-evident facts that any consciousness can turn its focus to and grasp) and (2) the process of showing it as inescapable through "reaffirmation through denial" (i.e. show that the axiom is relied upon even when trying to deny it).
