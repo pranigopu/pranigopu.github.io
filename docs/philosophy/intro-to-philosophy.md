@@ -5,10 +5,10 @@
 **Contents**:
 
 - [Why to pursue philosophy?](#why-to-pursue-philosophy)
-  - [Concretising of philosophy's impact](#concretising-of-philosophys-impact)
-    - [Development of the natural sciences](#development-of-the-natural-sciences)
-    - [The general state of education in India](#the-general-state-of-education-in-india)
-    - [Nazi Germany](#nazi-germany)
+- [Concretising of philosophy's impact](#concretising-of-philosophys-impact)
+  - [Development of the natural sciences](#development-of-the-natural-sciences)
+  - [The general state of education in India](#the-general-state-of-education-in-india)
+  - [Nazi Germany](#nazi-germany)
 - [How to pursue philosophy?](#how-to-pursue-philosophy)
   - [Philosophy as inextricably tied to concretes](#philosophy-as-inextricably-tied-to-concretes)
   - [Philosophy as broad knowledge and not prophetic wisdom](#philosophy-as-broad-knowledge-and-not-prophetic-wisdom)
@@ -34,16 +34,16 @@ _To expand on the above point..._
 
 The more fundamental the idea is to your view of the world, the more crucial it is in shaping your grasp of the world, and consequently, in shaping the course of your life. Grasping valid fundamentals helps shape your life more effectively, as you can deal with the world more effectively through your improved grasp of it. The study of fundamentals — of existence and human life — is the domain of philosophy. Due to how crucial fundamentals are, philosophy is and should be a practical discipline that uses abstractions to guide us in finding and pursuing the right concrete purposes so that we flourish in life.
 
-## Concretising of philosophy's impact
-### Development of the natural sciences
+# Concretising of philosophy's impact
+## Development of the natural sciences
 The natural sciences are the study of the contents of observable reality. They include physics, chemistry, biology, etc. Natural sciences adhere to strict principles of evidence, reasoning and logic. Every aspect of science (i.e. every concept, law, hypothesis, theory, etc.) is identified and integrated with strictest adherence to non-contradiction, both with respect to itself and reality, insofar as it is known. In other words, the pursuit of natural sciences holds that (1) reality is knowable through our perception, and (2) logical reasoning is the only means to validate knowledge.
 
 This adherence to logic is based on the view that (1) identity applies to any part of reality, i.e. everything that exists is something in particular that can be identified and distinguished from other things that exist, and (2) causality applies to any occurrence in reality. In other words, this fundamental view of existence and of our ability to know it is at the core of every scientific pursuit.
 
-### The general state of education in India
+## The general state of education in India
 In my experience, as well as the first-hand accounts of many others who have had similar experiences, the education of children in India focuses on memorisation rather than concept formation. In other words, students learn to think of abstractions more as floating abstractions not tied to observations of reality, e.g. learning to solve mathematical problems without grasping the basis of the results used, or learning scientifically derived facts and formulas without delving into the methods of scientific inquiry. In my understanding, this reflects a lack of value for reason as a fundamental principle in life; reason becomes merely a tool to solve specific types of problems, particularly those involving mathematics and the natural sciences. In my understanding, this lack of value for reason reflects a mindset that accepts the status quo as the given; we learn to function under constraints without questioning or having the intellectual means to question the constraints.
 
-### Nazi Germany
+## Nazi Germany
 Nazi Germany, also known as the Third Reich, is one of the most well-known examples of oppressive, totalitarian regimes in history. One may look upon the violence they caused across Europe, and the atrocities they committed against whole communities — most notably the jews and gipsies of Europe — and conclude that the regime was driven by murderous, megalomaniacal madmen. But it is useful to note that these madmen were people who rose to power and maintained it through the support of much of the German population at the time. It also seems that many people, who would otherwise seem quite ordinary, came to internalise and support the ideology of the Nazis; many such people do so even today. Let us look more closely at their premises, insofar as we can identify them.
 
 A very clear aspect of their ideology is the lack of value for the individual. This is demonstrated by (1) their systematic persecution of people based on their group identities (in particular, ethnicities), (2) their idea of the superiority of the "Aryan race", based on arbitrary, unclear definitions, unfounded claims and dubious reasoning at best, and (3) their notion that one's value is only with respect to his race, his allegiance to the state and his service to it, as seen with their systematic killing of the disabled. This aspect also reveals their tribal mentality; they saw and judged the world in terms of groups based on superficial characteristics such as ethnicity and heritage. Note that any group of humans, especially a group that is united not by ideas but simply by a shared ethnicity or heritage, is bound to be too diverse to allow someone to judge an individual based on the group and vice versa.
