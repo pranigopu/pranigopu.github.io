@@ -33,7 +33,7 @@
 ---
 
 # Introduction
-The relationship between reality and consciousness is a central question in philosophy, since it defines how knowledge of reality must be gained and how actions in reality can be taken, i.e. it defines the fields of epistemology and ethics. Hence, apart from metaphysics, every branch of philosophy requires an answer to the question: _what is the nature of man and his actions?_ In essence, this question is: _what is the nature of human consciousness and what decides/determines its actions?_
+The relationship between reality and consciousness is a central question in philosophy, since it defines how knowledge of reality must be gained and how actions in reality can be taken, i.e. it defines the fields of epistemology and ethics. Hence, apart from metaphysics, every branch of philosophy requires an answer to the question: _what is the nature of man and his actions?_ In essence, since man's distinct kind of consciousness is his fundamental feature (_i.e. the feature that integrates — through implication or presupposition — every philosophically relevant attribute of man_), the question becomes: _what is the nature of human consciousness and what decides/determines its actions?_
 
 _The question of free will is the central question_...
 
