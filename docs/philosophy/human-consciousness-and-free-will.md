@@ -39,6 +39,22 @@ _The question of free will is the central question_...
 
 In epistemology, I went over the basics of the relationship between reality and consciousness. However, implicit in the discussion on concept-formation was the idea that we can direct our own awareness toward the factual and away from the false and arbitrary. After all, reason depends on such ability. Hence, we see that validating free will is central to reaching and validating the principles of human cognition. In ethics, I take for granted that we have the capacity to choose our broad course of actions (i.e. not everything is within choice, but choices are relevant in the long-run). Without such a capacity, no code of values, virtues and principles would be necessary since no choice would be possible. Hence, we see that validating free will is central to reaching and validating the principles of human action, and thus, it is central to validating ethics. Of course, before getting to free will, we have to first establish the facts about human consciousness on which it is predicated.
 
+---
+
+_First, some general definitions_...
+
+**Factor**:
+
+A factor is fact of an entity that is a cause for one or more results.
+
+**Fundamental feature**:
+
+A fundamental feature is the feature of an existent X that unites all of X's features in the given context. In other words, the fundamental feature is both necessary and sufficient as the validation for X's existence in the given context, and thus, is the fundamental factor in the nature and behaviour of X in the given context (since what a thing does is an expression of what it is).
+
+---
+
+_Back to the discussion_...
+
 # Key concepts of human consciousness
 
 _First, some definitions_...
@@ -54,12 +70,6 @@ The state of sustained perception of that which exists. Hence, perception is the
 **Consciousness**:
 
 The faculty of awareness, i.e. the faculty of perceiving that which exists. Consciousness implies consciousness of something. A content-less state of consciousness is a self-contradictory idea.
-
-**Fundamental feature**:
-
-A fundamental feature is the feature of an existent X that unites all of X's features in the given context. In other words, the fundamental feature is both necessary and sufficient as the validation for X's existence in the given context, and thus, is the fundamental factor in the nature and behaviour of X in the given context (since what a thing does is an expression of what it is).
-
-**NOTE**: _A factor is fact of an entity that is a cause for one or more results._
 
 ---
 
