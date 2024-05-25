@@ -4,6 +4,7 @@ My predominant philosophical inspiration is the philosophy of Ayn Rand (which is
 
 ## Explore
 - [Introduction to Philosophy](https://pranigopu.github.io/philosophy/intro-to-philosophy.html)
+- [The Nature of Human Consciousness](https://pranigopu.github.io/philosophy/nature-of-human-consciousness.html)
 - [Metaphysics](https://pranigopu.github.io/philosophy/metaphysics)
 - [Epistemology](https://pranigopu.github.io/philosophy/epistemology)
 - [Ethics](https://pranigopu.github.io/philosophy/ethics)
