@@ -5,7 +5,7 @@
 **Contents**:
 
 - [Why to pursue philosophy?](#why-to-pursue-philosophy)
-- [Concretising of philosophy's impact](#concretising-of-philosophys-impact)
+- [Concretising philosophy's impact](#concretising-philosophys-impact)
   - [Development of the natural sciences](#development-of-the-natural-sciences)
   - [The general state of education in India](#the-general-state-of-education-in-india)
   - [Nazi Germany](#nazi-germany)
@@ -34,7 +34,7 @@ _To expand on the above point..._
 
 The more fundamental the idea is to your view of the world, the more crucial it is in shaping your grasp of the world, and consequently, in shaping the course of your life. Grasping valid fundamentals helps shape your life more effectively, as you can deal with the world more effectively through your improved grasp of it. The study of fundamentals — of existence and human life — is the domain of philosophy. Due to how crucial fundamentals are, philosophy is and should be a practical discipline that uses abstractions to guide us in finding and pursuing the right concrete purposes so that we flourish in life.
 
-# Concretising of philosophy's impact
+# Concretising philosophy's impact
 ## Development of the natural sciences
 The natural sciences are the study of the contents of observable reality. They include physics, chemistry, biology, etc. Natural sciences adhere to strict principles of evidence, reasoning and logic. Every aspect of science (i.e. every concept, law, hypothesis, theory, etc.) is identified and integrated with strictest adherence to non-contradiction, both with respect to itself and reality, insofar as it is known. In other words, the pursuit of natural sciences holds that (1) reality is knowable through our perception, and (2) logical reasoning is the only means to validate knowledge.
 
