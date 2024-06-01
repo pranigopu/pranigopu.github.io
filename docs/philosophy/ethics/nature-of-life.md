@@ -18,7 +18,7 @@
 # Life is necessarily conditional
 _The necessary context is drawn from_ [The Standard of Value](https://pranigopu.github.io/philosophy/ethics/1-standard-of-value.html).
 
-**LEXICAL NOTE**: _"Purpose" can mean either "goal" or "goal-driven behaviour/orientation"; when used with an article (definite or indefinite), it means "goal", and when used without an article, it means "goal-driven behaviour/orientation". Also note that "purposeful" and "goal-driven" are synonymous. For clarity, I shall stick to terms based on the word "goal"._
+**LEXICAL NOTE**: _"Purpose" can mean either "goal" or "goal-driven behaviour/orientation"; when used with an article (definite or indefinite), it means "goal" (examples of use: "the purpose of the text", "to have a purpose", "to act toward a purpose"), and when used without an article, it means "goal-driven behaviour/orientation" (examples of use: "the value of purpose", "to have purpose", "to act with purpose"). Also note that "purposeful" and "goal-driven" are synonymous. For clarity, I shall stick to terms based on the word "goal"._
 
 The essential characteristic of life is the existence of an alternative; a living being is always faced by the alternative (i.e. self-realisable potential) between its own existence and non-existence. Only a living being has such an alternative since only a living being can have goals. If such an alternative did not exist for an entity, the entity would have no goal, not even the goal of sustaining its own existence.
 
