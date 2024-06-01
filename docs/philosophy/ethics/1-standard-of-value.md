@@ -19,6 +19,11 @@
   - [Life as the only end in itself](#life-as-the-only-end-in-itself)
   - [The nature of life as the basis for goals and values](#the-nature-of-life-as-the-basis-for-goals-and-values)
   - [Summary](#summary-1)
+- [Life being the standard of value as an expression of reality's absolutes](#life-being-the-standard-of-value-as-an-expression-of-realitys-absolutes)
+- [What it means "to live"](#what-it-means-to-live)
+  - [Expanding on the concept of life](#expanding-on-the-concept-of-life)
+  - [Life as a volitional being](#life-as-a-volitional-being)
+- [Further discussion on the topics of life and value](#further-discussion-on-the-topics-of-life-and-value)
 
 ---
 
@@ -128,3 +133,77 @@ Let us now further consider the nature of life itself. As defined previously, li
 
 ## Summary
 A living being is the only kind of entity that can hold a goal that is an end in itself, and hence, it is the only kind of entity that can be goal-driven fundamentally. Of course, there can be entities that pursue the goals set by a goal-driven entity; such other entities (e.g. machines, programs, automatons, etc.) may be considered “goal-driven” in the derivative sense, i.e. in the sense that they have goals that are ultimately derived from goal-driven entities. However, even such entities presuppose an entity that actually has an end in itself, i.e. an entity that is actually alive. The last key point is that life is the only end in itself, the ultimate value, and thus, the basis of every other goal and value.
+
+---
+
+**EPISTEMOLOGICAL MISTAKES IN PROVING LIFE AS THE STANDARD OF VALUE**:
+
+This is an important epistemological discussion on the potential conceptual and logical mistakes that must be avoided in any proof, with the proof of life as the standard of value taken as the case study. Check the discussion [here](https://pranigopu.github.io/philosophy/ethics/epistemological-mistakes-in-proving-life-as-the-standard-of-value.html).
+
+---
+
+# Life being the standard of value as an expression of reality's absolutes
+Metaphysically, reality is the absolute. Epistemologically, reason is the absolute. With reality and reason as our context, we observe that the question of how to act only comes up if we can act and have a reason to act, i.e. if we can have and pursue values. A value is the basis of self-generated cause as opposed to causal coincidence. As we have seen, the objective source of value is life, which is — by its nature — the ultimate value, and thus, the standard of value.
+
+In essence, the value of life is the affirmation of existence. Existence has no alternative; non-existence is not a separate realm of values competing with existence. The question, "Why to affirm existence?" is invalid as there is nothing to affirm — fundamentally — but existence. To reject life as the standard of value is to reject existence as such and thus reject values as such, to pursue the non-existent, the unreal — the zero. We may choose to end our existence or place our existence at risk, and there may (in many cases) be good reasons to do so (as we shall see later). But to reject life as the standard is to have and pursue no values ultimately. It is either-or; either life as the ultimate value or self-destruction as the ultimate end (which, incidentally, you can never reach since you will cease to exist before you do).
+
+# What it means "to live"
+## Expanding on the concept of life
+_Life is the only end in itself. From this and from observations on living beings, we get the following_...
+
+Life is the self-generated, self-sustaining action of an entity. Observe that the concept of "self-sustaining action" implies a need; if there were no need, self-sustenance would be inapplicable since the entity’s existence would be unconditional (i.e. not dependent) on the entity’s own actions. Furthermore, a need implies the seeking of matter from the environment; if doing so was not necessary, there would be no “need” to begin with. Hence, for the sake of clarity, we can further describe life as the self-generated, self-sustaining action of an entity seeking, gaining and using matter from its environment to sustain itself further. In other words, a living entity is an entity that (1) needs matter from its environment to sustain itself further, and (2) seeks, gains and uses it to do so.
+
+---
+
+**CLARIFICATION**:
+
+- Self-generated ⇒ Primary cause of interaction is its own action
+- Self-sustaining ⇒ Effect of action is the advancement of the action
+
+**NOTE**: _"Primary cause" is defined in the next subsection._
+
+---
+
+Self-generation separates a living entity from an entity that interacts with its environment to be what it is in such a way that none of the actions (neither from the entity itself nor from the environment) are primary causes (i.e. none precede the other). Hence, a living entity is different from, say, a body of water (whose existence is sustained by certain conditions and thus certain kinds of interactions with its environment, such as the pressure, movement and temperature of air) or a tornado (whose existence is inseparable from specific wind and dust movements in the environment).
+
+Self-sustenance separates a living entity from an entity that may have self-generated action but has no need or means of furthering its own existence. Hence, a living entity is different from, say, a machine or an atom. A living being, thus, is the only kind of entity that faces an alternative with respect to its existence; a non-living thing faces no such alternative either because its existence is unconditional or because it has no means of furthering its existence (hence, the question of alternative does not arise with respect to its own self-generated actions).
+
+## Life as a volitional being
+_First, some definitions_...
+
+**Potential**:
+
+The end or possible ends of given causes (causes can be, for example, a given set of entities with given identities in given conditions).
+
+**Primary cause**:
+
+If X is the primary cause for Y, then X is the cause of all causes that cause Y. Note that to be based on something is to be caused by something, hence if Y is primarily based on X, then X is the primary cause for Y.
+
+**Primary potential**:
+
+If X is the primary potential of Y, then the primary causes of the identity of Y lead to X, given that the conditions support the existence of Y.
+
+---
+
+_Back to the discussion_...
+
+Observe that a living being needs matter from its environment to sustain its existence, but it is also capable of seeking, gaining and using it to do so, given that (1) the conditions support its existence, and (2) the environment has the matter it needs to further its existence. For a living being, hence, the primary potential offered by reality itself is its own existence.
+
+A conscious being is a being that needs to perceive existence to sustain itself. To perceive is to retain specific interactions with the environment and use what is retained to act to realise a specific potential. For a conscious being, the primary potential offered by reality itself is its own existence; hence, a conscious being needs to perceive to act to sustain itself and is capable of doing so. In other words, a conscious being is a living being that can and must perceive reality.
+
+Given that volition presupposes consciousness, a volitional being is a conscious being capable of self-determination. As with any conscious being, the primary potential offered by reality itself is its own existence, but being self-determined means a volitional being can choose to realise it or not. But being its primary potential, its own existence is its primary choice, i.e. the choice before every other choice. By its nature, if it is capable of sustaining its existence, then it can only have and pursue values if it chooses its existence; its recognition of its capacity to realise its primary potential is its reason to choose existence and the only reality-based, value-forming choice it can make.
+
+It is key to note that what existence (and thus "life") means to a conscious being is predicated on its nature as a conscious being; to exist as it is, it must be able sustain its conscious existence. Similarly, what existence (and thus "life") means to a volitional being is predicated on its nature as a volitional, i.e. self-determined being; to exist as it is, it must be able to sustain its volitional, i.e. self-determined, self-motivated existence. In other words, a volitional being can only sustain its life if it finds its life worth sustaining, i.e. if it finds itself to be capable of existing as it is (i.e. as a volitional being) not only in the actual but also in the potential (potential is key, because — as seen in the previous paragraph — its reason for choosing existence is its recognition of its capacity to realise the primary potential given by reality).
+
+_Actuality and potentiality are integrated by volition_...
+
+Reality is not unknowable but unknown; even when we understand a lot about reality, we know that we do not know it all. Most importantly, we know that to understand and deal with reality as it is, we must understand and deal with facts beyond the actual, observed aspects of reality. It stands to reason, then, that to deal with the actual most effectively (in principle) is to grasp the potential. Hence, valuing the potential is not separate from valuing the actual, but a form of valuing the actual even further, in a broader context. Just as the potential is nothing, i.e. loses value when we give up the actual, so does the actual lose its value (in fact and not just in feeling) when we give up the potential.
+
+_Additional point_...
+
+For someone to say they “live for X” is a misunderstanding. In fact, they pursue X to live because, in their context, X is what enables them to pursue life volitionally. By the nature of life, values cannot exist unless life is the ultimate value, and life cannot be a means to some other value.
+
+# Further discussion on the topics of life and value
+
+- [The Nature of Life](https://pranigopu.github.io/philosophy/ethics/nature-of-life.html)
+- [The Nature of Value](https://pranigopu.github.io/philosophy/ethics/nature-of-value.html)
