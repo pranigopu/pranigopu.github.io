@@ -27,6 +27,7 @@
   - ["Gaining" an absence or a negative](#gaining-an-absence-or-a-negative)
   - [The good as the standard of evaluation](#the-good-as-the-standard-of-evaluation)
   - [Matter \& spirit](#matter--spirit)
+  - [Deep dives into the nature of life and value](#deep-dives-into-the-nature-of-life-and-value)
 
 ---
 
@@ -229,6 +230,8 @@ _The goals of spirit and matter differ only in initial focus, not in final effec
 _More on intellectual & psychological aspects of spiritual values_...
 
 A volitional consciousness is a self-initiated, self-sustaining and self-advancing experience, just as life is a self-initiated, self-sustaining and self-advancing motion. To sustain one’s mind, one must act to maintain, improve and expand one’s ability to choose, experience the results of one’s choices and adhere to reality both intellectually and psychologically. The intellectual is the volitional process of cognition. The psychological is the non-volitional (potentially indirectly volitional) result of one’s experience of life, the instantaneous evaluation of one’s own existence. Without the intellectual, we cannot know and choose with knowledge. Without the psychological, we cannot experience and thereby concretise our own internalised values, motivations and judgements.
+
+## Deep dives into the nature of life and value
 
 - [The Nature of Life](https://pranigopu.github.io/philosophy/ethics/nature-of-life.html)
 - [The Nature of Value](https://pranigopu.github.io/philosophy/ethics/nature-of-value.html)
