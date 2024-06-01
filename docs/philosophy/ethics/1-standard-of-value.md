@@ -7,6 +7,7 @@
 - [Introduction](#introduction)
 - [Values as fundamental to the capacity for choice](#values-as-fundamental-to-the-capacity-for-choice)
 - [Exploring the nature of purpose, goals, values and life](#exploring-the-nature-of-purpose-goals-values-and-life)
+  - [Purpose and its self-evident basis](#purpose-and-its-self-evident-basis)
   - [Purpose and self-generated action](#purpose-and-self-generated-action)
   - [Purpose and orientation to potentiality](#purpose-and-orientation-to-potentiality)
   - [Hierarchy in goals and the need for an ultimate goal](#hierarchy-in-goals-and-the-need-for-an-ultimate-goal)
@@ -47,6 +48,13 @@ Steps taken for the exploration:
 3. Show that the fact of life is what makes goals and values possible <br> _Hence, show that life is the ultimate value and thus the standard_
 
 Note that the process of exploration is primarily inductive, since we must reach certain concepts and generalisations about the nature of goals, values and life before we infer or deduce from them. Also, note that I treat the concepts "goal" and "purpose" synonymously; I use both so as to indicate their relationship for later sections. In general, "purpose" means "goal" or "goal-driven orientation".
+
+## Purpose and its self-evident basis
+The fact of our own consciousness is self-evident. Furthermore, our own efficacy with respect to our consciousness and conscious actions is also self-evident; we directly see the self-evident choice to stay in focus or not and the self-driven nature of our consciousness and our conscious actions. Implicit in the self-evident choice to stay in focus or not is the choice to stay in existence or not, to act for our continued existence, to act against it or to be indifferent to it. In other words, implicit in the self-evident fact of our own existence is the self-evident choice to stay in focus or not, which extends to the choice to stay in existence or not. Hence, we observe that purpose, i.e. action oriented toward a recognised potential, is a self-evident aspect of our existence that is inseparable from the very fact of our existence. So what?
+
+The importance of identifying the self-evident basis of purpose is that purpose is essential for cognition beyond the perceptual level; concept-formation and reasoning are inherently purposeful. In other words, the very act of thinking about purpose presupposes purpose. Grasping this is key to grasping the fact that cognition is not arbitrary, which means concept-formation and reason are not arbitrary, i.e. they are not about mere semantics or labels but about the purposeful identification of facts of reality. Hence, we grasp that, on some level, there are self-evident truths that necessitate and validate all cognition and action: the irreducible value of our life and the irreducible basis and validity of purpose.
+
+**NOTE**: _"Irreducible" here means irreducible in terms of conscious units._
 
 ## Purpose and self-generated action
 Say I want to eat an apple. I act so as to find an apple. My action, in this case, was purposeful with respect to the end result as I by myself directed my action with respect to a potential end result. Now, say I do not want an apple, so I act but not to find an apple. However, by chance, I find an apple. Here, my action was not purposeful with respect to the end result; I did not by myself direct my action with respect to the end result in a self-contained potential-oriented way (i.e. I did not contain a want for a potential end result that led to my action toward that end result).
