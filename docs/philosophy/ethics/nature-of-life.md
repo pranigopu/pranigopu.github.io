@@ -36,7 +36,7 @@ Note also that volition is essentially self-aware consciousness, and consciousne
 
 ---
 
-You are not and cannot be eternal; this is not a damnation but an inherent fact about a wonderful phenomenon of irreplaceable value. To hold that there is a self beyond life is treason to your own self — your own existence — since it disregards the objective primacy of the value of your life and also disregards that which makes your existence possible: the unique, conditional integration of parts of reality. To a living human being, mind and body, spirit and matter — these are aspects of an inseparable whole, none existing nor capable of existing without the other in a living human being.
+You are not and cannot be eternal; this is not a damnation but an inherent fact about a wonderful phenomenon of irreplaceable value. To hold that there is a self beyond life is treason to your own self — your own existence — since it disregards the objective primacy of the value of your life and also disregards that which makes your existence possible: the unique, conditional integration of parts of reality. To a human being, mind and body, spirit and matter — these are aspects of an inseparable whole, none existing nor capable of existing without the other in a human being.
 
 **NOTE**: _It is not valid to say "life needs death in order to have value", just as it is not valid to say that "health needs disease in order to have value". The fact inherent in life is that it is conditional; death is merely the failure of that condition, not the fundamental aspect or basis of it, nor — of course — is it fundamental to the success of that condition._
 
