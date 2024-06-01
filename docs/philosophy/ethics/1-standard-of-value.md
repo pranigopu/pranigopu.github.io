@@ -160,7 +160,7 @@ Life is the self-generated, self-sustaining action of an entity. Observe that th
 **CLARIFICATION**:
 
 - Self-generated ⇒ Primary cause of interaction is its own action
-- Self-sustaining ⇒ Effect of action is the advancement of the action
+- Self-sustaining ⇒ Effect of action is the sustenance of the capacity for the action
 
 **NOTE**: _"Primary cause" is defined in the next subsection._
 
