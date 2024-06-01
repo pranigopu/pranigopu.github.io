@@ -26,7 +26,7 @@
 - [Further discussion on life and value](#further-discussion-on-life-and-value)
   - ["Gaining" an absence or a negative](#gaining-an-absence-or-a-negative)
   - [The good as the standard of evaluation](#the-good-as-the-standard-of-evaluation)
-  - [Matter \& spirit](#matter--spirit)
+  - [Matter and spirit](#matter-and-spirit)
   - [Deep dives into the nature of life and value](#deep-dives-into-the-nature-of-life-and-value)
 
 ---
@@ -218,7 +218,7 @@ When we talk of gaining values, one may use the word “gain” in the sense of 
 
 Our grasp of good is, in essence, our grasp of value. Since value can only be _ultimately_ defined positively (i.e. with respect to what is achieved rather than lost), and since anti-values can only exist in relation to values as negations of values, it stands to reason that only our grasp of the good can help us grasp the bad and the evil. To elaborate in another direction, if we define happiness as the non-contradictory achievement of values, it is not the happiness that is relative to privation but privation that is relative to happiness. The good (and, by extension, happiness) is the primary standard of evaluation. To put the point emphatically, it is not the good but the bad or evil that is relative; the good is the basis in relation to which the bad or the evil is grasped. By extension, it is not happiness but suffering that is relative; happiness is the basis in relation to which suffering is grasped.
 
-## Matter & spirit
+## Matter and spirit
 As we have seen, a human is a being of integrated spirit (i.e. consciousness) and matter (i.e. the physical apparatus of his mind and rightful body) — note that both are of one reality and are integrated as an inseparable whole. Therefore, the pursuit of values is both spiritual (i.e. pertaining to one’s consciousness) and material (i.e. pertaining to one’s physical apparatus and rightful body).
 
 Furthermore, since spirit is integrated with matter (in the context of the self), spiritual and material values are also necessarily integrated. Hence, the pursuit of each is linked with the other; a material value, in the right context, is a spiritual value, and vice versa. For example, the pursuit of material wealth, in the context of achieving a flourishing existence with an honest view of reality, is a spiritual value that adds to your self-esteem, independence and ability to experience life. As another example, the pursuit of knowledge, in the context of knowing the nature of reality, is a material value that enables you to deal with the material in nature effectively.
@@ -227,7 +227,7 @@ _The goals of spirit and matter differ only in initial focus, not in final effec
 
 ---
 
-_More on intellectual & psychological aspects of spiritual values_...
+_More on intellectual and psychological aspects of spiritual values_...
 
 A volitional consciousness is a self-initiated, self-sustaining and self-advancing experience, just as life is a self-initiated, self-sustaining and self-advancing motion. To sustain one’s mind, one must act to maintain, improve and expand one’s ability to choose, experience the results of one’s choices and adhere to reality both intellectually and psychologically. The intellectual is the volitional process of cognition. The psychological is the non-volitional (potentially indirectly volitional) result of one’s experience of life, the instantaneous evaluation of one’s own existence. Without the intellectual, we cannot know and choose with knowledge. Without the psychological, we cannot experience and thereby concretise our own internalised values, motivations and judgements.
 
