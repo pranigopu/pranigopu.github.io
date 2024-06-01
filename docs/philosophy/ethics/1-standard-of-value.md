@@ -46,7 +46,7 @@ Steps taken for the exploration:
 2. Show that goals and values are necessarily hierarchical <br> _Hence, show the need for an ultimate value_
 3. Show that the fact of life is what makes goals and values possible <br> _Hence, show that life is the ultimate value and thus the standard_
 
-Note that this process of exploration is not only deductive but primarily inductive, since we must reach certain concepts and generalisations about the nature of goals, values and life before we infer or deduce from them. Furthermore, note that I treat the concepts "goal" and "purpose" synonymously; I use both so as to indicate their relationship for later sections. In general, "purpose" means "goal" or "goal-driven orientation".
+Note that the process of exploration is primarily inductive, since we must reach certain concepts and generalisations about the nature of goals, values and life before we infer or deduce from them. Also, note that I treat the concepts "goal" and "purpose" synonymously; I use both so as to indicate their relationship for later sections. In general, "purpose" means "goal" or "goal-driven orientation".
 
 ## Purpose and self-generated action
 Say I want to eat an apple. I act so as to find an apple. My action, in this case, was purposeful with respect to the end result as I by myself directed my action with respect to a potential end result. Now, say I do not want an apple, so I act but not to find an apple. However, by chance, I find an apple. Here, my action was not purposeful with respect to the end result; I did not by myself direct my action with respect to the end result in a self-contained potential-oriented way (i.e. I did not contain a want for a potential end result that led to my action toward that end result).
