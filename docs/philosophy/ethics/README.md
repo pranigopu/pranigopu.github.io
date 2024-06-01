@@ -13,6 +13,12 @@ _Link between epistemology and ethics_...
 Epistemology gives us the means to seek knowledge. Ethics gives us the means to guide our actions on the basis of knowledge. The link between these sciences is the knowledge of the nature of human (i.e. volitional) consciousness, enabling us to learn the kinds of actions that are right and most effective with respect to our fundamental nature.
 
 ## Explore
+_Fundamentals_...
+1. [The Standard of Value](https://pranigopu.github.io/philosophy/ethics/1-standard-of-value.html)
+
+
+_Expansion_...
+
 - [The Nature of Life](https://pranigopu.github.io/philosophy/ethics/nature-of-life.html)
 - [The Nature of Value](https://pranigopu.github.io/philosophy/ethics/nature-of-value.html)
 - [The Nature of Morality](https://pranigopu.github.io/philosophy/ethics/nature-of-morality.html)
