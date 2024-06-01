@@ -2,7 +2,7 @@
 ## Introduction
 _Need for a standard of action_...
 
-As beings capable of self-determined actions (we shall later show that we are indeed self-determined (not “purely” but fundamentally), but it is a self-evident fact), every instance of our conscious existence needs a choice of action — the choice could as well be of inaction. How we must act depends on why we must act, i.e. the choice to act depends on the reason to act. The reason to act depends on the nature of our existence and the potential it holds. The knowledge of the nature of our existence and its potential is what gives rise to the standard of action, i.e. the basis for effective choice. I shall show later how the standard of action is the standard of value.
+As beings capable of self-determined actions, every instance of our conscious existence needs a choice of action — the choice could as well be of inaction (we shall later show that we are indeed self-determined (not “purely” but fundamentally), but it is a self-evident fact). How we must act depends on why we must act, i.e. the choice to act depends on the reason to act. The reason to act depends on the nature of our existence and the potential it holds. The knowledge of the nature of our existence and its potential is what gives rise to the standard of action, i.e. the basis for effective choice. I shall show later how the standard of action is the standard of value.
 
 _Ethics and its purpose_...
 
