@@ -18,12 +18,10 @@
   - [The hierarchical nature of goals](#the-hierarchical-nature-of-goals)
   - [The nature of a goal that is an end in itself](#the-nature-of-a-goal-that-is-an-end-in-itself)
   - [Life as the only end in itself](#life-as-the-only-end-in-itself)
-  - [The nature of life as the basis for goals and values](#the-nature-of-life-as-the-basis-for-goals-and-values)
+  - [Expanding on the basic nature of life](#expanding-on-the-basic-nature-of-life)
   - [Summary](#summary-1)
 - [The value of life as an expression of reality's absolutes](#the-value-of-life-as-an-expression-of-realitys-absolutes)
-- [What it means "to live"](#what-it-means-to-live)
-  - [Expanding on the concept of life](#expanding-on-the-concept-of-life)
-  - [Life as a volitional being](#life-as-a-volitional-being)
+- [Life as a volitional being](#life-as-a-volitional-being)
 - [Further discussion on life and value](#further-discussion-on-life-and-value)
   - ["Gaining" an absence or a negative](#gaining-an-absence-or-a-negative)
   - [The good as the standard of evaluation](#the-good-as-the-standard-of-evaluation)
@@ -38,7 +36,7 @@ _In the introduction to ethics, we saw the need for a standard of action. Now, I
 We observe that our existence is not self-contained, i.e. we need and can seek, gain and use matter from our environment to sustain our existence. Hence, we have the concept of value, i.e. that which we act to gain and/or keep. I shall argue that (1) only values give rise to the capacity for choice, (2) the only source of value is the sustenance of our existence. In this light, the standard of action is the standard of value, since how we must choose to act is shaped fundamentally by the values we must seek, gain and use. I shall also show how the nature of our existence and what it means to sustain it is shaped by the fact of volition.
 
 # Values as fundamental to the capacity for choice
-To choose is to focus one's awareness and conscious efforts on one alternative over another. If there is no reason to pick one alternative over another, such focus is essentially random or not self-driven (i.e. not based on one's own motives). Hence, an alternative — and hence volition — presupposes a goal with respect to which it can be judged and compared to other alternatives. I shall show in the next section that the basis of all goals is life, a state that gives rise to and requires the pursuit of values. In this light, we see that volition is meaningless without the standard of value (i.e. life), which means the standard of action is, fundamentally, the standard of value.
+To choose is to focus one's awareness and conscious efforts on one alternative over another. If there is no reason to pick one alternative over another, such focus is essentially random or not self-driven (i.e. not based on one's own motives). Hence, an alternative — and thus volition — presupposes a goal with respect to which it can be judged and compared to other alternatives. I shall show in the next section that the basis of all goals is life, a state that gives rise to and requires the pursuit of values. In this light, we see that volition is meaningless without the standard of value (i.e. life), which means the standard of action is, fundamentally, the standard of value.
 
 # Exploring the nature of purpose, goals, values and life
 Steps taken for the exploration:
@@ -115,7 +113,7 @@ The goal of an entity is the self-driven pursuit of a potential within a broader
 
 **EPISTEMOLOGICAL NOTE ON "GOAL"**:
 
-The purpose of the concept of "goal" is to distinguish between a cause in a broader sense from a cause that is derived from an entity that is essentially self-driven within a set of constraints. Where does the need for such a distinction come from? I posit that it first comes from the distinction between “coincidental” and “intentional” actions or occurrences. To clarify, consider these observations: (1) Our conscious actions are always with respect to a potential that we already identify in some form and already orient ourselves toward before we pursue it. (2) We also see such actions in other conscious beings. Furthermore, (3) we observe that the pursuit of such potential is ongoing and interrelated with other such pursuits, i.e. we pursue some things for the sake of other things and ultimately for the sake of a goal that is its own goal (i.e. an end in itself). Lastly, (4) we observe that certain characteristics that separate conscious actions from natural causes, i.e. the characteristics of being self-contained, potential-oriented, interrelated and continuous until failure, are present in the characteristic actions of all living beings, not just conscious beings. These observations point to the existence of a fundamentally distinct kind of causation, i.e. final causation, i.e. a goal-orientation.
+The purpose of the concept of "goal" is to distinguish between a cause in a broader sense from a cause that is derived from an entity that is essentially self-driven within a set of constraints. Where does the need for such a distinction come from? I posit that it first comes from the distinction between "coincidental" and "intentional" actions or occurrences. To clarify, consider these observations: (1) Our conscious actions are always with respect to a potential that we already identify in some form and already orient ourselves toward before we pursue it. (2) We also see such actions in other conscious beings. Furthermore, (3) we observe that the pursuit of such potential is ongoing and interrelated with other such pursuits, i.e. we pursue some things for the sake of other things and ultimately for the sake of a goal that is its own goal (i.e. an end in itself). Lastly, (4) we observe that certain characteristics that separate conscious actions from natural causes, i.e. the characteristics of being self-contained, potential-oriented, interrelated and continuous until failure, are present in the characteristic actions of all living beings, not just conscious beings. These observations point to the existence of a fundamentally distinct kind of causation, i.e. final causation, i.e. goal-orientation.
 
 ---
 
@@ -133,35 +131,13 @@ A goal — like any action, state or potential — is a goal of an entity. If th
 ## The nature of a goal that is an end in itself
 If a goal is an end in itself, then logically, it is a means to itself, i.e. its achievement is a necessary condition (though not necessarily a sufficient condition) for its own further achievement. Now, every entity that is goal-driven by itself must have goals that are ends in themselves and are the basis of every other goal of the entity. Hence, a living entity is necessarily a goal-driven entity, since life is an end in itself. But can a non-living entity also be a goal-driven entity? Consider if it can.
 
-Let X be a non-living entity with some goal G that is an end in itself. Then, given the other necessary conditions, achieving G is a sufficient condition for further achieving G. Hence, given the other necessary conditions, achieving G sustains the existence of X so that it further achieves G. In other words, since X produces self-generated action to pursue G and since the pursuit of G sustains itself — given the other necessary conditions — we have that X is an entity capable and oriented toward self-generated, self-sustaining action. In other words, X is alive. Hence, we have that every goal-driven entity is a living entity and vice versa.
+Let X be a non-living entity with some goal G that is an end in itself. Then, given the other necessary conditions, achieving G is a sufficient condition for further achieving G. Hence, given the other necessary conditions, achieving G sustains the existence of X so that it further achieves G. In other words, since X produces self-generated action to pursue G and since the pursuit of G sustains itself — given the other necessary conditions — we have that X is an entity capable of and oriented toward self-generated, self-sustaining action. In other words, X is alive. Hence, we have that every goal-driven entity is a living entity and vice versa.
 
 ## Life as the only end in itself
 We see that life is an end in itself, but is life the only end in itself? Consider the nature of a goal that is an end in itself. If any entity has such a goal, then necessarily, the pursuit of the goal sustains the entity's own existence, given the other necessary conditions. In other words, such a goal is necessarily a self-sustaining goal, i.e. a goal that — given the other necessary conditions — sustains the existence of the entity pursuing it. But this is exactly what life is: self-generated, self-sustaining action. In other words, an end in itself is indistinguishable from life, i.e. it has to be life in some form. Hence, life is indeed the only end in itself.
 
-## The nature of life as the basis for goals and values
-Let us now further consider the nature of life itself. As defined previously, life is the self-generated, self-sustaining action of an entity. Now, observe that the concept of “self-sustaining action” implies a need; if there were no need, self-sustenance would be inapplicable since the entity's existence would be unconditional (i.e. not dependent) on the entity's own actions. Furthermore, a need implies the seeking of material from the environment; if doing so was not necessary, there would be no “need” to begin with. Hence, for the sake of clarity, we can further describe life as the self-generated, self-sustaining action of an entity seeking, gaining and using material from its environment to sustain itself further. In other words, a living entity is an entity that (1) needs material from its environment to sustain itself further, and (2) seeks, gains and uses it to do so. In other words, the fact of life makes values possible and necessary, which means the goal-driven actions of the goal-driven entity are essentially the pursuit of values.
-
-## Summary
-A living being is the only kind of entity that can hold a goal that is an end in itself, and hence, it is the only kind of entity that can be goal-driven fundamentally. Of course, there can be entities that pursue the goals set by a goal-driven entity; such other entities (e.g. machines, programs, automatons, etc.) may be considered “goal-driven” in the derivative sense, i.e. in the sense that they have goals that are ultimately derived from goal-driven entities. However, even such entities presuppose an entity that actually has an end in itself, i.e. an entity that is actually alive. The last key point is that life is the only end in itself, the ultimate value, and thus, the basis of every other goal and value.
-
----
-
-**EPISTEMOLOGICAL MISTAKES IN PROVING LIFE AS THE STANDARD OF VALUE**:
-
-This is an important epistemological discussion on the potential conceptual and logical mistakes that must be avoided in any proof, with the proof of life as the standard of value taken as the case study. Check the discussion [here](https://pranigopu.github.io/philosophy/ethics/epistemological-mistakes-in-proving-life-as-the-standard-of-value.html).
-
----
-
-# The value of life as an expression of reality's absolutes
-Metaphysically, reality is the absolute. Epistemologically, reason is the absolute. With reality and reason as our context, we observe that the question of how to act only comes up if we can act and have a reason to act, i.e. if we can have and pursue values. A value is the basis of self-generated cause as opposed to causal coincidence. As we have seen, the objective source of value is life, which is — by its nature — the ultimate value, and thus, the standard of value.
-
-In essence, the value of life is the affirmation of existence. Existence has no alternative; non-existence is not a separate realm of values competing with existence. The question, "Why to affirm existence?" is invalid as there is nothing to affirm — fundamentally — but existence. To reject life as the standard of value is to reject existence as such and thus reject values as such, to pursue the non-existent, the unreal — the zero. We may choose to end our existence or place our existence at risk, and there may (in many cases) be good reasons to do so (as we shall see later). But to reject life as the standard is to have and pursue no values ultimately. It is either-or; either life as the ultimate value or self-destruction as the ultimate end (which, incidentally, you can never reach since you will cease to exist before you do).
-
-# What it means "to live"
-## Expanding on the concept of life
-_Life is the only end in itself. From this and from observations on living beings, we get the following_...
-
-Life is the self-generated, self-sustaining action of an entity. Observe that the concept of "self-sustaining action" implies a need; if there were no need, self-sustenance would be inapplicable since the entity's existence would be unconditional (i.e. not dependent) on the entity's own actions. Furthermore, a need implies the seeking of matter from the environment; if doing so was not necessary, there would be no “need” to begin with. Hence, for the sake of clarity, we can further describe life as the self-generated, self-sustaining action of an entity seeking, gaining and using matter from its environment to sustain itself further. In other words, a living entity is an entity that (1) needs matter from its environment to sustain itself further, and (2) seeks, gains and uses it to do so.
+## Expanding on the basic nature of life
+As defined previously, life is the self-generated, self-sustaining action of an entity. Now, observe that the concept of "self-sustaining action" implies a need; if there were no need, self-sustenance would be inapplicable since the entity's existence would not depend on the entity's own actions. Furthermore, a need implies that the entity seeks something apart from its current state (e.g. potential internal states, potential external conditions, material from the environment, etc.). Hence, for the sake of clarity, we can further describe life as the self-generated, self-sustaining action of an entity seeking, gaining and using something apart from its current state to sustain itself further. In other words, a living entity is an entity that (1) needs something apart from its current state to sustain itself further, and (2) seeks, gains and uses it to do so. In other words, the fact of life is what gives rise to values and makes their pursuit necessary. Since life itself is a value and since it gives rise to every other value, the goal-driven actions of the goal-driven entity are essentially the pursuit of values.
 
 ---
 
@@ -170,15 +146,27 @@ Life is the self-generated, self-sustaining action of an entity. Observe that th
 - Self-generated ⇒ Primary cause of interaction is its own action
 - Self-sustaining ⇒ Effect of action is the sustenance of the capacity for the action
 
-**NOTE**: _"Primary cause" is defined in the next subsection._
-
 ---
 
 Self-generation separates a living entity from an entity that interacts with its environment to be what it is in such a way that none of the actions (neither from the entity itself nor from the environment) are primary causes (i.e. none precede the other). Hence, a living entity is different from, say, a body of water (whose existence is sustained by certain conditions and thus certain kinds of interactions with its environment, such as the pressure, movement and temperature of air) or a tornado (whose existence is inseparable from specific wind and dust movements in the environment).
 
 Self-sustenance separates a living entity from an entity that may have self-generated action but has no need or means of furthering its own existence. Hence, a living entity is different from, say, a machine or an atom. A living being, thus, is the only kind of entity that faces an alternative with respect to its existence; a non-living thing faces no such alternative either because its existence is unconditional or because it has no means of furthering its existence (hence, the question of alternative does not arise with respect to its own self-generated actions).
 
-## Life as a volitional being
+## Summary
+A living being is the only kind of entity that can hold a goal that is an end in itself, and hence, it is the only kind of entity that can be goal-driven fundamentally. Of course, there can be entities that pursue the goals set by a goal-driven entity; such other entities (e.g. machines, programs, automatons, etc.) may be considered "goal-driven" in the derivative sense, i.e. in the sense that they have goals that are ultimately derived from goal-driven entities. However, even such entities presuppose an entity that actually has an end in itself, i.e. an entity that is actually alive. The last key point is that life is the only end in itself, the ultimate value, and thus, the basis of every other goal and value.
+
+---
+
+**EPISTEMOLOGICAL MISTAKES IN PROVING LIFE AS THE STANDARD OF VALUE**:
+
+This is an important epistemological discussion on the potential conceptual and logical mistakes that must be avoided in any proof, with the proof of life as the standard of value taken as the case study. Check the discussion [here](https://pranigopu.github.io/philosophy/ethics/epistemological-mistakes-in-proving-life-as-the-standard-of-value.html).
+
+# The value of life as an expression of reality's absolutes
+Metaphysically, reality is the absolute. Epistemologically, reason is the absolute. With reality and reason as our context, we observe that the question of how to act only comes up if we can act and have a reason to act, i.e. if we can have and pursue values. A value is the basis of self-generated cause as opposed to causal coincidence. As we have seen, the objective source of value is life, which is — by its nature — the ultimate value, and thus, the standard of value.
+
+In essence, the value of life is the affirmation of existence. Existence has no alternative; non-existence is not a separate realm of values competing with existence. The question, "Why to affirm existence?" is invalid as there is nothing to affirm — fundamentally — but existence. To reject life as the standard of value is to reject existence as such and thus reject values as such, to pursue the non-existent, the unreal — the zero. We may choose to end our existence or place our existence at risk, and there may (in many cases) be good reasons to do so (as we shall see later). But to reject life as the standard is to have and pursue no values ultimately. It is either-or; either life as the ultimate value or self-destruction as the ultimate end (which, incidentally, you can never reach since you will cease to exist before you do).
+
+# Life as a volitional being
 _First, some definitions_...
 
 **Potential**:
@@ -197,7 +185,7 @@ If X is the primary potential of Y, then the primary causes of the identity of Y
 
 _Back to the discussion_...
 
-Observe that a living being needs matter from its environment to sustain its existence, but it is also capable of seeking, gaining and using it to do so, given that (1) the conditions support its existence, and (2) the environment has the matter it needs to further its existence. For a living being, hence, the primary potential offered by reality itself is its own existence.
+Observe that a living being needs values it does not already have to sustain its existence, but it is also capable of seeking, gaining and using it to do so, given that (1) the conditions support its existence, and (2) the conditions support its pursuit of values (e.g. it has the capacity to change its own attributes to achieve the desired internal state, it has the capacity to change its environment to achieve the desired external conditions, the environment has the material it needs to further its existence, etc.). For a living being, hence, the primary potential offered by reality itself is its own existence.
 
 A conscious being is a being that needs to perceive existence to sustain itself. To perceive is to retain specific interactions with the environment and use what is retained to act to realise a specific potential. For a conscious being, the primary potential offered by reality itself is its own existence; hence, a conscious being needs to perceive to act to sustain itself and is capable of doing so. In other words, a conscious being is a living being that can and must perceive reality.
 
@@ -211,11 +199,11 @@ Reality is not unknowable but unknown; even when we understand a lot about reali
 
 _Additional point_...
 
-For someone to say they “live for X” is a misunderstanding. In fact, they pursue X to live because, in their context, X is what enables them to pursue life volitionally. By the nature of life, values cannot exist unless life is the ultimate value, and life cannot be a means to some other value.
+For someone to say they "live for X" is a misunderstanding. In fact, they pursue X to live because, in their context, X is what enables them to pursue life volitionally. By the nature of life, values cannot exist unless life is the ultimate value, and life cannot be a means to some other value.
 
 # Further discussion on life and value
 ## "Gaining" an absence or a negative
-When we talk of gaining values, one may use the word “gain” in the sense of achieving the absence of a value. To avoid such ambiguity, I clarify my use of the word “gain” as follows — to gain is to gain something as opposed to nothing, and thus, you can gain only values, not their absence. For this reason, you cannot gain the negation of a value, because such a negation is based on reaching the absence of the value. This is why things like “death” or “self-destruction” cannot be “gained”, because these are either the absence of values or based on reaching the absence of values (hence baseless in terms of values). Achieving death or self-destruction can be goals, but death and self-destruction themselves cannot be values, since no living entity can achieve them; any entity acting to achieve them ceases to exist before it can.
+When we talk of gaining values, one may use the word "gain" in the sense of achieving the absence of a value. To avoid such ambiguity, I clarify my use of the word "gain" as follows — to gain is to gain something as opposed to nothing, and thus, you can gain only values, not their absence. For this reason, you cannot gain the negation of a value, because such a negation is based on reaching the absence of the value. This is why things like "death" or "self-destruction" cannot be "gained", because these are either the absence of values or based on reaching the absence of values (hence baseless in terms of values). Achieving death or self-destruction can be goals, but death and self-destruction themselves cannot be values, since no living entity can achieve them; any entity acting to achieve them ceases to exist before it can.
 
 ## The good as the standard of evaluation
 **_Draws from the above subsection_**
