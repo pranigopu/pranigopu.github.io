@@ -46,7 +46,7 @@ A thing, as opposed to nothing, exists. A "thing" may be anything that exists. E
 
 **Fact**:
 
-A fact is that which corresponds to reality; at the most basic level, facts are discovered by the act of awareness itself for self-evident, perceptual objects. In general, a fact is of anything that exists, ex. an entity, an event, a system, an attribute, an abstraction, etc. Note that things are what they are, i.e. reality is what it is; it is up to us to find the facts based on any observations and valid conceptual framework we may hold. Note that "validity" is with respect to our existing base of knowledge (i.e. facts and integrations of facts).
+A fact is that which corresponds to reality; at the most basic level, facts are discovered by the act of awareness itself for self-evident, perceptual objects. In general, a fact is of anything that exists, e.g. an entity, an event, a system, an attribute, an abstraction, etc. Note that things are what they are, i.e. reality is what it is; it is up to us to find the facts based on the observations, concepts and generalisations we hold. Note that "validity" is with respect to our existing base of knowledge (i.e. facts and integrations of facts).
 
 **Identity**:
 
@@ -128,7 +128,7 @@ The concept of causality can be applied to entities as such (rather than just ac
 
 ---
 
-**NOTE 1**: Given that everything that exists is a part of reality that exists in a certain context (i.e. with respect to certain facts), a cause is not merely the actions of a set of entities, but the actions of a set of entities in a certain context (i.e. with respect to certain facts, ex. conditions, relationships, etc.).
+**NOTE 1**: Given that everything that exists is a part of reality that exists in a certain context (i.e. with respect to certain facts), a cause is not merely the actions of a set of entities, but the actions of a set of entities in a certain context (i.e. with respect to certain facts, e.g. conditions, relationships, etc.).
 
 **NOTE 2**: The law of causality is a necessary, inseparable implication of the law of identity; you cannot have identity without causality. To go even further, causality is inherent in the very fact of existence; no part of existence exists nor can exist beyond causality.
 
