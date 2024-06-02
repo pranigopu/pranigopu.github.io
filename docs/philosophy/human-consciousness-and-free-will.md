@@ -123,7 +123,7 @@ If we were determined only by factors outside our control, then we would be unab
 
 ## Arguments against determinism
 ### Basis of validation
-If we have no free will, nothing we do is determined by us, including the basic act of focusing our awareness. Every thought is the result of influences beyond our control, and thus, its validation is also beyond our control. If so, we are then unable even to tell truth from falsehood, and hence, validation becomes impossible (meaningless, in fact). In short, the very idea of validation presupposes the ability to direct one's focus and choose to pursue the truth rather than deny the evidence. Even to "prove" determinism you need to accept and use free will as a given, which makes determinism a self-defeating position.
+If we have no free will, nothing we do is determined by us, including the basic act of focusing our awareness. Every thought is the result of influences beyond our control, and thus, its validation is also beyond our control. If so, we are then unable even to tell truth from falsehood, and hence, validation becomes impossible (meaningless, in fact). In short, the very idea of validation presupposes the ability to direct one's focus toward the truth and away from the arbitrary and the false; knowledge beyond the perceptual level is not automatic. Even to "prove" determinism you need to accept and use free will as a given, which makes determinism a self-defeating position.
 
 ### Basis of knowledge as self-evidence
 How do you know we have no free will? Ultimately, your knowledge — as all knowledge — is reducible to self-evident experience. But so is the experience of your own volition. You cannot deny the basis of knowledge while claiming knowledge yourself.
