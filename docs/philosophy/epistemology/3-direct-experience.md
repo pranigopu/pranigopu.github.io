@@ -17,7 +17,7 @@
 
 ---
 
-Direct experience is the irreducible experience of reality (irreducible in terms of conscious units). In this document, I shall discuss first discuss experience in general. Then, I shall delve into the direct experience of external stimuli (sense-perception), the automatic retention and integration of sensations (perception). Lastly, I shall delve into the direct experience of mental states.
+Direct experience is the irreducible experience of reality (irreducible in terms of conscious units). In this document, I shall first discuss experience in general. Then, I shall delve into the direct experience of external stimuli (sense-perception), the automatic retention and integration of sensations (perception). Lastly, I shall delve into the direct experience of mental states.
 
 # Validating the experience of reality
 **KEY SOURCE**: [Objectivism on the Validity of the Senses by Leonard Peikoff, part 48 of 50](https://youtu.be/f7PgOkXNyC4?si=UPk6NdcKfq5s5dYM)
