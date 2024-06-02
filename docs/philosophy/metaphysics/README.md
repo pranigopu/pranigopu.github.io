@@ -34,7 +34,7 @@ Since axioms are the basis of proof, axioms themselves cannot be proved. In part
 
 **Short note on "proof" and "validation"**:
 
-Validation is the process of showing that an idea or a statement is or refers to a part of reality, i.e. that it is fact. Proof is a kind of validation that uses logic (i.e. the method of applying the law of identity and its corollaries). Logic relies on axioms which cannot be themselves subjected to logic (as they are the base of logic, logic presupposes them). But we can show that these axioms correspond to reality through (1) ostensive definitions (pointing and showing, i.e. relying on self-evident facts that any consciousness can turn its focus to and grasp) and (2) the process of showing it as inescapable through "reaffirmation through denial" (i.e. show that the axiom is relied upon even when trying to deny it).
+Validation is the process of showing that an idea or a statement is or refers to a part of reality, i.e. that it is fact. Proof is a kind of validation that uses logic (i.e. the method of applying the law of identity and its corollaries). Logic relies on axioms which cannot themselves be subjected to logic (as they are the base of logic, logic presupposes them). But we can show that these axioms correspond to reality through (1) ostensive definitions (pointing and showing, i.e. relying on self-evident facts that any consciousness can turn its focus to and grasp) and (2) the process of showing it as inescapable through "reaffirmation through denial" (i.e. show that the axiom is relied upon even when trying to deny it).
 
 ---
 
