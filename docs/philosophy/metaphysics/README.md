@@ -8,7 +8,7 @@
 - [Key definitions](#key-definitions)
 - [Self-evidence](#self-evidence)
   - [Awareness is and knowledge is](#awareness-is-and-knowledge-is)
-  - [Knowledge is knowledge of that which is](#knowledge-is-knowledge-of-that-which-is)
+  - [Knowledge presupposes that what is, is](#knowledge-presupposes-that-what-is-is)
   - [What is, is, and what is not, is not](#what-is-is-and-what-is-not-is-not)
 - [Axiom 1: Existence exists](#axiom-1-existence-exists)
 - [_The axiomatic fact of consciousness_](#the-axiomatic-fact-of-consciousness)
@@ -70,10 +70,10 @@ The self-evident is the opposite of the arbitrary; the self-evident is inherent 
 ## Awareness is and knowledge is
 To be aware of something is to perceive and thereby affirm that it is, i.e. that it exists. To know something is to affirm that it is, i.e. that it exists. Hence, _awareness is a form of knowledge and awareness (being prior to any other knowledge) is where knowledge begins_. Now, awareness is; if it not, nothing is affirmed or denied, i.e. nothing is said. To the extent that something is said, to that extent I affirm that awareness is, i.e. that I am aware. Hence, since awareness is a form of knowledge, to the extent that I am aware, knowledge is, i.e. to the extent that I am aware, I know something and never nothing.
 
-## Knowledge is knowledge of that which is
+## Knowledge presupposes that what is, is
 If knowing Y depends on knowing X, then I must affirm that X is, before affirming that Y is. However, at some point, we can affirm what is without affirming anything else. Why? Consider: if what I know has infinite priors (i.e. things I must know before knowing what I know), then I know nothing, since I cannot know the prior that comes before all else. But I cannot know nothing. Why? Because to know nothing is to affirm nothing, but anything that meets my awareness is something that I affirm by the very fact of my awareness of it. If nothing meets my awareness, I am not aware of anything and hence am not aware. But I am, since to the extent that something is said, to that extent I affirm that awareness is, i.e. that I am aware.
 
-Hence, what I know begins at the affirmation that what is, is. To the extent that I know anything and to the extent that I am aware of anything, to that extent I affirm and cannot but affirm that what is, is. To deny the affirmation is to say that what is not, is or that what is, is not. Here, either I affirm nothing or I affirm something. But something that is, is. Hence, to the extent that I affirm anything, to that extent I affirm that what is, is, whatever I say to deny it. To the extent that I accept that "what is not, is" or that "what is, is not", to that extent I accept nothing. Hence, to affirm anything is to affirm that what is, is. To accept that "what is not, is" or that "what is, is not", is, to accept nothing and affirm nothing; what more is there to say? Hence, knowledge is only knowledge of that which is.
+Hence, what I know begins at the affirmation that what is, is. To the extent that I know anything and to the extent that I am aware of anything, to that extent I affirm and cannot but affirm that what is, is. To deny the affirmation is to say that what is not, is or that what is, is not. Here, either I affirm nothing or I affirm something. But something that is, is. Hence, to the extent that I affirm anything, to that extent I affirm that what is, is, whatever I say to deny it. To the extent that I accept that "what is not, is" or that "what is, is not", to that extent I accept nothing. Hence, to affirm anything is to affirm that what is, is. To accept that "what is not, is" or that "what is, is not", is, to accept nothing and affirm nothing; what more is there to say? Hence, knowledge presupposes that what is, is.
 
 ## What is, is, and what is not, is not
 As previously said, to affirm is to affirm that "what is, is", and to accept that "what is not, is" or that "what is, is not" is to accept nothing. Hence, we know that what is, is, and what is not, is not and can be nothing. Hence, we get the self-evident basis for all that exists and all that we can know about it.
