@@ -5,10 +5,10 @@
 **Contents**:
 
 - [Introduction](#introduction)
-- [Key concepts of human consciousness](#key-concepts-of-human-consciousness)
-- [The self-evident basics](#the-self-evident-basics)
+- [Key concepts of consciousness](#key-concepts-of-consciousness)
+- [Metaphysical context](#metaphysical-context)
 - [The locus of the self](#the-locus-of-the-self)
-- [More key features of our consciousness](#more-key-features-of-our-consciousness)
+- [Key features of my consciousness](#key-features-of-my-consciousness)
   - [Self-awareness](#self-awareness)
   - [What does it mean to be aware of consciousness?](#what-does-it-mean-to-be-aware-of-consciousness)
   - [Focus of awareness](#focus-of-awareness)
@@ -39,7 +39,7 @@ _The question of free will is the central question_...
 
 In epistemology, I went over the basics of the relationship between reality and consciousness. However, implicit in the discussion on concept-formation was the idea that we can direct our own awareness toward the factual and away from the false and arbitrary. After all, reason depends on such ability. Hence, we see that validating free will is central to reaching and validating the principles of human cognition. In ethics, I take for granted that we have the capacity to choose our broad course of actions (i.e. not everything is within choice, but choices are relevant in the long-run). Without such a capacity, no code of values, virtues and principles would be necessary since no choice would be possible. Hence, we see that validating free will is central to reaching and validating the principles of human action, and thus, it is central to validating ethics. Of course, before getting to free will, we have to first establish the facts about human consciousness on which it is predicated.
 
-# Key concepts of human consciousness
+# Key concepts of consciousness
 
 **Perception**:
 
@@ -81,29 +81,31 @@ Since the fundamental feature of X in a given context is the fundamental factor 
 
 _Back to the discussion_...
 
-# The self-evident basics
-Existence exists, and we are conscious of it. Furthermore, everything that exists is something in particular, i.e. something that has a particular identity — this also applies to our consciousness, i.e. our consciousness also has a particular identity. In other words, we are conscious of something through a particular form of awareness. Furthermore, as discussed in metaphysics, existence exists independently of consciousness because consciousness is the faculty of awareness, i.e. the faculty of perceiving that which exists. 
+# Metaphysical context
+_The metaphysical context draws from_ [Metaphysics](https://pranigopu.github.io/philosophy/metaphysics).
 
-Note that (1) awareness is a necessary feature of consciousness, and (2) awareness is also sufficient to validate the existence of consciousness in the context of direct experience (which is the foundational context of knowledge, since all knowledge draws from direct experience). Hence, awareness is a fundamental feature of consciousness, i.e. the fact of awareness integrates the essence of what consciousness is and does.
+Existence exists, and we are conscious of it. Furthermore, everything that exists is something in particular, i.e. something that has a particular identity — this also applies to our consciousness, i.e. our consciousness also has a particular identity. In other words, we are conscious of something through a particular form of awareness. Furthermore, as discussed in metaphysics, existence exists independently of consciousness because consciousness is the faculty of awareness, i.e. the faculty of perceiving that which exists. 
 
 **NOTE**: _Existence, identity and consciousness are self-evident facts, i.e. their validation lies in the fact of existence itself; trying to refute them would be a self-defeating exercise._
 
 # The locus of the self
 _Locus of X_ ⇒ _Core source of the identity of X_
 
-When I refer to myself, what am I talking about? In essence, I am talking about the fact and faculty of my awareness of existence. Now, note that it is self-evident that I exist, i.e. I am aware of existence. Since my awareness of the fact that I am aware is both necessary and sufficient to validate my existence, and since awareness is the active state (i.e. the state of sustained action) of consciousness, the fundamental feature of the self is consciousness. By "fundamental feature" here, I mean the feature that unites all of the features that form my identity as a conscious being. Also note that "consciousness" does not refer to a disembodied abstraction but a _faculty_, i.e. a _capacity_ of an entity (hence, an action of consciousness is an action of the entity using the capacity given by consciousness).
+When I refer to myself, what am I talking about? In essence, I am talking about the fact and faculty of my awareness of existence. Now, note that it is self-evident that I exist, i.e. I am aware of existence. What is necessary and sufficient to validate my own existence? Without awareness, I cannot identify anything, let alone the fact that I exist. Now, my awareness of the fact that I am aware gives me the direct knowledge of my own existence, i.e. the fact of my existence is self-evident to my awareness. Hence, my awareness is also sufficient to validate my existence. Since my awareness is necessary and sufficient to validate my existence, and since awareness is the active state (i.e. the state of sustained action) of consciousness, the fundamental feature of my self is consciousness. By "fundamental feature" here, I mean the feature that unites all of the features that form my identity as a conscious being. Also note that "consciousness" does not refer to a disembodied abstraction but a _faculty_, i.e. a _capacity_ of an entity (hence, an action of consciousness is an action of the entity using the capacity given by consciousness).
 
 As an entity, I am not only my consciousness since my consciousness and my body are parts of an integrated whole. Hence, I am a being of integrated mind (i.e. consciousness and its apparatus) and body (i.e. the physical components integrated with my apparatus of consciousness). Nevertheless, given that my consciousness is my fundamental feature as a conscious being, the locus of the self lies in consciousness, i.e. the faculty of awareness.
 
-# More key features of our consciousness
+# Key features of my consciousness
+**NOTE**: _Right now, the discussion is more introspective. I do not mean to generalise for all kinds of consciousness, only the kind that I possess. Since my own consciousness can be grasped by me by direct observation, it is the right epistemological starting point to understanding consciousness. Such an understanding would form the basis by which I can differentiate between different kinds of consciousnesses and thereby get a more generalised view of what consciousness involves._
+
 ## Self-awareness
-Consciousness is a fundamental feature of the self, and hence, one's awareness of reality is a key factor in one's actions as a conscious being. Furthermore, the recognition of the fact that one is conscious demonstrates self-awareness, i.e. awareness of one's own consciousness. Hence, if one is capable of self-awareness, one's awareness of one's own consciousness is also a key factor in one's actions. Given that we are aware of our awareness (which is how we validate our existence), our consciousness is a self-aware consciousness.
+Consciousness is a fundamental feature of the self, and hence, one's awareness of reality is a key factor in one's actions as a conscious being. Furthermore, the recognition of the fact that one is conscious demonstrates self-awareness, i.e. awareness of one's own consciousness. Hence, if one is capable of self-awareness, one's awareness of one's own consciousness is also a key factor in one's actions. Given that I am aware of my awareness (which is how I validate my existence), my consciousness is a self-aware consciousness.
 
 ## What does it mean to be aware of consciousness?
-Consciousness is not self-identified by its physical apparatus but by the processes that sustain it, the most fundamental of which is awareness itself. Furthermore, we observe that we have inner motives that guide our conscious processes and actions. Since we can be aware of our own conscious processes, we can observe our motives through their effects on our consciousness (ex. thoughts, feelings, impulses, etc.).
+Consciousness is not self-identified by its physical apparatus but by the processes that sustain it, the most fundamental of which is awareness itself. Furthermore, I observe that I have inner motives that guide my conscious processes and actions. Since I can be aware of my own conscious processes, I can observe my motives through their effects on my consciousness (ex. thoughts, feelings, impulses, etc.).
 
 ## Focus of awareness
-Consciousness, i.e. the faculty of awareness is finite, and thus, awareness of something is necessarily the awareness of some thing or things in particular while omitting other things from awareness. In other words, our awareness is focused. What directs this focus? _This is the topic of the next section._
+Consciousness, i.e. the faculty of awareness is finite, and thus, awareness of something is necessarily the awareness of some thing or things in particular while omitting other things from awareness. In other words, my awareness is focused. What directs this focus? _This is the topic of the next section._
 
 # Free will
 **NOTE**: _I consider "volition", "free will" and "self-determination" as synonymns._
