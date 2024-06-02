@@ -106,7 +106,7 @@ Consciousness is not self-identified by its physical apparatus but by the proces
 Consciousness, i.e. the faculty of awareness is finite, and thus, awareness of something is necessarily the awareness of some thing or things in particular while omitting other things from awareness. In other words, our awareness is focused. What directs this focus? _This is the topic of the next section._
 
 # Free will
-**NOTE**: _I consider "volition" and "free will" as synonymns._
+**NOTE**: _I consider "volition", "free will" and "self-determination" as synonymns._
 
 ## Basis of free will
 The precondition for awareness and hence consciousness is perception, which is automatic and cannot be first initiated by awareness since it is the basis of awareness. However, after perception, we observe that we act based on our awareness, our other conscious processes and our motives. Further, we also observe that our conscious processes and our motives are themselves open to our awareness. In other words, our conscious actions are fundamentally subjectable to our awareness, which is the active state (i.e. the state of sustained action) of our consciousness. Hence, since our consciousness is the locus of the self, it is our self that guides our conscious actions. Our self includes the physical apparatus and the body integrated with our consciousness, and we observe that our conscious physical actions are based on our conscious mental actions (which are based on our awareness). In other words, we are self-determined both cognitively and physically.
