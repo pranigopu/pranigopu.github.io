@@ -9,7 +9,7 @@
 - [Self-evidence](#self-evidence)
   - [Awareness is and knowledge is](#awareness-is-and-knowledge-is)
   - [Knowledge is knowledge of that which is](#knowledge-is-knowledge-of-that-which-is)
-  - [What is, is and what is not, is not](#what-is-is-and-what-is-not-is-not)
+  - [What is, is, and what is not, is not](#what-is-is-and-what-is-not-is-not)
 - [Axiom 1: Existence exists](#axiom-1-existence-exists)
 - [_The axiomatic fact of consciousness_](#the-axiomatic-fact-of-consciousness)
 - [Axiom 2: The law of identity](#axiom-2-the-law-of-identity)
@@ -75,7 +75,7 @@ If knowing Y depends knowing X, then I must affirm that X is, before affirming t
 
 Hence, what I know begins at the affirmation that what is, is. To the extent that I know anything and to the extent that I am aware of anything, to that extent I affirm and cannot but affirm that what is, is. To deny the affirmation is to say that what is not, is. Here, either I affirm nothing or I affirm something. But something that is, is. Hence, to the extent that I affirm anything, to that extent I affirm that what is, is, whatever I say to deny it. To the extent that I accept that what is not, is, to that extent I accept nothing. Hence, to affirm anything is to affirm that what is, is. To affirm nothing is to affirm nothing; what more is there to say? To accept that what is not, is, is, to accept nothing and affirm nothing; what more is there to say? Hence, the root of anything
 
-## What is, is and what is not, is not
+## What is, is, and what is not, is not
 As previously said, to affirm is to affirm that "what is, is" and to accept that "what is not, is" is to accept nothing. Hence, we know that what is, is, and what is not, is not and can be nothing. Hence, we get the self-evident basis for all that exists and all that we can know about it.
 
 # Axiom 1: Existence exists
