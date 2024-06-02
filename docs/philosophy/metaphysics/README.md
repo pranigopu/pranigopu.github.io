@@ -15,7 +15,7 @@
 - [Axiom 2: The law of identity](#axiom-2-the-law-of-identity)
   - [Non-contradiction](#non-contradiction)
   - [Existence is identity](#existence-is-identity)
-  - [Note on the application of the concept of identity](#note-on-the-application-of-the-concept-of-identity)
+  - [Application of the concept of identity](#application-of-the-concept-of-identity)
   - [The principle of causality](#the-principle-of-causality)
 - [The primacy of existence](#the-primacy-of-existence)
 - [Additional points in metaphysics](#additional-points-in-metaphysics)
@@ -110,10 +110,12 @@ The previous paragraphs point to the fact that to exist is to be something, i.e.
 
 **NOTE**: _The law of identity does not logically depend on the axiom of existence; there can be no logical dependence in the truths that presuppose logic. Rather, the axioms are the same one self-evident truth affirmed explicitly in two ways: one way affirms the fact of existence for all particulars together (the axiom of existence), the other way affirms the fact of existence for any given particular (the law of identity)._
 
-## Note on the application of the concept of identity
-To expand on the concept of identity, note that a thing cannot have contradictory attributes, i.e. attributes that negate each other. Furthermore, a thing can have neither more attributes than its identity allows nor less attributes than its identity demands. For example, observing that the presence of a colour negates the presence of other colours in a given space, we can say that an object cannot be all red and all green at the same time. Similarly, observing that various attributes of a stone and a leaf contradict each other (e.g. a stone is rigid and hard while a leaf is flexible and soft, a stone does not grow from plants while a leaf is a vital part of a plant, etc.), we can say that an object cannot be a stone and a leaf at the same time.
+## Application of the concept of identity
+To expand on the concept of identity, note that a thing cannot have contradictory attributes, i.e. attributes that negate each other. Furthermore, a thing can have neither more attributes than its identity allows nor less attributes than its identity demands.
 
-Now, consider the example of a light bulb. Saying that a light bulb is also an ornament does not contradict its identity, because its use as an ornament involves some subset of its existing attributes, such as solidity, aesthetics, etc., and no contradicting attributes. Now, note that it would be wrong to state that a light bulb is only an ornament, because it would omit a variety of existing attributes demanded by its identity. Similarly, it would be wrong to call every ornament a light bulb, because an ornament may not have the required attributes to be a light bulb.
+For example, observing that the presence of a colour negates the presence of other colours in a given space, we can say that an object cannot be all red and all green at the same time. Similarly, observing that various attributes of a stone and a leaf contradict each other (e.g. a stone is rigid and hard while a leaf is flexible and soft, a stone does not grow from plants while a leaf is a vital part of a plant, etc.), we can say that an object cannot be a stone and a leaf at the same time.
+
+As another example, consider a light bulb. Saying that a light bulb is also an ornament does not contradict its identity, because its use as an ornament involves some subset of its existing attributes, such as solidity, aesthetics, etc., and no contradicting attributes. Now, note that it would be wrong to state that a light bulb is only an ornament, because it would omit a variety of existing attributes demanded by its identity. Similarly, it would be wrong to call every ornament a light bulb, because an ornament may not have the required attributes to be a light bulb.
 
 ## The principle of causality
 _First, some definitions_...
