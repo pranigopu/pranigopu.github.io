@@ -55,7 +55,7 @@ The faculty of awareness, i.e. the faculty of perceiving that which exists. Cons
 
 ---
 
-**NOTE: The use of "conscious" and "aware"**:
+**LEXICAL NOTE: The use of "conscious" and "aware"**:
 
 The adjectives "conscious" and "aware" will be used synonymously when referring to state of mind. The term "conscious" does have broader uses, however, such as when referring to the nature of an entity possessing the faculty of awareness.
 
