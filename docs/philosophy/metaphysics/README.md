@@ -6,6 +6,10 @@
 
 - [Introduction](#introduction)
 - [Key definitions](#key-definitions)
+- [Self-evidence](#self-evidence)
+  - [Awareness is and knowledge is](#awareness-is-and-knowledge-is)
+  - [Knowledge is knowledge of that which is](#knowledge-is-knowledge-of-that-which-is)
+  - [What is, is and what is not, is not](#what-is-is-and-what-is-not-is-not)
 - [Axiom 1: Existence exists](#axiom-1-existence-exists)
 - [_The axiomatic fact of consciousness_](#the-axiomatic-fact-of-consciousness)
 - [Axiom 2: The law of identity](#axiom-2-the-law-of-identity)
@@ -58,14 +62,28 @@ _An extra definition for certain discussions_...
 
 Any particular part of active consciousness, such as a particular sensation, perception, concept, thought, emotion, etc.
 
-# Axiom 1: Existence exists
-Existence exists. More precisely, only existence exists, and existence only exists. (1) If not only existence exists, then something outside existence exists. But this must be a part of existence. Therefore, only existence exists. (2) If existence does not only exist, then existence can also not exist. But this would not be existence, and nothing is not something, i.e. there cannot "be" nothing. Therefore, existence only exists.
+# Self-evidence
+**NOTE**: _To affirm something is to accept (either in thought or in action, either explicitly or implicitly) that it exists, i.e. that it is real._
 
-Existence is not an irreducible whole; we exist and are aware of things that exist as a part of existence. Any part of existence, which we shall call a "thing", exists due to the nature of existence itself. Since a thing is a part of existence and not the whole, it is not true that only it exists, because saying so would deny the existence of other things that exist. However, since a thing is a part of existence, it is true that it only exists, because if it does not exist, then it is not a part of existence and hence is not a thing.
+## Awareness is and knowledge is
+To aware of something is to be aware and thereby affirm that it is, i.e. that it exists. To know something is to affirm that it is, i.e. that it exists. Hence, _awareness is knowledge_. Now, awaress is; if it not, nothing is affirmed or denied, i.e. nothing is said. To the extent that something is said, to that extent I affirm that awareness is, i.e. that I am aware. Hence, since awareness is knowledge, to the extent that I am aware, knowledge is, i.e. to the extent that I am aware, I know something and never nothing.
+
+## Knowledge is knowledge of that which is
+If knowing Y depends knowing X, then I must affirm that X is before affirming that Y is. However, at some point, we can affirm what is without affirming anything else. Why? Consider: if what I know has infinite priors (i.e. things I must know before knowing what I know), then I know nothing, since I cannot know the prior that comes before all else. But I cannot know nothing. Why? Because to know nothing is to affirm nothing, but anything that meets my awareness is something that I affirm by the very fact of my awareness of it. If nothing meets my awareness, I am not aware of anything and hence am not aware. But I am, which I know because I affirm that I am.
+
+Hence, what I know begins at the affirmation that what is, is. To the extent that I know anything and to the extent that I am aware of anything, to that extent I affirm and cannot but affirm that what is, is. To deny the affirmation is to say that what is not, is. Here, either I affirm nothing or I affirm something. But something that is, is. Hence, to the extent that I affirm anything, to that extent I affirm that what is, is, whatever I say to deny it. To the extent that I accept that what is not, is, to that extent I accept nothing. Hence, to affirm anything is to affirm that what is, is. To affirm nothing is to affirm nothing; what more is there to say? To accept that what is not, is, is, to accept nothing and affirm nothing; what more is there to say? Hence, the root of anything
+
+## What is, is and what is not, is not
+As previously said, to affirm is to affirm that "what is, is" and to accept that "what is not, is" is to accept nothing. Hence, we know that what is, is, and what is not, is not and can be nothing. Hence, we get the self-evident basis for all that exists and all that we can know about it.
+
+# Axiom 1: Existence exists
+Existence exists. More precisely, only existence exists, and existence only exists. (1) If not only existence exists, then something outside existence exists. But this must be a part of existence. Therefore, only existence exists. (2) If existence does not only exist, then existence also does not exist. But what is, is, and what is not, is not. Therefore, existence only exists.
+
+Existence is not an irreducible whole; we exist and are aware of things that exist as a part of existence. Any part of existence, which we shall call a "thing", exists due to the nature of existence itself. Since a thing is a part of existence and not the whole, it is not true that only it exists, because saying so would deny the existence of other things that exist. However, since a thing is a part of existence, it is true that it only exists, because if it does not exist, then it is not a part of existence and hence is not a thing. After all, what is, is, and what is not, is not.
 
 # _The axiomatic fact of consciousness_
 
-Existence exists and I am aware of it. In other words, there exists a faculty of perceiving that which exists, i.e. there exists consciousness. This is a fundamental, axiomatic (i.e. cognitively irreducible) fact; denying it is self-refuting.
+Existence exists and I am aware of it. In other words, there exists a faculty of awareness, i.e. of perceiving that which exists. In other words, there exists consciousness. This is a fundamental, axiomatic (i.e. cognitively irreducible) fact; denying it is self-refuting, since to deny it would be to deny awareness, which is to deny that what is, is (since awareness is the affirmation of that which is). To deny that "what is, is" is to accept nothing, since to accept something is to accept that it is. Now, to accept nothing is to be unaware, i.e. to take in and hold nothing, which is to say nothing and do nothing. To the extent that I say or do something, to that extent I affirm that I am aware and that there exists a faculty of awanreness, i.e. consciousness. Hence, since to deny is to say something, even in denying consciousness I affirm it.
 
 ---
 
@@ -74,7 +92,7 @@ Existence exists and I am aware of it. In other words, there exists a faculty of
 Consciousness is necessarily the consciousness of something. To say that consciousness need not be conscious of anything is to say that consciousness can be aware of absolutely nothing while still being "conscious". This destroys the very meaning of consciousness, because it makes no distinction between the conscious, the unconscious, and the non-conscious. If this leads you to conclude that there is no consciousness, then you are contradicting the basic, inescapable fact of your own existence. How are you identifying "consciousness" when there is no such thing? How are you identifying "unconsciousness" without being aware of anything, i.e. without having the capacity to identify anything?
 
 # Axiom 2: The law of identity
-A thing is what it is, and this is the law of identity. If a thing is not what it is, it would both exist and not exist at the same time. But as a part of existence, it must only exist; hence, the law of identity is absolute.
+A thing is what it is, and this is the law of identity. If a thing is not what it is, it would both exist and not exist at the same time. But what is, is and what is not, is not. Moreover, as a part of existence, it must only exist. Hence, the law of identity is absolute.
 
 ---
 
