@@ -105,7 +105,7 @@ Sensation as such cannot be the starting point of knowledge, since knowledge req
 
 "_"A perception", in Ayn Rand's definition, "is a group of sensations automatically retained and integrated by the brain of a living organism, which gives it the ability to be aware, not of a single stimuli, but of entities, of things." The important philosophic point of this discussion can be stated simply: "direct experience", according to Objectivism, means the perceptual level of consciousness._" (Excerpt from "Objectivism: The Philosophy of Ayn Rand" by Leonard Peikoff, Chapter 2: "Sense Perception and Volition")
 
-**_Any set of retained sensations necessarily forms perception, since sensations are necessarily retained in some order (spatial and temporal)._**
+**KEY POINT**: _Any set of retained sensations necessarily forms perception, since sensations are necessarily retained in some order (spatial and temporal)._
 
 # Validating the experience of mental states
 The mind is a part of reality that acts or reacts in a certain way and thereby produces certain effects. Consciousness is the aspect of the mind, is integrated to the rest of the mind and thereby is affected by the events that occur in the mind. A consciousnes being affected by the such events is another way of saying that it can experience mental states through some means. Any experience presupposes direct experience, i.e. experience irreducible to other conscious units. Thus, there exist irreducible conscious units that are essentially data regarding one's mental state.
