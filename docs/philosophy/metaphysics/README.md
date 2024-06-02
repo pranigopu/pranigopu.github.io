@@ -42,7 +42,7 @@ Validation is the process of showing that an idea or a statement is or refers to
 
 **Existence**:
 
-A thing, as opposed to nothing, exists. A "thing" may be anything that exists. Existence is the sum of all things that exist and any "thing" is a subset of existence. Note that the term "subset of existence" may — with respect to our knowledge — be known or unknown in size. Also note that "subset" does not refer only to a subset in a perceptual sense, i.e. concretes that can be directly perceived, but also to a subset in a conceptual sense, wherein the subset includes all the known and unknown concretes subsumed under a concept (more on concepts discussed in epistemology).
+A thing, as opposed to nothing, exists. A "thing" may be anything that exists. Existence is the sum of all things that exist and any "thing" is a subset of existence. Note that the term "subset of existence" may be known or unknown in size. Also note that "subset" does not refer only to a subset in a perceptual sense, i.e. concretes that can be directly perceived, but also to a subset in a conceptual sense, wherein the subset includes all the known and unknown concretes subsumed under a concept (more on concepts discussed in epistemology).
 
 **Fact**:
 
