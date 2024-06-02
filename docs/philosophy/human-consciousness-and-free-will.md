@@ -65,7 +65,7 @@ _Some other key definitions_...
 
 **Factor**:
 
-A factor is fact of an entity that is a cause for one or more results.
+A factor is a fact that is a cause for one or more results.
 
 **Fundamental feature**:
 
