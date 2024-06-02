@@ -8,7 +8,7 @@
 - [Key concepts of human consciousness](#key-concepts-of-human-consciousness)
 - [The self-evident basics](#the-self-evident-basics)
 - [The locus of the self](#the-locus-of-the-self)
-- [Fundamental properties of human consciousness](#fundamental-properties-of-human-consciousness)
+- [More key features of our consciousness](#more-key-features-of-our-consciousness)
   - [Self-awareness](#self-awareness)
   - [What does it mean to be aware of consciousness?](#what-does-it-mean-to-be-aware-of-consciousness)
   - [Focus of awareness](#focus-of-awareness)
@@ -91,13 +91,13 @@ Note that (1) awareness is a necessary feature of consciousness, and (2) awarene
 # The locus of the self
 _Locus of X_ ⇒ _Core source of the identity of X_
 
-When I refer to myself, what am I talking about? In essence, I am talking about the fact and faculty of my awareness of existence. Now, note that it is self-evident that I exist, i.e. I am aware of existence. Since my awareness of the fact that I am aware is both necessary and sufficient to validate my existence, and since awareness is an action of a faculty of awareness, i.e. consciousness, the fundamental feature of the self is consciousness. By "fundamental feature" here, I mean the feature that unites all of the features that form my identity as a conscious being. Also note that "consciousness" does not refer to a disembodied abstraction but a _faculty_, i.e. a _capacity_ of an entity (hence, an action of consciousness is an action of the entity using the capacity given by consciousness).
+When I refer to myself, what am I talking about? In essence, I am talking about the fact and faculty of my awareness of existence. Now, note that it is self-evident that I exist, i.e. I am aware of existence. Since my awareness of the fact that I am aware is both necessary and sufficient to validate my existence, and since awareness is the active state (i.e. the state of sustained action) of consciousness, the fundamental feature of the self is consciousness. By "fundamental feature" here, I mean the feature that unites all of the features that form my identity as a conscious being. Also note that "consciousness" does not refer to a disembodied abstraction but a _faculty_, i.e. a _capacity_ of an entity (hence, an action of consciousness is an action of the entity using the capacity given by consciousness).
 
 As an entity, I am not only my consciousness since my consciousness and my body are parts of an integrated whole. Hence, I am a being of integrated mind (i.e. consciousness and its apparatus) and body (i.e. the physical components integrated with my apparatus of consciousness). Nevertheless, given that my consciousness is my fundamental feature as a conscious being, the locus of the self lies in consciousness, i.e. the faculty of awareness.
 
-# Fundamental properties of human consciousness
+# More key features of our consciousness
 ## Self-awareness
-Consciousness is a fundamental feature of the self, and hence, one's awareness of reality is a key factor in one's actions as a conscious being. Furthermore, the recognition of the fact that one is conscious demonstrates self-awareness, i.e. awareness of one's own consciousness. Hence, one's awareness of one's own consciousness is also a key factor in one's actions.
+Consciousness is a fundamental feature of the self, and hence, one's awareness of reality is a key factor in one's actions as a conscious being. Furthermore, the recognition of the fact that one is conscious demonstrates self-awareness, i.e. awareness of one's own consciousness. Hence, if one is capable of self-awareness, one's awareness of one's own consciousness is also a key factor in one's actions. Given that we are aware of our awareness (which is how we validate our existence), our consciousness is a self-aware consciousness.
 
 ## What does it mean to be aware of consciousness?
 Consciousness is not self-identified by its physical apparatus but by the processes that sustain it, the most fundamental of which is awareness itself. Furthermore, we observe that we have inner motives that guide our conscious processes and actions. Since we can be aware of our own conscious processes, we can observe our motives through their effects on our consciousness (ex. thoughts, feelings, impulses, etc.).
@@ -109,9 +109,9 @@ Consciousness, i.e. the faculty of awareness is finite, and thus, awareness of s
 **NOTE**: _I consider "volition" and "free will" as synonymns._
 
 ## Basis of free will
-The precondition for awareness and hence consciousness is perception, which is automatic and cannot be first initiated by awareness since it is the basis of awareness. However, after perception, we observe that we act based on our awareness, our other conscious processes and our motives. Further, we also observe that our conscious processes and our motives are themselves open to our awareness. In other words, our conscious actions are fundamentally subjectable to our awareness. Since our awareness is the locus of the self, it is our self that guides our conscious actions. Our self includes the physical apparatus and the body integrated with our consciousness, and we observe that our conscious physical actions are based on our conscious mental actions (which are based on our awareness). In other words, we are self-determined both cognitively and physically.
+The precondition for awareness and hence consciousness is perception, which is automatic and cannot be first initiated by awareness since it is the basis of awareness. However, after perception, we observe that we act based on our awareness, our other conscious processes and our motives. Further, we also observe that our conscious processes and our motives are themselves open to our awareness. In other words, our conscious actions are fundamentally subjectable to our awareness, which is the active state (i.e. the state of sustained action) of our consciousness. Hence, since our consciousness is the locus of the self, it is our self that guides our conscious actions. Our self includes the physical apparatus and the body integrated with our consciousness, and we observe that our conscious physical actions are based on our conscious mental actions (which are based on our awareness). In other words, we are self-determined both cognitively and physically.
 
-If we were determined only by factors outside our control, then we would be unable to control the focus of our awareness in any way, and thus, unable to control our conscious processes in any way. Then, since the locus of our self is our consciousness, our awareness cannot be a factor in our actions (mental or physical). But this violates the identity of our consciousness (which is the faculty of awareness) and thus cannot be true.
+If we were determined only by factors outside our control, then we would be unable to control the focus of our awareness in any way, and thus, unable to control our conscious processes in any way. Then, since the locus of our self is our consciousness, its active state, i.e. awareness cannot be a factor in our actions (mental or physical). But this violates the identity of our consciousness (which is the faculty of awareness) and thus cannot be true.
 
 **NOTE**: _By free will, I do not mean the ability to "transcend causality", i.e. act apart from causality; metaphysically, nothing acts nor can act apart from causality. Rather, free will is a kind of causation wherein our self is the essential cause in the chain of cause-and-effect that leads to our thoughts and actions._
 
