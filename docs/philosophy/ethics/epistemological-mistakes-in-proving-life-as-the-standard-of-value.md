@@ -1,3 +1,5 @@
+[<< Back to The Nature of Life](https://pranigopu.github.io/philosophy/ethics/nature-of-life.html)
+
 **EPISTEMOLOGICAL MISTAKES IN PROVING LIFE AS THE STANDARD OF VALUE**
 
 ---

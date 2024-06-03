@@ -1,3 +1,5 @@
+[<< Back to Epistemology](https://pranigopu.github.io/philosophy/epistemology)
+
 **CONSCIOUSNESS AND REALITY**
 
 ---

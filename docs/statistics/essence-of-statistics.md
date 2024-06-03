@@ -1,3 +1,5 @@
+[<< Back to Statistics](https://pranigopu.github.io/statistics)
+
 **THE ESSENCE OF STATISTICS**
 
 **_Also understanding its application in artificial intelligence_**

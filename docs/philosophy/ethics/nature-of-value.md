@@ -1,3 +1,5 @@
+[<< Back to Ethics](https://pranigopu.github.io/philosophy/ethics)
+
 **THE NATURE OF VALUE**
 
 ---

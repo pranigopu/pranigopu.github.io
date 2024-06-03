@@ -1,3 +1,5 @@
+[<< Back to Philosophy](https://pranigopu.github.io/philosophy)
+
 # Ethics
 ## Introduction
 _Need for a standard of action_...

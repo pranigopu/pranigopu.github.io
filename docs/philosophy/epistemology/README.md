@@ -1,3 +1,5 @@
+[<< Back to Philosophy](https://pranigopu.github.io/philosophy)
+
 # Epistemology
 ## Introduction
 What is knowledge, how is it formed, and how can it be validated? This is the domain of epistemology, i.e. the study of the nature of knowledge and knowledge-formation. Epistemology needs to establish and validate the relationship between consciousness and reality, then it needs to do the same for the methods by which knowledge can be further gained and validated. These shall be the areas of discussion in epistemology.
