@@ -1,3 +1,5 @@
+[<< Back to Philosophy](https://pranigopu.github.io/philosophy)
+
 **HUMAN CONSCIOUSNESS AND FREE WILL**
 
 ---
