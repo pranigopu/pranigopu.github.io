@@ -1,4 +1,4 @@
-[<< Back to The Nature of Life](https://pranigopu.github.io/philosophy/ethics/nature-of-life.html)
+[<< Back to The Standard of Value](https://pranigopu.github.io/philosophy/ethics/1-standard-of-value.html)
 
 **EPISTEMOLOGICAL MISTAKES IN PROVING LIFE AS THE STANDARD OF VALUE**
 
@@ -6,7 +6,7 @@
 
 **Contents**:
 - [Not specifying relevant context](#not-specifying-relevant-context)
-- [Not grasping the meaning of “life” \& “standard”](#not-grasping-the-meaning-of-life--standard)
+- [Not grasping the meaning of “life” and “standard”](#not-grasping-the-meaning-of-life-and-standard)
 - [Using floating definitions](#using-floating-definitions)
 
 ---
@@ -16,7 +16,7 @@ _Knowledge is either self-evident or is based on a relevant context, i.e. previo
 
 For proving life as the standard, we must rely on the basis of proof, i.e. reason, and the basis of reason, i.e. reality. In other words, we must rely on the conclusions of metaphysics and epistemology, encapsulated by the ideas of “reality” and “reason”. Without them, the very idea of proof — let alone the proof of life as the standard (a much more complex concept) — is baseless.
 
-# Not grasping the meaning of “life” & “standard”
+# Not grasping the meaning of “life” and “standard”
 **Erroneous argument example**:
 
 _"Life is the precondition of every end; if you are dead, you can have no values. Hence, to live must be the first value."_
