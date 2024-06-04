@@ -67,9 +67,11 @@ Any particular part of active consciousness, such as a particular sensation, per
 # Self-evidence
 **LEXICAL NOTE**:
 
-_To affirm something is to grasp (either explicitly or implicitly) that it exists, i.e. that it is real. To accept something is to hold that it exists; acceptance can also exist when what is being accepted does not exist. Hence, affirmation is affirmation of what is, whereas acceptance is acceptance of a proposition about either something that is or something that is not. Note also that to deny something is to hold that it does not exist (it is the inverse of acceptance); denial can also exist when what is being denied does exist. Hence, note a key point: accepting or denying something is independent of affirming it, since you affirm it as long as you grasp and rely on its existence._
+To affirm something is to grasp (either explicitly or implicitly) that it exists, i.e. that it is real. To accept something is to hold that it exists; acceptance can also exist when what is being accepted does not exist. Hence, affirmation is affirmation of what is, whereas acceptance is acceptance of a proposition about either something that is or something that is not. Note also that to deny something is to hold that it does not exist (it is the inverse of acceptance); denial can also exist when what is being denied does exist. Hence, note a key point: accepting or denying something is independent of affirming it, since you affirm it as long as you grasp and rely on its existence.
 
 ---
+
+_Back to the main topic_...
 
 The self-evident is the direct awareness of reality. It is the opposite of the arbitrary; the self-evident is inherent in existence as such and is that which is given to us by reality directly. Hence, the self-evident is also the opposite of faith, which is why it is important to see how we reach the fact that something is self-evident. I shall show that the self-evident is at the core of all awareness and all knowledge. Hence, by its nature, the self-evident is that which one affirms even in trying to deny it, since no act of awareness can deny that which awareness presupposes by its very existence (needless to say, the unaware cannot affirm or deny anything).
 
