@@ -35,8 +35,6 @@ To go even further, we observe that the source of value is the reality of life, 
 
 **NOTE 2**: It is either-or: either you strive to concretise rational values to the fullest or you reject the value of your own life. A compromise — if one is possible at all — is necessarily temporary, a transition between the two states. However, if the "compromise" becomes permanent, it is essentially the rejection of the value of life.
 
----
-
 # Non-contradiction in values
 Values are a form of truth; they identify that which one acts to gain and/or keep with respect to an objective standard. In other words, a value identifies that which is necessary or helpful to one's own life. Hence, like truth, values are non-contradictory, i.e. you cannot act against some value in a narrower context while maintaining that value or a generalisation of that value in a broader context, because by acting against the value in the narrower context you by implication — necessarily and inescapably — accept the value's negation in a broader context, thereby excluding any generalisation of that value. For example, you cannot value human beings (given certain conditions) in general if you do not value particular human beings (given the same certain conditions) in a given particular situation. It is not merely a matter of hypocrisy, i.e. of saying, "You have no right to value A if you do not value B." Instead, it is a matter of saying, "It is literally — necessarily and in fact — impossible for you and your mind to value A if you do not value B, no matter what you purport or desire." I need more observations to concretise this, but this is the philosophical conclusion.
 
