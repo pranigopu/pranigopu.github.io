@@ -50,7 +50,7 @@ As another example, we can relate our interactions with solid objects to each ot
 
 As a more complex example, consider Newton's first law of motion ("every object will remain at rest or in uniform motion in a straight line unless acted upon by an external force"), where Newton related observations of the horizontal movement of different objects in different surfaces, selectively focusing on the difference that made the difference, namely, the amount of friction of the surface. Hence, he could identify that the friction of a surface was the causal factor in slowing down a body moving on the surface, he grasped that in the absence of friction, the object would not slow down. He also related observations of the motion of objects to selectively focus on the fact that an increase in an object's speed was caused by an external force, in the absence of which it would not speed up. Similarly, he grasped that nothing except an external force caused the change in the direction of an object's motion. Without selective focus, every observation would be a whole new phenomenon with no relationship (beyond perceptual similarities and differences) to other observations.
 
-**NOTE**: _We see that the capacity for selective focus is a self-evident fact. Hence, it is still the case, even the use of selective focus, that the self-evident is the basis of all knowledge._
+**NOTE**: _We see that the capacity for selective focus is a self-evident fact. Hence, it is still the case, even with the use of selective focus, that the self-evident is the basis of all knowledge._
 
 _The importance and use of selective focus in expanding knowledge leads us to the next point_...
 
