@@ -12,6 +12,7 @@
   - [Self-evidence is the basis of knowledge](#self-evidence-is-the-basis-of-knowledge)
   - [Selective focus is the means to expand knowledge](#selective-focus-is-the-means-to-expand-knowledge)
   - [The basic means of knowledge](#the-basic-means-of-knowledge)
+  - [The basis of the false and the arbitrary](#the-basis-of-the-false-and-the-arbitrary)
   - [All knowledge is relational](#all-knowledge-is-relational)
 
 ---
@@ -54,7 +55,24 @@ _The importance and use of selective focus in expanding knowledge leads us to th
 ## The basic means of knowledge
 Knowledge can only be knowledge of the self evident, because only the self-evident is given by reality. To re-emphasise, only something given by reality to the consciousness is knowledge of reality, but something given by reality is self-evident, i.e. even to deny its existence is to affirm it, since it just is. Now, if knowledge is only of the self-evident, then expanding our knowledge beyond perception can only be awareness of what is self-evidently implicit in our perception. As we have seen, such awareness is only reached by selective focus. Hence, we see that knowledge has only two basic means: grasping the self-evident and selectively focusing on the self-evident. Of course, selective focus can only lead to knowledge if used to grasp what is self-evidently implicit in the self-evident.
 
+_Defining the faculty of gaining knowledge_...
+
+The faculty of grasping the self-evident and selectively focusing on it is what we refer to as "reason". In the fundamentals of epistemology, reason has been defined as the faculty that identifies and integrates the material provided by direct experience. Note that this definition is essentially the same as the new one I have expressed here. Hence, to bring together what has been said: the basic means of knowledge is reason.
+
 _Grasping the means of knowledge leads us to a key fact about knowledge_...
+
+## The basis of the false and the arbitrary
+Given that knowledge is only of and from the self-evident, what about the false (i.e. that which is contradicted by known facts) and the arbitrary (i.e. that which has no basis in known facts)? Note a key point: speaking of the irreducible units of awareness, what is, is, and what is not, is not, and cannot be thought of. In other words, by the nature of the relationship between consciousness and the rest of reality (see [Metaphysics](https://pranigopu.github.io/philosophy/metaphysics)), the irreducible conscious units that form the basis of awareness can only be from reality _outside_ consciousness.
+
+However, it is self-evident that we have the capacity to combine conscious units independent of how their referents exist together in reality. For example, we can combine the idea of "infinity" (which applies only for potential) and say that something is "actually infinite" (e.g. the infinite wisdom of God, the infinite size of the universe, etc.). Similarly, we can take the concepts of consciousness and agency, detach them from their contexts and then combine them to form the ideda of disembodied eternal "spirits". Such combinations contradict reality by throwing aside the context in which a conscious unit refers to reality. Yet, they are indeed conscious units we can hold in our minds. Evidently, then, such a faculty must be the basis for the false.
+
+As another example, we observe fishes and we observe women. Now, a fish tail exists only for a fish but not a woman, while a woman's torso exists only for a woman and not a fish. But, of course, we can combine these components in our minds to create the idea of a mermaid. A mermaid has no referent in known reality but the conscious unit certainly exists and each of its components certainly refer to parts of reality. Evidently, then, such a faculty must be the basis for the arbitrary.
+
+_Hence, we get the following_...
+
+A false claim arises when we accept as truth some combination of conscious units that — as an integrated whole — contradict known reality (_note that reality is non-contradictory, which means if something contradicts a part of reality, it contradicts the whole of reality_). An arbitrary claim arises when we accept as truth some combination of conscious units that — as an integrated whole — have no referent in known reality. It may well be that upon learning more about reality, an arbitrary claim may turn out as either true or false. But as such, an arbitrary claim is neither as it is detached from knowledge and thus detached from any means of knowing truth or falsehood.
+
+**NOTE**: _I am not derogating imagination as such, which is a valuable faculty both in cognition and apart from cognition. I am only derogating the acceptance of imagined entities as real entities without reference to reason. Also, note that I am not derogating the capacity to consider contradictions and floating abstractions. Such a capacity is important, since such a capacity is necessary to pursue the truth; we are neither omniscient nor infallible, which means we must actively validate our conscious units, achieving certainty where possible and being open to errors where we are uncertain. Moreover, the false and the arbitrary can be good material to strengthen our defence of the truth. Also, the arbitrary can serve to fuel our imagination apart from cognition._
 
 ## All knowledge is relational
 All knowledge is either directly self-evident or selective focus of the self-evident. Now, as we have seen, selective focus can be either selective focus of some parts of a conscious unit or selective focus of parts relating two or more conscious units. Hence, selective focus differentiates (i.e. differentiating parts of a unit from the whole or differentiating two or more units by their differences) and integrates (i.e. integrating parts of a unit into the whole or integrating two or more units by their similarities). In both cases, new knowledge is gained only by relating something to something else, e.g. identifying a part of a unit in relation to the whole or identifying a relationship between two or more units. The fact that knowledge is relational is made apparent in the way we gain knowledge beyond perception, namely [unit-perception](https://pranigopu.github.io/philosophy/epistemology/5-unit-perception.html), concept-formation and generalisation.
