@@ -9,7 +9,7 @@
 - [Self-evidence](#self-evidence)
   - [Awareness is and knowledge is](#awareness-is-and-knowledge-is)
 - [Knowledge](#knowledge)
-  - [Self-evidence is the basis of knowledge](#self-evidence-is-the-basis-of-knowledge)
+  - [Self-evidence is the basis of all knowledge](#self-evidence-is-the-basis-of-all-knowledge)
   - [Selective focus is the means to expand knowledge](#selective-focus-is-the-means-to-expand-knowledge)
   - [The means of knowledge](#the-means-of-knowledge)
   - [All knowledge is relational](#all-knowledge-is-relational)
@@ -34,10 +34,10 @@ The self-evident is the direct awareness of reality. It is the opposite of the a
 To be aware of something is to perceive and thereby affirm that it is, i.e. that it exists. Note that awareness is always awareness of something; awareness of nothing is unawareness. Now, note that _knowledge is the retained awareness of something_. Hence, to know something is to affirm that it is and retain the affirmation. Now, my awareness is, i.e. it exists; if it does not, I can affirm or deny nothing, i.e. I can say nothing. To the extent that I say something, to that extent I affirm that my awareness is, i.e. that I am aware. Hence, since knowledge is the retained awareness of something, and since I am aware and capable of retaining my awareness of things, knowledge is, i.e. knowledge exists. In other words, since I am aware and capable of retaining my awareness of things, I know something and never nothing.
 
 # Knowledge
-## Self-evidence is the basis of knowledge
+## Self-evidence is the basis of all knowledge
 _Here, we only reaffirm what was said in the above discussion on self-evidence_.
 
-From the above discussion on self-evidence, we see that to know something is to be aware of something that exists, i.e. something that is a part of reality. In other words, a piece of knowledge is a fact grasped by consciousness, i.e. it is a conscious unit that corresponds to reality based on self-evident truths such denying it would _ultimately_ lead you to affirm it ("ultimately" is used because more than one self-evident truth may be needed to reach the affirmation; we shall soon see why). Hence, self-evidence, i.e. the direct awareness of something that exists, is the basis of knowledge.
+From the above discussion on self-evidence, we see that to know something is to be aware of something that exists, i.e. something that is a part of reality. In other words, a piece of knowledge is a fact grasped by consciousness, i.e. it is a conscious unit that corresponds to reality based on self-evident truths such denying it would _ultimately_ lead you to affirm it ("ultimately" is used because more than one self-evident truth may be needed to reach the affirmation; we shall soon see why). Hence, self-evidence, i.e. the direct awareness of something that exists, is the basis of all knowledge.
 
 ## Selective focus is the means to expand knowledge
 Awareness begins at perception, but we also grasp that we can selectively focus on some parts of our perception isolated from the other parts. Note that we do have the capacity for selective focus. How do we know that we do? By the self-evident fact that we are aware of our retained awareness and thus can focus on parts of our retained awareness, which means we can focus on parts of perception just as we focus on parts of the world outside our consciousness. Note that selective focus naturally extends to all conscious units, not just percepts but also units, concepts, generalisations, etc.
@@ -49,6 +49,8 @@ In [_Integration of Perception_](https://pranigopu.github.io/philosophy/epistemo
 As another example, we can relate our interactions with solid objects to each other and to our interactions with semi-solids and liquids to observe the similarities that also distinguish them from the others (e.g. fixed shape when pressed, moved and struck against other objects). We can hence observe that some characteristics that distinguish solids are also necessary to, say, stack objects in a stable heap. Hence, we can relate our knowledge of solid objects to any new solid object we observe to know (without any further observations) whether it can be made a part of a stable heap. Expanding on the example, we can relate our knowledge of how shape, weight and support affects a solid object's stability to know (without any further observations) which new solid objects to put at the bottom of the heap and which to put at the top.
 
 As a more complex example, consider Newton's first law of motion ("every object will remain at rest or in uniform motion in a straight line unless acted upon by an external force"), where Newton related observations of the horizontal movement of different objects in different surfaces, selectively focusing on the difference that made the difference, namely, the amount of friction of the surface. Hence, he could identify that the friction of a surface was the causal factor in slowing down a body moving on the surface, he grasped that in the absence of friction, the object would not slow down. He also related observations of the motion of objects to selectively focus on the fact that an increase in an object's speed was caused by an external force, in the absence of which it would not speed up. Similarly, he grasped that nothing except an external force caused the change in the direction of an object's motion. Without selective focus, every observation would be a whole new phenomenon with no relationship (beyond perceptual similarities and differences) to other observations.
+
+**NOTE**: _We see that the capacity for selective focus is a self-evident fact. Hence, it is still the case, even the use of selective focus, that the self-evident is the basis of all knowledge._
 
 _The importance and use of selective focus in expanding knowledge leads us to the next point_...
 
