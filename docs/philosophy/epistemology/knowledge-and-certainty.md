@@ -11,7 +11,7 @@
 - [Knowledge](#knowledge)
   - [Self-evidence is the basis of knowledge](#self-evidence-is-the-basis-of-knowledge)
   - [Selective focus is the means to expand knowledge](#selective-focus-is-the-means-to-expand-knowledge)
-  - [The basic means of knowledge](#the-basic-means-of-knowledge)
+  - [The means of knowledge](#the-means-of-knowledge)
   - [All knowledge is relational](#all-knowledge-is-relational)
   - [The basis of the false and the arbitrary](#the-basis-of-the-false-and-the-arbitrary)
 
@@ -44,7 +44,7 @@ Awareness begins at perception, but we also grasp that we can selectively focus 
 
 _Importance and use of selective focus_...
 
-In [Integration of Perception](https://pranigopu.github.io/philosophy/epistemology/4-integration-of-perception.html), we see how selective focus leads to the capacity for abstraction, which is necessary to know reality beyond direct perception by relating facts to a broader context of facts. For example, we can relate our interactions with various metal items to each other to observe similarities that also distinguish them from items made of other materials (e.g. we can polish them to make them shine, we can hit it against hard surfaces to make bright sounds, we can bend a sufficiently thin metal item and it keeps its bent shape, etc.). Then, when we observe a new item with similar characteristics, we can explore it with the knowledge that it may be a metal item and may have the other characteristics observed in the metal items we know.
+In [_Integration of Perception_](https://pranigopu.github.io/philosophy/epistemology/4-integration-of-perception.html), we see how selective focus leads to the capacity for abstraction, which is necessary to know reality beyond direct perception by relating facts to a broader context of facts. For example, we can relate our interactions with various metal items to each other to observe similarities that also distinguish them from items made of other materials (e.g. we can polish them to make them shine, we can hit it against hard surfaces to make bright sounds, we can bend a sufficiently thin metal item and it keeps its bent shape, etc.). Then, when we observe a new item with similar characteristics, we can explore it with the knowledge that it may be a metal item and may have the other characteristics observed in the metal items we know.
 
 As another example, we can relate our interactions with solid objects to each other and to our interactions with semi-solids and liquids to observe the similarities that also distinguish them from the others (e.g. fixed shape when pressed, moved and struck against other objects). We can hence observe that some characteristics that distinguish solids are also necessary to, say, stack objects in a stable heap. Hence, we can relate our knowledge of solid objects to any new solid object we observe to know (without any further observations) whether it can be made a part of a stable heap. Expanding on the example, we can relate our knowledge of how shape, weight and support affects a solid object's stability to know (without any further observations) which new solid objects to put at the bottom of the heap and which to put at the top.
 
@@ -52,8 +52,8 @@ As a more complex example, consider Newton's first law of motion ("every object 
 
 _The importance and use of selective focus in expanding knowledge leads us to the next point_...
 
-## The basic means of knowledge
-Knowledge can only be knowledge of and from the self evident, because only the self-evident is given by reality. To re-emphasise, only something given by reality to the consciousness is knowledge of reality, but something given by reality is self-evident, i.e. even to deny its existence is to affirm it, since it just is. Now, if knowledge is only of the self-evident, then expanding our knowledge beyond perception can only be awareness of what is self-evidently implicit in our perception. As we have seen, such awareness is only reached by selective focus. Hence, we see that knowledge has only two basic means: grasping the self-evident and selectively focusing on the self-evident. Of course, selective focus can only lead to knowledge if used to grasp what is self-evidently implicit in the self-evident.
+## The means of knowledge
+Knowledge can only be knowledge of and from the self evident, because only the self-evident is given by reality. To re-emphasise, only something given by reality to the consciousness is knowledge of reality, but something given by reality is self-evident, i.e. even to deny its existence is to affirm it, since it just is. Now, if knowledge is only of the self-evident, then expanding our knowledge beyond perception can only be awareness of what is self-evidently implicit in our perception. As we have seen, such awareness is only reached by selective focus. Hence, we see that knowledge has only two means: grasping the self-evident and selectively focusing on the self-evident. Of course, selective focus can only lead to knowledge if used to grasp what is self-evidently implicit in the self-evident.
 
 ---
 
@@ -65,7 +65,7 @@ Knowledge can only be knowledge of and from the self evident, because only the s
 
 _Defining the faculty of gaining knowledge_...
 
-The faculty of grasping the self-evident and selectively focusing on it is what we refer to as "reason". In the fundamentals of epistemology, reason has been defined as the faculty that identifies and integrates the material provided by direct experience. Note that this definition is essentially the same as the new one I have expressed here. Hence, to bring together what has been said: the basic means of knowledge is reason.
+The faculty of grasping the self-evident and selectively focusing on it is what we refer to as "reason". In the fundamentals of epistemology, reason has been defined as the faculty that identifies and integrates the material provided by direct experience. Note that this definition is essentially the same as the new one I have expressed here. Hence, to bring together what has been said: the only means of knowledge is reason. The use of any other faculty (e.g. imagination, intuition, etc.) can be a means of knowledge if and only if it is part of the application of reason (e.g. using intuition to reveal a potential solution to a problem before validating it, using emotion as the material for introspection, using instinct to navigate an environment as a part of learning more about it, etc.).
 
 _Grasping the means of knowledge leads us to a key fact about knowledge_...
 
