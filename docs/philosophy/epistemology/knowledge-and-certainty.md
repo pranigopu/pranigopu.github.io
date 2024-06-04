@@ -12,8 +12,8 @@
   - [Self-evidence is the basis of knowledge](#self-evidence-is-the-basis-of-knowledge)
   - [Selective focus is the means to expand knowledge](#selective-focus-is-the-means-to-expand-knowledge)
   - [The basic means of knowledge](#the-basic-means-of-knowledge)
-  - [The basis of the false and the arbitrary](#the-basis-of-the-false-and-the-arbitrary)
   - [All knowledge is relational](#all-knowledge-is-relational)
+  - [The basis of the false and the arbitrary](#the-basis-of-the-false-and-the-arbitrary)
 
 ---
 
@@ -61,6 +61,13 @@ The faculty of grasping the self-evident and selectively focusing on it is what 
 
 _Grasping the means of knowledge leads us to a key fact about knowledge_...
 
+## All knowledge is relational
+All knowledge is either directly self-evident or selective focus of the self-evident. Now, as we have seen, selective focus can be either selective focus of some parts of a conscious unit or selective focus of parts relating two or more conscious units. Hence, selective focus differentiates (i.e. differentiating parts of a unit from the whole or differentiating two or more units by their differences) and integrates (i.e. integrating parts of a unit into the whole or integrating two or more units by their similarities). In both cases, new knowledge is gained only by relating something to something else, e.g. identifying a part of a unit in relation to the whole or identifying a relationship between two or more units. The fact that knowledge is relational is made apparent in the way we gain knowledge beyond perception, namely [unit-perception](https://pranigopu.github.io/philosophy/epistemology/5-unit-perception.html), concept-formation and generalisation.
+
+**NOTE**: _When gaining knowledge of the parts of a unit, you necessarily identify them in relation to the whole. Why? Consider: what if you regard each part as separate from the whole? Then, your grasp of each part as well as your grasp of the parts together do not correspond to reality, since you regard them as separate from the whole when they are not. In other words, such a disintegrated grasp of reality does not lead to knowledge._
+
+_Now for an key point addressing the negation or rejection of knowledge_...
+
 ## The basis of the false and the arbitrary
 Given that knowledge is only of and from the self-evident, what about the false (i.e. that which is contradicted by known facts) and the arbitrary (i.e. that which has no basis in known facts)? Note a key point: speaking of the irreducible units of awareness, what is, is, and what is not, is not, and cannot be thought of. In other words, by the nature of the relationship between consciousness and the rest of reality (see [Metaphysics](https://pranigopu.github.io/philosophy/metaphysics)), the irreducible conscious units that form the basis of awareness can only be from reality _outside_ consciousness.
 
@@ -73,11 +80,6 @@ _Hence, we get the following_...
 A false claim arises when we accept as truth some combination of conscious units that — as an integrated whole — contradict known reality (_note that reality is non-contradictory, which means if something contradicts a part of reality, it contradicts the whole of reality_). An arbitrary claim arises when we accept as truth some combination of conscious units that — as an integrated whole — have no referent in known reality. It may well be that upon learning more about reality, an arbitrary claim may turn out as either true or false. But as such, an arbitrary claim is neither as it is detached from knowledge and thus detached from any means of knowing truth or falsehood.
 
 **NOTE**: _I am not derogating imagination as such, which is a valuable faculty both in cognition and apart from cognition. I am only derogating the acceptance of imagined entities as real entities without reference to reason. Also, note that I am not derogating the capacity to consider contradictions and floating abstractions. Such a capacity is important, since such a capacity is necessary to pursue the truth; we are neither omniscient nor infallible, which means we must actively validate our conscious units, achieving certainty where possible and being open to errors where we are uncertain. Moreover, the false and the arbitrary can be good material to strengthen our defence of the truth. Also, the arbitrary can serve to fuel our imagination apart from cognition._
-
-## All knowledge is relational
-All knowledge is either directly self-evident or selective focus of the self-evident. Now, as we have seen, selective focus can be either selective focus of some parts of a conscious unit or selective focus of parts relating two or more conscious units. Hence, selective focus differentiates (i.e. differentiating parts of a unit from the whole or differentiating two or more units by their differences) and integrates (i.e. integrating parts of a unit into the whole or integrating two or more units by their similarities). In both cases, new knowledge is gained only by relating something to something else, e.g. identifying a part of a unit in relation to the whole or identifying a relationship between two or more units. The fact that knowledge is relational is made apparent in the way we gain knowledge beyond perception, namely [unit-perception](https://pranigopu.github.io/philosophy/epistemology/5-unit-perception.html), concept-formation and generalisation.
-
-**NOTE**: _When gaining knowledge of the parts of a unit, you necessarily identify them in relation to the whole. Why? Consider: what if you regard each part as separate from the whole? Then, your grasp of each part as well as your grasp of the parts together do not correspond to reality, since you regard them as separate from the whole when they are not. In other words, such a disintegrated grasp of reality does not lead to knowledge._
 
 ---
 
