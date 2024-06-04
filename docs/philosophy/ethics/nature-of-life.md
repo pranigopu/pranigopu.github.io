@@ -34,7 +34,7 @@ Keep in mind that consciousness and volition are functions of life; they have no
 
 _Thanks to ChatGPT for making this clearer to me by analysing my arguments._
 
-Note also that volition is essentially self-aware consciousness, and consciousness is essentially the faculty of awareness, and awareness is essentially purposeful interaction with the environment; hence, the link becomes even clearer.
+Note also that volition is an aspect of self-aware consciousness, and consciousness is essentially the faculty of awareness, and awareness is essentially purposeful interaction with the environment; hence, the link becomes even clearer.
 
 ---
 
