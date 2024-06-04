@@ -1,6 +1,6 @@
 [<< Back to Epistemology](https://pranigopu.github.io/philosophy/epistemology)
 
-**CERTAINTY**
+**KNOWLEDGE AND CERTAINTY**
 
 ---
 
