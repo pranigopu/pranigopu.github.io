@@ -42,10 +42,10 @@ A purpose, to be pursued in fact, needs to be pursued in the purposeful entity�
 
 _This serves as the key link between perceptions and unit-perception._
 
+**NOTE**: _If X necessitates Y in a given context, i.e. based on the sum of what is known, then X implies Y. Now, note that saying "X necessitates Y" is the same as saying "Y is necessitated by X". Hence, if X necessitates and is necessitated by Y, then X and Y imply each other, i.e. the existence of X and Y are inseparable such that it is a contradiction to say that X exists while Y does not or Y exists while X does not._
+
 # LINK TO CONCEPTS: Reaching objective essentials
 We can integrate even further by finding the similarities that necessitate and are necessitated by the aforementioned similarities, thus reducing the conscious units even further. These core similarities that necessitate and are necessitated by the identity of some X within a context are the essentials of X within the context. Note that identifying some X within a context also implies differentiating X within the context, i.e. differentiating X from everything else within the context. Hence, among the characteristics that relate to the object of our purpose are also characteristics that together differentiate the object from everything else within the context. Thus, by finding the essentials of X we are also finding the essential set of distinctive characteristics of X within the context.
-
-**NOTE**: _If X necessitates Y in a given context, i.e. based on the sum of what is known, then X → Y. If Y is necessitated by X in a given context, i.e. based on the sum of what is known, then Y → X. Hence, if X necessitates Y and Y is necessitated by X, then X ←→ Y._
 
 What is the objectivity of the essence? The essence, as we observe, is not taken arbitrarily but is derived entirely from perception (whose objectivity is a given), an objective (i.e. real) purpose and an objective (i.e. factual) context (i.e. other knowledge of reality apart from the perception). Thus, an essential is objective, i.e. it refers to a part of reality that by its nature necessitates and is necessitated by many real characteristics that relate to a real purpose.
 
