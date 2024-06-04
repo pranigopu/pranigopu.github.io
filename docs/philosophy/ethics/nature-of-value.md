@@ -28,12 +28,12 @@ To go even further, we observe that the source of value is the reality of life, 
 
 ---
 
-**NOTE 1**: It is vital to note that reality is non-contradictory, causal and integrated, which means reality in the here and now is tied inextricably to the past and the potential. However, the actuality, i.e. the concrete present is the basis of reality from which the past and potential draw meaning. In this context, consider the following quote that I essentially agree with:
+**NOTE 1**: It is vital to note that reality is non-contradictory and causal, which means reality in the here and now is tied inextricably to the past and the potential. However, the actuality, i.e. the concrete present is the basis of reality from which the past and potential draw meaning. In this context, consider the following quote that I essentially agree with:
 
 "Why work for a long range goal except to expand, enhance and enrich your pleasure in life? And how can you ever experience pleasure except here and now? You must always live and try to enjoy today."
 — Leonard Peikoff, ["The Proper Role of Emotions" by Leonard Peikoff](https://youtu.be/m-COqTTyNvo?si=SjbdwDwzjX26kMfV)
 
-**NOTE 2**: It is either-or: either you strive to concretise rational values to the fullest or you reject the value of your own life. A compromise — if one is possible at all — is necessarily temporary, a transition between the two states. However, if the "compromise" becomes permanent, it is, essentially, the rejection of the value of life.
+**NOTE 2**: It is either-or: either you strive to concretise rational values to the fullest or you reject the value of your own life. A compromise — if one is possible at all — is necessarily temporary, a transition between the two states. However, if the "compromise" becomes permanent, it is essentially the rejection of the value of life.
 
 ---
 
