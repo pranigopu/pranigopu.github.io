@@ -14,6 +14,7 @@
   - [The means of knowledge](#the-means-of-knowledge)
   - [All knowledge is relational](#all-knowledge-is-relational)
   - [The basis of the false and the arbitrary](#the-basis-of-the-false-and-the-arbitrary)
+- [Certainty](#certainty)
 
 ---
 
@@ -96,3 +97,23 @@ A false claim arises when we accept as truth some combination of conscious units
 _What value has the discussion brought so far?_
 
 Understanding that the only basic means of knowledge is grasping the self-evident and grasping what is self-evidently implicit in the self-evident, we see a clear basis for identifying (1) what does or does not amount to evidence and/or proof for claims, (2) what is a valid argument as opposed to an invalid or spurious argument and (3) what is certain as opposed to arbitrary. Furthermore, understanding that knowledge is relational is key to understanding how gaps in knowledge are identified, which is key to identifying uncertainty (i.e. probability, possibility and known unknowns).
+
+# Certainty
+Key points to discuss:
+
+- Certainty is the initial and basic state of human cognition and a normal state at any level of cognition
+- Every step of cognition leads to certainty, if only to be certain about:
+  - The lack of quality in evidence
+  - The insufficiency in one's standard of judgement of arguments
+- Uncertainty presupposes certainty; there can be no uncertainty without certainty first
+  - Uncertainty includes probability, possibility and known unknowns
+- Pure skepticism reduces to meaningless babbling; purpose presupposes certainty
+- What is self-evident? What does it really tell us?
+  - Concepts and abstractions are never directly self-evident (i.e. the Platonic idea of knowledge is pure nonsense); concepts and abstractions are always of and from concretes
+  - Beyond brute observation, we can only know more be selectively focusing, relating and integrating multiple concrete observations
+  - No higher level knowledge is self-evident; revelations are out. Even if "knowledge" were beamed directly into your brain, you would not know anything that is says without first seeing the self-evident truths and logic therefrom
+- Integration of the self-evident to achieve complex knowledge
+  - Why flat-earthers are not empirical since they disintegrate observations from a broader context that is observed
+  - Why trust in the quality of a product in a supermarket is fundamentally different from an arbitrary or dogmatic claim
+- All knowlege, from the perceptual to the most abstract, esoteric conclusions, are essentially the same basic processes of cognition: grasp of the self-evident and selective focus therefrom. Of course, the complexity, integration, etc. differ, but the essence epistemologically is the same.
+- Efficacy (moral, practical and intellectual) is impossible without certainty or at least the pursuit of certainty in higher levels (presupposing certainty at some lower level). Certainty is possible, desirable and necessary on some level.
