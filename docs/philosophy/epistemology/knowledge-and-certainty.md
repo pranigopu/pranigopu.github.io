@@ -61,4 +61,8 @@ All knowledge is either directly self-evident or selective focus of the self-evi
 
 **NOTE**: _When gaining knowledge of the parts of a unit, you necessarily identify them in relation to the whole. Why? Consider: what if you regard each part as separate from the whole? Then, your grasp of each part as well as your grasp of the parts together do not correspond to reality, since you regard them as separate from the whole when they are not. In other words, such a disintegrated grasp of reality does not lead to knowledge._
 
-_The fact that knowledge is relational is key to understanding certainty and uncertainty_...
+---
+
+_What value has the discussion brought so far?_
+
+Understanding that the only basic means of knowledge is grasping the self-evident and grasping what is self-evidently implicit in the self-evident, we see a clear basis for identifying (1) what does or does not amount to evidence and/or proof for claims, (2) what is a valid argument as opposed to an invalid or spurious argument and (3) what is certain as opposed to arbitrary. Furthermore, understanding that knowledge is relational is key to understanding how gaps in knowledge are identified, which is key to identifying uncertainty (i.e. probability, possibility and known unknowns).
