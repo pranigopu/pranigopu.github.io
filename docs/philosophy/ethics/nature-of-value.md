@@ -90,8 +90,6 @@ _ChatGPT on the distinction between suffering and struggle (I agree with it)..._
 
 By distinguishing between struggle and suffering, the text emphasises the importance of resilience, perseverance, and proactive engagement with adversity in the pursuit of a meaningful and fulfilling life. While struggle may be an inevitable aspect of human existence, it is portrayed as a necessary and potentially transformative experience that can lead to personal growth and the realisation of one's values. In contrast, suffering is acknowledged as a challenging and often painful aspect of life, but one that can be overcome through courage, resilience, and a commitment to pursuing values and well-being.
 
----
-
 # Integrity of values
 **_This is a generalisation of the non-contradiction of values._**
 
