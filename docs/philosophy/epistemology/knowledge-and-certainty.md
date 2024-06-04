@@ -18,7 +18,7 @@
 ---
 
 # Self-evidence
-_This section is lifted directly from_ [Metaphysics](https://pranigopu.github.io/philosophy/metaphysics).
+_This section is lifted directly from_ [_Metaphysics_](https://pranigopu.github.io/philosophy/metaphysics).
 
 **LEXICAL NOTE**:
 
