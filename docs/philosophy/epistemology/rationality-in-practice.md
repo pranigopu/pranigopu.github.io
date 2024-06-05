@@ -7,7 +7,7 @@
 **Contents**:
 - [Why read further?](#why-read-further)
 - [The nature and importance of consistent rationality](#the-nature-and-importance-of-consistent-rationality)
-- [Efficiency in effort is integral to consistent rationality](#efficiency-in-effort-is-integral-to-consistent-rationality)
+- [Efficiency in effort is integral to rationality](#efficiency-in-effort-is-integral-to-rationality)
 
 ---
 
@@ -35,8 +35,8 @@ As a cap on the discussion so far, consider the sheer contradiction in the idea 
 
 **NOTE 2**: To re-emphasise the key point, rationality is indispensable to one's efficacy in life: rationality as a consistent practice is the most effective way to deal with reality as a whole since rationality is the fundamental basis of efficacy in life. In essence, being rational is the only effective way to deal with reality.
 
-# Efficiency in effort is integral to consistent rationality
-We have seen above that rationality demands relevance, which means it demands selectivity in focus and effort. Now, I shall look at a related aspect of consistent rationality in practice, namely the need for efficiency, whose basis is the same as the basis of the need for relevance: the fact that consciousness is finite. We start by grasping where the use of reason must begin. The use of reason is the use of one's faculty of identifying and integrating the material provided by one's direct awareness of reality. Since reality is integrated by identity and causality, the use of reason must ultimately be based on the broadest context we can grasp, i.e. the context of our life as a whole, i.e. life lived long-range.
+# Efficiency in effort is integral to rationality
+We have seen above that rationality demands relevance, which means it demands selectivity in focus and effort. Now, I shall look at a related aspect of rationality in practice, namely the need for efficiency, whose basis is the same as the basis of the need for relevance: the fact that consciousness is finite. We start by grasping where the use of reason must begin. The use of reason is the use of one's faculty of identifying and integrating the material provided by one's direct awareness of reality. Since reality is integrated by identity and causality, the use of reason must ultimately be based on the broadest context we can grasp, i.e. the context of our life as a whole, i.e. life lived long-range.
 
 Hence, rationality does not demand that we subject ourselves to a constant, excruciating effort in every moment of our lives to perceive every detail we can so as to work our minds to analyse as many integrations of what we perceive as possible; such would be an irrational use of one's mind since it would degrade and ultimately destroy our ability to deal with life in a broader context, because consciousness is finite, values are time-bound and their achievement is conditional. Moreover, since contexts are integrated in a non-contradictory whole, such an irrational use of one's mind would also degrade and ultimately destroy our ability to deal with particulars beyond short-range reactions.
 
