@@ -20,7 +20,7 @@
 ---
 
 # Why read further?
-If you care to exist at all, you must act toward your own life in some way and pursue the values that support it. Morality is the study of these values and the principles by to which to pursue them. To a volitional being who needs to live long-range in order to surive as a volitional being, morality is key to understanding how to effectively pursue his values and thereby sustain his life to the fullest.
+If you care to exist at all, you must act toward your own life in some way and pursue the values that support it. Morality is the study of these values and the principles by to which to pursue them. A a volitional being who needs to live long-range in order to surive as a volitional being, morality is key to understanding how to effectively pursue your values and thereby sustain your life to the fullest.
 
 # The nature and distinction of objective morality
 Throughout human history, many moral systems have arisen. Most have been either deontological (i.e. duty-based), subjective (i.e. emotion or instinct-based) or consequence-based (e.g. consequentialism, utilitarianism, pragmatism, etc.). Very few have been objective, which is the kind of morality I hold to be true. The question I ask here is: what is the core nature of morality as I hold it, and how does it differ from other kinds of morality?
