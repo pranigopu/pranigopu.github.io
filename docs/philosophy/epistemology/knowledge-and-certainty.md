@@ -6,6 +6,7 @@
 
 **Contents**:
 
+- [Why read further?](#why-read-further)
 - [Self-evidence](#self-evidence)
   - [Awareness is and knowledge is](#awareness-is-and-knowledge-is)
 - [Knowledge](#knowledge)
@@ -17,6 +18,11 @@
 - [Certainty](#certainty)
 
 ---
+
+# Why read further?
+The key to effective action and hence the key to effectively sustain one's own life, it is indispensable to deal with reality, which means to know it and understand it. Hence, it is key to understand the source of knowledge and thereby understand what is knowledge and what is the false or the arbitrary leading you away from reality. Now, note two things: (1) if nothing is certain, nothing can be known and all you can do is babble and blunder (I shall show later why such is the case), and (2) to the extent that you feel certain for the wrong thing and have no means to right yourself, to that extent you are helpless in reality. Hence, we must grasp with utmost rigour what to be certain of and what to question. How can we do it? By understand what is the basis of certainty, i.e. what is knowledge. Moreover, we must understand what is the nature of knowledge and certainty, so we can learn to recognise them and hold on to them.
+
+_Right purposeful action presupposes right purposeful cognition._
 
 # Self-evidence
 _This section is lifted directly from_ [_Metaphysics_](https://pranigopu.github.io/philosophy/metaphysics).

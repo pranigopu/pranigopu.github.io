@@ -6,6 +6,7 @@
 
 **Contents**:
 
+- [Why read further?](#why-read-further)
 - [Life is necessarily conditional](#life-is-necessarily-conditional)
 - [Life, consciousness and volition](#life-consciousness-and-volition)
 - [Life as a volitional being](#life-as-a-volitional-being)
@@ -16,6 +17,9 @@
 - [The life-affirming nature of caring for the future beyond you](#the-life-affirming-nature-of-caring-for-the-future-beyond-you)
 
 ---
+
+# Why read further?
+If you care to exist at all, you must value your own life. But what is your life, what is its nature, what is important to it? Answering these questions is key to understanding what it is that must be your ultimate value and the integrating purpose of your existence.
 
 # Life is necessarily conditional
 _The necessary context is drawn from_ [_The Standard of Value_](https://pranigopu.github.io/philosophy/ethics/1-standard-of-value.html).

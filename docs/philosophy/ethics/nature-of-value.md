@@ -6,6 +6,7 @@
 
 **Contents**:
 
+- [Why read further?](#why-read-further)
 - [Concretisation as essential to value](#concretisation-as-essential-to-value)
 - [Non-contradiction in values](#non-contradiction-in-values)
   - [Re-integrating contradicted values](#re-integrating-contradicted-values)
@@ -16,6 +17,9 @@
 - [Emotion in pursuing rational values and virtues](#emotion-in-pursuing-rational-values-and-virtues)
 
 ---
+
+# Why read further?
+If you care to exist at all, you must act toward your own life in some way. A value is something that one acts to gain and/or keep for the sake of something, that something ultimately being one's own life. Hence, understanding what values are and how they work is key to understanding how to exist to the fullest, i.e. how to survive and thrive.
 
 # Concretisation as essential to value
 **NOTE**: _By its nature, the concretisation of value is and can only be in the moment, i.e. in the present, here and now._
