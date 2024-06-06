@@ -44,14 +44,14 @@ Hence, to drop the purpose of an abstraction is to drop the purpose in cognition
 
 As another example, consider the distinction of "objectivity vs. subjectivity" being defined as "the contents in reality in and of itself, i.e. apart from consciousness vs. the contents held within consciousness". The distinction serves no purpose in understanding the right epistemological approach, since it makes no distinction between the conscious units that correspond to reality and the ones that do not. What cognitive purpose does the concept of "the contents of reality in and itself" serve apart from the existing concept of "reality"? If we conclude from our useless definitions that "objectivity is impossible" and "all knowledge is subjective", we fail to distinguish between the conscious units the help us deal with reality as it is and the ones that do not, thereby paralysing our pursuit of knowledge and efficacy by making us either doubtful of everything or certain about everything.
 
-_Further note on universal doubt vs. universal certainty_...
+_Further note on universal doubt vs. universal certainty to show their consequences_...
 
 What are the consequences of each of the above two positions? The consequences of the former: lack of conviction, lack of motivation toward the pursuit of the essential facts, etc. The consequences of the latter: taking whims and emotions as knowledge, holding revelations or "intuitions" as truth in favour of evidence, etc. Now, note a key point based on [Knowledge and Certainty](https://pranigopu.github.io/philosophy/epistemology/knowledge-and-certainty.html): certainty is the basic state of human cognition and must be reached in accordance to the facts in order to deal with reality effectively. Someone who doubts "everything" cannot really doubt everything unless he forgoes his consciousness. Hence, he must hold some things as certain. But since he has no means of making the distinction between truth and fantasy, the validity of what he holds as certain is up to chance. Ultimately, both positions (universal doubt and universal certainty) lead to false or unfounded certainty. Of course, acting on false or unfounded certainty is profoundly irrational and devalues your life since you degrade or destroy your efficacy in dealing with reality.
 
 _Hence, we can see the sheer importance in keeping clear what our cognitive purpose is._
 
 ## Inserted context fallacy
-Here, you replace elements of the context of a conscious unit or add new elements to it that have no basis in the original context.
+This is the fallacy of replacing elements of the context of a conscious unit or add new elements to it that have no basis in the original context.
 
 ## Integration by non-essentials
 Why is integration by non-essentials and context dropping so detrimental? A thing acts as a thing is, which means an essential is key to understanding the nature of a thing or an idea long-range or in a broader context. (E.g. considering equal outcomes in a specific context as essential to moral judgement, job market competition vs. conquest by war, murder vs. accidental manslaughter, killing one healthy man to harvest his organs to save many others vs. diverting a train toward less people tied to the tracks than more people tied to a track, etc.).
