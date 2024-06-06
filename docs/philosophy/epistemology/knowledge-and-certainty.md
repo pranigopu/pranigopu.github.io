@@ -19,7 +19,6 @@
   - [What is certainty?](#what-is-certainty)
   - [Certainty is contextual](#certainty-is-contextual)
   - [Certainty is primary and presupposed by uncertainty](#certainty-is-primary-and-presupposed-by-uncertainty)
-  - [Every step of cognition leads to certainty](#every-step-of-cognition-leads-to-certainty)
 
 ---
 
@@ -134,12 +133,7 @@ To grasp it more clearly, consider what uncertainty means. To be uncertain about
 
 **NOTE**: _Uncertainty includes probability, possibility and known unknowns._
 
-## Every step of cognition leads to certainty
-
-
-- Every step of cognition leads to certainty, if only to be certain about:
-  - The lack of quality in evidence
-  - The insufficiency in one's standard of judgement of arguments
+A key implication of the fact that uncertainty presupposes certainty is that every step of cognition leads to certainty, if only certainty about insufficiency in knowledge (e.g. insufficiency in evidence and reasoning, in our capacity to judge evidence and reasoning, etc.). To know what we do not know, we have to _know_, i.e. be certain of the facts that reveal the boundaries of our knowledge. For example, to know that there is a chance of failure in an airplane, we be certain of the fact that in real-life environments, there exist factors that cannot be accounted for. As another example, to know that there is a chance of a asteroid strike on Earth, we must be certain of the fact that asteroids can and do strike other bodies in space such as Earth. As a negative example, we cannot know if there is a chance for pink unicorns to prance down the street since nothing in our knowledge points to the existence of such creatures.
 
 - What is self-evident? What does it really tell us?
   - Concepts and abstractions are never directly self-evident (i.e. the Platonic idea of knowledge is pure nonsense); concepts and abstractions are always of and from concretes
