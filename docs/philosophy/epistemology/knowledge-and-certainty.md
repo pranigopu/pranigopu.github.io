@@ -182,7 +182,7 @@ A key implication of the above discussion that ties into what was discussed abou
 
 _Hence, a key point about the nature of higher-level knowledge_...
 
-All knowledge beyond basic observation is the integration of basic observations. All knowlege, from the most basic perceptions to the most esoteric abstractions, are essentially the same basic processes of cognition: the grasp of the self-evident and selective focus therefrom. Of course, the complexity and the exact process of integration differ, but the essence epistemologically is the same.
+All knowledge beyond basic observation is the integration of basic observations. All knowlege, from the most basic perceptions to the most esoteric abstractions, are essentially the same two processes of cognition: the grasp of the self-evident and selective focus therefrom. Of course, the complexity and the exact process of integration differ, but the essence epistemologically is the same.
 
 ## Integration of evidence
 
