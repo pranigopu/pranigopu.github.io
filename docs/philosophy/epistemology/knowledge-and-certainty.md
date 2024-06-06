@@ -19,11 +19,12 @@
   - [What is certainty?](#what-is-certainty)
   - [Certainty is contextual and key to expanding one's context](#certainty-is-contextual-and-key-to-expanding-ones-context)
   - [Certainty is primary and presupposed by uncertainty](#certainty-is-primary-and-presupposed-by-uncertainty)
-- [Evidence and reasoning](#evidence-and-reasoning)
-  - [Self-evidence with respect to higher knowledge](#self-evidence-with-respect-to-higher-knowledge)
+- [Evidence](#evidence)
+  - [What is evidence and why do we need it?](#what-is-evidence-and-why-do-we-need-it)
+  - [Self-evidence with respect to higher forms of knowledge](#self-evidence-with-respect-to-higher-forms-of-knowledge)
     - [What does self-evidence really tell us?](#what-does-self-evidence-really-tell-us)
     - [The invalidity of revelation](#the-invalidity-of-revelation)
-  - [Integration of evidence](#integration-of-evidence)
+  - [Identifying evidence](#identifying-evidence)
 
 ---
 
@@ -140,8 +141,17 @@ To grasp it more clearly, consider what uncertainty means. To be uncertain about
 
 A key implication of the fact that uncertainty presupposes certainty is that every step of cognition leads to certainty, if only certainty about insufficiency in knowledge (e.g. insufficiency in evidence and reasoning, in our capacity to judge evidence and reasoning, etc.). To know what we do not know, we have to _know_, i.e. be certain of the facts that reveal the boundaries of our knowledge. For example, to know that there is a chance of failure in an airplane, we be certain of the fact that in real-life environments, there exist factors that cannot be accounted for. As another example, to know that there is a chance of a asteroid strike on Earth, we must be certain of the fact that asteroids can and do strike other bodies in space such as Earth. As a negative example, we cannot know if there is a chance for pink unicorns to prance down the street since nothing in our knowledge points to the existence of such creatures (even to validly claim possibility, we must _know_ something, i.e. have at least some evidence).
 
-# Evidence and reasoning
-## Self-evidence with respect to higher knowledge
+# Evidence
+## What is evidence and why do we need it?
+We observe that we know something, but we also observe that our knowledge is finite since our consciousness as well as the amount we can observe and integrate up to a certain point are finite. Moreover, we observe that there exist things outside our current factual context; we can observe this by reaching at least some certainty in what our current factual context implies and — by extension — does not imply. In other words, we know that we do not know everything.
+
+Now, consider the case of learning about something in particular whose nature is unknown, such as an object, an individual, an environment, etc. Knowledge is relational, but direct awareness does not automatically give us knowledge about the relationships between the facts we observe and the other facts we know. Furthermore, we are not necessarily certain that we have observed everything there is to observe; indeed, as we come to know more, we can observe clearly _that_ we do not know and often also _what_ we do not know. Hence, our knowledge of what we are learning about does not necessarily go from ignorance to certainty directly; there are in-between stages in our knowledge wherein we have some knowledge of what we learning about as well as knowledge of what we know and do not know.
+
+In other words, we often have degrees of uncertainty between ignorance and certainty. A key question in cognition, therefore, is how to move from ignorance to certainty. What is the nature of the new observations and the new knowledge that move us in that direction? Hence, we see that it is useful to identify that which decreases our uncertainty about something. We identify it by the concept of "evidence". To define it, evidence about an object of focus is any observation or knowledge that either gives us certainty or decreases our uncertainty about the object of focus.
+
+The most basic form of evidence is self-evidence. Though I have discussed it at length, I shall look into it with respect to higher forms of knowledge in order to address the proper use and the potential misuse of the idea of self-evidence. Having dealt with that, I shall move on to understand what counts as evidence apart from self-evidence, i.e. what makes new observations or new knowledge evidence as opposed to irrelevant facts.
+
+## Self-evidence with respect to higher forms of knowledge
 **LEXICAL NOTE**:
 
 I must clearly distinguish between my use of the terms "self-evidence" and "implicit self-evidence", so as to distinguish between non-volitional, i.e. automatic cognition and volitional, i.e. non-automatic cognition; such a distinction is important since volition is the basis of purposeful cognition beyond the perceptual level. "Self-evidence" as such refers to that which needs no volitionally-driven selective focus to grasp, i.e. it is grasped automatically. "Implicit self-evidence" on the other hand refers to that which becomes self-evident only by through volitionally-driven selective focus, i.e. it is not reached automatically, though once it is reached, grasping it is automatic. It can be said that the implicitly self-evident is that which is self-evident if subjected to the right selective focus.
@@ -184,9 +194,10 @@ _Hence, a key point about the nature of higher-level knowledge_...
 
 All knowledge beyond basic observation is the integration of basic observations. All knowlege, from the most basic perceptions to the most esoteric abstractions, are essentially the same two processes of cognition: the grasp of the self-evident and selective focus therefrom. Of course, the complexity and the exact process of integration differ, but the essence epistemologically is the same.
 
-## Integration of evidence
+## Identifying evidence
+Since uncertainty is only identified with respect to what we know, i.e. what we are certain of, and since knowledge of reality and — by extension — certainty is the goal of cognition, evidence can only be identified with respect to the meaning of certainty in the given context. Hence, note that just as with certainty, evidence is also contextual, i.e. based on the factual context in use.
 
-
+Hence, to identify evidence for the given context, we must identify what constitutes certainty in the given context, i.e. what constitutes the _standard of proof_. Before explaining myself further, let me first define the term: standard of proof refers to the essential conditions for a proposition to be true. What does this mean and why have I defined it in this way? 
 
 - Integration of the self-evident to achieve complex knowledge
   - Why flat-earthers are not empirical since they disintegrate observations from a broader context that is observed
