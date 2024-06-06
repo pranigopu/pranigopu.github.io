@@ -35,6 +35,8 @@ Here, you regard the truth of a conscious unit as self-evident when the referent
 ## Floating abstraction fallacy
 Here, you retain an end result of concept-formation without retaining its connection to concretes.
 
+**NOTE**: _Even when the concept seems clear in definition, as long as it is not tied to and reducible (by yourself) to concretes and concrete contexts, it stays floating._
+
 ## Unpurposeful abstraction fallacy
 Here, you form an abstraction based on arbitrary criteria not based on any clear cognitive purpose.
 
@@ -42,12 +44,4 @@ Here, you form an abstraction based on arbitrary criteria not based on any clear
 Here, you replace elements of the context of a conscious unit or add new elements to it that have no basis in the original context.
 
 ## Integration by non-essentials
-
-
-Non-self-evident self-evidence fallacy
-Floating abstraction fallacy (note: even when the concept seems clear in definition, as long as it is not tied to or reducible by you to concretes and concrete contexts, it remains floating)
-Unpurposeful abstraction fallacy
-Inserted context fallacy
-Non-essential similarity fallacy, i.e. integration by non-essentials.
-
 Why is integration by non-essentials and context dropping so detrimental? A thing acts as a thing is, which means an essential is key to understanding the nature of a thing or an idea long-range or in a broader context. (E.g. considering equal outcomes in a specific context as essential to moral judgement, job market competition vs. conquest by war, murder vs. accidental manslaughter, killing one healthy man to harvest his organs to save many others vs. diverting a train toward less people tied to the tracks than more people tied to a track, etc.).
