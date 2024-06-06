@@ -33,7 +33,7 @@ Since the basis of contextual clarity is holding the right context, all fallacie
 Here, you regard the truth of a conscious unit as self-evident when the referent of the conscious unit is not inherent in one's direct awareness of reality.
 
 ## Floating abstraction fallacy
-Here, you retain a concept without retaining its connection to concretes.
+Here, you retain an end result of concept-formation without retaining its connection to concretes.
 
 ## Unpurposeful abstraction fallacy
 Here, you form an abstraction based on arbitrary criteria not based on any clear cognitive purpose.
