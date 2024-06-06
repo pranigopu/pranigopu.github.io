@@ -30,10 +30,10 @@ Hence, we see that abstraction is our fundamental means of grasping an integrate
 Since the basis of contextual clarity is holding the right context, all fallacies leading to contextual unclarity are types of the same one fallacy: context-dropping ("context-dropping" was first identified by Ayn Rand. See: [Context-dropping](https://courses.aynrand.org/lexicon/context-dropping/)). In essence, context-dropping is the fallacy of detaching a conscious unit from the context that validates it, i.e. disregarding the relationships to the facts that tie the idea to reality. We shall look at context-dropping from the most basic level, i.e. context-dropping in self-evidence, then work out way to context-dropping at higher levels of integration.
 
 ## Non-self-evident self-evidence fallacy
-Here, you regard the truth of a conscious unit as self-evident when the referent of the conscious unit is not inherent in one's direct awareness of reality.
+This the fallacy of regarding the truth of a conscious unit as self-evident when the referent of the conscious unit is not inherent in one's direct awareness of reality. The reason why it is a fallacy is made clear in ["Self-evidence with respect to higher knowledge" from _Knowledge and Certainty_](https://pranigopu.github.io/philosophy/epistemology/knowledge-and-certainty.html#self-evidence-with-respect-to-higher-knowledge).
 
 ## Floating abstraction fallacy
-Here, you retain an end result of concept-formation without retaining its connection to concretes.
+This is the fallacy of retaining an end result of concept-formation without retaining its connection to concretes.
 
 **NOTE**: _Even when the concept seems clear in definition, as long as it is not tied to and reducible (by yourself) to concretes and concrete contexts, it stays floating._
 
