@@ -7,6 +7,11 @@
 **Contents**:
 - [What is contextual clarity and why care about it?](#what-is-contextual-clarity-and-why-care-about-it)
 - [Sources of contextual unclarity](#sources-of-contextual-unclarity)
+  - [Non-self-evident self-evidence fallacy](#non-self-evident-self-evidence-fallacy)
+  - [Floating abstraction fallacy](#floating-abstraction-fallacy)
+  - [Unpurposeful abstraction fallacy](#unpurposeful-abstraction-fallacy)
+  - [Inserted context fallacy](#inserted-context-fallacy)
+  - [Integration by non-essentials](#integration-by-non-essentials)
 
 ---
 
@@ -22,3 +27,27 @@ To put it broadly, reality is a integrated sum, integrated by identity and causa
 Hence, we see that abstraction is our fundamental means of grasping an integrated context whose scope exceeds the scope of our direct awareness of reality in the moment. Since awareness is finite while the scope of reality far exceeds our direct awareness of it, abstraction is our only means to know not only what we see but also the nature of what we see, thereby giving us the means to act effectively (especially in the long-range) according to what we see. Now, given the importance of abstraction and given the fact that everything in reality exists within a specific context, i.e. in specific relationships to other things in reality, we can see that preserving the context of an abstraction is the only way to preserve its importance, i.e. it is the only way to make sure it refers to reality and thereby helps us act effectively in reality. Hence, to put it starkly, contextual clarity is at its core a matter of life and death; to deal with reality effectively, we must grasp and preserve the context of the conscious units that refer to parts or aspects of reality.
 
 # Sources of contextual unclarity
+Since the basis of contextual clarity is holding the right context, all fallacies leading to contextual unclarity are types of the same one fallacy: context-dropping. In essence, context-dropping is the fallacy of detaching a conscious unit from the context that validates it, i.e. disregarding the relationships to the facts that tie the idea to reality. We shall look at context-dropping from the most basic level, i.e. context-dropping in self-evidence, then work out way to context-dropping at higher levels of integration.
+
+## Non-self-evident self-evidence fallacy
+Here, you regard the truth of a conscious unit as self-evident when the referent of the conscious unit is not inherent in one's direct awareness of reality.
+
+## Floating abstraction fallacy
+Here, you retain a concept without retaining its connection to concretes.
+
+## Unpurposeful abstraction fallacy
+Here, you form an abstraction based on arbitrary criteria not based on any clear cognitive purpose.
+
+## Inserted context fallacy
+Here, you replace elements of the context of a conscious unit or add new elements to it that have no basis in the original context.
+
+## Integration by non-essentials
+
+
+Non-self-evident self-evidence fallacy
+Floating abstraction fallacy (note: even when the concept seems clear in definition, as long as it is not tied to or reducible by you to concretes and concrete contexts, it remains floating)
+Unpurposeful abstraction fallacy
+Inserted context fallacy
+Non-essential similarity fallacy, i.e. integration by non-essentials.
+
+Why is integration by non-essentials and context dropping so detrimental? A thing acts as a thing is, which means an essential is key to understanding the nature of a thing or an idea long-range or in a broader context. (E.g. considering equal outcomes in a specific context as essential to moral judgement, job market competition vs. conquest by war, murder vs. accidental manslaughter, killing one healthy man to harvest his organs to save many others vs. diverting a train toward less people tied to the tracks than more people tied to a track, etc.).
