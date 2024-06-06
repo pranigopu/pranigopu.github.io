@@ -51,7 +51,7 @@ What are the consequences of each of the above two positions? The consequences o
 _Hence, we can see the sheer importance in keeping clear what our cognitive purpose is._
 
 ## Inserted context fallacy
-This is the fallacy of replacing elements of the context of a conscious unit or add new elements to it that have no basis in the original context.
+This is the fallacy of replacing elements of the context of an idea or add new elements to it that have no basis in the original context.
 
 ## Integration by non-essentials
 Why is integration by non-essentials and context dropping so detrimental? A thing acts as a thing is, which means an essential is key to understanding the nature of a thing or an idea long-range or in a broader context. (E.g. considering equal outcomes in a specific context as essential to moral judgement, job market competition vs. conquest by war, murder vs. accidental manslaughter, killing one healthy man to harvest his organs to save many others vs. diverting a train toward less people tied to the tracks than more people tied to a track, etc.).
