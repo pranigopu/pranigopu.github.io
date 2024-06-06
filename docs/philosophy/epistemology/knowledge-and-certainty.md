@@ -19,9 +19,11 @@
   - [What is certainty?](#what-is-certainty)
   - [Certainty is contextual and key to expanding one's context](#certainty-is-contextual-and-key-to-expanding-ones-context)
   - [Certainty is primary and presupposed by uncertainty](#certainty-is-primary-and-presupposed-by-uncertainty)
-- [Self-evidence with respect to higher knowledge](#self-evidence-with-respect-to-higher-knowledge)
-  - [What does self-evidence really tell us?](#what-does-self-evidence-really-tell-us)
-  - [Against revelation](#against-revelation)
+- [Evidence](#evidence)
+  - [Self-evidence with respect to higher knowledge](#self-evidence-with-respect-to-higher-knowledge)
+    - [What does self-evidence really tell us?](#what-does-self-evidence-really-tell-us)
+    - [The invalidity of revelation](#the-invalidity-of-revelation)
+  - [Integration of evidence](#integration-of-evidence)
 
 ---
 
@@ -138,7 +140,8 @@ To grasp it more clearly, consider what uncertainty means. To be uncertain about
 
 A key implication of the fact that uncertainty presupposes certainty is that every step of cognition leads to certainty, if only certainty about insufficiency in knowledge (e.g. insufficiency in evidence and reasoning, in our capacity to judge evidence and reasoning, etc.). To know what we do not know, we have to _know_, i.e. be certain of the facts that reveal the boundaries of our knowledge. For example, to know that there is a chance of failure in an airplane, we be certain of the fact that in real-life environments, there exist factors that cannot be accounted for. As another example, to know that there is a chance of a asteroid strike on Earth, we must be certain of the fact that asteroids can and do strike other bodies in space such as Earth. As a negative example, we cannot know if there is a chance for pink unicorns to prance down the street since nothing in our knowledge points to the existence of such creatures (even to validly claim possibility, we must _know_ something, i.e. have at least some evidence).
 
-# Self-evidence with respect to higher knowledge
+# Evidence
+## Self-evidence with respect to higher knowledge
 **LEXICAL NOTE**:
 
 I must clearly distinguish between my use of the terms "self-evidence" and "implicit self-evidence", so as to distinguish between non-volitional, i.e. automatic cognition and volitional, i.e. non-automatic cognition; such a distinction is important since volition is the basis of purposeful cognition beyond the perceptual level. "Self-evidence" as such refers to that which needs no volitionally-driven selective focus to grasp, i.e. it is grasped automatically. "Implicit self-evidence" on the other hand refers to that which becomes self-evident only by through volitionally-driven selective focus, i.e. it is not reached automatically, though once it is reached, grasping it is automatic. It can be said that the implicitly self-evident is that which is self-evident if subjected to the right selective focus.
@@ -147,7 +150,7 @@ I must clearly distinguish between my use of the terms "self-evidence" and "impl
 
 Now that we have seen how higher forms of knowledge (i.e. knowledge beyond direct awareness) are reached and how they tie into the concept of certainty, I want to now step back and look further into the basis of certainty: self-evidence. I want to do so because of two reasons: (1) people make claims of self-evidence about higher forms of knowledge such as concepts, generalisations and principles (e.g. the pre-Socratic idea that "change needs contradiction", Plato's idea of concept-formation being essentially the "self-evident" revelation of "forms" to select few, the idea that some moral principles are innate and thus "self-evident", bad generalisations such as "the heat of the sun is caused by its position in the sky", the guilt or innocence of a person being "self-evident" based on "intuition" and/or circumstantial evidence, extrasensory entities such as spirits or God being "self-evident" based on "demonstrations", etc.), and (2) people speak of "self-evidence" as "faith" (e.g. "reason is based on axioms of faith", "you have faith in the fact that your senses tell you the truth", etc.). Now, note that (a) self-evidence is the starting point of knowledge, (b) higher forms of knowledge cannot by their nature be self-evident, and (c) the concept of "faith" is not the same as the concept of "direct observation". Therefore, I want to explore the nature of self-evidence and understand what really is self-evident, what does it really tell us and what kinds of knowledge can or cannot be self-evident.
 
-## What does self-evidence really tell us?
+### What does self-evidence really tell us?
 Self-evidence is one's direct awareness of reality. Direct awareness is the grasp of that which is given directly by reality. Now, note that all of reality is open to awareness and as such, reality gives you everything about itself, the only filter being the finite capacity of your direct awareness and the direction of your focus. Hence, what self-evidence tells us is that existence exists and that something exists that is what it is. What it is, is up to our cognition to discover, but self-evidence only tells you that it is something in particular, _this_ thing as opposed to _that_ thing.
 
 _The nature of what the self-evident tells us_...
@@ -160,14 +163,14 @@ Hence, it is important to see how basic the material of self-evidence really is 
 
 **NOTE**: _Fallibility does not mean that certainty beyond the self-evident is impossible, only that certainty beyond the self-evident is not automatic._
 
-## Against revelation
-**LEXICAL NOTE**:
+### The invalidity of revelation
+**LEXICAL NOTES**:
 
-When I say "idea", I am referring to any product of abstraction, e.g. concept, generalisation, principle, theory, etc.
+When I say "idea", I am referring to any product of abstraction, e.g. concept, generalisation, principle, theory, etc. When I say "revelation", I am referring to an idea that is automatically true by itself (i.e. intrinsically) or by mere direct awareness of it or by the mere presence of it in one's mind. Hence, I am using the term "revelation" as a generalisation of the concepts of "innate ideas", "intuition as knowledge" and "faith as truth". Just to be clear, note that I regard intuition as a valid means to _faciliate_ reason, not to replace it; the concept of "intuition as knowledge" on the other hand is the concept of intuition as being sufficient for knowledge.
 
 ---
 
-As a general case, consider the idea of an abstraction, such as a concept, generalisation or principle, that is grasped by the mind directly without a process of reason. What does this mean? It means that the abstraction was a product not of a series of selective focus but of direct awareness, i.e. direct perception of reality. Let us first examine this idea using the example of a concept. Now, note a concept is, in essence, a relationship between units (concrete or abstract) wherein one group of units is at once tied to units inside the group and separated from units outside the group through the selective focus on one or more _distinguishing_ similarities. Hence, to grasp a concept by direct awareness is to grasp the concretes in question as well as their relationships to each other.
+Consider the idea of an abstraction, such as a concept, generalisation or principle, that is grasped by the mind directly without a process of reason. What does this mean? It means that the abstraction was a product not of a series of selective focus but of direct awareness, i.e. direct perception of reality. Let us first examine this idea using the example of a concept. Now, note a concept is, in essence, a relationship between units (concrete or abstract) wherein one group of units is at once tied to units inside the group and separated from units outside the group through the selective focus on one or more _distinguishing_ similarities. Hence, to grasp a concept by direct awareness is to grasp the concretes in question as well as their relationships to each other.
 
 Now, consider: how do you validate a concept? For the moment, set aside the distinction between observed and unobserved units and note what it takes for a concept to be validated as an integration of a group of units. Evidently, we must show that the units are tied to each other by distinguishing similarities. But direct awareness is not automatically selective, which means we must apply our selective focus to grasp the distinguishing similarities. Hence, a concept cannot be automatically valid; it has to validated through our non-automatic selective focus. We can extend the same reasoning to any abstraction, since any abstraction is a product of selective focus that relates two or more units, which means it can only be validated by grasping the existence of the relationship through selective focus. Hence, even if an idea were directly beamed into your head, you would have no idea about its validity without taking the steps to selectively focus on each aspect of it that gives rise to it. Hence, there are no innate ideas that are automatically valid just by virtue of being in our minds.
 
@@ -180,6 +183,8 @@ A key implication of the above discussion that ties into what was discussed abou
 _Hence, a key point about the nature of higher-level knowledge_...
 
 All knowledge beyond basic observation is the integration of basic observations. All knowlege, from the most basic perceptions to the most esoteric abstractions, are essentially the same basic processes of cognition: the grasp of the self-evident and selective focus therefrom. Of course, the complexity and the exact process of integration differ, but the essence epistemologically is the same.
+
+## Integration of evidence
 
 
 
