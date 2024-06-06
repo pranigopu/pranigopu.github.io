@@ -19,7 +19,7 @@
   - [What is certainty?](#what-is-certainty)
   - [Certainty is contextual and key to expanding one's context](#certainty-is-contextual-and-key-to-expanding-ones-context)
   - [Certainty is primary and presupposed by uncertainty](#certainty-is-primary-and-presupposed-by-uncertainty)
-- [Evidence](#evidence)
+- [Evidence and reasoning](#evidence-and-reasoning)
   - [Self-evidence with respect to higher knowledge](#self-evidence-with-respect-to-higher-knowledge)
     - [What does self-evidence really tell us?](#what-does-self-evidence-really-tell-us)
     - [The invalidity of revelation](#the-invalidity-of-revelation)
@@ -140,7 +140,7 @@ To grasp it more clearly, consider what uncertainty means. To be uncertain about
 
 A key implication of the fact that uncertainty presupposes certainty is that every step of cognition leads to certainty, if only certainty about insufficiency in knowledge (e.g. insufficiency in evidence and reasoning, in our capacity to judge evidence and reasoning, etc.). To know what we do not know, we have to _know_, i.e. be certain of the facts that reveal the boundaries of our knowledge. For example, to know that there is a chance of failure in an airplane, we be certain of the fact that in real-life environments, there exist factors that cannot be accounted for. As another example, to know that there is a chance of a asteroid strike on Earth, we must be certain of the fact that asteroids can and do strike other bodies in space such as Earth. As a negative example, we cannot know if there is a chance for pink unicorns to prance down the street since nothing in our knowledge points to the existence of such creatures (even to validly claim possibility, we must _know_ something, i.e. have at least some evidence).
 
-# Evidence
+# Evidence and reasoning
 ## Self-evidence with respect to higher knowledge
 **LEXICAL NOTE**:
 
