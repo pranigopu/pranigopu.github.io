@@ -5,7 +5,7 @@
 **Contents**:
 
 - [LINK TO HUMAN NATURE: Rationality as the full realisation of volition](#link-to-human-nature-rationality-as-the-full-realisation-of-volition)
-- [LINK TO ETHICS: Staying in existence as the basic purpose](#link-to-ethics-staying-in-existence-as-the-basic-purpose)
+- [LINK TO ETHICS: Staying in existence as the basic purpose in cognition](#link-to-ethics-staying-in-existence-as-the-basic-purpose-in-cognition)
 
 ---
 
@@ -16,7 +16,7 @@ _Thus, to be volitional to the full is to be rational to the full and vice versa
 
 **NOTE**: _Needless to say, not all volitional acts are rational, but I posit that they are not rational when they are evasive on a deeper level, i.e. when they involve the unfocusing of the mind from reality and rely at their core on blind (i.e. non-perceptual) automatic responses. Hence, being a volitional being is equivalent to being rational if and only if one exercises one's volition to one's fullest capacity for every level of cognition beyond the perceptual level._
 
-# LINK TO ETHICS: Staying in existence as the basic purpose
+# LINK TO ETHICS: Staying in existence as the basic purpose in cognition
 _In ethics, I show that one's own life is the standard of value, i.e. the highest value and the source of all values (see: [The Standard of Value](https://pranigopu.github.io/philosophy/ethics/1-standard-of-value.html)). Now, however, I shall show the same idea from an epistemological perspective. I shall show that the only purpose fundamentally is the purpose of staying in existence as what you are, and since that any form of cognition needs purpose, I shall show that knowledge implies and is implied by the idea of one's own life as the standard of value._
 
 How do you grasp the self-evident? By staying in awareness. Why grasp the self-evident? To stay in existence as a conscious being, i.e. to preserve your faculty of awareness, because to be aware is to be aware of something that is what it is. Why grasp anything beyond the self-evident? To stay in existence as a volitional being, i.e. to preserve your faculty of self-driven awareness. If you do not care to do so, why think? For no purpose? But thinking is impossible without purpose. So, do you think for a purpose of something or someone beyond you? But if the purpose is beyond you, your awareness cannot be self-driven because what drives you is also beyond you.
