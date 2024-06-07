@@ -19,3 +19,5 @@ Rationality is the self-driven effort to grasp reality and act accordingly, i.e.
 To be a volitional being to the fullest is equivalent to being a rational being to the fullest. Why? Reason is the use of volition from the perceptual level (the last inexorably non-volitional stage of cognition) to focus based on (1) awareness of motives and (2) awareness of facts. It is the faculty that is based on, relies on and most uses the faculty of volition. To have as a fundamental approach either impulsivity or instinctiveness is to not exercise your volition in favour of automatic, subconscious or unconscious drives.
 
 _Thus, to be volitional to the full is to be rational to the full and vice versa._
+
+**NOTE**: _Needless to say, not all volitional acts are rational, but I posit that they are not rational when they are evasive on a deeper level, i.e. when they involve the unfocusing on the mind from reality and rely at their core on automatic non-perceptual responses._
