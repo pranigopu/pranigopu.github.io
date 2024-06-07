@@ -26,3 +26,5 @@ But you are what you are and cannot be what you are not. Thus, the moment you lo
 **NOTE**: _Thinking is ultimately based on thinking about something that exists, i.e. thinking about reality. To think about the unreal from the very first thought is to think about nothing. Hence, the first thoughts you have must be forms of knowledge._
 
 Rationality is the self-driven effort to grasp reality and act accordingly, i.e. it is the self-driven effort to know and to act on what one knows. Hence, rationality is the virtue of choosing to stay in existence as what you are, i.e. as a volitional being. Hence, it is the virtue that is the source of every other virtue, since it strives toward the purpose that is the source of every other purpose. Hence, every virtue is a form of rationality, since every purpose is a form of staying in existence as what you are.
+
+_If you care to exist, you must grasp reality to your fullest, exercise your awareness of reality and integrate it to know what you aware of. If you do not, you have bid yourself farewell._
