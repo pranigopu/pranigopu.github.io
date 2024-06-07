@@ -25,7 +25,8 @@
     - [What does self-evidence really tell us?](#what-does-self-evidence-really-tell-us)
     - [The invalidity of revelation](#the-invalidity-of-revelation)
   - [Identifying evidence](#identifying-evidence)
-  - [Evidence vs. the arbitrary](#evidence-vs-the-arbitrary)
+    - [Note on factual context](#note-on-factual-context)
+    - [Evidence vs. the arbitrary](#evidence-vs-the-arbitrary)
 
 ---
 
@@ -148,7 +149,9 @@ We observe that we know something, but we also observe that our knowledge is fin
 
 Now, consider the case of learning about something in particular whose nature is unknown, such as an object, an individual, an environment, etc. Knowledge is relational, but direct awareness does not automatically give us knowledge about the relationships between the facts we observe and the other facts we know. Furthermore, we are not necessarily certain that we have observed everything there is to observe; indeed, as we come to know more, we can observe clearly _that_ we do not know and often also _what_ we do not know. Hence, our knowledge of what we are learning about does not necessarily go from ignorance to certainty directly; there are in-between stages in our knowledge wherein we have some knowledge of what we learning about as well as knowledge of what we know and do not know.
 
-In other words, we often have degrees of uncertainty between ignorance and certainty. A key question in cognition, therefore, is how to move from ignorance to certainty. What is the nature of the new observations and knowledge that move us in that direction? Hence, we see that it is useful to identify that which decreases our uncertainty about something. We identify it by the concept of "evidence". To define it, evidence about an object of focus is any observation or knowledge that either gives us certainty or decreases our uncertainty about the object of focus.
+In other words, we often have degrees of uncertainty between ignorance and certainty. A key question in cognition, therefore, is: how to move from ignorance to certainty? What is the nature of the new observations and knowledge that move us in that direction? Hence, we see that it is useful to identify that which decreases our uncertainty about something. We identify it by the concept of "evidence". More precisely, evidence about an object of focus is any observation or knowledge that either gives us certainty or decreases our uncertainty about the object of focus.
+
+**NOTE**: _It is invalid to say "increase" or "decrease" for certainty, since certainty identifies the end state of cognition wherein we have knowledge as opposed to its absence. Certainty is either-or: either you certain or not. You cannot be "more certain" or "less certain", only certain._
 
 The most basic form of evidence is self-evidence. Though I have discussed it at length, I shall look into it with respect to higher forms of knowledge in order to address the proper use and the potential misuse of the idea of self-evidence. Having dealt with that, I shall move on to understand what counts as evidence apart from self-evidence, i.e. what makes new observations or knowledge evidence as opposed to irrelevant facts.
 
@@ -168,7 +171,7 @@ Self-evidence is one's direct awareness of reality. Direct awareness is the gras
 
 _The nature of what the self-evident tells us_...
 
-Already, we see that saying that the self-evident is "true" is a kind of tautology, since the self-evident is the basis of truth. We also see that the self-evident is inescapable to awareness; if you are aware and turn your awareness toward it, you cannot but affirm it. A way to show that something is self-evident is to show how even denying it leads to its affirmation. For example, if I see something in front of me and deny that it exists, I am saying, in effect, "What I am seeing is not what it is." You might say that what I mean when I deny the existence of something is, "What I am seeing is not what I think I am seeing." But note that here, I am speaking of self-evidence as such, which is a pre-conceptual level of cognition. Self-evidence does not tell you _what_ you are seeing, only _that_ you are seeing and that you are seeing something in particular as opposed to something else. Hence, when denying the existence of something I perceive as such, I deny that the thing exists and is what it is, thereby denying the fact that I am aware, since if the thing is not what it is and thus does not exist, I am aware of nothing, i.e. unaware. Needless to say, such a position denies my very awareness and makes anything I say nothing but noise.
+Already, we see that calling the self-evident "true" is a kind of tautology, since the self-evident is the basis of truth. We also see that the self-evident is inescapable to awareness; if you are aware and turn your awareness toward it, you cannot but affirm it. A way to show that something is self-evident is to show how even denying it leads to its affirmation. For example, if I see something in front of me and deny that it exists, I am saying, in effect, "What I am seeing is not what it is." You might say that what I mean when I deny the existence of something is, "What I am seeing is not what I think I am seeing." But note that here, I am speaking of self-evidence and not interpretation; it is a pre-conceptual level of cognition. Self-evidence does not tell you _what_ you are seeing, only _that_ you are seeing and that you are seeing something in particular as opposed to something else. Hence, when denying the existence of something I perceive as it is, I deny that the thing exists and is what it is, thereby denying the fact that I am aware, since if the thing is not what it is and thus does not exist, I am not aware of it. Needless to say, such a position denies the very fact of my awareness of something and makes anything I say about it mere noise.
 
 **NOTE**: _Even if what you perceive is a hallucination, it is still something and is a part of reality that you can be aware of, which in this case is your mental problem. This is made clear by the fact that we can as humans identify, correct for and treat hallucinations. Whatever they are, they are something in particular and have particular effects._
 
@@ -228,12 +231,15 @@ The standard of proof for a proposition is defined based on the fundamental cond
 
 For example, the possibility of a meteorite striking the road is outside our factual context and thus cannot be evidence for a higher probability of a road accident. Yes, meteorites do strike the Earth, but we have no means of taking its likelihood into account since we have no knowledge (in our day-to-day factual context) about what makes a meteorite strike less or more likely. As another example, the author's hatred of bees is not a causal factor in the lack of mention of bees in his work because nothing in our factual context shows the causal relationship; hating bees does not means you do not write about them — you may even write at great length against them — and not writing about bees does not necessarily arise from your hatred of them. In both the examples, the non-factors are arbitrary, i.e. detached from our knowledge.
 
-_The above examples lead us to the next topic, i.e. evidence vs. the arbitrary_...
+_The above discussion leads us to the topic to be discussed later: evidence vs. the arbitrary_...
 
-## Evidence vs. the arbitrary
+### Note on factual context
+A factual context in a given situation consists of everything you know and can hold within your focus effectively in the given situation. Hence, your factual context what you know you do not know, i.e. what you know to be outside your factual context. For example, if I know I do not know about, say, Jupiter's weather, that knowledge is outside my factual context though the knowledge that I do not know it is within my factual context. Your factual context also includes what you know to be important or potentially important and thus relevant to learn. If you have no knowledge about how to learn something, its consideration is outside your factual context. If you have no knowledge about whether something is important or potentially important, then its importance or potential importance is outside your factual context, which means it is not relevant to learn. Note that relevance is always with respect to what you know, which is why saying "relevant within your knowledge" is redundant.
+
+### Evidence vs. the arbitrary
 It is easy to dismiss false factors, but it may be harder to recognise and dismiss the arbitrary, especially since they may often seem plausible. For example, one may point to a mention of a flying machine in an ancient source as evidence of an advanced civilisation from ancient times. As another example, one may take a medium narrating a dead person's personal stories as evidence that the medium is in fact talking to the dead. As another example, one may hear annectotes of people "remembering" things they had no means of knowing and take them as evidence for reincarnation. Do these count as evidence?
 
-To identify evidence, we must identify a standard of proof within a factual context. Evidence can exist neither out of context nor apart from the standard of proof.
+As seen in the previous section, to identify evidence, we must identify a standard of proof within a factual context. Evidence can exist neither out of context nor apart from the standard of proof.
 
 - Integration of the self-evident to achieve complex knowledge
   - Why flat-earthers are not empirical since they disintegrate observations from a broader context that is observed
