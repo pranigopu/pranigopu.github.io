@@ -1,4 +1,6 @@
-**SOME REMARKS ON EPISTEMOLOGY**
+[<< Back to Epistemology](https://pranigopu.github.io/philosophy/epistemology)
+
+**CLOSING REMARKS ON EPISTEMOLOGY**
 
 ---
 
