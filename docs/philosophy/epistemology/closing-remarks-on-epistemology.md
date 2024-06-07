@@ -11,7 +11,7 @@ To be a volitional being to the fullest is equivalent to being rational to the f
 
 _Thus, to be volitional to the full is to be rational to the full and vice versa._
 
-**NOTE**: _Needless to say, not all volitional acts are rational, but I posit that they are not rational when they are evasive on a deeper level, i.e. when they involve the unfocusing of the mind from reality and rely at their core on automatic non-perceptual responses. Hence, being a volitional being is equivalent to being rational if and only if one exercises one's volition to one's fullest capacity for every level of cognition beyond the perceptual level._
+**NOTE**: _Needless to say, not all volitional acts are rational, but I posit that they are not rational when they are evasive on a deeper level, i.e. when they involve the unfocusing of the mind from reality and rely at their core on blind automatic responses. Hence, being a volitional being is equivalent to being rational if and only if one exercises one's volition to one's fullest capacity for every level of cognition beyond the perceptual level._
 
 # LINK TO ETHICS: Staying in existence as the basic purpose
 _In ethics, I show that one's own life is the standard of value, i.e. the highest value and the source of all values. Here, I shall show the same idea from an epistemological perspective. I shall show that the only purpose fundamentally is the purpose of staying in existence as what you are, and since that any form of cognition needs purpose, I shall show that knowledge implies and is implied by the idea of one's own life as the standard of value._
