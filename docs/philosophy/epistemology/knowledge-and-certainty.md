@@ -245,7 +245,7 @@ A factual context in a given situation consists of everything you know and can h
 ### Evidence vs. the arbitrary
 It is easy to dismiss false factors, but it may be harder to recognise and dismiss the arbitrary, especially since they may often seem plausible. For example, one may point to a mention of a flying machine in an ancient source as evidence of an advanced civilisation from ancient times. As another example, one may take a medium narrating a dead person's personal stories as evidence that the medium is in fact talking to the dead. As another example, one may hear annectotes of people "remembering" things they had no means of knowing and take them as evidence for reincarnation. Do these count as evidence?
 
-As seen in the previous section, to identify evidence, we must identify a standard of proof within a factual context. Evidence can exist neither out of context nor apart from the standard of proof.
+As seen in the previous section, to identify evidence, we must identify a standard of proof within a factual context; evidence can exist neither out of context nor apart from the standard of proof.
 
 - Integration of the self-evident to achieve complex knowledge
   - Why flat-earthers are not empirical since they disintegrate observations from a broader context that is observed
