@@ -4,6 +4,9 @@
 
 **Contents**:
 
+- [LINK TO HUMAN NATURE: Rationality as the full realisation of volition](#link-to-human-nature-rationality-as-the-full-realisation-of-volition)
+- [LINK TO ETHICS: Staying in existence as the basic purpose](#link-to-ethics-staying-in-existence-as-the-basic-purpose)
+
 ---
 
 # LINK TO HUMAN NATURE: Rationality as the full realisation of volition
@@ -20,6 +23,6 @@ How do you grasp the self-evident? By staying in awareness. Why grasp the self-e
 
 But you are what you are and cannot be what you are not. Thus, the moment you lose the capacity to be self-driven, you no longer exist. But can you or what remains of you at least be aware? Well, do you act to stay in awareness as long as you are awake? If so, that is your purpose. But if the purpose is still beyond you, you can have no purpose since no purpose you act upon arises from you. You no longer exist. Thus, the only purpose is to preserve yourself as you are, i.e. as a being of self-driven awareness, i.e. as a being alive, aware and desirous of being both. If such is not your purpose, you cannot think, you cannot be aware and ultimately, you cannot exist. To the extent that you have such purpose, to that extent you are aware and care to exist, and to the extent that you do not, to that extent you give up your awareness and let yourself fade away.
 
-**NOTE**: _To think is ultimately based on thinking about something that exists, i.e. to thinking about reality. To think about the unreal from the very first thought is to think about nothing. Hence, the first thoughts you have must be forms of knowledge._
+**NOTE**: _Thinking is ultimately based on thinking about something that exists, i.e. thinking about reality. To think about the unreal from the very first thought is to think about nothing. Hence, the first thoughts you have must be forms of knowledge._
 
 Rationality is the self-driven effort to grasp reality and act accordingly, i.e. it is the self-driven effort to know and to act on what one knows. Hence, rationality is the virtue of choosing to stay in existence as what you are, i.e. as a volitional being. Hence, it is the virtue that is the source of every other virtue, since it strives toward the purpose that is the source of every other purpose. Hence, every virtue is a form of rationality, since every purpose is a form of staying in existence as what you are.
