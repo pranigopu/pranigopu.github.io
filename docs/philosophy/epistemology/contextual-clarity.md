@@ -94,8 +94,8 @@ _Here are some examples of valid integration, i.e. integration by essentials_...
 
 3.1.
 
-In the context of studying the fundamentals of goal-directed behaviour, you would be right to treat a diverse range of entities as equivalent, such a tree, a fungus, an insect, a human, an elephant and a coral. The equivalence is valid since their shared characteristic of self-generated, self-sustaining action is essentially goal-directed.
+In the context of studying the fundamentals of goal-directed behaviour, you would be right to treat as equivalent entities as diverse as a tree, a fungus, an insect, a human, an elephant and a coral. The equivalence is in this context valid since their shared characteristic of self-generated, self-sustaining action is essentially goal-directed.
 
 3.2.
 
-It is valid to consider the professions of "engineer", "butcher", "sailor", "teacher" and "artist" as essentially the same in a moral context, since they are integrated in that context by the essential characteristic of being potentially productive careers, since their shared characteristics of value-creation and trade are the basis of a potentially productive career.
+It is valid to consider the professions of "engineer", "butcher", "sailor", "teacher" and "artist" as essentially the same in a moral context, since they are integrated in this context by the essential characteristic of being potentially productive careers, since their shared characteristics of value-creation and trade are the basis of a potentially productive career.
