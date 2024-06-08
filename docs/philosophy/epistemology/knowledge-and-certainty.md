@@ -27,6 +27,7 @@
   - [Identifying evidence](#identifying-evidence)
     - [Note on factual context](#note-on-factual-context)
     - [Evidence vs. the irrelevant](#evidence-vs-the-irrelevant)
+  - [Contextual clarity in evidence](#contextual-clarity-in-evidence)
 
 ---
 
@@ -273,7 +274,7 @@ For example, if — in our knowledge — wind speed has no bearing on the occurr
 
 Remember that consciousness is finite, and turning our focus toward that whose importance or potential importance is unknown means turning our focus away from that whose importance or potential importance is known. By focusing on the non-essentials, we direct our focus not based on knowledge but on ignorance, which is akin to looking one way and walking another. We turn not to awareness but to unawareness and thereby turn away from reality as a policy. We may be lucky and get something out of it, but in adopting such a practice, we degrade our capacity to live and pursue values, especially long-range. Remember: reality is integrated by identity and causality and thus can and must be understood by awareness. Turning away from it can never give you the efficacy of awareness and reason.
 
+## Contextual clarity in evidence
 - Integration of the self-evident to achieve complex knowledge
   - Why flat-earthers are not empirical since they disintegrate observations from a broader context that is observed
   - Why trust in the quality of a product in a supermarket is fundamentally different from an arbitrary or dogmatic claim
-- Efficacy (moral, practical and intellectual) is impossible without certainty or at least the pursuit of certainty in higher levels (presupposing certainty at some lower level). Certainty is possible, desirable and necessary on some level.
