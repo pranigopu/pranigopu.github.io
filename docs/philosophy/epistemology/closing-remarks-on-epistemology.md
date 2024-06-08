@@ -9,7 +9,7 @@
 - [Staying in existence as the basic purpose in cognition](#staying-in-existence-as-the-basic-purpose-in-cognition)
 - [Expanding on the nature of rationality](#expanding-on-the-nature-of-rationality)
   - [Rationality is contextual](#rationality-is-contextual)
-  - [Rationality as the full realisation of volition](#rationality-as-the-full-realisation-of-volition)
+  - [Rationality is the full realisation of volition](#rationality-is-the-full-realisation-of-volition)
   - [Are wild animals more rational than human beings?](#are-wild-animals-more-rational-than-human-beings)
 
 ---
@@ -53,7 +53,7 @@ In the pursuit of pleasure in the moment, it is rational to act on emotion withi
 
 An ordinary rational person cannot be expected to validate first-hand every finding in specialised studies and sciences, such as medicine, psychology, economics, the natural sciences or even philosophy beyond a certain point. In such a case, since rationality demands relevance and efficiency, it is not necessarily rational to try to achieve enough first-hand knowledge about the specialised study or science to validate the findings in question. On the contrary, it is often perfectly rational to use indirect evidence such as cross-references, expert consultation, reputation, etc. A rational person's judgement is still his own independent judgement, but the method of reaching the judgement is not and cannot be through direct study.
 
-## Rationality as the full realisation of volition
+## Rationality is the full realisation of volition
 To be a volitional being to the fullest is equivalent to being rational to the fullest. Why? Reason is the use of volition from the perceptual level (the last inexorably non-volitional stage of cognition) to focus based on (1) awareness of motives and (2) awareness of facts. It is the faculty that is based on, relies on and most uses the faculty of volition. To have as a fundamental approach either impulsivity or instinctiveness is to not exercise your volition in favour of automatic, subconscious or unconscious drives.
 
 _Thus, to be volitional to the full is to be rational to the full and vice versa._
