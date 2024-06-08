@@ -11,6 +11,7 @@
   - [Rationality is contextual](#rationality-is-contextual)
   - [Rationality is the full realisation of volition](#rationality-is-the-full-realisation-of-volition)
   - [Are wild animals more rational than human beings?](#are-wild-animals-more-rational-than-human-beings)
+- [Further reading](#further-reading)
 
 ---
 
@@ -68,3 +69,6 @@ Now, integration beyond perception and basic concepts is not automatic and needs
 _Do humans not do many things not contributing to their survival, unlike animals?_
 
 Here, we have to note two things: (1) Humans are volitional beings, which means they can only function as volitional beings by integrating the actual with the potential (i.e. by being long-range in some way). Hence, our needs for survival as volitional beings are much more complex than mere biological needs. Take some examples. Art is a need of our consciousness to be able to concretise and reinforce our broad view of the world and of life. Enjoyment is a vital need since it concretises our value for life in the moment. Curiosity and the pursuit of knowledge for its own sake are tied to long-range survival (if pursued rationally), since dealing with a broader more long-range context needs at least some exploration beyond what we know to be relevant. (2) Humans can choose to be irrational, which means they can refuse to integrate their values, motives and actions toward their long-range survival. Such people would indeed do a lot of things that don’t make sense and that do not contribute to their survival, but such a state of affairs is not inherent in being human.
+
+# Further reading
+For an excellent deep-dive into epistemology, check "Introduction to Objectivist Epistemology" by Ayn Rand. In this book, the author discusses concept-formation, abstractions, concepts of consciousness, definitions and more.
