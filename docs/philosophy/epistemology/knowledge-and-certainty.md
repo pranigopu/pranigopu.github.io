@@ -150,6 +150,14 @@ To grasp it more clearly, consider what uncertainty means. To be uncertain about
 
 A key implication of the fact that uncertainty presupposes certainty is that every step of cognition leads to certainty, if only certainty about insufficiency in knowledge (e.g. insufficiency in evidence and reasoning, in our capacity to judge evidence and reasoning, etc.). To know what we do not know, we have to _know_, i.e. be certain of the facts that reveal the limits of our knowledge. For example, to know that there is a chance of failure in an airplane, we be certain of the fact that in real-life environments, there exist factors that cannot be accounted for. As another example, to know that there is a chance of a asteroid strike on Earth, we must be certain of the fact that asteroids can and do strike other bodies in space such as Earth. As a negative example, we cannot know if there is a chance for pink unicorns to prance down the street since nothing in our knowledge points to the existence of such creatures (even to validly claim possibility, we must _know_ something, i.e. have at least some evidence).
 
+---
+
+_Concluding remarks_...
+
+Efficacy in dealing with reality is impossible without certainty or at least the pursuit of certainty in higher levels (presupposing certainty in at least some lower level). Certainty is the goal of cognition and is always possible, desirable and necessary in some way and on some level.
+
+**NOTE**: _By efficacy, I mean efficacy in every sense: moral, cognitive, practical, etc. Note also that every form of efficacy is necessarily tied to the others; all forms are essentially aspects of efficacy as such._
+
 # Evidence
 ## What is evidence and why do we need it?
 We observe that we know something, but we also observe that our knowledge is finite since our consciousness as well as the amount we can observe and integrate up to a certain point are finite. Moreover, we observe that there exist things outside our current factual context; we can observe this by reaching at least some certainty in what our current factual context implies and — by extension — does not imply. In other words, we know that we do not know everything.
