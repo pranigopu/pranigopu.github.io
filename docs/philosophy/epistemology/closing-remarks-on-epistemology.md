@@ -9,8 +9,8 @@
 - [LINK TO ETHICS: Staying in existence as the basic purpose in cognition](#link-to-ethics-staying-in-existence-as-the-basic-purpose-in-cognition)
 - [Expanding on the nature of rationality](#expanding-on-the-nature-of-rationality)
   - [Rationality as the full realisation of volition](#rationality-as-the-full-realisation-of-volition)
-- [The use of other mental faculties as rational](#the-use-of-other-mental-faculties-as-rational)
-- [Are wild animals more rational than human beings?](#are-wild-animals-more-rational-than-human-beings)
+  - [The use of other mental faculties as rational](#the-use-of-other-mental-faculties-as-rational)
+  - [Are wild animals more rational than human beings?](#are-wild-animals-more-rational-than-human-beings)
 
 ---
 
@@ -35,10 +35,10 @@ _Thus, to be volitional to the full is to be rational to the full and vice versa
 
 **NOTE**: _Needless to say, not all volitional acts are rational, but I posit that they are not rational when they are evasive on a deeper level, i.e. when they involve the unfocusing of the mind from reality and rely at their core on blind (i.e. non-perceptual) automatic responses. Hence, being a volitional being is equivalent to being rational if and only if one exercises one's volition to one's fullest capacity for every level of cognition beyond the perceptual level._
 
-# The use of other mental faculties as rational
+## The use of other mental faculties as rational
 As examples of the use of other faculties as an application of reason, consider: (1) In an emergency, it is rational to use instincts to act if it is clear that any deliberation is practically impossible or potentially detrimental to your ability to deal with the emergency. (2) In the pursuit of pleasure in the moment, it is rational to act on emotion within the context if doing otherwise would take away from the pleasure you rationally decided to seek.
 
-# Are wild animals more rational than human beings?
+## Are wild animals more rational than human beings?
 Let me first define my terms. Reason is the faculty of identifying and integrating the material given by direct experience; "integrating" is the key word, since that takes us from direct perception and instinct (which are immediate or short-range) to deeper, broader and more long-range understanding of the world (via abstraction, concepts and generalisations). Integration is what separates reason from mere perception and mere instinct (I say "mere" because (1) reason is based on direct perception but extends beyond it and (2) reason can integrate instinct but, of course, it has a lot more to it).
 
 Now, integration beyond perception and basic concepts is not automatic and needs selective, self-directed focus, i.e. volition. Most wild animals are instinctual and short-range; most do not possess the power of volition (though I think some may possess it). We humans do possess it, which is why humans can be rational while most animals cannot. But note that volition is not automatic, which means rationality is not automatic; we must choose to be rational, but we can also choose otherwise (and many do). But it is the capacity for reason that separates us from other (or at least most other) animals. But note that irrationality can only be identified as the negation of rationality, which means rationality is causally and conceptually prior; in other words, irrationality is the failure to use the distinctively human capacity to reason. That's why I hold the capacity to be rational as the essence of being human rather than the capacity to be irrational.
