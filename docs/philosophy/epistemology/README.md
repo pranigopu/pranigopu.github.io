@@ -13,6 +13,7 @@ _Fundamentals_...
 4. [Integration of Perception](https://pranigopu.github.io/philosophy/epistemology/4-integration-of-perception.html) <br> **NOTE**: _This is the key link between concrete observations and abstractions._
 5. [Unit Perception](https://pranigopu.github.io/philosophy/epistemology/5-unit-perception.html)
 6. [Concept-formation](https://pranigopu.github.io/philosophy/epistemology/6-concept-formation.html)
+7. [Reason](https://pranigopu.github.io/philosophy/epistemology/7-reason.html)
 
 _Expansion_...
 
