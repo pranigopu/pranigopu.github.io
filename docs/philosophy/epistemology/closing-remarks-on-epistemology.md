@@ -35,7 +35,7 @@ The purpose of the concept of "rationality" is to orient one's mind toward reali
 
 Hence, rationality is contextual, i.e. it is the application of universal truths and principles to the particular facts within a given factual context. Hence, a person with low intelligence and a person with high intelligence both have the same capacity to be _rational_, i.e. both have the capacity to choose to focus their mind toward reality to their own best mental capacity; as long as one is a volitional being, mental capacity as such (i.e. the integrative power, scope of focus, etc.) is irrelevant to rationality, i.e. it does not make one more or less rational. Rationality is not about how much or how far you use your mind, but simply _how_ you use your mind, i.e. by what principles; reality-oriented and thereby life-affirming, or evasive and thereby life-degrading? Hence, in an essential way, rationality is the affirmation of one's own life to one's fullest capacity.
 
-**NOTE**: _Do not confuse "contextual" with "subjective". "Contextual" only refers to a particular set of interrelated facts by which something can be understood and applied. "Subjective" on the other hand refers to treating a conscious unit (e.g. emotion, whim, intuition, untested notion, etc.) as valid "knowledge" apart from or even in contradiction to its relationship to known facts._
+**NOTE**: _Do not confuse "contextual" with "subjective". "Contextual" only refers to a particular set of interrelated facts by which something can be understood and applied. "Subjective" on the other hand refers to treating conscious units (e.g. emotions, whims, intuition, unvalidated notions, etc.) as valid "knowledge" apart from or even in contradiction to its relationship to known facts._
 
 ---
 
