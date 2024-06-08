@@ -157,7 +157,7 @@ Now, consider the case of learning about something in particular whose nature is
 
 In other words, we often have degrees of uncertainty between ignorance and certainty. A key question in cognition, therefore, is: how to move from ignorance to certainty? What is the nature of the new observations and knowledge that move us in that direction? Hence, we see that it is useful to identify that which decreases our uncertainty about something. We identify it by the concept of "evidence". More precisely, evidence about an object of focus is any observation or knowledge that either gives us certainty or decreases our uncertainty about the object of focus.
 
-**NOTE**: _It is invalid to say "increase" or "decrease" for certainty, since certainty identifies the end state of cognition wherein we have knowledge as opposed to its absence. Certainty is either-or: either you certain or not. You cannot be "more certain" or "less certain", only certain._
+**NOTE**: _It is invalid to say "increase" or "decrease" for certainty, since certainty identifies the end state of cognition wherein we have knowledge as opposed to its absence. Certainty is either-or: either you are certain or not. You cannot be "more certain" or "less certain", only certain._
 
 The most basic form of evidence is self-evidence. Though I have discussed it at length, I shall look into it with respect to higher forms of knowledge in order to address the proper use and the potential misuse of the idea of self-evidence. Having dealt with that, I shall move on to understand what counts as evidence apart from self-evidence, i.e. what makes new observations or knowledge evidence as opposed to irrelevant considerations.
 
