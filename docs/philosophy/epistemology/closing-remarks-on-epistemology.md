@@ -8,8 +8,8 @@
 
 - [LINK TO ETHICS: Staying in existence as the basic purpose in cognition](#link-to-ethics-staying-in-existence-as-the-basic-purpose-in-cognition)
 - [Expanding on the nature of rationality](#expanding-on-the-nature-of-rationality)
-  - [Rationality as the full realisation of volition](#rationality-as-the-full-realisation-of-volition)
   - [The use of other mental faculties as rational](#the-use-of-other-mental-faculties-as-rational)
+  - [Rationality as the full realisation of volition](#rationality-as-the-full-realisation-of-volition)
   - [Are wild animals more rational than human beings?](#are-wild-animals-more-rational-than-human-beings)
 
 ---
@@ -28,15 +28,15 @@ Rationality is the self-driven effort to grasp reality and act accordingly, i.e.
 _If you care to exist, you must grasp reality to your fullest, exercise your awareness of reality and integrate it to know what you aware of. If you do not, you have bid yourself farewell._
 
 # Expanding on the nature of rationality
+## The use of other mental faculties as rational
+As examples of the use of other faculties as an application of reason, consider: (1) In an emergency, it is rational to use instincts to act if it is clear that any deliberation is practically impossible or potentially detrimental to your ability to deal with the emergency. (2) In the pursuit of pleasure in the moment, it is rational to act on emotion within the context if doing otherwise would take away from the pleasure you rationally decided to seek.
+
 ## Rationality as the full realisation of volition
 To be a volitional being to the fullest is equivalent to being rational to the fullest. Why? Reason is the use of volition from the perceptual level (the last inexorably non-volitional stage of cognition) to focus based on (1) awareness of motives and (2) awareness of facts. It is the faculty that is based on, relies on and most uses the faculty of volition. To have as a fundamental approach either impulsivity or instinctiveness is to not exercise your volition in favour of automatic, subconscious or unconscious drives.
 
 _Thus, to be volitional to the full is to be rational to the full and vice versa._
 
 **NOTE**: _Needless to say, not all volitional acts are rational, but I posit that they are not rational when they are evasive on a deeper level, i.e. when they involve the unfocusing of the mind from reality and rely at their core on blind (i.e. non-perceptual) automatic responses. Hence, being a volitional being is equivalent to being rational if and only if one exercises one's volition to one's fullest capacity for every level of cognition beyond the perceptual level._
-
-## The use of other mental faculties as rational
-As examples of the use of other faculties as an application of reason, consider: (1) In an emergency, it is rational to use instincts to act if it is clear that any deliberation is practically impossible or potentially detrimental to your ability to deal with the emergency. (2) In the pursuit of pleasure in the moment, it is rational to act on emotion within the context if doing otherwise would take away from the pleasure you rationally decided to seek.
 
 ## Are wild animals more rational than human beings?
 Let me first define my terms. Reason is the faculty of identifying and integrating the material given by direct experience; "integrating" is the key word, since that takes us from direct perception and instinct (which are immediate or short-range) to deeper, broader and more long-range understanding of the world (via abstraction, concepts and generalisations). Integration is what separates reason from mere perception and mere instinct (I say "mere" because (1) reason is based on direct perception but extends beyond it and (2) reason can integrate instinct but, of course, it has a lot more to it).
