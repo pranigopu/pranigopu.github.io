@@ -40,7 +40,7 @@ _This section is lifted directly from_ [_Metaphysics_](https://pranigopu.github.
 
 **LEXICAL NOTE**:
 
-To affirm something is to grasp (either explicitly or implicitly) that it exists, i.e. that it is real. To accept something is to hold that it exists; acceptance can also exist when what is being accepted does not exist. Hence, affirmation is affirmation of what is, whereas acceptance is acceptance of a proposition about either something that either is or may be or is not or may not be. Note also that to deny something is to hold that it does not exist (it is the inverse of acceptance); denial can also exist when what is being denied does exist. Hence, note a key point: accepting or denying something is independent of affirming it, since you affirm it as long as you grasp and rely on its existence.
+To affirm something is to grasp (either explicitly or implicitly) that it exists, i.e. that it is real. To accept something is to hold that it exists; acceptance can also exist when what is being accepted does not exist. Hence, affirmation is affirmation of what is, whereas acceptance is acceptance of a proposition about something that either is or may be or is not or may not be. Note also that to deny something is to hold that it does not exist (it is the inverse of acceptance); denial can also exist when what is being denied does exist. Hence, note a key point: accepting or denying something is independent of affirming it, since you affirm it as long as you grasp and rely on its existence.
 
 ---
 
