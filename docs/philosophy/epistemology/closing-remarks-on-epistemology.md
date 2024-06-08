@@ -8,7 +8,7 @@
 
 - [Staying in existence as the basic purpose in cognition](#staying-in-existence-as-the-basic-purpose-in-cognition)
 - [Expanding on the nature of rationality](#expanding-on-the-nature-of-rationality)
-  - [The use of other mental faculties as rational](#the-use-of-other-mental-faculties-as-rational)
+  - [Rationality is contextual](#rationality-is-contextual)
   - [Rationality as the full realisation of volition](#rationality-as-the-full-realisation-of-volition)
   - [Are wild animals more rational than human beings?](#are-wild-animals-more-rational-than-human-beings)
 
@@ -30,8 +30,26 @@ Rationality is the self-driven effort to grasp reality and act accordingly, i.e.
 _If you care to exist, you must grasp reality to your fullest, exercise your awareness of reality and integrate it to know what you aware of. If you do not, you have bid yourself farewell._
 
 # Expanding on the nature of rationality
-## The use of other mental faculties as rational
-As examples of the use of other faculties as an application of reason, consider: (1) In an emergency, it is rational to use instincts to act if it is clear that any deliberation is practically impossible or potentially detrimental to your ability to deal with the emergency. (2) In the pursuit of pleasure in the moment, it is rational to act on emotion within the context if doing otherwise would take away from the pleasure you rationally decided to seek.
+## Rationality is contextual
+The purpose of the concept of "rationality" is to orient one's mind toward reality. Hence, "rationality" is defined in the context of one's knowledge, capacity to focus, capacity to integrate, mental and physical conditions that affect the aforementioned capacities, etc. No one can act beyond their capacity, so there is no purpose in defining a mental orientation that disregards capacity, i.e. that does not consider what is possible or impossible to the actor in question. Furthermore, though the pursuit of life and happiness is the fundamental pursuit of any rational person (as shown in ethics), the expression and expansion of this broad pursuit depends on the context of the person's life, which consists of the person's capacities, personal experiences, internalised premises and habits, etc., which together lead to a concretised hierarchy of values with respect to which one's cognitive purposes exist, with respect to which reason is exercised.
+
+Hence, rationality is contextual, i.e. it is the application of universal truths and principles to the particular facts within a given factual context. Hence, a person with low intelligence and a person with high intelligence both have the same capacity to be _rational_, i.e. both have the capacity to choose to focus their mind toward reality to their own best mental capacity; as long as one is a volitional being, mental capacity as such (i.e. the integrative power, scope of focus, etc.) is irrelevant to rationality, i.e. it does not make one more or less rational. Rationality is not about how much or how far you use your mind, but simply _how_ you use your mind, i.e. by what principles; reality-oriented and thereby life-affirming, or evasive and thereby life-degrading? Hence, in an essential way, rationality is the affirmation of one's own life to one's fullest capacity.
+
+---
+
+**Illustrative examples**:
+
+1.
+
+In an emergency, it is rational to use instincts to act if it is clear that any deliberation is practically impossible and/or potentially detrimental to your ability to deal with the emergency. Here, it is perfectly rational to use your instincts and intuition, since such situations (where rapid and therefore largely automatic evaluation and responses are needed) are exactly where the faculties of instinct and intuition are relevance, i.e. rationality demands the use of instinct and intuition in the right situations.
+
+2.
+
+In the pursuit of pleasure in the moment, it is rational to act on emotion within the context if doing otherwise would take away from the pleasure you rationally decided to seek. Pleasure is in fact an important value in human life, and disregarding or degrading the means of gaining pleasure based on arbitrary deliberation is irrational.
+
+3.
+
+An ordinary rational person cannot be expected to validate first-hand every finding in specialised studies and sciences, such as medicine, psychology, economics, the natural sciences or even philosophy beyond a certain point. In such a case, since rationality demands relevance and efficiency, it is not necessarily rational to try to achieve enough first-hand knowledge about the specialised study or science to validate the findings in question. On the contrary, it is often perfectly rational to use indirect evidence such as cross-references, expert consultation, reputation, etc. A rational person's judgement is still his own independent judgement, but the method of reaching the judgement is not and cannot be through direct study.
 
 ## Rationality as the full realisation of volition
 To be a volitional being to the fullest is equivalent to being rational to the fullest. Why? Reason is the use of volition from the perceptual level (the last inexorably non-volitional stage of cognition) to focus based on (1) awareness of motives and (2) awareness of facts. It is the faculty that is based on, relies on and most uses the faculty of volition. To have as a fundamental approach either impulsivity or instinctiveness is to not exercise your volition in favour of automatic, subconscious or unconscious drives.
