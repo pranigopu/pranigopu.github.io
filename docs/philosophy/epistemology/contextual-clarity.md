@@ -72,7 +72,11 @@ Of course, the breadth of the broader context cannot be arbitrary. Why? Because 
 
 Hence, the practical significance of the differences between two things or ideas is grasped by grasping the practical context we must deal with, which is the context that is broad enough to integrate the two things or ideas while being relevant enough to make sure we bring to our focus something not already in our focus about them with respect to the pursuit of our goals. If it so happens that there is no essential difference between two things or ideas in the practical context that integrates them, i.e. if they are differentiated only by characteristics that are non-essential in that context, then treating them in the same way in that context is proper since you have indeed integrated them by essentials.
 
-To clarify, consider some examples.
+_To condense the discussion into a short tip_...
+
+To know whether something is integrated by essentials or non-essentials, ask: is there something more essential that integrates them or that differentiates them? If there is, you know you are integrating by non-essentials in the given context. If there is not, ask: what makes the similarity an essential? In what way does it integrate the identities of the things or ideas in question? Hence, you can know if it is in fact an essential in the given context or if there must be some other characteristic or set of characteristics that is more significant in shaping the nature of the things or ideas in question.
+
+_To clarify, consider some examples_...
 
 1.
 
