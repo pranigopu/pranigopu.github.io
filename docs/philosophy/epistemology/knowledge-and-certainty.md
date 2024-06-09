@@ -230,7 +230,7 @@ Hence, when asking what is the fundamental condition for a proposition to be tru
 
 **NOTE 1: Fundamental condition as either simple or composite**:
 
-I have defined "fundamental condition" in broad enough terms such that it covers any kind of condition or combination of conditions, including a disjunction (i.e. a composite condition in the form: A or B or C etc.), a conjunction (i.e. a composite condition in the form: A and B and C etc.) or any more complex system of interrelated conditions. Whatever is fundamental to the truth of proposition is its fundamental condition. Such a broad yet precise definition makes it easy to generalise while also making it easy to state and apply.
+I have defined "fundamental condition" in broad enough terms such that it covers any kind of condition or combination of conditions, including a disjunction (i.e. a composite condition in the form: A or B or C etc.), a conjunction (i.e. a composite condition in the form: A and B and C etc.) or any more complex system of interrelated conditions. Whatever is fundamental to the truth of proposition is its fundamental condition. Such a broad yet precise definition makes it easy to generalise while also making it easy to state and effectively apply.
 
 **NOTE 2: Why define "fundamental" as "both necessary and sufficient"?**
 
