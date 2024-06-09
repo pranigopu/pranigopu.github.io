@@ -199,7 +199,7 @@ Hence, it is important to see how basic the material of self-evidence really is 
 ### The invalidity of revelation
 **LEXICAL NOTE**:
 
-When I say "idea", I am referring to any product of abstraction, e.g. concept, generalisation, principle, theory, etc. When I say "revelation", I am referring to an idea that is considered self-evident, i.e. considered automatically true by itself (i.e. intrinsically) or by mere direct awareness of it or by the mere presence of it in the mind. Hence, I am using the term "revelation" as a generalisation of the concepts of "innate idea", "intuition as knowledge" and "faith as truth". Just to be clear, note that I regard intuition as a valid means to _faciliate_ reason and not to replace it, whereas the concept of "intuition as knowledge" is the concept of intuition as being sufficient for knowledge.
+When I say "idea", I am referring to any product of abstraction, e.g. concept, generalisation, principle, theory, etc. When I say "revelation", I am referring to an idea that is considered self-evident, i.e. considered automatically true by itself (i.e. intrinsically) or by mere direct awareness of it or by the mere presence of it in the mind. Hence, I am using the term "revelation" as a generalisation of the concepts of "innate ideas", "intuition as knowledge" and "faith as truth". Just to be clear, note that I regard intuition as a valid means to _faciliate_ reason and not to replace it, whereas the concept of "intuition as knowledge" is the concept of intuition as being sufficient for knowledge.
 
 ---
 
