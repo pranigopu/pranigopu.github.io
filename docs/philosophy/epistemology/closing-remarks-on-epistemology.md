@@ -6,7 +6,7 @@
 
 **Contents**:
 
-- [Staying in existence as the basic purpose in cognition](#staying-in-existence-as-the-basic-purpose-in-cognition)
+- [Staying in existence as the ultimate purpose in cognition](#staying-in-existence-as-the-ultimate-purpose-in-cognition)
 - [Expanding on the nature of rationality](#expanding-on-the-nature-of-rationality)
   - [Rationality is contextual](#rationality-is-contextual)
   - [Rationality is the full realisation of volition](#rationality-is-the-full-realisation-of-volition)
@@ -15,7 +15,7 @@
 
 ---
 
-# Staying in existence as the basic purpose in cognition
+# Staying in existence as the ultimate purpose in cognition
 **_This is an explicit link between epistemology and ethics_**
 
 _In ethics, I show that one's own life is the standard of value, i.e. the highest value and the source of all values (see: [The Standard of Value](https://pranigopu.github.io/philosophy/ethics/1-standard-of-value.html)). Now, however, I shall show the same idea from an epistemological perspective. I shall show that the only purpose fundamentally is the purpose of staying in existence as what you are, and since that any form of cognition needs purpose, I shall show that knowledge implies and is implied by the idea of one's own life as the standard of value._
