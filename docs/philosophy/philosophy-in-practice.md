@@ -14,6 +14,7 @@
   - [Acceptance of reality](#acceptance-of-reality)
   - [The basis of motivation and willpower](#the-basis-of-motivation-and-willpower)
   - [Further points on motivation](#further-points-on-motivation)
+  - [Hierarchical and contextual organisation of values](#hierarchical-and-contextual-organisation-of-values)
 - [Decision-making](#decision-making)
   - [Rational decision-making is never automatic](#rational-decision-making-is-never-automatic)
 - [Sources of inefficacy](#sources-of-inefficacy)
@@ -129,9 +130,14 @@ When I strain myself beyond my motivations, I tend to get drained in one or more
 
 Motivation has both an intellectual (abstract) and a psychological (concrete) aspect. Both are vital and must be integrated (at least over time); the abstract aspect integrates the relevant concretes and validates motivations in the right context, whereas the concrete aspect is what ultimately drives your actions. However, the concrete, i.e. psychological aspect is largely subconscious; the abstract, i.e. intellectual aspect is key in shaping the psychological aspect, but such shaping must be done logically (remember the analogy of a programmer — the intellectual aspect — and the computer — the psychological aspect). Thus, shaping your motivations may often be a matter of a more tactful, indirect approach rather than direct intent or willpower, especially in view of the complexity of your goals and of your means to achieve them.
 
+[//] # (DUPLICATE OF THE ABOVE TEXT IN: "Shaping motivations" from "Rational application of focus", https://pranigopu.github.io/philosophy/epistemology/rationality-in-practice.html)
+
 2.
 
 If you lack the motivation or capacity to do something in a given context, then beyond a certain point, you literally — in fact — cannot sustain its pursuit of your own volition in that context. However, this need not incapacitate you; while you may lack the motivation or capacity to do something in the given context, you can shift your focus to improve your ability (e.g. by addressing more basic existential needs, mental or physical) or pursue something else (according to what you judge to be the most important or valuable in a broader context). Note that motivation can persevere in the hardest, most severe of conditions, and it can falter even in relative comfort; in general, it is not primarily a question of “what is going on outside” but “what is going on inside” (although, of course, both questions are important and potentially relevant to each other). Why is the motivation present or absent? Ask to understand its roots: what are its essential causes, what are the relevant factors in dealing with it, etc.? Understanding this is a part of understanding reality objectively so you can deal with it effectively. It is ineffective to try to brute-force your way through your lack of motivation because the facts about your consciousness (e.g. the nature of volition, finiteness of willpower, etc.) and its relationship to reality (e.g. how emotions and motives arise, what is the nature and role of values, how can and must a mind grasp the facts effectively, etc.) will not sustain it.
+
+## Hierarchical and contextual organisation of values
+To make explicit what has been implicit so far: values, same as knowledge, are hierarchical and contextual. Hence, values, same as knowledge, must be evaluated from the most fundamental, abstract level to the most concrete level. Whether you start with abstract or concrete considerations, make sure to integrate to the point that you gain the most fundamental, abstract level view of the goal before applying this view to the more concrete levels; this allows you to pursue your values in a broader context, the broadest being of your life as a whole.
 
 # Decision-making
 ## Rational decision-making is never automatic
