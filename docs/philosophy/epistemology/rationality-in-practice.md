@@ -8,6 +8,7 @@
 - [Why read further?](#why-read-further)
 - [The nature and importance of consistent rationality](#the-nature-and-importance-of-consistent-rationality)
 - [Efficiency in effort is integral to rationality](#efficiency-in-effort-is-integral-to-rationality)
+- [Rational application of volition](#rational-application-of-volition)
 
 ---
 
@@ -45,3 +46,5 @@ Hence, the most scrupulous use of one's reason demands not a constant, excruciat
 Volition — and by extension reason — has to be selective, since the mind's capacity is finite while the needs of one's life are time-bound and conditional. Hence, rationality demands that we understand that which is most _relevant_, i.e. significant within our knowledge in the pursuit of our life and happiness. We cannot and should not try to know or do everything, not because of passivity but necessity; we must not disregard what is most important in our context, which means that given the finite capacity of the mind, we must disregard much of what is less important. However, note that the use of reason is always absolute; we can and must use reason even to understand why and in what way to trust others or to leave concerns unattended.
 
 _To place the arbitrary or the unimportant (at least relatively) over what you know to be relevant and important (at least relatively) is profoundly irrational._
+
+# Rational application of volition
