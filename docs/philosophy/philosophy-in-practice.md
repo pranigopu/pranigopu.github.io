@@ -1,3 +1,5 @@
+[<< Back to Philosophy](https://pranigopu.github.io/philosophy)
+
 **PHILOSOPHY IN PRACTICE**
 
 ---
@@ -8,7 +10,7 @@
   - [The role of philosophy](#the-role-of-philosophy)
   - [Absolute conviction](#absolute-conviction)
   - [Integrating the fundamentals with the expansion](#integrating-the-fundamentals-with-the-expansion)
-- [Integrating the short-term and the long-term](#integrating-the-short-term-and-the-long-term)
+- [Integrating the actual and the potential](#integrating-the-actual-and-the-potential)
   - [Acceptance of reality](#acceptance-of-reality)
   - [The basis of motivation and willpower](#the-basis-of-motivation-and-willpower)
   - [Further points on motivation](#further-points-on-motivation)
@@ -62,7 +64,7 @@ When trying to discover the effective ways of applying my philosophy, I often ra
 
 **NOTE**: _The last observation above extends to the value of including concrete observations in general (successes, failures, attempts and others)._
 
-# Integrating the short-term and the long-term
+# Integrating the actual and the potential
 ## Acceptance of reality
 The acceptance of reality, i.e. the conscious affirmation of the facts of reality is the basis for rationality and thus for morality. Never place an "I wish" over an "it is", since doing so is means turning away from the real in favour of the unreal, i.e. that which you neither have nor seek knowledge about. Accept reality for all that it is so you can effectively strive toward what can be, i.e. the pursuit of value presupposes the acknowledgement of truth.
 
