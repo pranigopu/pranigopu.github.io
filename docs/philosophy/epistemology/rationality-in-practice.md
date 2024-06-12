@@ -12,6 +12,7 @@
   - [Volition as a part of an integrated system](#volition-as-a-part-of-an-integrated-system)
   - [Essentialising focus](#essentialising-focus)
     - [PRINCIPLE 1: Non-contradiction in contexts](#principle-1-non-contradiction-in-contexts)
+    - [PRINCIPLE 2: Seeking essentials vs. dismissing non-essentials](#principle-2-seeking-essentials-vs-dismissing-non-essentials)
   - [Shaping motivations](#shaping-motivations)
 
 ---
@@ -94,7 +95,12 @@ Essentials in a narrower context cannot contradict those in a broader context th
 
 **NOTE**: _Elements of a broader context can have various specific or concrete expressions in narrower contexts; even so, non-contradiction is maintained, wherein none of the different expressions contradict the overarching elements in the broader context._
 
+### PRINCIPLE 2: Seeking essentials vs. dismissing non-essentials
+
+
 ## Shaping motivations
 _This is lifted from_ ["Further points on motivation" in _Philosophy in Practice_](https://pranigopu.github.io/philosophy/philosophy-in-practice.html#further-points-on-motivation).
 
 Motivation has both an intellectual (abstract) and a psychological (concrete) aspect. Both are vital and must be integrated (at least over time); the abstract aspect integrates the relevant concretes and validates motivations in the right context, whereas the concrete aspect is what ultimately drives your actions. However, the concrete, i.e. psychological aspect is largely subconscious; the abstract, i.e. intellectual aspect is key in shaping the psychological aspect, but such shaping must be done logically (remember the analogy of a programmer — the intellectual aspect — and the computer — the psychological aspect). Thus, shaping your motivations may often be a matter of a more tactful, indirect approach rather than direct intent or willpower, especially in view of the complexity of your goals and of your means to achieve them.
+
+_Motivation and willpower are explored in-depth in_ ["Integrating the actual and the potential" from _Philosophy in Practice_](https://pranigopu.github.io/philosophy/philosophy-in-practice.html#integrating-the-actual-and-the-potential).
