@@ -140,13 +140,17 @@ An entity is a subset of existence whose identity is independent of one's consci
 
 An action is a change of an entity, i.e. a difference in the past and the present of an entity ("past" and "present" are defined ostensively by pointing to the relationship between one's awareness and one's memory, i.e. retained awareness). More precisely, an action is a change in the facts about an entity (the facts may be identifying or non-identifying; of course, change in identifying facts would lead to the entity ceasing to exist). An action, thus, is necessarily of the entity, i.e. an action cannot exist apart from the entity, and thus, an action cannot exist apart from the entity's identity; an action is hence an aspect of the entity's identity (just to clarify, an action is inseparable from the entity, the entity is inseparable from its identity, thus an action is inseparable from the entity's identity). Moreover, by the law of non-contradiction, an entity's action cannot be in contradiction to the entity and its identity. Hence, since an action of an entity can exist neither apart from (i.e. disconnected from) nor in contradiction to the entity and its identity, an action is an expression and extension of the entity's identity.
 
-**NOTE**: _To mention both "entity" and "entity's identity" in this context is redundant, but it is done for the sake of clarity._
+---
+
+**NOTE 1**: To mention both "entity" and "entity's identity" in this context is redundant, but it is done for the sake of clarity.
+
+**NOTE 2**: Needless to say, as a part of reality, a particular change has a particular identity.
 
 ---
 
 _Back to the discussion on causality_...
 
-Causality is the law of identity applied to actions, and by extension, events (which are the result of the actions and interactions of two or more entities). An entity's action can exist neither apart from its identity nor in contradiction to its identity, which is to say that an entity can only act according to its identity. By extension, a subset of existence can only change according to the identities of the entities acting and interacting within it.
+Causality is the law of identity applied to actions, and by extension, events (which are the result of the actions and interactions of two or more entities). As a part of existence, an action has an identity. But an entity's action can exist neither apart from its identity nor in contradiction to its identity, which is to say that an entity can only act according to its identity. Hence, by extension, a subset of existence can only change according to the identities of the entities acting and interacting within it.
 
 **NOTE**: _Pointing out that actions cannot exist apart from entities and their identities is key in showing that their identities (i.e. their natures) result in certain actions in a certain context, i.e. their actions are based on their identities. This, of course, is necessary to reach the principle of causality._
 
