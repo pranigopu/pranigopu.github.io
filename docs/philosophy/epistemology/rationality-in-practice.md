@@ -88,7 +88,7 @@ _To see why abstraction in general and essentials in particular are objective an
 Since volition is essentially the ability to focus selectively, the rational use of volition requires the rational use of focus, which requires thinking in essentials. In other words, the focus of our minds must be on that which is essential in the given context. We expand into particulars as indicated by the context, progressively expanding the scope of our focus, but always with the method of thinking in essentials. The question now is: how to recognise and focus on essentials in a given context?
 
 ### PRINCIPLE 1: Non-contradiction in contexts
-_This reinforces the idea in_ ["Hierarchical and contextual organisation of values" in _Philosophy in Practice_](https://pranigopu.github.io/philosophy/philosophy-in-practice.html#hierarchical-and-contextual-organisation-of-values).
+_This reinforces the idea in_ ["Hierarchical and contextual organisation of values" from _Philosophy in Practice_](https://pranigopu.github.io/philosophy/philosophy-in-practice.html#hierarchical-and-contextual-organisation-of-values).
 
 Essentials in a narrower context cannot contradict those in a broader context that subsumes it. A broader context — being more abstracted and integrated — would involve fewer but more wide-ranging essentials. Hence, this principle of non-contradiction means we can keep in mind the essentials of a broader context by reference to which we can identify and/or eliminate many potential essentials in a narrower context.
 
