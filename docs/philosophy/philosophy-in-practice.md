@@ -252,7 +252,6 @@ A superiority or inferiority complex is wrong because it is irrational, i.e. non
 **Main source**: [“Moral Ambition: Perfection and Pride, Part 1” by Tara Smith](https://www.youtube.com/watch?v=W-oP0BxZcks&list=PLce8-cUD6KMcUnyfBJkQhoFRHlmuIYkor&index=28)
 
 ## Pride as the key to the pursuit of values
-
 ### Pride as a virtue
 Pride is both a feeling and a virtue. In this sense, it is both descriptive and prescriptive. The virtue of pride involves holding high standards of conduct and — consequently — of character. The feeling of pride is the result of and potentially a fuel for the virtue of pride. The virtue is primary; the feeling of pride without the virtue is vanity.
 
