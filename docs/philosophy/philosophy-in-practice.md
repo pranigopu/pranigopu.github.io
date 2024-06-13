@@ -135,8 +135,6 @@ In the face of a deadline that was not too close but important to address (i.e. 
 
 When I strain myself beyond my motivations, I tend to get drained in one or more respects; cognitively, emotionally or physically. Cognitive and physical drain are easier to overcome through rest, but emotional drain indicates a psychological experience of loss in values. Even if such a loss is worth the values involved, since the psychological aspect of motivation is what drives you, such a loss in fact drains you (at least temporarily) of the will to pursue your goals further (a good analogy would be the training of muscles). The psychological aspect can be shaped over time but often not immediately, and draining it in the short-run makes losing the context of and thus value for the long-run almost inevitable (e.g. (a) initial and intermediate stages of doing the final assignments of semester 2 in 2024, (b) December-January examination preparation in 2023-2024, wherein I lost the motivation for both job applications and studying, etc.).
 
----
-
 ## Further points on motivation
 
 1.
