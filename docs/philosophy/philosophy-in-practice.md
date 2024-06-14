@@ -103,7 +103,7 @@ The source of volition and therefore of willpower is one's ability to direct one
 
 2.
 
-One's volitional mechanism is finite in capacity and has a particular nature and range by which it operates; trying to operate one’s volition apart from its nature or outside its range leads to motivational overload, i.e. the failure to concretely value something. When in such a state, trying to push past it by mere effort is the denial of the nature of your volitional faculty and thereby a denial of reality. To put it in other words, willpower is finite (though renewable) not omnipotent even within one's own mind, and motivation is neither causeless nor subjective but rather based on one's internalised premises.
+One's volitional mechanism is finite in capacity and has a particular nature and range by which it operates; trying to operate one’s volition apart from its nature or outside its range leads to motivational overload, i.e. the failure to concretely value something. When in such a state, trying to push past it by mere effort is the denial of the nature of your volitional faculty and thereby a denial of reality. To put it in other words, willpower is finite (though renewable) and not omnipotent even within one's own mind, and motivation is neither causeless nor subjective but rather based on one's internalised premises.
 
 3.
 
