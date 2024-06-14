@@ -99,7 +99,7 @@ _Grasping the means of knowledge leads us to a key fact about knowledge_...
 ## All knowledge is relational
 **LEXICAL NOTE**:
 
-By "relational" here, I mean hierarchical and contextual. By hierarchical, I mean the relationships between the lower, i.e. more concrete forms to higher, i.e. more abstract forms of knowledge. By contextual, I mean the relationships between known facts.
+By "relational" here, I mean hierarchical and contextual. By hierarchical, I mean the relationships between the lower, i.e. more concrete forms to higher, i.e. more abstract forms of knowledge. By contextual, I mean the relationships between known facts in general.
 
 ---
 
