@@ -200,7 +200,7 @@ Already, we see that calling the self-evident "true" is a kind of tautology, sin
 
 **NOTE**: _Even if what you perceive is a hallucination, it is still something and is a part of reality that you can be aware of, which in this case is your mental condition. This is made clear by the fact that we can as humans can identify, correct for and treat hallucinations. Whatever they are, they are something particular in reality and have particular real effects._
 
-Hence, it is important to see how basic the material of self-evidence really is so that we do not grant the automatically absolute status of "self-evidence" to knowledge that must be reached through non-automatic, i.e. fallible means. Self-evidence forms the basis of knowledge such that implicit in it is everything that we know and can know. However, just by itself, it gives us the barest amount of knowledge which we can and must integrate through selective focus, abstraction and reasoning.
+Hence, it is important to see how basic the material of self-evidence really is so that we do not grant the automatically absolute status of "self-evident" to knowledge that must be reached through non-automatic, i.e. fallible means. Self-evidence forms the basis of knowledge such that implicit in it is everything that we know and can know. However, just by itself, it gives us the barest amount of knowledge which we can and must integrate through selective focus, abstraction and reasoning.
 
 **NOTE**: _Fallibility does not mean that certainty beyond the self-evident is impossible, only that certainty beyond the self-evident is not automatic._
 
