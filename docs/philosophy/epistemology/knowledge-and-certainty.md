@@ -223,7 +223,7 @@ A key implication of the above discussion (that ties into what I said about know
 
 _Hence, a key point about the nature of higher-level knowledge_...
 
-All knowledge beyond basic observation is the integration of basic observations. All knowledge, from the most basic perceptions to the most esoteric abstractions, are essentially the same two processes of cognition: the grasp of the self-evident and selective focus therefrom. Of course, the complexity and the exact process of integration can differ, but the essence epistemologically is the same.
+All knowledge beyond basic observation is the integration of basic observations. All knowledge, from the most basic perceptions to the most esoteric abstractions, are essentially the same two processes of cognition: the grasp of the self-evident and selective focus therefrom. Of course, the complexity and the exact process of integration can differ, but the epistemological essence is the same.
 
 ## Identifying evidence
 Since uncertainty is only identified with respect to what we know, i.e. what we are certain of, and since knowledge of reality and — by extension — certainty is the goal of cognition, evidence can only be identified with respect to the meaning of certainty in the given context. Hence, note that just as with certainty, evidence is also contextual, i.e. based on the factual context in question.
