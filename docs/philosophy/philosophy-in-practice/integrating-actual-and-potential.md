@@ -7,10 +7,10 @@
 **Contents**:
 
 - [Introduction](#introduction)
-- [Acceptance of reality](#acceptance-of-reality)
+- [The acceptance of reality](#the-acceptance-of-reality)
 - [The basis of motivation and willpower](#the-basis-of-motivation-and-willpower)
 - [Further points on motivation](#further-points-on-motivation)
-- [Hierarchical and contextual organisation of values](#hierarchical-and-contextual-organisation-of-values)
+- [The hierarchical and contextual organisation of values](#the-hierarchical-and-contextual-organisation-of-values)
 
 ---
 
@@ -19,7 +19,7 @@ To sustain itself, the life of a volitional being requires the integration of th
 
 As a further motivation, note that in general, the greater the value (i.e. the more essential the value for life as a whole), the harder it is to gain and/or keep it. Why? Because the greater the value, the more it integrates on every level of one's life, which means its pursuit involves greater complexity. Hence, in general, integrating the actual and the potential to achieve one's greatest values (and ultimately one's value for life as a whole) is not an easy task and requires strong understanding, principles and practice.
 
-# Acceptance of reality
+# The acceptance of reality
 The acceptance of reality, i.e. the conscious affirmation of the facts of reality is the basis for rationality and thus for morality. Never place an "I wish" over an "it is", since doing so is means turning away from the real in favour of the unreal, i.e. that which you neither have nor seek knowledge about. Accept reality for all that it is so you can effectively strive toward what can be, i.e. the pursuit of value presupposes the acknowledgement of truth.
 
 # The basis of motivation and willpower
@@ -87,5 +87,5 @@ Motivation has both an intellectual (abstract) and a psychological (concrete) as
 
 If you lack the motivation or capacity to do something in a given context, then beyond a certain point, you literally — in fact — cannot sustain its pursuit of your own volition in that context. However, this need not incapacitate you; while you may lack the motivation or capacity to do something in the given context, you can shift your focus to improve your ability (e.g. by addressing more basic existential needs, mental or physical) or pursue something else (according to what you judge to be the most important or valuable in a broader context). Note that motivation can persevere in the hardest, most severe of conditions, and it can falter even in relative comfort; in general, it is not primarily a question of "what is going on outside" but "what is going on inside" (although, of course, both questions are important and potentially relevant to each other). Why is the motivation present or absent? Ask to understand its roots: what are its essential causes, what are the relevant factors in dealing with it, etc.? Understanding this is a part of understanding reality objectively so you can deal with it effectively. It is ineffective to try to brute-force your way through your lack of motivation because the facts about your consciousness (e.g. the nature of volition, finiteness of willpower, etc.) and its relationship to reality (e.g. how emotions and motives arise, what is the nature and role of values, how can and must a mind grasp the facts effectively, etc.) will not sustain it.
 
-# Hierarchical and contextual organisation of values
+# The hierarchical and contextual organisation of values
 To make explicit what has been implicit so far: values, same as knowledge, are hierarchical and contextual. Hence, values, same as knowledge, must be evaluated from the most fundamental, abstract level to the most concrete level. Whether you start with abstract or concrete considerations, make sure to integrate to the point that you gain the most fundamental, abstract level view of the goal before applying this view to the more concrete levels; this allows you to pursue your values in a broader context, the broadest being of your life as a whole.
