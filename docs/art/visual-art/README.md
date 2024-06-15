@@ -2,6 +2,7 @@
     img {width: 75%}
     tr {width: 100%; align: "center"}
     td {width: 100%; align: "center"}
+    table {width: 100%; align: "center"}
 </style>
 
 [<< Back to Art](https://pranigopu.github.io/art)
