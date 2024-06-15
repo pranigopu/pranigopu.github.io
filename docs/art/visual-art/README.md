@@ -63,8 +63,8 @@ None of the presented artwork is mine. I just wanted to gather and present my fa
 ![Woman Fishing by Vishal Gurjar](https://pranigopu.github.io/art/visual-art/Woman Fishing by Vishal Gurjar.jpg)
 
 # Clio’s Dream by Codech and Malavia
-![Clio_s Dream by Codech and Malavia - 1](https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia - 1.jpg)
+![Clio_s Dream by Codech and Malavia - 1](https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia - 1.png)
 
-![Clio_s Dream by Codech and Malavia - 2](https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia - 2.jpg)
+![Clio_s Dream by Codech and Malavia - 2](https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia - 2.png)
 
-![Clio_s Dream by Codech and Malavia - 3](https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia - 3.jpg)
+![Clio_s Dream by Codech and Malavia - 3](https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia - 3.png)
