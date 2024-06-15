@@ -9,4 +9,4 @@ My predominant philosophical inspiration is the philosophy of Ayn Rand (which is
 - [Epistemology](https://pranigopu.github.io/philosophy/epistemology)
 - [Ethics](https://pranigopu.github.io/philosophy/ethics)
 - [Politics](https://pranigopu.github.io/philosophy/politics)
-- [Philosophy in Practice](https://pranigopu.github.io/philosophy/philosophy-in-practice.html)
+- [Philosophy in Practice](https://pranigopu.github.io/philosophy/philosophy-in-practice)
