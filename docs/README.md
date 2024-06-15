@@ -4,6 +4,5 @@ I am Prani Gopu, a.k.a. Pranav Gopalkrishna. I enjoy writing works of various ki
 
 ## Reading
 - [Philosophy](https://pranigopu.github.io/philosophy)
+- [Art](https://pranigopu.github.io/art)
 - [Statistics](https://pranigopu.github.io/statistics)
-- [Fiction](https://pranigopu.github.io/fiction)
-- [Poetry](https://pranigopu.github.io/poetry)
