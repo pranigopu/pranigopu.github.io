@@ -36,7 +36,7 @@ None of the presented artwork is mine. I just wanted to gather and present my fa
 <table>
 <tr>
 <td>
-![Anne Dancing with Little Robot](https://pranigopu.github.io/art/visual-art/Anne Dancing with Little Robot.jpg)
+<img src="https://pranigopu.github.io/art/visual-art/Anne Dancing with Little Robot.jpg">
 </td>
 </tr>
 </table>
@@ -45,7 +45,7 @@ None of the presented artwork is mine. I just wanted to gather and present my fa
 <table>
 <tr>
 <td>
-![Aristotle by Raphael](https://pranigopu.github.io/art/visual-art/Aristotle by Raphael.jpeg)
+<img src="https://pranigopu.github.io/art/visual-art/Aristotle by Raphael.jpeg">
 </td>
 </tr>
 </table>
@@ -54,7 +54,7 @@ None of the presented artwork is mine. I just wanted to gather and present my fa
 <table>
 <tr>
 <td>
-![Camina Drummer by NKN (@frecuenciankn on Twitter)](https://pranigopu.github.io/art/visual-art/Camina Drummer by NKN (@frecuenciankn on Twitter).png)
+<img src="https://pranigopu.github.io/art/visual-art/Camina Drummer by NKN (@frecuenciankn on Twitter).png">
 </td>
 </tr>
 </table>
@@ -63,7 +63,7 @@ None of the presented artwork is mine. I just wanted to gather and present my fa
 <table>
 <tr>
 <td>
-![Dagny Taggart in the Comet (by OpenArt AI)](https://pranigopu.github.io/art/visual-art/Dagny Taggart in the Comet (by OpenArt AI).jpg)
+<img src="https://pranigopu.github.io/art/visual-art/Dagny Taggart in the Comet (by OpenArt AI).jpg">
 </td>
 </tr>
 </table>
