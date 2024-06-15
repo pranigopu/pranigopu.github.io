@@ -27,68 +27,130 @@
 None of the presented artwork is mine. I just wanted to gather and present my favourite pieces of visual art in one place, maybe also giving my own commentary wherever I see fit.
 
 # Anne Dancing with Little Robot
-| ... |
-| --- |
-| ![Anne Dancing with Little Robot](https://pranigopu.github.io/art/visual-art/Anne Dancing with Little Robot.jpg) |
+<table>
+<tr>
+<td>
+![Anne Dancing with Little Robot](https://pranigopu.github.io/art/visual-art/Anne Dancing with Little Robot.jpg)
+</td>
+</tr>
+</table>
 
 # Aristotle
-| ... |
-| --- |
-| ![Aristotle by Raphael](https://pranigopu.github.io/art/visual-art/Aristotle by Raphael.jpeg) |
+<table>
+<tr>
+<td>
+![Aristotle by Raphael](https://pranigopu.github.io/art/visual-art/Aristotle by Raphael.jpeg)
+</td>
+</tr>
+</table>
 
 # Camina Drummer by NKN (@frecuenciankn on Twitter)
-| ... |
-| --- |
-| ![Camina Drummer by NKN (@frecuenciankn on Twitter)](https://pranigopu.github.io/art/visual-art/Camina Drummer by NKN (@frecuenciankn on Twitter).png) |
+<table>
+<tr>
+<td>
+![Camina Drummer by NKN (@frecuenciankn on Twitter)](https://pranigopu.github.io/art/visual-art/Camina Drummer by NKN (@frecuenciankn on Twitter).png)
+</td>
+</tr>
+</table>
 
 # Dagny Taggart in the Comet (by OpenArt AI)
-| ... |
-| --- |
-| ![Dagny Taggart in the Comet (by OpenArt AI)](https://pranigopu.github.io/art/visual-art/Dagny Taggart in the Comet (by OpenArt AI).jpg) |
+<table>
+<tr>
+<td>
+![Dagny Taggart in the Comet (by OpenArt AI)](https://pranigopu.github.io/art/visual-art/Dagny Taggart in the Comet (by OpenArt AI).jpg)
+</td>
+</tr>
+</table>
 
 # Indian Lady by Vishal Gurjar
-| ... |
-| --- |
-| ![Indian Lady by Vishal Gurjar](https://pranigopu.github.io/art/visual-art/Indian Lady by Vishal Gurjar.jpg) |
+<table>
+<tr>
+<td>
+![Indian Lady by Vishal Gurjar](https://pranigopu.github.io/art/visual-art/Indian Lady by Vishal Gurjar.jpg)
+</td>
+</tr>
+</table>
 
 # Memories of Olive by Alberto Vargas
-| ... |
-| --- |
-| ![Memories of Olive by Alberto Vargas](https://pranigopu.github.io/art/visual-art/Memories of Olive by Alberto Vargas.jpg) |
+<table>
+<tr>
+<td>
+![Memories of Olive by Alberto Vargas](https://pranigopu.github.io/art/visual-art/Memories of Olive by Alberto Vargas.jpg)
+</td>
+</tr>
+</table>
 
 # Michelangelo’s David by Vicki Pritchard
-| ... |
-| --- |
-| ![Michelangelo_s David by Vicki Pritchard](https://pranigopu.github.io/art/visual-art/Michelangelo_s David by Vicki Pritchard.jpg) |
+<table>
+<tr>
+<td>
+![Michelangelo_s David by Vicki Pritchard](https://pranigopu.github.io/art/visual-art/Michelangelo_s David by Vicki Pritchard.jpg)
+</td>
+</tr>
+</table>
 
 # David by Michelangelo
-| ... |
-| --- |
-| ![David by Michelangelo](https://pranigopu.github.io/art/visual-art/David by Michelangelo.jpg) |
+<table>
+<tr>
+<td>
+![David by Michelangelo](https://pranigopu.github.io/art/visual-art/David by Michelangelo.jpg)
+</td>
+</tr>
+</table>
 
 # Self-Made Man
-| ... |
-| --- |
-| ![Self-Made Man](https://pranigopu.github.io/art/visual-art/Self-Made Man.jpg) |
+<table>
+<tr>
+<td>
+![Self-Made Man](https://pranigopu.github.io/art/visual-art/Self-Made Man.jpg)
+</td>
+</tr>
+</table>
 
 # Suicide of Queen Dido by Claude-Augustin Cayot
-| ... |
-| --- |
-| ![Suicide of Queen Dido by Claude-Augustin Cayot](https://pranigopu.github.io/art/visual-art/Suicide of Queen Dido by Claude-Augustin Cayot.jpg) |
+<table>
+<tr>
+<td>
+![Suicide of Queen Dido by Claude-Augustin Cayot](https://pranigopu.github.io/art/visual-art/Suicide of Queen Dido by Claude-Augustin Cayot.jpg)
+</td>
+</tr>
+</table>
 
 # The New Colossus
-| ... |
-| --- |
-| ![The New Colossus](https://pranigopu.github.io/art/visual-art/The New Colossus.jpg) |
+<table>
+<tr>
+<td>
+![The New Colossus](https://pranigopu.github.io/art/visual-art/The New Colossus.jpg)
+</td>
+</tr>
+</table>
 
 # Woman Fishing by Vishal Gurjar
-| ... |
-| --- |
-| ![Woman Fishing by Vishal Gurjar](https://pranigopu.github.io/art/visual-art/Woman Fishing by Vishal Gurjar.jpg) |
+<table>
+<tr>
+<td>
+![Woman Fishing by Vishal Gurjar](https://pranigopu.github.io/art/visual-art/Woman Fishing by Vishal Gurjar.jpg)
+</td>
+</tr>
+</table>
 
 # Clio’s Dream by Codech and Malavia
-| ... |
-| --- |
-| ![Clio_s Dream by Codech and Malavia - 1](https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia - 1.png) |
-| ![Clio_s Dream by Codech and Malavia - 2](https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia - 2.png) |
-| ![Clio_s Dream by Codech and Malavia - 3](https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia - 3.png) |
+<table>
+<tr>
+<td>
+![Clio_s Dream by Codech and Malavia - 1](https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia - 1.png)
+</td>
+</tr>
+
+<tr>
+<td>
+![Clio_s Dream by Codech and Malavia - 2](https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia - 2.png)
+</td>
+</tr>
+
+<tr>
+<td>
+![Clio_s Dream by Codech and Malavia - 3](https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia - 3.png)
+</td>
+</tr>
+</table>
