@@ -129,7 +129,7 @@ None of the presented artwork is mine. I just wanted to gather and present my fa
 <table>
 <tr>
 <td>
-![Woman Fishing by Vishal Gurjar](https://pranigopu.github.io/art/visual-art/Woman Fishing by Vishal Gurjar.jpg)
+<img src="https://pranigopu.github.io/art/visual-art/Woman Fishing by Vishal Gurjar.jpg">
 </td>
 </tr>
 </table>
@@ -138,19 +138,19 @@ None of the presented artwork is mine. I just wanted to gather and present my fa
 <table>
 <tr>
 <td>
-![Clio_s Dream by Codech and Malavia - 1](https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia - 1.png)
+<img src="https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia - 1.png">
 </td>
 </tr>
 
 <tr>
 <td>
-![Clio_s Dream by Codech and Malavia - 2](https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia - 2.png)
+<img src="https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia - 2.png">
 </td>
 </tr>
 
 <tr>
 <td>
-![Clio_s Dream by Codech and Malavia - 3](https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia - 3.png)
+<img src="https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia - 3.png">
 </td>
 </tr>
 </table>
