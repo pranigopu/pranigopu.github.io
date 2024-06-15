@@ -1,3 +1,9 @@
+<style>
+    img {width: 75%}
+    tr {width: 100%; align: "center"}
+    td {width: 100%; align: "center"}
+</style>
+
 [<< Back to Art](https://pranigopu.github.io/art)
 
 **VISUAL ART**
@@ -66,7 +72,7 @@ None of the presented artwork is mine. I just wanted to gather and present my fa
 <table>
 <tr>
 <td>
-![Indian Lady by Vishal Gurjar](https://pranigopu.github.io/art/visual-art/Indian Lady by Vishal Gurjar.jpg)
+<img src="https://pranigopu.github.io/art/visual-art/Indian Lady by Vishal Gurjar.jpg">
 </td>
 </tr>
 </table>
@@ -75,7 +81,7 @@ None of the presented artwork is mine. I just wanted to gather and present my fa
 <table>
 <tr>
 <td>
-![Memories of Olive by Alberto Vargas](https://pranigopu.github.io/art/visual-art/Memories of Olive by Alberto Vargas.jpg)
+<img src="https://pranigopu.github.io/art/visual-art/Memories of Olive by Alberto Vargas.jpg">
 </td>
 </tr>
 </table>
@@ -84,7 +90,7 @@ None of the presented artwork is mine. I just wanted to gather and present my fa
 <table>
 <tr>
 <td>
-![Michelangelo_s David by Vicki Pritchard](https://pranigopu.github.io/art/visual-art/Michelangelo_s David by Vicki Pritchard.jpg)
+<img src="https://pranigopu.github.io/art/visual-art/Michelangelo_s David by Vicki Pritchard.jpg">
 </td>
 </tr>
 </table>
@@ -93,7 +99,7 @@ None of the presented artwork is mine. I just wanted to gather and present my fa
 <table>
 <tr>
 <td>
-![David by Michelangelo](https://pranigopu.github.io/art/visual-art/David by Michelangelo.jpg)
+<img src="https://pranigopu.github.io/art/visual-art/David by Michelangelo.jpg">
 </td>
 </tr>
 </table>
@@ -102,7 +108,7 @@ None of the presented artwork is mine. I just wanted to gather and present my fa
 <table>
 <tr>
 <td>
-![Self-Made Man](https://pranigopu.github.io/art/visual-art/Self-Made Man.jpg)
+<img src="https://pranigopu.github.io/art/visual-art/Self-Made Man.jpg">
 </td>
 </tr>
 </table>
@@ -111,7 +117,7 @@ None of the presented artwork is mine. I just wanted to gather and present my fa
 <table>
 <tr>
 <td>
-![Suicide of Queen Dido by Claude-Augustin Cayot](https://pranigopu.github.io/art/visual-art/Suicide of Queen Dido by Claude-Augustin Cayot.jpg)
+<img src="https://pranigopu.github.io/art/visual-art/Suicide of Queen Dido by Claude-Augustin Cayot.jpg">
 </td>
 </tr>
 </table>
@@ -120,7 +126,7 @@ None of the presented artwork is mine. I just wanted to gather and present my fa
 <table>
 <tr>
 <td>
-![The New Colossus](https://pranigopu.github.io/art/visual-art/The New Colossus.jpg)
+<img src="https://pranigopu.github.io/art/visual-art/The New Colossus.jpg">
 </td>
 </tr>
 </table>
