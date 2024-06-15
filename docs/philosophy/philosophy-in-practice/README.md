@@ -15,5 +15,5 @@ Hence, to the key point: if done properly, philosophy is the most practical area
 2. [Integrating the Actual and the Potential](https://pranigopu.github.io/philosophy/philosophy-in-practice/integrating-actual-and-potential.html)
 3. [Sources of Inefficacy](https://pranigopu.github.io/philosophy/philosophy-in-practice/sources-of-inefficacy.html)
 4. [Judgement in Practice](https://pranigopu.github.io/philosophy/philosophy-in-practice/judgement-in-practice.html)
-5. [Pride and Moral Perfection](https://pranigopu.github.io/philosophy/pride-and-moral-perfection.html)
+5. [Pride and Moral Perfection](https://pranigopu.github.io/philosophy/philosophy-in-practice/pride-and-moral-perfection.html)
 6. [The Pursuit of Happiness](https://pranigopu.github.io/philosophy/philosophy-in-practice/pursuit-of-happiness.html)
