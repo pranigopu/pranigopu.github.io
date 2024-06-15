@@ -2,7 +2,7 @@
 
 # Philosophy in Practice
 ## Introduction
-_The following is lifted from_ ["Philosophy is inextricably tied to concretes" from "How to pursue philosophy" from _Introduction to Philosophy_](https://pranigopu.github.io/philosophy/intro-to-philosophy.html).
+_This introduction is lifted from_ ["Philosophy is inextricably tied to concretes" from "How to pursue philosophy" from _Introduction to Philosophy_](https://pranigopu.github.io/philosophy/intro-to-philosophy.html).
 
 All knowledge is ultimately knowledge from and of concretes. _Ultimately, only particulars exist_. Abstractions are objective but do not exist apart from particulars; they are the results of the selective focus of consciousness on particulars (the objectivity of abstractions is discussed in epistemology). Of course, the same holds for philosophical ideas. If a philosophy is to form the basis of your thoughts and actions, you must grasp how concretes integrate into the broad abstractions in philosophy and how the broad abstractions can be reduced back to concretes. You must grasp philosophy as much in terms of concretes experienced first-hand as in terms of abstractions.
 
