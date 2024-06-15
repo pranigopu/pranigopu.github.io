@@ -6,12 +6,18 @@
 
 **Contents**:
 
+- [Introduction](#introduction)
 - [Acceptance of reality](#acceptance-of-reality)
 - [The basis of motivation and willpower](#the-basis-of-motivation-and-willpower)
 - [Further points on motivation](#further-points-on-motivation)
 - [Hierarchical and contextual organisation of values](#hierarchical-and-contextual-organisation-of-values)
 
 ---
+
+# Introduction
+To sustain itself, the life of a volitional being requires the integration of the actual and the potential, i.e. it requires a long-range orientation (see: [_The Nature of Life_](https://pranigopu.github.io/philosophy/ethics/nature-of-life.html)). Consequently, the pursuit of values is done with respect to an integrated hierarchy of values, wherein each level of the hierarchy has a whole context of interrelated values (see: [_The Nature of Value_](https://pranigopu.github.io/philosophy/ethics/nature-of-value.html)). Hence, we see that the integration of the actual and the potential is a key aspect of applying ethics in particular and philosophy in general.
+
+As a further motivation, note that in general, the greater the value (i.e. the more essential the value for life as a whole), the harder it is to gain and/or keep it. Why? Because the greater the value, the more it integrates on every level of one's life, which means its pursuit involves greater complexity. Hence, in general, integrating the actual and the potential to achieve one's greatest values (and ultimately one's value for life as a whole) is not an easy task and requires strong understanding, principles and practice.
 
 # Acceptance of reality
 The acceptance of reality, i.e. the conscious affirmation of the facts of reality is the basis for rationality and thus for morality. Never place an "I wish" over an "it is", since doing so is means turning away from the real in favour of the unreal, i.e. that which you neither have nor seek knowledge about. Accept reality for all that it is so you can effectively strive toward what can be, i.e. the pursuit of value presupposes the acknowledgement of truth.
