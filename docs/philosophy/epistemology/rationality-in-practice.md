@@ -9,6 +9,7 @@
 - [The nature and importance of consistent rationality](#the-nature-and-importance-of-consistent-rationality)
 - [Efficiency in effort is integral to rationality](#efficiency-in-effort-is-integral-to-rationality)
 - [Rational application of volition](#rational-application-of-volition)
+  - [Rational decision-making is always volitional](#rational-decision-making-is-always-volitional)
   - [Volition as a part of an integrated system](#volition-as-a-part-of-an-integrated-system)
   - [Essentialising focus](#essentialising-focus)
     - [PRINCIPLE 1: Non-contradiction in contexts](#principle-1-non-contradiction-in-contexts)
@@ -53,6 +54,11 @@ Volition — and by extension reason — has to be selective, since the mind's c
 _Given that rationality demands efficiency, how to actually be efficient in our volitional effort? In other words, what constitutes the rational application of volition? This is our next topic._
 
 # Rational application of volition
+## Rational decision-making is always volitional
+With the right principles, methods and practice, rational decision-making can be greatly facilitated and become second nature, but it can never be automatic, no matter how much and how well you integrate your premises, your knowledge, your thoughts, your motives and your actions. Why? Because even after integrating, the fact remains that no non-self-evident knowledge is automatic. Note also that instinct and intuition, while invaluable, are also not automatically valid, especially not by default; you still need to validate whether they are applicable in the given context. Furthermore, the facts remains that (1) focus is still finite and (2) the right adherence to the facts and the right application of one's mental contents with respect to the given context are still not automatic, since they still require you to bring to focus the facts and the right parts of your mental contents with respect to the facts. Finally, the effort to apply one's knowledge through action also requires a conscious decision, since the application itself is not automatic and does not lead to an automatic action. Hence, while decision-making can get smoother and more efficient, it is never wholly automatic and certainly not automatic by default and in the long-range.
+
+**NOTE**: _You can automate parts of decision-making as appropriate, but to know whether it is appropriate to do so also requires deliberate focus._
+
 ## Volition as a part of an integrated system
 Your volitional faculty does not exist in isolation; it is integrated into your mind and body and everything they involve. Everything is relevant to the use of your volition; the conscious and the subconscious, the mental and the physical. Now, note that you can always make some choice, perhaps not any given choice but at least some choice from what is available (available according to your context). What is available is conditioned by many factors — most relevant being internal factors — and thus, so is your capacity to use your volition. Hence, to use your volition effectively, consider such factors and consider how you may apply your volition such that your choices support the pursuit of your values to the fullest (in terms of both the actual and the potential, needless to say).
 
