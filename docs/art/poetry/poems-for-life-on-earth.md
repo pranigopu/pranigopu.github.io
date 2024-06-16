@@ -9,7 +9,7 @@
 - [Truth and Pride](#truth-and-pride)
 - [Heart of the Heart](#heart-of-the-heart)
 - [Philosophia](#philosophia)
-- [Cosmophilia: An Ode to the Fact of Existence](#cosmophilia-an-ode-to-the-fact-of-existence)
+- [An Ode to the Fact of Existence](#an-ode-to-the-fact-of-existence)
 - [The Peerless Value](#the-peerless-value)
 
 ---
@@ -60,7 +60,7 @@ Look fate in the eye, ac-
 Never to pray unto the sky; the
 Truth is not my enemy.
 
-# Cosmophilia: An Ode to the Fact of Existence
+# An Ode to the Fact of Existence
 **(4 beats per line; starting line starts at the last beat)**
 
 The pro-
