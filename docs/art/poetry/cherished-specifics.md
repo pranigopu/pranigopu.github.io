@@ -80,7 +80,7 @@ Learn so you may flourish, not fall into insanity.
 # Freedom
 **(4 beats per line, first line starting at the last beat)**
 
-She
+She <br>
 Stands, not weak nor withered, from the a- <br>
 -byss of despair she’s delivered. A <br>
 Storm rages outside, yet in her <br>
