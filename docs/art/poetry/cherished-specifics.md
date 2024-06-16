@@ -58,7 +58,7 @@ Rain the clouds foretold.
 **(4 beats per line)**
 
 Lo and behold! Here’s the world before you. It e- <br>
--xisted before & will persist beyond you. No- <br>
+-xisted before and will persist beyond you. No- <br>
 -thing’s apart from it; even you’re a part of it, even <br>
 If you feel, perhaps, that you’re the start of it. You
 
@@ -68,7 +68,7 @@ All things abound, there is much that surrounds, but <br>
 You can grasp that which leads to thoughts profound, the
 
 Essence, the abstraction, the algebra of knowledge, the <br>
-Means whereby you’d more than just perceive & allege, the <br>
+Means whereby you’d more than just perceive and allege, the <br>
 Means whereby you’d know the many from the one, grasp <br>
 The plurality of all things under the sun,
 
