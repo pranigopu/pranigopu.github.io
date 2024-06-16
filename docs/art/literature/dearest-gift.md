@@ -2,6 +2,8 @@
 
 **THE DEAREST GIFT**
 
+---
+
 “Is that me, Kaspar?” Savitri asked, her eyes open wide at the sharp, stark form realised with sure and steady strokes. He nodded, not lifting his eyes off the paper and not ceasing the work of his pen. “I’m not that beautiful, you dreamer,” she said smiling, almost breaking into a laugh. As he went on drawing, he replied, “That’s only because I’ve swept away everything but the essence, your essence.” <br>
 “Why? Is there so much of me you’d rather not have?” <br>
 He put his pen down and looked up to her, into her eyes, eyes dark as the deepest of chasms yet radiant as the naked summer sun. He lifted his hand to touch her face, the face of the serene dusk and the hopeful dawn, decorated with the pearls he had given her, pearls that were as good as dust if not worn by her. <br>

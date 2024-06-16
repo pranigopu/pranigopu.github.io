@@ -2,6 +2,8 @@
 
 **THE GUARDIAN SPIRIT**
 
+---
+
 _This is the story behind the legend of the guardian spirit of Kádnád._
 
 “Vasu!” cried out Vasu’s older brother, Ísa, “You left your lunch!” <br>
