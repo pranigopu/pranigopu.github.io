@@ -2,8 +2,6 @@
 
 **HUSK**
 
----
-
 **Thus spoke Šankha**...
 
 ---
