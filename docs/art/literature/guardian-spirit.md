@@ -102,4 +102,10 @@ In the distance, a town began to light up, an island of light in the growing dar
 
 ---
 
+**_The urban legend, as told by the people of Kádnád_**...
+
+_Ísa, the guardian of the forest, was once a man who killed the brother he loved. Tormented by guilt and unable to bear what he had done, he lost his mind and began seeing his brother in everyone, everywhere. To anyone in danger, anyone hurt or humiliated by the forces of the forest, he would come to save them, to say he loved them, to vow to them that he would never hurt them again. It was as if he relived the same memory forever, seeing the same moment in every moment. That which haunted him made him the guardian of the forest, forever in atonement for a sin he could never atone for. Once he saves you, run away or he may never let go._
+
+---
+
 For my commentary, click [here](https://pranigopu.github.io/art/literature/guardian-spirit-commentary.html).
