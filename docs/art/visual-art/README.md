@@ -13,7 +13,7 @@
 
 - [Introduction](#introduction)
 - [Anne Dancing with Little Robot](#anne-dancing-with-little-robot)
-- [Aristotle](#aristotle)
+- [Aristotle from "The School of Athens" by Raphael](#aristotle-from-the-school-of-athens-by-raphael)
 - [Camina Drummer by NKN (@frecuenciankn on Twitter)](#camina-drummer-by-nkn-frecuenciankn-on-twitter)
 - [Dagny Taggart in the Comet (by OpenArt AI)](#dagny-taggart-in-the-comet-by-openart-ai)
 - [Indian Lady by Vishal Gurjar](#indian-lady-by-vishal-gurjar)
@@ -36,7 +36,7 @@ None of the presented artwork is mine. I just wanted to gather and present my fa
 <img src="https://pranigopu.github.io/art/visual-art/Anne Dancing with Little Robot.jpg">
 </a>
 
-# Aristotle
+# Aristotle from "The School of Athens" by Raphael
 <a href="https://pranigopu.github.io/art/visual-art/Aristotle by Raphael.jpeg">
 <img src="https://pranigopu.github.io/art/visual-art/Aristotle by Raphael.jpeg">
 </a>
