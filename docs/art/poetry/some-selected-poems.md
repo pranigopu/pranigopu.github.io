@@ -12,7 +12,7 @@
 
 ---
 
-_A collection of poems (or poem excerpts) from other poets that I enjoyed greatly and wanted to save._
+_A collection of poems (or poem excerpts) from other poets that I enjoyed and wanted to save._
 
 # The Arrow and the Song <br> _by Henry Wadsworth Longfellow_
 I shot an arrow into the air, <br>
