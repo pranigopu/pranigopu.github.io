@@ -14,6 +14,8 @@
 
 ---
 
+_A collection of poems to capture some specific aspects of the self, life and the world that I cherish._
+
 # Sparks to Fire, Fire to Warmth
 **(4 beats per line)**
 

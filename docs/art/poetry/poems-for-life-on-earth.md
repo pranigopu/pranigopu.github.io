@@ -14,6 +14,8 @@
 
 ---
 
+_A collection of my poems that essentialise my views on key aspects of truth, self-value and the affirmation of the facts of reality._
+
 # Truth and Pride
 **(4 beats per line; starting line starts at the last beat)**
 
