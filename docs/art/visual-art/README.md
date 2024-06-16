@@ -1,8 +1,6 @@
 <style>
     img {width: 75%}
-    tr {width: 100%; align: "center"}
-    td {width: 100%; align: "center"}
-    table {width: 100%; align: "center"}
+    a {width: 100%; align: "center"}
 </style>
 
 [<< Back to Art](https://pranigopu.github.io/art)
@@ -34,130 +32,74 @@
 None of the presented artwork is mine. I just wanted to gather and present my favourite pieces of visual art in one place, maybe also giving my own commentary wherever I see fit.
 
 # Anne Dancing with Little Robot
-<table>
-<tr>
-<td>
+<a href="https://pranigopu.github.io/art/visual-art/Anne Dancing with Little Robot.jpg">
 <img src="https://pranigopu.github.io/art/visual-art/Anne Dancing with Little Robot.jpg">
-</td>
-</tr>
-</table>
+</a>
 
 # Aristotle
-<table>
-<tr>
-<td>
+<a href="https://pranigopu.github.io/art/visual-art/Aristotle by Raphael.jpeg">
 <img src="https://pranigopu.github.io/art/visual-art/Aristotle by Raphael.jpeg">
-</td>
-</tr>
-</table>
+</a>
 
 # Camina Drummer by NKN (@frecuenciankn on Twitter)
-<table>
-<tr>
-<td>
+<a href="https://pranigopu.github.io/art/visual-art/Camina Drummer by NKN (@frecuenciankn on Twitter).png">
 <img src="https://pranigopu.github.io/art/visual-art/Camina Drummer by NKN (@frecuenciankn on Twitter).png">
-</td>
-</tr>
-</table>
+</a>
 
 # Dagny Taggart in the Comet (by OpenArt AI)
-<table>
-<tr>
-<td>
+<a href="https://pranigopu.github.io/art/visual-art/Dagny Taggart in the Comet (by OpenArt AI).jpg">
 <img src="https://pranigopu.github.io/art/visual-art/Dagny Taggart in the Comet (by OpenArt AI).jpg">
-</td>
-</tr>
-</table>
+</a>
 
 # Indian Lady by Vishal Gurjar
-<table>
-<tr>
-<td>
+<a href="https://pranigopu.github.io/art/visual-art/Indian Lady by Vishal Gurjar.jpg">
 <img src="https://pranigopu.github.io/art/visual-art/Indian Lady by Vishal Gurjar.jpg">
-</td>
-</tr>
-</table>
+</a>
 
 # Memories of Olive by Alberto Vargas
-<table>
-<tr>
-<td>
+<a href="https://pranigopu.github.io/art/visual-art/Memories of Olive by Alberto Vargas.jpg">
 <img src="https://pranigopu.github.io/art/visual-art/Memories of Olive by Alberto Vargas.jpg">
-</td>
-</tr>
-</table>
+</a>
 
 # Michelangelo’s David by Vicki Pritchard
-<table>
-<tr>
-<td>
+<a href="https://pranigopu.github.io/art/visual-art/Michelangelo_s David by Vicki Pritchard.jpg">
 <img src="https://pranigopu.github.io/art/visual-art/Michelangelo_s David by Vicki Pritchard.jpg">
-</td>
-</tr>
-</table>
+</a>
 
 # David by Michelangelo
-<table>
-<tr>
-<td>
+<a href="https://pranigopu.github.io/art/visual-art/David by Michelangelo.jpg">
 <img src="https://pranigopu.github.io/art/visual-art/David by Michelangelo.jpg">
-</td>
-</tr>
-</table>
+</a>
 
 # Self-Made Man
-<table>
-<tr>
-<td>
+<a href="https://pranigopu.github.io/art/visual-art/Self-Made Man.jpg">
 <img src="https://pranigopu.github.io/art/visual-art/Self-Made Man.jpg">
-</td>
-</tr>
-</table>
+</a>
 
 # Suicide of Queen Dido by Claude-Augustin Cayot
-<table>
-<tr>
-<td>
+<a href="https://pranigopu.github.io/art/visual-art/Suicide of Queen Dido by Claude-Augustin Cayot.jpg">
 <img src="https://pranigopu.github.io/art/visual-art/Suicide of Queen Dido by Claude-Augustin Cayot.jpg">
-</td>
-</tr>
-</table>
+</a>
 
 # The New Colossus
-<table>
-<tr>
-<td>
+<a href="https://pranigopu.github.io/art/visual-art/The New Colossus.jpg">
 <img src="https://pranigopu.github.io/art/visual-art/The New Colossus.jpg">
-</td>
-</tr>
-</table>
+</a>
 
 # Woman Fishing by Vishal Gurjar
-<table>
-<tr>
-<td>
+<a href="https://pranigopu.github.io/art/visual-art/Woman Fishing by Vishal Gurjar.jpg">
 <img src="https://pranigopu.github.io/art/visual-art/Woman Fishing by Vishal Gurjar.jpg">
-</td>
-</tr>
-</table>
+</a>
 
 # Clio’s Dream by Codech and Malavia
-<table>
-<tr>
-<td>
+<a href="https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia - 1.png">
 <img src="https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia - 1.png">
-</td>
-</tr>
+</a>
 
-<tr>
-<td>
+<a href="https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia - 2.png">
 <img src="https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia - 2.png">
-</td>
-</tr>
+</a>
 
-<tr>
-<td>
+<a href="https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia - 3.png">
 <img src="https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia - 3.png">
-</td>
-</tr>
-</table>
+</a>
