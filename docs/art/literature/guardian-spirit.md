@@ -55,7 +55,7 @@ Vasu groaned, “Let’s just leave each other alone, shall we? We’d be happie
 “Just stop before you have a seizure.” <br>
 Ísa burst into a rage. Without thinking, without even seeing what he was doing, he swung his fists. He was not sure how it all happened, only that it did, only that one moment his brother stood before him, the next he was on the floor, bloodied and lifeless, bloodied and lifeless by his hands. His hands. His brother. “No,” he said, dazed. He bent down to lift the body off the floor, to take in his arms what was once the brightest part of his life. “You know I love you,” he said softly, in a stupor, “I’ll never hurt you again.” <br>
 
-
+---
 
 The next day, Milvus knocked at Ísa’s door. His grandmother had made a new kind of pie, tastier than anything she had made before. Milvus was eager to share this with Ísa and his brother. They’ll really like this! The door opened. There stood Ísa, cloak wrapped around him. <br>
 “Hey Ísa!” the boy greeted, beaming as he always did when he met him.
@@ -66,7 +66,7 @@ Milvus handed him the basket, “This… this is for you and your brother.” <b
 “Oh… no… no need. It’s a gift.” <br>
 Ísa smiled at him. At least, he smiled in his direction. At least, his face resembled a smile, almost enough to call it a smile. Milvus took another step back. “I’ll… I’ll see you later. Bye.” He turned away and walked as fast as he could, not sure why we felt so shaken. He did not look back and kept walking, almost breaking into a run, close to tripping but not daring to slow down. When he reached the busy street, he looked back. Ísa’s door was shut. I’m being silly, he thought, of course I am. It was the last time he saw Ísa in town.
 
-
+---
 
 Twenty cycles had passed since the news. For Milvus, to whom the world had always been a bit of a terrifying place, it also became a much darker one. For the rest of her days, his grandmother withdrew, as if she had lost a dear son. However, with time, Milvus became older, a bit wiser and a bit stronger. The world never felt bright again, but he learnt to live with it. He had to.
 
