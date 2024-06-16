@@ -92,10 +92,10 @@ None of the presented artwork is mine. I just wanted to gather and present my fa
 </a>
 
 # Clio’s Dream by Codech and Malavia
-<a href="https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia - 1.png">
-<img src="https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia - 1.png">
+<a href="https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia-1.png">
+<img src="https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia-1.png">
 </a>
 
-<a href="https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia - 2.png">
-<img src="https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia - 2.png">
+<a href="https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia-2.png">
+<img src="https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia-2.png">
 </a>
