@@ -30,6 +30,8 @@ It was then that had his answer at long last. He had to be alive for once, alive
 
 With one last cry, he breathed his last, his now-lifeless face contorted in sheer pain and primal fear, feelings more life-giving than any he had felt in many, many cycles. The nurses cursed as they lifted his bloodied mass of a body off the sheets, cursing how heavy it had become. His body was carried away to be buried and soon, his corpse became a feast to worms. The worms, if they could, would perhaps be the only ones to bless him.
 
+---
+
 # Commentary
 To test the clarity of my writing, I asked ChatGPT to interpret it. Here are some excerpts of ChatGPT’s interpretation that I found quite insightful:
 

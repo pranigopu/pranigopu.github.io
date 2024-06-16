@@ -98,6 +98,8 @@ The sun began to set. Milvus had stopped running but had not stopped. He kept wa
 
 In the distance, a town began to light up, an island of light in the growing darkness. It’s not too far away, he said to himself. He wondered what he would say to the people he met when they asked him what happened. He was not sure; maybe he would just tell the truth. He looked back toward the lone figure in the distance. Maybe he would just tell some of the truth, spin a story out of it, a story that, if he believed it enough, might let him sleep a little better at night.
 
+---
+
 # Additional in-universe lore
 ## The urban legend as told by the common people
 Ísa, the guardian of the forest, was once a man who killed the brother he loved. Tormented by guilt and unable to bear what he had done, he lost his mind and began seeing his brother in everyone, everywhere. To anyone in danger, anyone hurt or humiliated by the forces of the forest, he would come to save them, to say he loved them, to vow to them that he would never hurt them again. It was as if he relived the same memory forever, seeing the same moment in every moment. That which haunted him made him the guardian of the forest, forever in atonement for a sin he could never atone for. Once he saves you, run away or he may never let go.
