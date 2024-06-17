@@ -119,7 +119,7 @@ The previous paragraphs point to the fact that to exist is to be something, i.e.
 **NOTE**: _The law of identity does not logically depend on the axiom of existence; there can be no logical dependence in the truths that presuppose logic. Rather, the axioms are the same one self-evident truth affirmed explicitly in two ways: one way affirms the fact of existence for all particulars together (the axiom of existence), the other way affirms the fact of existence for any given particular (the law of identity)._
 
 ## Application of the concept of identity
-To expand on the concept of identity, note that a thing cannot have contradictory attributes, i.e. attributes that negate each other. Furthermore, a thing can have neither more attributes than its identity allows nor less attributes than its identity demands.
+To expand on the concept of identity, note that a thing cannot have contradictory attributes, i.e. attributes that negate each other. Furthermore, a thing can have neither more attributes than its identity allows nor less attributes than its identity demands, since by the law of identity, a thing is what it is and only what it is.
 
 For example, observing that the presence of a colour negates the presence of other colours in a given space, we can say that an object cannot be all red and all green at the same time. Similarly, observing that various attributes of a stone and a leaf contradict each other (e.g. a stone is rigid and hard while a leaf is flexible and soft, a stone does not grow from plants while a leaf is a vital part of a plant, etc.), we can say that an object cannot be a stone and a leaf at the same time.
 
