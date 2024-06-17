@@ -42,7 +42,7 @@ With the same definition of values, if suffering is the psychological response t
 _Back to the discussion_...
 
 
-If one's morality is the practical framework to pursue one's value for one's life in the broadest context available, then one's pursuit of life is defined by one's pursuit of happiness and not one's avoidance of suffering. However, the question is: what does the pursuit of happiness involve in practice? In essence, everything discussed in this document, i.e. "Philosophy in Practice", is part of what the pursuit of happiness involves. However, in this section, I shall look into the forms of direct, i.e. concrete experience of happiness to understand how to recognise, affirm and further pursue one's happiness in the moment.
+If one's morality is the practical framework to pursue one's value for one's life in the broadest context available, then one's pursuit of life is defined by one's pursuit of happiness and not one's avoidance of suffering. However, the question is: what does the pursuit of happiness involve in practice? In essence, everything discussed in [_Philosophy in Practice_](https://pranigopu.github.io/philosophy/philosophy-in-practice), is part of what the pursuit of happiness involves. However, in this document, I shall look into the forms of direct, i.e. concrete experience of happiness to understand how to recognise, affirm and further pursue one's happiness in the moment.
 
 
 # Key characteristics of happiness
