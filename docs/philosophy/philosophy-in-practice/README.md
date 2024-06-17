@@ -11,9 +11,9 @@ For example, the idea that life is the standard of value in ethics must be concr
 Hence, to the key point: if done properly, philosophy is the most practical area of study and has no value if divorced from practice. I reject the idea of doing philosophy for philosophy's sake. It is an area of study that is too abstract to hold meaning without conscientious concretisation and too essential to our lives to not put into practice wherever and whenever clarity is achieved.
 
 ## Reading
-1. [Laying the Foundations](https://pranigopu.github.io/philosophy/philosophy-in-practice/laying-foundations.html)
-2. [Integrating the Actual and the Potential](https://pranigopu.github.io/philosophy/philosophy-in-practice/integrating-actual-and-potential.html)
-3. [Sources of Inefficacy](https://pranigopu.github.io/philosophy/philosophy-in-practice/sources-of-inefficacy.html)
-4. [Judgement in Practice](https://pranigopu.github.io/philosophy/philosophy-in-practice/judgement-in-practice.html)
-5. [Pride and Moral Perfection](https://pranigopu.github.io/philosophy/philosophy-in-practice/pride-and-moral-perfection.html)
-6. [The Pursuit of Happiness](https://pranigopu.github.io/philosophy/philosophy-in-practice/pursuit-of-happiness.html)
+1. [Laying the Foundations](https://pranigopu.github.io/philosophy/philosophy-in-practice/1-laying-foundations.html)
+2. [Integrating the Actual and the Potential](https://pranigopu.github.io/philosophy/philosophy-in-practice/2-integrating-actual-and-potential.html)
+3. [Sources of Inefficacy](https://pranigopu.github.io/philosophy/philosophy-in-practice/3-sources-of-inefficacy.html)
+4. [Judgement in Practice](https://pranigopu.github.io/philosophy/philosophy-in-practice/4-judgement-in-practice.html)
+5. [Pride and Moral Perfection](https://pranigopu.github.io/philosophy/philosophy-in-practice/5-pride-and-moral-perfection.html)
+6. [The Pursuit of Happiness](https://pranigopu.github.io/philosophy/philosophy-in-practice/6-pursuit-of-happiness.html)
