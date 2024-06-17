@@ -84,7 +84,7 @@ Summarising the point so far into a tip, the idea is: keep your focus on reality
 **NOTE 1**: You can exert your willpower against your motivations, but only up to a point. Some short-term cases may occasionally call for such a use of willpower (e.g. emergencies or short deadlines), but note that it is not sustainable to do so and, if done as a practice, will lead you to become drained and unable to apply your willpower any further and potentially even unable to experience the value for life for a while.
 
 
-**NOTE 2**: The nature of motivational overload is further discussed in the section ["Motivational overload" from "Overload" from _Sources of inefficacy_](https://pranigopu.github.io/philosophy/philosophy-in-practice/sources-of-inefficacy.html#motivational-overload).
+**NOTE 2**: The nature of motivational overload is further discussed in the section ["Motivational overload" from "Overload" from _Sources of inefficacy_](https://pranigopu.github.io/philosophy/philosophy-in-practice/3-sources-of-inefficacy.html#motivational-overload).
 
 
 ---
