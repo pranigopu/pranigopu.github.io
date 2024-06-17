@@ -144,7 +144,7 @@ An action is a change of an entity, i.e. a difference in the past and the presen
 
 **NOTE 1**: To mention both "entity" and "entity's identity" in this context is redundant, but it is done for the sake of clarity.
 
-**NOTE 2**: Needless to say, as a part of reality, a particular change has a particular identity.
+**NOTE 2**: Needless to say, being a part of reality, a particular change has a particular identity.
 
 ---
 
