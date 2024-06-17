@@ -128,7 +128,7 @@ As another example, consider a light bulb. Saying that a light bulb is also an o
 ## The principle of causality
 _First, some definitions_...
 
-**NOTE**: _Entities and actions must ultimately be defined through ostensive definitions since they are concepts from direct perceptions that are irreducible to other perceptions; on some basic level, an entity is grasped as a whole, an action or a change is a single perception, etc. But I shall indicate some defining aspects that can show where to look._
+**NOTE**: _Entities and actions must ultimately be defined through ostensive definitions since they are concepts from direct perceptions that are irreducible to other perceptions; on some basic level, an entity is grasped as a whole and an action or a change is a single perception. But I shall indicate some defining aspects that can show where to look._
 
 **Entity**:
 
