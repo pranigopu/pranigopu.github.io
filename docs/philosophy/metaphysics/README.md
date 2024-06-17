@@ -19,6 +19,9 @@
   - [Existence is identity](#existence-is-identity)
   - [Application of the concept of identity](#application-of-the-concept-of-identity)
   - [The principle of causality](#the-principle-of-causality)
+- [Infinity with respect to existence](#infinity-with-respect-to-existence)
+  - [The nature of infinity](#the-nature-of-infinity)
+  - [The extension of existence](#the-extension-of-existence)
 - [The primacy of existence](#the-primacy-of-existence)
 - [Additional points in metaphysics](#additional-points-in-metaphysics)
   - [Can we know the external world?](#can-we-know-the-external-world)
@@ -164,6 +167,39 @@ The concept of causality can be applied to entities as such (rather than just ac
 
 **NOTE 2**: The principle of causality is a necessary, inseparable implication of the law of identity; the principle of causality is the law of identity applied to change. To go even further, causality is inherent in the very fact of existence; no part of existence exists nor can exist apart from causality. More precisely, no change or lack of change (i.e. zero difference between the past and the present of an entity) exists apart from causality.
 
+# Infinity with respect to existence
+## The nature of infinity
+_First, a definition_...
+
+**Actuality**:
+
+The current, i.e. concrete state of existence.
+
+**Potentiality**:
+
+A state of existence being concretised by cause-and-effect. The state of existence being concretised may or may not already exist, but in either case, potentiality refers not to concretised facts of reality but to the result of the cause-and-effect. Hence, even if the state of existence being concretised already exists, potentiality still refers to the future state of existence, which is not yet concretised since it is _going to be_ but is _not yet_ the same as the present. A potential refers to the potentiality of a particular part of reality.
+
+**Process**:
+
+A series of actions or events in a given part of reality toward a certain potential, i.e. toward a certain state of the given part of reality that may or may not currently exist. For example, travelling is a series of actions and events toward a certain destination; even if you do not reach the destination, you can still have travelled toward it.
+
+---
+
+_Back to the discussion_...
+
+When applied to a process, the concept of infinity refers to the lack of an ending, i.e. it refers to the case wherein the ending of a process has no identity. When applied to an entity, however, the concept of infinity refers to the lack of an measureable attribute in some respect. Measurement is ultimately an extension of the identification of the difference between two similar things. For example, we measure the length of an object by identifying the difference between the observed length and a fixed length (our unit of measurement); the two similar things here are the two observations of the same attribute, i.e. length.
+
+Hence, if an attribute is infinite and thus cannot be measured in a given instance, it means the difference between the given instance of the attribute and another instance of the attribute cannot be identified, not just practically but metaphysically, i.e. by the very nature of the given instance in reality. Hence, we get either that the given instance of the attribute has no identity, or that there is no other instance of the attribute, which is impossible since an attribute can only be identified through a relationship between its instances. Hence, we get that the given instance of the attribute has no identity, which means it does not exist. Evidently, then, infinite attributes cannot exist.
+
+However, if the ending of a process has no identity, it only means that the process is sustained at any given point in time. The law of identity is not violated here, which means an infinite process can indeed exist. Note that an infinite process is a process whose potential is infinite, i.e. whose pursuit toward reaching or sustaining a state of existence is neverending. Hence, infinity can only refer to potentiality, but never actuality. Hence, nothing is actually, i.e. concretely infinite, only potentially infinite; note that potential refers to something that is not concretised yet.
+
+## The extension of existence
+Actuality can never be infinite, which means no chain of cause-and-effect is infinite, since any such chain is a series of actions and interactions between concretes, which means any such chain is also concrete. Hence, no actual state of existence goes back infinitely to prior states of existence. Hence, existence does not extend infinitely into the past. Furthermore, since actuality can never be infinite, the actual state of existence is also finite, i.e. its every actual attribute has an identity, which means it is also finite size and shape.
+
+Is it then valid to ask when existence began? To answer, let us understand time. Time is, in essence, the measure of change. Now, note that change presupposes the existence of entities, which means time presupposes existence. In other words, existence is eternal in the sense that there was no time before existence, since existence just is.
+
+Similarly, is it valid to ask where existence stops? Obviously not, since to identify where existence stops is to identify where there is nothing. But there cannot "be" nothing anywhere, hence the "boundaries" of existence do not exist.
+
 # The primacy of existence
 Metaphysically, existence is not defined in terms of "physical", "mental", etc., only in terms of existence qua existence, i.e. existence as a whole. The self-evident facts validated as axioms are: (1) Existence is absolute. (2) Everything that exists must be something in particular, i.e. it must exist as what it is; the law of identity. (3) What an entity does is an extension of what the entity is; the principle of causality. (4) Consciousness exists and is the faculty that perceives that which exists. Whatever one's worldview is, it is the case that consciousness is indeed the faculty that perceives that which exists, no matter what "that" is, be it the product of one's mind, the external world, etc.
 
@@ -171,7 +207,9 @@ Consciousness exists and is thus a part of existence. The law of identity applie
 
 How do we grasp the external world (i.e. the world beyond our consciousness)? In other words, what inputs provided to our faculty of awareness are derived from the external world? This is a matter of epistemology not metaphysics, but I shall briefly touch upon this. Seeing how sense-perception is the irreducible input provided to our consciousness (irreducible in terms of any conscious units), we can know that it is the input derived from the external world, i.e. some part of reality outside our consciousness, whatever that may turn out to be. In this view, we see that consciousness is not what fundamentally creates reality, but rather that reality fundamentally exists and consciousness is a part of it. In other words, existence is primary and consciousness is secondary; the reverse would contradict the nature of both existence and consciousness. What is self-evident to us is that consciousness perceives that which exists, whatever "that" is.
 
-Let us assume the inverse, i.e. the primacy of consciousness. Then, consciousness fundamentally creates reality, i.e. it creates everything that it perceives. If this were the case, then consciousness has to exist prior to what it perceives. But if this were the case, consciousness would have to be conscious of nothing, or unconscious, i.e. it would have to not exist when it creates something it can be conscious of — a contradiction. If consciousness were conscious of something when it created something to be conscious of, then we have the same situation but with an extra step. This results in an infinite regress that (1) does not serve to identify consciousness, and (2) contradicts the fact that one's consciousness has a starting point.
+Let us assume the inverse, i.e. the primacy of consciousness. Then, consciousness fundamentally creates reality, i.e. it creates everything that it perceives. If this were the case, then consciousness has to exist prior to what it perceives. But if this were the case, consciousness would have to be conscious of nothing, or unconscious, i.e. it would have to not exist when it creates something it can be conscious of — a contradiction. If consciousness were conscious of something when it created something to be conscious of, then we have the same situation but with an extra step. This results in an infinite regress that (1) does not serve to identify consciousness, and (2) contradicts the fact that one’s consciousness has a starting point. Note that an infinite regress presupposes an infinite extension into the past. However, as seen previously, no extension into the past can be infinte. Hence, consciousness necessarily had a starting point.
+
+To reaffirm what has been said, imagine that consciousness is eternal and conscious units are all there is. But the law of identity and the principle of causality still apply, since existence still exists. Hence, consciousness has a certain identity and can act only in certain ways that lead to certain results. Hence, reality is still not fundamentally "up to" consciousness, since consciousness has a certain nature that it can act neither apart from or in contradiction to. Hence, consciousness always presupposes existence as such whereas existence does not presuppose consciousness, which means existence can exist apart from consciousness but no vice versa. Now, note that a conscious unit is essentially a part of consciousness, which means that since consciousness always presupposes existence, conscious units also always presuppose existence ultimately (i.e. directly or indirectly). Hence, conscious units always presuppose things in existence apart from consciousness. In other words, a conscious unit is ultimately (i.e. directly or indirectly) the effect on consciousness of things in existence outside consciousness.
 
 # Additional points in metaphysics
 ## Can we know the external world?
