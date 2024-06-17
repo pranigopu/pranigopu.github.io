@@ -134,7 +134,7 @@ _First, some definitions_...
 
 An entity is a subset of existence whose identity is independent of one's consciousness; it is a concrete, or a concrete referent of an abstraction (hence, everything that exists is either an entity or a metaphysically inseparable aspect of an entity). It can be composed of one or more entities — components — each with its own identity, or it can be irreducible, but it exists and is what it is independent of consciousness. In other words, all entities are either irreducible entities or arrangements of irreducible entities. Note that an entity can be a specific arrangement (i.e. interconnections) of other entities to which different non-identifying facts may apply at different times (e.g. position, movement, change in shape — given that the arrangement is not tied to the shape).
 
-**NOTE**: _Given the above concept of entity, facts are thus facts of entities, i.e. facts are metaphysically inseparable from and derived from entities ultimately (i.e. maybe indirectly, but certainly)._
+**NOTE**: _Given the above concept of entity, facts are thus facts of entities, i.e. facts are metaphysically inseparable from and ultimately derived from entities (i.e. maybe indirectly, but certainly)._
 
 **Action**:
 
