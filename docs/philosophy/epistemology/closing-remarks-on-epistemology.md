@@ -44,7 +44,7 @@ Hence, rationality is contextual, i.e. it is the application of universal truths
 
 1.
 
-In an emergency, it is rational to use instincts to act if it is clear that any deliberation is practically impossible and/or potentially detrimental to your ability to deal with the emergency. Here, it is perfectly rational to use your instincts and intuition, since such situations (where rapid and therefore largely automatic evaluation and responses are needed) are exactly where the faculties of instinct and intuition are relevance, i.e. rationality demands the use of instinct and intuition in the right situations.
+In an emergency, it is rational to use instincts to act if it is clear that any deliberation is practically impossible and/or potentially detrimental to your ability to deal with the emergency. Here, it is perfectly rational to use your instincts and intuition, since such situations (where rapid and therefore largely automatic evaluation and responses are needed) are exactly where the faculties of instinct and intuition are relevant. Hence, rationality demands the use of instinct and intuition in the right situations.
 
 2.
 
