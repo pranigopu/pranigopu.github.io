@@ -9,11 +9,9 @@
 
 **Contents**:
 
-
 - [Introduction](#introduction)
 - [Key characteristics of happiness](#key-characteristics-of-happiness)
 - [Happiness and emotional states](#happiness-and-emotional-states)
-
 
 ---
 
