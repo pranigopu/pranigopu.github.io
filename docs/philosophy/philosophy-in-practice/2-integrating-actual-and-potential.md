@@ -34,9 +34,7 @@ The acceptance of reality, i.e. the conscious affirmation of the facts of realit
 # The basis of motivation and willpower
 **LEXICAL NOTE**:
 
-
 Motivation is the concrete experience of the value for a particular potential. Willpower is the self-driven capacity of the volitional faculty to exert effort in a particular direction of focus. Willpower and motivation are ultimately integrated in one's pursuit of value; willpower is the volitional effort to engage in a pursuit, motivation is the fuel that makes such engagement possible, especially long-range.
-
 
 ---
 
