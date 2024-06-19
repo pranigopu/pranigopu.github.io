@@ -81,7 +81,7 @@ Hence, the practical significance of the differences between two things or ideas
 
 _To condense the discussion into a short tip_...
 
-To know whether something is integrated by essentials or non-essentials, ask: in the given context, is there something more essential that differentiates them? If there is, you know you are integrating by non-essentials in the given context. If there is not, ask: what makes the similarity an essential? In what way does it integrate the identities of the things or ideas in question? Hence, you can know if it is in fact an essential in the given context or if there must be some other characteristic or set of characteristics that is more significant in shaping the nature of the things or ideas in question.
+To know whether something is integrated by essentials or non-essentials, ask: for the given context and purpose, is there something more essential that differentiates them? If there is, you know you are integrating by non-essentials for the given context and purpose. If there is not, ask: what makes the similarity an essential? In what way does it integrate the identities of the things or ideas in question? Hence, you can know if it is in fact an essential for the given context and purpose or if there must be some other characteristic or set of characteristics that is more significant in shaping the nature of the things or ideas in question.
 
 ---
 
@@ -128,7 +128,7 @@ Hence, the practical significance of the differences between two things or ideas
 
 _To condense the discussion into a short tip_...
 
-To know whether something is differentiated by essentials or non-essentials, ask: in the given context, is there something more essential that integrates them? If there is, you know you are differentiating by non-essentials in the given context. If there is not, ask: what makes the difference an essential? In what way does it differentiate the identities of the things or ideas in question? Hence, you can know if it is in fact an essential in the given context or if there must be some other characteristic or set of characteristics that is more significant in shaping the nature of the things or ideas in question.
+To know whether something is differentiated by essentials or non-essentials, ask: for the given context and purpose, is there something more essential that integrates them? If there is, you know you are differentiating by non-essentials for the given context and purpose. If there is not, ask: what makes the difference an essential? In what way does it differentiate the identities of the things or ideas in question? Hence, you can know if it is in fact an essential for the given context and purpose or if there must be some other characteristic or set of characteristics that is more significant in shaping the nature of the things or ideas in question.
 
 ## Reification
 
