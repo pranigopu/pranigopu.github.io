@@ -17,3 +17,6 @@ Hence, to the key point: if done properly, philosophy is the most practical area
 4. [Judgement in Practice](https://pranigopu.github.io/philosophy/philosophy-in-practice/4-judgement-in-practice.html)
 5. [Pride and Moral Perfection](https://pranigopu.github.io/philosophy/philosophy-in-practice/5-pride-and-moral-perfection.html)
 6. [The Pursuit of Happiness](https://pranigopu.github.io/philosophy/philosophy-in-practice/6-pursuit-of-happiness.html)
+7. [Emotions](https://pranigopu.github.io/philosophy/philosophy-in-practice/7-emotions.html)
+
+**NOTE**: _The above topics are arranged in a certain order to facilitate comprehension, but in fact, there is no inherent order for every topic; in general, the topics are aspects of the same integrated whole and must be considered as a logical whole rather than a logical progression._
