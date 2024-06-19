@@ -13,7 +13,6 @@
 
 ---
 
-
 # Introduction
 
 _First, some definitions_...
