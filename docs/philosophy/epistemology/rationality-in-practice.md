@@ -40,7 +40,7 @@ As a cap on the discussion so far, consider the sheer contradiction in the idea 
 
 **NOTE 1**: To say "relevant facts" in the above paragraph is redundant, because as we have seen, to regard facts as a whole is to regard them in the context of the nature and finite capacity of consciousness, which necessarily implies the regard of facts by relevance, since to disregard relevance is to disregard the facts that give rise to cognition in the first place. Nonetheless, I have said "relevant facts" for clarity's sake.
 
-**NOTE 2**: When I say "relevant facts", I mean relevant facts within the context of your capacity in the given situation. I take this context as a given, seeing how relevance has been defined and how the need for relevance has been understood.
+**NOTE 2**: When I say "relevant facts", I mean relevant facts within the context of your capacity in the given situation. I take this context as a given, seeing how relevance has been defined and what the need for relevance is.
 
 **NOTE 3**: To re-emphasise the key point, rationality is indispensable to one's efficacy in life: rationality as a consistent practice is the most effective way to deal with reality as a whole since rationality is the fundamental basis of long-range efficacy in life. Here, note that the long-range does not exist apart from the short-range and necessarily integrates it in some way. Hence, in essence, being rational is the only effective way to deal with reality.
 
