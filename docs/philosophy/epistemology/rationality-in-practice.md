@@ -111,6 +111,8 @@ Focusing on the non-essential apart from one's pursuit of the essentials is to r
 
 To conclude, the right approach to dealing with reality is not to go over and keep dismissing the non-essentials but rather to seek the essentials and expand your focus based on what you know and what comes into your awareness (which you must keep keen and ready, which is only possible if you keep your focus clear, which in turn is only possible by keeping the essentials in sight and not delving unnecessarily into the non-essentials). Hence, focus on seeking the essentials rather than dismissing the non-essentials. Even logistically, the former approach is the efficient and effective approach in practice while the latter approach tends to proliferate arbitrary concerns and can do so far beyond what can practically be dealt with (since the realm of the arbitrary is always infinite while the realm of knowledge is always finite at any given point).
 
+**NOTE**: _Dismissing non-essentials is a valid approach but only as secondary to seeking the essentials. In other words, if you have reason to consider something as potentially essential and relevant for the given context and purpose, then it is valid to check it is indeed so or if it is a non-essential to be dismissed._
+
 ## Shaping motivations
 _This is lifted from_ ["Further points on motivation" from _Integrating the Actual and the Potential_ from _Philosophy in Practice_](https://pranigopu.github.io/philosophy/philosophy-in-practice/2-integrating-actual-and-potential.html#further-points-on-motivation).
 
