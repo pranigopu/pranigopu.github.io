@@ -9,6 +9,7 @@
 - [Introduction](#introduction)
 - [Key characteristics of happiness](#key-characteristics-of-happiness)
 - [Happiness and emotional states](#happiness-and-emotional-states)
+- [The pursuit of happiness](#the-pursuit-of-happiness)
 
 ---
 
@@ -40,3 +41,5 @@ Therefore, a happy person is not the same as a joyous person, although a happy p
 Based on the above conclusions, the essentials of happiness are self-value, engagement with reality, the affirmation of one's grasp of reality and the tendency toward the concrete experience of value; in short, pride, purpose, rationality and the tendency toward enjoyment. Hence, we can see that in the short-term, happiness is consistent with a neutral or even negative emotional state. In fact, since emotional states are the concrete responses of your mind to one's internalised value-judgement (i.e. one's judgement of the gain or loss of values), feeling a positive emotion when a neutral or negative emotion is appropriate is a sign of dysfunction and therefore does not imply happiness; if at all, it implies a lack of the capacity for happiness, at least for the time being. Hence, happiness can be consistent with the loss of short-range values that do not
 
 However, since happiness cannot be consistent with the loss of essential or long-range values, the experience of heavy loss does impact happiness. In such a state, most of the essentials (namely pride, purpose and rationality) can still be present. However, due to the significance of the loss, one's tendency inevitably shifts (at least for a while) toward the experience of negative emotions. It is key to note, however, that even in heavy loss, as long as one values one's life, one's orientation in the long-range should be toward happiness ultimately. But reaching happiness ultimately requires the affirmation of one's loss, which requires the acceptance of some form of suffering, such as grief, and the acceptance of reality, i.e. serenity. For very heavy losses, the achievement of serenity can require mourning.
+
+# The pursuit of happiness
