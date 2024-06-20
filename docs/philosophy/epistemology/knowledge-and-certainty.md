@@ -69,7 +69,13 @@ As another example, we can relate our interactions with solid objects to each ot
 
 As a more complex example, consider Newton's first law of motion ("every object will remain at rest or in uniform motion in a straight line unless acted upon by an external force"), where Newton related observations of the horizontal movement of different objects in different surfaces, selectively focusing on the difference that made the difference, namely, the amount of friction of the surface. Hence, he could identify that the friction of a surface was the causal factor in slowing down a body moving on the surface, from which he grasped that in the absence of friction, the object would not slow down. He also related observations of the motion of objects to selectively focus on the fact that an increase in an object's speed was caused by an external force, in the absence of which it would not speed up. Similarly, he grasped that nothing except an external force caused the change in the direction of an object's motion. Without selective focus, every observation would be a whole new phenomenon with no relationship (beyond perceptual similarities and differences) to other observations.
 
-**NOTE**: _We see that the capacity for selective focus is a self-evident fact. Hence, it is still the case, even with the use of selective focus, that the self-evident is the basis of all knowledge._
+---
+
+**NOTE 1**: We see that the capacity for selective focus is a self-evident fact. Hence, it is still the case, even with the use of selective focus, that the self-evident is the basis of all knowledge.
+
+**NOTE 2**: Selective focus naturally extends to any and every conscious unit, not just percepts. In other words, we can selectively focus on previous results of selective focus. Hence, we can have abstractions of abstractions: units of units, concepts of concepts, generalisations of generalisations, etc.
+
+---
 
 _The importance and use of selective focus in expanding knowledge leads us to the next point_...
 
@@ -87,6 +93,8 @@ Knowledge can only be knowledge of and from the self-evident, because only the s
 **NOTE 1**: To grasp the self-evidently implicit is to grasp something that is self-evident when brought it into focus. In other words, the self-evidently implicit is that which cannot be denied without denying the self-evident, i.e. it is logically necessitated by the self-evident. Hence, we reaffirm the notion that knowledge can only be knowledge of and from the self-evident. The self-evidently implicit is not self-evident without selective focus because focus is finite and cannot always grasp every aspect of awareness at once (which is why retained awareness is invaluable, as it holds everything that cannot be focused on at once).
 
 **NOTE 2**: Bringing something implicit in perception into focus — especially something that integrates more than one perception — is not an automatic process but an exercise of volition. It is not automatic because to be automatic in cognition is to be driven by the self-evident alone, whereas selective focus is fundamentally self-driven and not led along purely by the self-evident (see ["Determinism as a denial of causality" in _Human Consciousness and Free Will_](https://pranigopu.github.io/philosophy/human-consciousness-and-free-will.html#determinism-as-a-denial-of-causality)).
+
+**NOTE 3**: The act of grasping the self-evidently implicit can naturally be recursive, as selective focus can be recursive. Hence, we can grasp the self-evidently implicit in what we previously grasped as self-evidently implicit in the self-evident, and so on. Hence, we can have abstractions of abstractions: units of units, concepts of concepts, generalisations of generalisations, etc.
 
 ---
 
