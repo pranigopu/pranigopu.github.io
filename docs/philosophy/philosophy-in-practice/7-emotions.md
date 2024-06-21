@@ -6,6 +6,12 @@
 
 **Contents**:
 
+- [Introduction](#introduction)
+- [Emotions and willpower](#emotions-and-willpower)
+- [Invalid emotions](#invalid-emotions)
+  - [Despair and shame: A false view of one's basic efficacy](#despair-and-shame-a-false-view-of-ones-basic-efficacy)
+  - [Envy: An out-of-context view of value and loss](#envy-an-out-of-context-view-of-value-and-loss)
+  - [Jealousy: An out-of-context view of potential and threat](#jealousy-an-out-of-context-view-of-potential-and-threat)
 
 ---
 
