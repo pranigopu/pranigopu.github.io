@@ -26,7 +26,7 @@ _How to recognise valid and invalid emotions?_
 
 One way is to recognise and validate or invalidate the premises underlying the emotion. Another way is to keep in mind a set of emotions that necessarily arise due to invalid preimises; we shall discuss this set of emotions in the coming subsections. Finally, conflicts in our emotions indicate conflicts in our premises, indicating logical and/or factual inconsistency on some level.
 
-**RE-ITERATING A KEY POINT**: _Invalid emotions are not to be overcome by sheer force of will but through one's clarity of focus and one's use of reason._
+**REITERATING A KEY POINT**: _Invalid emotions are not to be overcome by sheer force of will but through one's clarity of focus and one's use of reason._
 
 ## Despair and shame: A false view of one's basic efficacy
 This is discussed further here: [_Sources of Inefficacy_](https://pranigopu.github.io/philosophy/philosophy-in-practice/3-sources-of-inefficacy.html). To summarise for reference, the emotions of despair and shame arise due to an invalid view of one's basic efficacy in dealing with reality.
