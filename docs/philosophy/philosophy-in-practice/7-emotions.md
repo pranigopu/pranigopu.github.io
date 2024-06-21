@@ -62,7 +62,7 @@ Furthermore, consider the "desire" aspect of envy. A desire is valid only if it 
 
 Furthermore, a key fact of reality for value-seeking being is that the values of the being are always integrated with respect to a given context (see: ["Integrity of values" from _The Nature of Value_](https://pranigopu.github.io/philosophy/ethics/nature-of-value.html#integrity-of-values)). If achieving X violates your values in the given context, then X cannot be a value, since the pursuit of X cannot integrate with the values you actually hold in the given context. In such a case, the desire for X is invalid.
 
-Hence, we observe that when we grasp our context of the facts and values, then envy dissolves into more constructive emotions and motivations. Hence, I posit that envy is an emotion that reveals one's lack of contextual clarity; gaining the clarity is key to orienting yourself toward values and not toward irrational and potentially self-destructive goals.
+Hence, we observe that when we grasp our context of the facts and values, then envy dissolves into more constructive emotions and motivations. Hence, I posit that envy is an emotion that reveals one's lack of contextual clarity; gaining the clarity is key to orienting yourself toward values and against irrational and potentially self-destructive goals.
 
 ## Jealousy: An out-of-context view of potential and threat
 Jealousy is similar to envy, except that instead of dealing with values and their loss, it deals with potential values and threats (i.e. potential loss) to potential values. The reasoning for the invalidity of jealousy is similar in essence; jealousy is rooted in the desire to overcome a feeling a threat rather than the desire to pursue a potential.
