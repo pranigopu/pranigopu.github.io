@@ -27,7 +27,7 @@ _The necessary context is drawn from_ [_The Standard of Value_](https://pranigop
 ---
 
 **LEXICAL NOTE**: 
-"Purpose" can mean either "goal" or "goal-driven behaviour/orientation"; when used with an article (definite or indefinite), it means "goal" (examples of use: "the purpose of the text", "to have a purpose", "to act toward a purpose"), and when used without an article, it means "goal-driven behaviour/orientation" (examples of use: "the value of purpose", "to have purpose", "to act with purpose"). Also note that "purposeful" and "goal-driven" are synonymous.
+"Purpose" can mean either "goal" or "goal-driven behaviour/orientation"; when used with an article (definite or indefinite), it means "goal" (examples of use: "the purpose of the text", "to have a purpose", "to act toward a purpose"), and when used without an article, it means "goal-driven behaviour/orientation" (examples of use: "the value of purpose", "to have purpose", "to act with purpose"). Also note that "purposeful" and "goal-driven" are synonymous. I shall use both sets of terms to avoid leaning into any connotations each set of terms may carry.
 
 ---
 
