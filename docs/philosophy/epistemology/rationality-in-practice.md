@@ -14,8 +14,9 @@
   - [Essentialising focus](#essentialising-focus)
     - [PRINCIPLE 1: Non-contradiction in contexts](#principle-1-non-contradiction-in-contexts)
     - [PRINCIPLE 2: Seeking essentials vs. dismissing non-essentials](#principle-2-seeking-essentials-vs-dismissing-non-essentials)
-    - [PRINCIPLE 3: Considerations in knowledge over considerations in ignorance](#principle-3-considerations-in-knowledge-over-considerations-in-ignorance)
-    - [PRINCIPLE 4: Dismissing the practically unaccountable](#principle-4-dismissing-the-practically-unaccountable)
+    - [PRINCIPLE 3: Identifying logical and causal relationships](#principle-3-identifying-logical-and-causal-relationships)
+    - [PRINCIPLE 4: Considerations in knowledge over considerations in ignorance](#principle-4-considerations-in-knowledge-over-considerations-in-ignorance)
+    - [PRINCIPLE 5: Dismissing the practically unaccountable](#principle-5-dismissing-the-practically-unaccountable)
     - [Additional points](#additional-points)
       - [Dismissing arbitrary doubts and arbitrary hypotheticals](#dismissing-arbitrary-doubts-and-arbitrary-hypotheticals)
       - [Dismissing insignficant factors and risks](#dismissing-insignficant-factors-and-risks)
@@ -78,7 +79,7 @@ Your volitional faculty does not exist in isolation; it is integrated into your 
 
 _Consciousness has an identity and is finite in scope and capacity._
 
-This is the first important fact to consider when learning to use one's mind. The definite nature and the finiteness of one's mental and thus volitional mechanism imply that to use one's mind effectively, i.e. rationally, one must use it as efficiently as possible (of course, efficiency properly understood implies no cost to overall efficacy and only leads to its improvement). Hence, the primary method of using one's mind is unit reduction, i.e. the process of reducing the number of conscious units held in one's mind while retaining the whole relevant context of information; this may involve omitting many non-essential details (non-essential with respect to one's context). Hence, we get...
+This is the first important fact to consider when learning to use one's mind. The definite nature and the finiteness of one's mental and volitional mechanism imply that to use one's mind effectively, i.e. rationally, one must use it as efficiently as possible (of course, efficiency properly understood implies no cost to overall efficacy and only leads to its improvement). Hence, the primary method of using one's mind is unit reduction, i.e. the process of reducing the number of conscious units held in one's mind while retaining the whole relevant context of information; this may involve omitting many non-essential details (non-essential with respect to one's context). Hence, we get...
 
 **KEY POINT 2**:
 
@@ -120,7 +121,27 @@ To conclude, the right approach to dealing with reality is not to go over and ke
 
 **NOTE**: _Dismissing non-essentials is a valid approach but only as secondary to seeking the essentials. In other words, if you have reason to consider something as potentially essential and relevant for the given context and purpose, then it is valid to check it is indeed so or if it is a non-essential to be dismissed._
 
-### PRINCIPLE 3: Considerations in knowledge over considerations in ignorance
+### PRINCIPLE 3: Identifying logical and causal relationships
+Metaphysically, everthing in existence is integrated to each other by identity and causality, i.e. by logical and causal relationships. Hence, logical and causal relationships are essential to grasping the nature of things in existence, thereby being essential to grasping reality. Hence, identifying logical and causal relationships is key to rationality and thus morality.
+
+In particular, it is important to identify:
+
+- What causes are implied by observed effects
+- The possiblity or impossibility of the coexistence of things
+- What is and is not open to change
+- What is and is not open to one's own actions <br> _i.e. one's own causal efficacy_
+
+_Some notable examples of application_...
+
+**Identifying the relationship between memories and events**:
+
+For example, I remember validating a conclusion, this memory has a cause that in my knowledge can only come from actually validating the conclusion; if I have no basis to consider the possibility of the memory being invented by something or someone, I have no basis to doubt what it implies, namely that my conclusion has been validated.
+
+**Wholehearted acceptance of the past and the potential**:
+
+By causality, what has happened is not open to change. Understanding this is key to understanding that (1) one cannot validly wish for the past to not have happened, and that (2) what happened had to have happened due to the causes that were present. At the same time, it is true that the potential is open to change to some extent. Hence, we do not live in a predetermined universe, but at the same time, what has happened was necessary given the causes that were present. Furthermore, the past can lead to our awareness of things that can help us change the future for the better; without the past having occurred, the lessons and motivations that led to our awareness of what to do and not to do would have no basis and thus would not exist.
+
+### PRINCIPLE 4: Considerations in knowledge over considerations in ignorance
 Awareness is always awareness of what is. Even if you are aware of what is not, it is always with respect to what is. Knowledge is the retained awareness of reality. To consider something in knowledge is to keep one's awareness on reality. To consider something in ignorance is either (1) the rejection of one's awareness of reality (including the rejection of what is relevant and/or essential) or (2) the consideration in knowledge of a potential. In case (1), you ultimately act without cognitive purpose and thereby ultimately do not choose to think, to be aware and to value your existence. In case (2), the consideration is still consideration in knowledge.
 
 For example, if your purpose is to discover the cause of an engine failure, the search for the cause is always with respect to your knowledge of the factors affecting the engine's functions and your knowledge of the fact that you must explore to discover the responsible factors and thereby achieve your purpose. In other words, a cognitively purposeful consideration in ignorance presupposes consideration in knowledge.
@@ -133,7 +154,7 @@ _To summarise_...
 
 All rational consideration is and must be primarily consideration in knowledge.
 
-### PRINCIPLE 4: Dismissing the practically unaccountable
+### PRINCIPLE 5: Dismissing the practically unaccountable
 The basic statement of the principle is:
 
 "What cannot be taken into account must not be taken into account."
@@ -144,10 +165,10 @@ If it cannot be taken into account, then no mental effort toward it has purpose,
 
 ### Additional points
 #### Dismissing arbitrary doubts and arbitrary hypotheticals
-By principles 3 and 4, arbitrary doubts and arbitrary hypotheticals are based primarily in ignorance and cannot be accounted for. Arbitrary doubts and arbitrary hypotheticals are particularly pernicious since they can proliferate indefinitely, waste one's finite time, energy and resources and thereby lead to indecision and/or irrational judgement. Furthermore, by principle 2, dismiss as arbitrary only what you have reason to think may be essential; primarily seek the essentials and dismiss the arbitrary only as a part of the process. In other words, do not even get into arbitrary doubts and arbitrary hypotheticals unless there is reason to think that they may be relevant.
+By principles 4 and 5, arbitrary doubts and arbitrary hypotheticals are based primarily in ignorance and cannot be accounted for. Arbitrary doubts and arbitrary hypotheticals are particularly pernicious since they can proliferate indefinitely, waste one's finite time, energy and resources and thereby lead to indecision and/or irrational judgement. Furthermore, by principle 2, dismiss as arbitrary only what you have reason to think may be essential; primarily seek the essentials and dismiss the arbitrary only as a part of the process. In other words, do not even get into arbitrary doubts and arbitrary hypotheticals unless there is reason to think that they may be relevant.
 
 #### Dismissing insignficant factors and risks
-By principles 4, insigificant factors and risks cannot be accounted for, especially with respect to one's knowledge of the essentials and one's hierarchy of values. Furthermore, by principle 2, since seeking the essentials is primary, by the finiteness of focus, much of the less important is excluded by default and must not be included lest what is known to be important and essential are taken out of focus.
+By principles 5, insigificant factors and risks cannot be accounted for, especially with respect to one's knowledge of the essentials and one's hierarchy of values. Furthermore, by principle 2, since seeking the essentials is primary, by the finiteness of focus, much of the less important is excluded by default and must not be included lest what is known to be important and essential are taken out of focus.
 
 #### Contextual clarity when considering possibilities
 A claim of possibility, like all knowledge claims, is contextual, i.e. based on a certain set of necessary and/or sufficient conditions. For example, if I say, "It is possible for a man to kill a tiger," what I am really saying is, "A man can kill a tiger under certain necessary and/or sufficient conditions, e.g. if the man is able-bodied enough and/or if the man is armed and ready and/or if the tiger is weak enough, etc." It is invalid for me to go up to a crippled old man and tell him that he can kill a rampaging tiger because it is "possible for a man to kill a tiger." As another example, if I say, "It is possible for me to get infected by contact with outdoor surfaces," implicit in my statement are conditions (e.g. infected people coming into contact with the surface, the infection being transmissible through the skin, etc.), of which only the conditions I can actually account for are relevant to consider.
