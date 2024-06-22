@@ -1,6 +1,6 @@
-<header>
+<meta>
     google-site-verification: googleb21df23a57bafe18.html
-</header>
+</meta>
 
 # Art
 # Introduction
