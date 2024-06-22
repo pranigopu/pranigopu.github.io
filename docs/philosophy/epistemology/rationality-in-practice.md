@@ -18,8 +18,9 @@
     - [PRINCIPLE 4: Dismissing the practically unaccountable](#principle-4-dismissing-the-practically-unaccountable)
     - [Additional points](#additional-points)
       - [Dismissing arbitrary doubts and arbitrary hypotheticals](#dismissing-arbitrary-doubts-and-arbitrary-hypotheticals)
-    - [Dismissing insignficant factors and risks](#dismissing-insignficant-factors-and-risks)
-      - [Context-dropping when considering possibilities](#context-dropping-when-considering-possibilities)
+      - [Dismissing insignficant factors and risks](#dismissing-insignficant-factors-and-risks)
+      - [Contextual clarity when considering possibilities](#contextual-clarity-when-considering-possibilities)
+      - [Rational exploration](#rational-exploration)
   - [Shaping motivations](#shaping-motivations)
 
 ---
@@ -143,13 +144,18 @@ If it cannot be taken into account, then no mental effort toward it has purpose,
 
 ### Additional points
 #### Dismissing arbitrary doubts and arbitrary hypotheticals
-By principles 3 and 4, arbitrary doubts and arbitrary hypotheticals are based primarily in ignorance and cannot be accounted for.
+By principles 3 and 4, arbitrary doubts and arbitrary hypotheticals are based primarily in ignorance and cannot be accounted for. Arbitrary doubts and arbitrary hypotheticals are particularly pernicious since they can proliferate indefinitely, waste one's finite time, energy and resources and thereby lead to indecision and/or irrational judgement. Furthermore, by principle 2, dismiss as arbitrary only what you have reason to think may be essential; primarily seek the essentials and dismiss the arbitrary only as a part of the process. In other words, do not even get into arbitrary doubts and arbitrary hypotheticals unless there is reason to think that they may be relevant.
 
-### Dismissing insignficant factors and risks
-By principles 4, insigificant factors and risks cannot be accounted for, especially with respect to one's knowledge of the essentials and one's hierarchy of values.
+#### Dismissing insignficant factors and risks
+By principles 4, insigificant factors and risks cannot be accounted for, especially with respect to one's knowledge of the essentials and one's hierarchy of values. Furthermore, by principle 2, since seeking the essentials is primary, by the finiteness of focus, much of the less important is excluded by default and must not be included lest what is known to be important and essential are taken out of focus.
 
-#### Context-dropping when considering possibilities
+#### Contextual clarity when considering possibilities
 A claim of possibility, like all knowledge claims, is contextual, i.e. based on a certain set of necessary and/or sufficient conditions. For example, if I say, "It is possible for a man to kill a tiger," what I am really saying is, "A man can kill a tiger under certain necessary and/or sufficient conditions, e.g. if the man is able-bodied enough and/or if the man is armed and ready and/or if the tiger is weak enough, etc." It is invalid for me to go up to a crippled old man and tell him that he can kill a rampaging tiger because it is "possible for a man to kill a tiger." As another example, if I say, "It is possible for me to get infected by contact with outdoor surfaces," implicit in my statement are conditions (e.g. infected people coming into contact with the surface, the infection being transmissible through the skin, etc.), of which only the conditions I can actually account for are relevant to consider.
+
+Keeping claims of possibility tied to the right context prevents false generalisations, inefficiency and/or ineffectiveness in thought and action due to the consideration of irrelevant or insignificant factors and dangerously false and irresponsible conclusions.
+
+#### Rational exploration
+It is key to note that what may be irrelevant, arbitrary or insignificant in some contexts may be useful to explore in other more relaxed or reflective contexts. Exploration is a vital part of expanding the scope of one's knowledge in the long-run, which makes it relevant sometimes to reflect over at least some of what we would normally brush aside. Note that this aspect of rationality does not (and cannot) contradict any of the other aspects. Rather, it is based on the contextual nature of rationality and affirms the relevance of exploration in the right contexts.
 
 ## Shaping motivations
 _This is lifted from_ ["Further points on motivation" from _Integrating the Actual and the Potential_ from _Philosophy in Practice_](https://pranigopu.github.io/philosophy/philosophy-in-practice/2-integrating-actual-and-potential.html#further-points-on-motivation).
