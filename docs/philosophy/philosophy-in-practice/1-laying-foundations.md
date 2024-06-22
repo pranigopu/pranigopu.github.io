@@ -10,7 +10,7 @@
 - [The role of philosophy](#the-role-of-philosophy)
 - [The acceptance of reality](#the-acceptance-of-reality)
   - [Wholehearted acceptance of the past and the potential](#wholehearted-acceptance-of-the-past-and-the-potential)
-  - [Acknowledging one's own causal inefficacy or lack thereof](#acknowledging-ones-own-causal-inefficacy-or-lack-thereof)
+  - [Acknowledging one's own causal efficacy or lack thereof](#acknowledging-ones-own-causal-efficacy-or-lack-thereof)
   - [Acknowledging failures](#acknowledging-failures)
   - [Accepting the facts before evaluating them](#accepting-the-facts-before-evaluating-them)
 - [Conviction](#conviction)
@@ -34,7 +34,7 @@ The acceptance of reality, i.e. the conscious affirmation of the facts of realit
 ## Wholehearted acceptance of the past and the potential
 By causality, what has happened is not open to change. Understanding this is key to understanding that (1) one cannot validly wish for the past to not have happened, and that (2) what happened had to have happened due to the causes that were present. At the same time, it is true that the potential is open to change to some extent. Hence, we do not live in a predetermined universe, but at the same time, what has happened was necessary given the causes that were present. Furthermore, the past can lead to our awareness of things that can help us change the future for the better; without the past having occurred, the lessons and motivations that led to our awareness of what to do and not to do would have no basis and thus would not exist.
 
-## Acknowledging one's own causal inefficacy or lack thereof
+## Acknowledging one's own causal efficacy or lack thereof
 We, as volitional beings, have the capacity to act toward a potential chosen by us, provided it is possible. However, our capacity is necessarily finite, since metaphysically, nothing can be actually infinite, only potentially infinite. In particular, we have a finite capacity in terms of:
 
 - Focus and retention
