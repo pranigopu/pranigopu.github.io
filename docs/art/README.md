@@ -1,3 +1,7 @@
+<header>
+    google-site-verification: googleb21df23a57bafe18.html
+</header>
+
 # Art
 # Introduction
 Art is the essentialised and stylised concretisation of philosophy.
