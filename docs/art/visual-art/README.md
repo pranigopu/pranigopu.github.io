@@ -13,8 +13,7 @@
 
 - [Introduction](#introduction)
 - [Anne Dancing with Little Robot](#anne-dancing-with-little-robot)
-- [Dagny Taggart in the Comet (by OpenArt AI)](#dagny-taggart-in-the-comet-by-openart-ai)
-- [Clio’s Dream by Codech and Malavia](#clios-dream-by-codech-and-malavia)
+- [Clio's Dream by Codech and Malavia](#clios-dream-by-codech-and-malavia)
 - [The New Colossus](#the-new-colossus)
 - [Camina Drummer by NKN (@frecuenciankn on Twitter)](#camina-drummer-by-nkn-frecuenciankn-on-twitter)
 - [Indian Lady by Vishal Gurjar](#indian-lady-by-vishal-gurjar)
@@ -36,12 +35,7 @@ None of the presented artwork is mine. I just wanted to gather and present my fa
 <img src="https://pranigopu.github.io/art/visual-art/Anne Dancing with Little Robot.jpg">
 </a>
 
-# Dagny Taggart in the Comet (by OpenArt AI)
-<a href="https://pranigopu.github.io/art/visual-art/Dagny Taggart in the Comet (by OpenArt AI).jpg">
-<img src="https://pranigopu.github.io/art/visual-art/Dagny Taggart in the Comet (by OpenArt AI).jpg">
-</a>
-
-# Clio’s Dream by Codech and Malavia
+# Clio's Dream by Codech and Malavia
 <a href="https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia-1.png">
 <img src="https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia-1.png">
 </a>
