@@ -14,6 +14,12 @@
   - [Essentialising focus](#essentialising-focus)
     - [PRINCIPLE 1: Non-contradiction in contexts](#principle-1-non-contradiction-in-contexts)
     - [PRINCIPLE 2: Seeking essentials vs. dismissing non-essentials](#principle-2-seeking-essentials-vs-dismissing-non-essentials)
+    - [PRINCIPLE 3: Considerations in knowledge over considerations in ignorance](#principle-3-considerations-in-knowledge-over-considerations-in-ignorance)
+    - [PRINCIPLE 4: Dismissing the practically unaccountable](#principle-4-dismissing-the-practically-unaccountable)
+    - [Additional points](#additional-points)
+      - [Dismissing arbitrary doubts and arbitrary hypotheticals](#dismissing-arbitrary-doubts-and-arbitrary-hypotheticals)
+    - [Dismissing insignficant factors and risks](#dismissing-insignficant-factors-and-risks)
+      - [Context-dropping when considering possibilities](#context-dropping-when-considering-possibilities)
   - [Shaping motivations](#shaping-motivations)
 
 ---
@@ -71,11 +77,11 @@ Your volitional faculty does not exist in isolation; it is integrated into your 
 
 _Consciousness has an identity and is finite in scope and capacity._
 
-This is the first important fact to consider when learning to use one’s mind. The definite nature and the finiteness of one’s mental — and thus volitional— mechanism imply that to use one’s mind effectively, i.e. rationally, one must use it as efficiently as possible (of course, efficiency properly understood implies no cost to overall efficacy and only leads to its improvement). Hence, the primary method of using one’s mind is unit reduction, i.e. the process of reducing the number of conscious units held in one’s mind while retaining the whole relevant context of information; this may involve omitting many non-essential details (non-essential with respect to one’s context). Hence, we get...
+This is the first important fact to consider when learning to use one's mind. The definite nature and the finiteness of one's mental and thus volitional mechanism imply that to use one's mind effectively, i.e. rationally, one must use it as efficiently as possible (of course, efficiency properly understood implies no cost to overall efficacy and only leads to its improvement). Hence, the primary method of using one's mind is unit reduction, i.e. the process of reducing the number of conscious units held in one's mind while retaining the whole relevant context of information; this may involve omitting many non-essential details (non-essential with respect to one's context). Hence, we get...
 
 **KEY POINT 2**:
 
-_Unit reduction expands the scope of one’s consciousness._
+_Unit reduction expands the scope of one's consciousness._
 
 **NOTE**: _Unit-reduction does not preclude the consideration of concretes (of course, since concretes are the basis of knowledge). On the contrary, concretes are most efficaciously handled when using unit-reduction. Where more concrete consideration is needed, such must be done, and where broader abstractions are more relevant, such must be done, but it is unit-reduction that gives you the capacity to understand what approach is relevant in the given context._
 
@@ -112,6 +118,38 @@ Focusing on the non-essential apart from one's pursuit of the essentials is to r
 To conclude, the right approach to dealing with reality is not to go over and keep dismissing the non-essentials but rather to seek the essentials and expand your focus based on what you know and what comes into your awareness (which you must keep keen and ready, which is only possible if you keep your focus clear, which in turn is only possible by keeping the essentials in sight and not delving unnecessarily into the non-essentials). Hence, focus on seeking the essentials rather than dismissing the non-essentials. Even logistically, the former approach is the efficient and effective approach in practice while the latter approach tends to proliferate arbitrary concerns and can do so far beyond what can practically be dealt with (since the realm of the arbitrary is always infinite while the realm of knowledge is always finite at any given point).
 
 **NOTE**: _Dismissing non-essentials is a valid approach but only as secondary to seeking the essentials. In other words, if you have reason to consider something as potentially essential and relevant for the given context and purpose, then it is valid to check it is indeed so or if it is a non-essential to be dismissed._
+
+### PRINCIPLE 3: Considerations in knowledge over considerations in ignorance
+Awareness is always awareness of what is. Even if you are aware of what is not, it is always with respect to what is. Knowledge is the retained awareness of reality. To consider something in knowledge is to keep one's awareness on reality. To consider something in ignorance is either (1) the rejection of one's awareness of reality (including the rejection of what is relevant and/or essential) or (2) the consideration in knowledge of a potential. In case (1), you ultimately act without cognitive purpose and thereby ultimately do not choose to think, to be aware and to value your existence. In case (2), the consideration is still consideration in knowledge.
+
+For example, if your purpose is to discover the cause of an engine failure, the search for the cause is always with respect to your knowledge of the factors affecting the engine's functions and your knowledge of the fact that you must explore to discover the responsible factors and thereby achieve your purpose. In other words, a cognitively purposeful consideration in ignorance presupposes consideration in knowledge.
+
+Hence, it is clear that considerations in ignorance must never be prioritised over considerations in knowledge. If you know X but do not know about Y, then your actions must be taken with respect to what you know about X and not with respect to what you do not know about Y. For example, when considering the potential contamination of the food you intend to eat, if you have reason to trust it (e.g. reliability of the source, viable ingredients, no evidence for serious contamination, etc.), then you do not act on what you do not know (e.g. the effect of unknown and unobserved pathogens, hypothetical scenarios by which contamination could have occurred, etc.). To expand on the example in another direction, suppose there is a food-related epidemic that is known to affect your area. In such a case, you have reason to seek further evidence for the safety of the food where possible, since you have knowledge of the widespread and dangerous nature of the epidemic. Hence, when you decide not to each something because you do not know whether it has been decontaminated appropriately, you decide it based on your knowledge of the epidemic and thus the relevance of decontamination. Hence, we see that considerations must always be rooted in knowledge and never be primarily in ignorance.
+
+Consider the case where considerations in ignorance are given primacy. Stark examples of the dysfunctional results are: paranoia, obsessive compulsive disorder, unmanageable anxiety and/or panic, etc. Considerations primarily rooted in ignorance lead to dysfunction precisely because they are rooted in the lack of awareness, i.e. they are detached from reality and may only turn out to be valid on sheer accident.
+
+_To summarise_...
+
+All rational consideration is and must be primarily consideration in knowledge.
+
+### PRINCIPLE 4: Dismissing the practically unaccountable
+The basic statement of the principle is:
+
+"What cannot be taken into account must not be taken into account."
+
+If it cannot be taken into account, then no mental effort toward it has purpose, which means it has no relevance in the given context. Rationality demands relevance, hence the aforementioned principle. To expand on the principle, something cannot be taken into account if (1) it violates the contraints (of time, effort or resources) with respect to one's hierarchy of values or (2) it is based on considerations that have no basis in knowledge, i.e. it is based on considerations primarily in ignorance. In case (1), putting time, effort and resources to try to account for something that takes away time, effort and resources from something known to be more relevant is acting against one's awareness of reality, i.e. acting primarily in ignorance. In case (2), it is more obvious that the action taken would be primarily in ignorance. In both cases, one's indifference to reality is stronger than one's affirmation of it, leading to an approach that ultimately denies one's awareness and thereby one's existence.
+
+**NOTE**: _It is clear that this principle is essentially an extension of principle 3._
+
+### Additional points
+#### Dismissing arbitrary doubts and arbitrary hypotheticals
+By principles 3 and 4, arbitrary doubts and arbitrary hypotheticals are based primarily in ignorance and cannot be accounted for.
+
+### Dismissing insignficant factors and risks
+By principles 4, insigificant factors and risks cannot be accounted for, especially with respect to one's knowledge of the essentials and one's hierarchy of values.
+
+#### Context-dropping when considering possibilities
+A claim of possibility, like all knowledge claims, is contextual, i.e. based on a certain set of necessary and/or sufficient conditions. For example, if I say, "It is possible for a man to kill a tiger," what I am really saying is, "A man can kill a tiger under certain necessary and/or sufficient conditions, e.g. if the man is able-bodied enough and/or if the man is armed and ready and/or if the tiger is weak enough, etc." It is invalid for me to go up to a crippled old man and tell him that he can kill a rampaging tiger because it is "possible for a man to kill a tiger." As another example, if I say, "It is possible for me to get infected by contact with outdoor surfaces," implicit in my statement are conditions (e.g. infected people coming into contact with the surface, the infection being transmissible through the skin, etc.), of which only the conditions I can actually account for are relevant to consider.
 
 ## Shaping motivations
 _This is lifted from_ ["Further points on motivation" from _Integrating the Actual and the Potential_ from _Philosophy in Practice_](https://pranigopu.github.io/philosophy/philosophy-in-practice/2-integrating-actual-and-potential.html#further-points-on-motivation).
