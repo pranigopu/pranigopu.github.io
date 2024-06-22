@@ -66,7 +66,7 @@ Truth is not my enemy.
 **(4 beats per line; starting line starts at the last beat)**
 
 The pro- <br>
--faned and the treasured, the pains and the pleasures, <br>
+-faned and treasured, the pains and pleasures, <br>
 All parts of the whole. My <br>
 Feelings are many, in many measures, but for <br>
 You? Only fire in my soul. I
