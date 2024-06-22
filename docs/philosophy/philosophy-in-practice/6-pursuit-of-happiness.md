@@ -21,7 +21,7 @@ _First, some definitions_...
 
 **Happiness**:
 
-If values are defined with one's life as the standard, and if happiness is the psychological affirmation of life as an end in itself, then happiness is the state of the non-contradictory achievement of one's values. Since life in this context means life as a volitional being, life and thus happiness involve the integration of the actual and the potential, i.e. the short-range and the long-range. However, since life in this context refers to life as a whole rather than any given moment of life, happiness is the state of the non-contradictory achievement of one's values in the long-range, i.e. in one's life as a whole, with non-essential short-term losses being ultimately irrelevant to happiness.
+If values are defined with one's life as the standard, and if happiness is the psychological affirmation of life as an end in itself, then happiness is the state of the non-contradictory achievement of one's values. Since life in this context means life as a volitional being, life and thus happiness involve the integration of the actual and the potential, i.e. the short-range and the long-range (note that volitional life cannot be sustained without such integration). However, since life in this context refers to life as a whole rather than any given moment of life, happiness is the state of the non-contradictory achievement of one's values in the long-range, i.e. in one's life as a whole, with non-essential short-term losses being ultimately irrelevant to happiness.
 
 **Suffering**:
 
