@@ -7,8 +7,12 @@
 **Contents**:
 
 - [Laying the foundations](#laying-the-foundations)
-- [The acceptance of reality](#the-acceptance-of-reality)
 - [The role of philosophy](#the-role-of-philosophy)
+- [The acceptance of reality](#the-acceptance-of-reality)
+  - [Wholehearted acceptance of the past and the potential](#wholehearted-acceptance-of-the-past-and-the-potential)
+  - [Acknowledging one's own causal inefficacy or lack thereof](#acknowledging-ones-own-causal-inefficacy-or-lack-thereof)
+  - [Acknowledging failures](#acknowledging-failures)
+  - [Accepting the facts before evaluating them](#accepting-the-facts-before-evaluating-them)
 - [Conviction](#conviction)
   - [Need of absolute conviction](#need-of-absolute-conviction)
   - [The danger of non-absolutism](#the-danger-of-non-absolutism)
@@ -21,15 +25,32 @@
 # Laying the foundations
 The right internal effects need the right internal causes. Thus, to be motivated, you need to believe, i.e. internalise the right views, values and virtues, and to internalise them, you need to be convinced of them — for a rational person, to convince is to convince with truth and reason (evasion and irrationality destroy your capacity to think and act effectively, and thus, are not a valid alternatives to truth and reason). Intention and will are not omnipotent and do not circumvent the need for the right causes of motivation.
 
+# The role of philosophy
+Philosophy is the basis of the way in which you deal with reality, either implicitly or explicitly. To make it explicit is to bring it into conscious focus, thus bringing it into conscious action. While this is always important, this is especially important if your initial internalised (implicit) philosophy is poor. In learning or relearning the right philosophy explicitly, you reinforce and internalise — or begin to internalise — the basis of the way to deal with reality that is rational, self-motivated and happiness-oriented.
+
 # The acceptance of reality
 The acceptance of reality, i.e. the conscious affirmation of the facts of reality is the basis for rationality and thus for morality. Never place an "I wish" over an "it is", since doing so means turning away from the real in favour of the unreal, i.e. that which you neither have nor seek knowledge about. Accept reality for all that it is so you can effectively strive toward what can be, i.e. the pursuit of value presupposes the acknowledgement of truth.
 
-**Wholehearted acceptance of the past and the potential**:
-
+## Wholehearted acceptance of the past and the potential
 By causality, what has happened is not open to change. Understanding this is key to understanding that (1) one cannot validly wish for the past to not have happened, and that (2) what happened had to have happened due to the causes that were present. At the same time, it is true that the potential is open to change to some extent. Hence, we do not live in a predetermined universe, but at the same time, what has happened was necessary given the causes that were present. Furthermore, the past can lead to our awareness of things that can help us change the future for the better; without the past having occurred, the lessons and motivations that led to our awareness of what to do and not to do would have no basis and thus would not exist.
 
-# The role of philosophy
-Philosophy is the basis of the way in which you deal with reality, either implicitly or explicitly. To make it explicit is to bring it into conscious focus, thus bringing it into conscious action. While this is always important, this is especially important if your initial internalised (implicit) philosophy is poor. In learning or relearning the right philosophy explicitly, you reinforce and internalise — or begin to internalise — the basis of the way to deal with reality that is rational, self-motivated and happiness-oriented.
+## Acknowledging one's own causal inefficacy or lack thereof
+We, as volitional beings, have the capacity to act toward a potential chosen by us, provided it is possible. However, our capacity is necessarily finite, since metaphysically, nothing can be actually infinite, only potentially infinite. In particular, we have a finite capacity in terms of:
+
+- Focus and retention
+- Motivation and willpower
+- Experience and knowledge
+- Mental integration
+
+If, in our knowledge, we lacked the awareness, motivation, willpower, experience, knowledge or mental integrative power to deal with something, then we lacked the capacity to deal with it. For example, if I were not aware of a risk in an endeavour and then faced the consequences, I have to accept that the consequences were practically unavoidable since the right causes that would lead me to avoid them were not present. Even if I could have known something whose relevance was outside my focus and thus outside my awareness, I have to accept that though I did what I could, the consequences have to borne. On the other hand, it is irrational and immoral to evade my responsiblity to focus, exercise my will with respect to experience and knowledge and integrate the facts to the best of my capacity if and when I can.
+
+## Acknowledging failures
+If you failed in some pursuit, whether it was your moral and/or practical fault or not, you must accept the failure and the lessons therefrom. Regret and guilt are valid and must be accepted only insofar as they build on your experience and do not hamper your ability to seize the moment to the best of your ability. To chastise yourself for failures (including moral failures) is invalid if, to the best of your knowledge, you have either atoned or corrected for them to the best of your ability. If there is more to do but cannot be done yet, hold onto your regret and guilt only up to that point and no further. Acknowledge the harm and loss as well as what needs to be done and what needs to be learnt.
+
+Furthermore, never chastise yourself for the sake of chastising yourself; self-punishment, if done at all, is always a means to an end, and the end is the internalisation of the lessons learnt and the motivation toward correcting the harms or losses incurred to the best of your ability. Beyond this point, self-punishment is irrational and immoral, leading to the degradation or destruction of one's efficacy in life and ultimately to self-destruction.
+
+## Accepting the facts before evaluating them
+If something happens, it happens; it must be accepted without protest (internal or external). However, the facts must not be accepted passively; it is your rational and moral responsibiltiy to evaluate the facts, grasp their nature and grasp your own causal efficacy or lack thereof regarding the facts. Once you evaluate the facts, you act accordingly, accepting what you cannot change and changing what you can and must. If you failed, be it morally and/or practically, acknowledge them for what they are and never wish for the past to change (note that acknowledging failures has been discussed in the previous section).
 
 # Conviction
 ## Need of absolute conviction
