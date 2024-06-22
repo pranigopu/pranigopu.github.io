@@ -65,6 +65,8 @@ Despair is, in essence, the view that one has no efficacy in pursuing one's valu
 ## Shame
 Guilt and regret are, in essence, constructive emotions, since they instil in oneself the inclination to correct or learn from something that went wrong on one's own account. Shame, on the other hand, is a potentially accompanying emotion that by itself offers no constructive inclinations; it is similar to pain, which can be a part of a worthy, constructive struggle, but which by itself is weakening or even debilitating. The way I understand it, shame by itself is the result of viewing oneself as lacking efficacy in both the actual and the potential; it is, in my view, a form of despair directed inward toward one's own character. Such a state by itself also literally deprives you of or at least diminishes your self-value and thus your motive to act toward your own benefit effectively, and hence, it is a failure state of being that must be overcome.
 
+---
+
 To conclude on the nature of despair and shame, note that these are not constructive emotions. Of course, they are natural and can be a natural accompaniment to more constructive emotions. Furthermore, as indicators of failure, they are helpful in letting us know about the state of our own consciousness. But if on their own, unaccompanied by any constructive emotion, they must not be indulged but overcome as quickly and effectively as possible, because as failure states, they indicate an unsustainable, potentially unlivable state of existence.
 
 **NOTE**: _Of course, a key aspect of being able to overcome such states in general is understanding their causes._
