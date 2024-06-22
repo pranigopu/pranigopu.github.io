@@ -7,6 +7,7 @@
 **Contents**:
 
 - [Laying the foundations](#laying-the-foundations)
+- [The acceptance of reality](#the-acceptance-of-reality)
 - [The role of philosophy](#the-role-of-philosophy)
 - [Conviction](#conviction)
   - [Need of absolute conviction](#need-of-absolute-conviction)
@@ -19,6 +20,13 @@
 
 # Laying the foundations
 The right internal effects need the right internal causes. Thus, to be motivated, you need to believe, i.e. internalise the right views, values and virtues, and to internalise them, you need to be convinced of them — for a rational person, to convince is to convince with truth and reason (evasion and irrationality destroy your capacity to think and act effectively, and thus, are not a valid alternatives to truth and reason). Intention and will are not omnipotent and do not circumvent the need for the right causes of motivation.
+
+# The acceptance of reality
+The acceptance of reality, i.e. the conscious affirmation of the facts of reality is the basis for rationality and thus for morality. Never place an "I wish" over an "it is", since doing so means turning away from the real in favour of the unreal, i.e. that which you neither have nor seek knowledge about. Accept reality for all that it is so you can effectively strive toward what can be, i.e. the pursuit of value presupposes the acknowledgement of truth.
+
+**Wholehearted acceptance of the past and the potential**:
+
+By causality, what has happened is not open to change. Understanding this is key to understanding that (1) one cannot validly wish for the past to not have happened, and that (2) what happened had to have happened due to the causes that were present. At the same time, it is true that the potential is open to change to some extent. Hence, we do not live in a predetermined universe, but at the same time, what has happened was necessary given the causes that were present. Furthermore, the past can lead to our awareness of things that can help us change the future for the better; without the past having occurred, the lessons and motivations that led to our awareness of what to do and not to do would have no basis and thus would not exist.
 
 # The role of philosophy
 Philosophy is the basis of the way in which you deal with reality, either implicitly or explicitly. To make it explicit is to bring it into conscious focus, thus bringing it into conscious action. While this is always important, this is especially important if your initial internalised (implicit) philosophy is poor. In learning or relearning the right philosophy explicitly, you reinforce and internalise — or begin to internalise — the basis of the way to deal with reality that is rational, self-motivated and happiness-oriented.
