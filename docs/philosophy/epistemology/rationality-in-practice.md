@@ -161,7 +161,11 @@ The basic statement of the principle is:
 
 If it cannot be taken into account, then no mental effort toward it has purpose, which means it has no relevance in the given context. Rationality demands relevance, hence the aforementioned principle. To expand on the principle, something cannot be taken into account if (1) it violates the contraints (of time, effort or resources) with respect to one's hierarchy of values or (2) it is based on considerations that have no basis in knowledge, i.e. it is based on considerations primarily in ignorance. In case (1), putting time, effort and resources to try to account for something that takes away time, effort and resources from something known to be more relevant is acting against one's awareness of reality, i.e. acting primarily in ignorance. In case (2), it is more obvious that the action taken would be primarily in ignorance. In both cases, one's indifference to reality is stronger than one's affirmation of it, leading to an approach that ultimately denies one's awareness and thereby one's existence.
 
-**NOTE**: _It is clear that this principle is essentially an extension of principle 3._
+---
+
+**NOTE 1**: It is clear that this principle is essentially an extension of principle 4.
+
+**NOTE 2**: If you cannot take a factor into account but it is (in your knowledge) necessary/valuable and possible to learn how to do so, then rationality demand that you learn. However, it is still the case that until you learn, you cannot take it into account. Furthemore, if (in you knowledge) the factor is either unnecessary or not valuable to take into account and/or it is not possible to learn how to take it into account, then the factor must clearly be dismissed.
 
 ### Additional points
 #### Dismissing arbitrary doubts and arbitrary hypotheticals
