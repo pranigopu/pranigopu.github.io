@@ -9,7 +9,6 @@
 - [Introduction](#introduction)
 - [Key characteristics of happiness](#key-characteristics-of-happiness)
 - [Happiness and emotional states](#happiness-and-emotional-states)
-- [Happiness and willpower](#happiness-and-willpower)
 - [The pursuit of happiness](#the-pursuit-of-happiness)
 
 ---
@@ -42,7 +41,11 @@ Based on the above conclusions, the essentials of happiness are self-value, enga
 
 However, since happiness cannot be consistent with the loss of essential or long-range values, the experience of heavy loss does impact happiness. In such a state, most of the essentials (namely pride, purpose and rationality) can still be present. However, due to the significance of the loss, one's tendency inevitably shifts (at least for a while) toward the experience of negative emotions. It is key to note, however, that even in heavy loss, as long as one values one's life, one's orientation in the long-range should be toward happiness ultimately. But reaching happiness ultimately requires the affirmation of one's loss, which requires the acceptance of some form of suffering, such as grief, and the acceptance of reality, i.e. serenity. For very heavy losses, the achievement of serenity can require mourning.
 
-# Happiness and willpower
-Happiness is an objective state of being that integrates a variety of external and internal factors. Thus, it cannot be achieved by mere willpower. Happiness, properly defined, is the proper goal of volitional life (see: ["Volitional life is tied to the pursuit of happiness" from _The Nature of Value_ from **Ethics**](https://pranigopu.github.io/philosophy/ethics/nature-of-life.html#volitional-life-is-tied-to-the-pursuit-of-happiness)),
-
 # The pursuit of happiness
+_Here, we also reinforce some of the previous points._
+
+Happiness is an objective state of being that integrates a variety of external and internal factors. Thus, it cannot be achieved by mere willpower. Let us expand on this fact. Happiness, properly defined, is the proper goal of volitional life (see: ["Volitional life is tied to the pursuit of happiness" from _The Nature of Value_ from **Ethics**](https://pranigopu.github.io/philosophy/ethics/nature-of-life.html#volitional-life-is-tied-to-the-pursuit-of-happiness)). However, happiness is a complex goal, i.e. a goal that integrates every aspect of one's life. Hence, it cannot be achieved by mere whim, wish or force of will; it needs rationality, the acceptance of reality and the objective experience of reality, i.e. the experience of both gain and loss, as appropriate.
+
+Hence, a state of joy is not what happiness is about. Rather, happiness is the state of full and non-contradictory life-affirmation. Now, note that life-affirmation must be pursued in steps and cannot reach its full potential directly. Hence, since happiness needs objectivity in thought, action and experience, the pursuit of happiness needs the acceptance of the fact that happiness is not automatic and need not be experienced at every given moment for life to be worth sustaining. The pursuit of happiness is essential to one's life, but the experience of happiness is essential ultimately, i.e. in the long-run, not necessarily at every given point in life.
+
+_To further reinforce the above discussion_, see: ["The capacity for value implies and needs the capacity for loss" from _The Nature of Value_ from **Ethics**](https://pranigopu.github.io/philosophy/ethics/nature-of-value.html#the-capacity-for-value-implies-and-needs-the-capacity-for-loss).
