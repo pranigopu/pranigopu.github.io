@@ -12,6 +12,7 @@
 **Contents**:
 
 - [Introduction](#introduction)
+- [Clio’s Dream by Codech and Malavia](#clios-dream-by-codech-and-malavia)
 - [Camina Drummer by NKN (@frecuenciankn on Twitter)](#camina-drummer-by-nkn-frecuenciankn-on-twitter)
 - [Indian Lady by Vishal Gurjar](#indian-lady-by-vishal-gurjar)
 - [Memories of Olive by Alberto Vargas](#memories-of-olive-by-alberto-vargas)
@@ -26,6 +27,15 @@
 
 # Introduction
 None of the presented artwork is mine. I just wanted to gather and present my favourite pieces of visual art in one place, maybe also giving my own commentary wherever I see fit. For extra visual artwork that is not my top favourite but that I still enjoy, see: [Extra Visual Art](https://pranigopu.github.io/art/visual-art/extra.html).
+
+# Clio’s Dream by Codech and Malavia
+<a href="https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia-1.png">
+<img src="https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia-1.png">
+</a>
+
+<a href="https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia-2.png">
+<img src="https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia-2.png">
+</a>
 
 # Camina Drummer by NKN (@frecuenciankn on Twitter)
 <a href="https://pranigopu.github.io/art/visual-art/Camina Drummer by NKN (@frecuenciankn on Twitter).png">
