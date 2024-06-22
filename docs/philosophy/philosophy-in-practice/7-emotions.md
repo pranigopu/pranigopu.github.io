@@ -16,6 +16,8 @@
 ---
 
 # Introduction
+_Here, we consolidate and make explicit what was implicit in the previous discussions in_ [**Philosophy in Practice**](https://pranigopu.github.io/philosophy/philosophy-in-practice).
+
 In my understanding, emotions are an automatic psychological response to the gain or loss of values or potential values (note that psychological means based on the subconscious mind, i.e. based on internalised premises). The pleasure-pain mechanism is the basic physiological counterpart of emotions, where we experience physical sensations, i.e. automatic physical responses to the gain or loss of values or potential values.
 
 Just as the pleasure-pain mechanism is our means of knowing about aspects of our physical state of being that are key to our physical existence and well-being, the emotional mechanism is our means of knowing about aspects of our conscious state of being that are key to our conscious existence and well-being. Note that when I say "means of knowing", I do not mean "means of cognition"; emotions do not necessarily correspond to the facts, but rather, they are facts themselves and serve as the key material for introspection. For example, feeling scared does not necessarily mean there is something to be afraid of objectively, but it does give you the fact that you are feeling fear.
@@ -23,7 +25,9 @@ Just as the pleasure-pain mechanism is our means of knowing about aspects of our
 Furthermore, just as the pleasure-pain mechanism is a fuel for our physical existence (e.g. pleasure motivates us toward something while pain motivates us away from it), the emotional mechanism is a fuel for our conscious existence; it is what drives our actions ultimately, i.e. in concrete terms.
 
 # Emotions and willpower
-Since the emotional mechanism is based on values, and since values are based on our premises ultimately, the emotional mechanism is shaped ultimately by our mental and physical practices. Furthermore, since values can and must be shaped by volition, the emotional mechanism also can and must be shaped by volition. It is key to note that volition here is not direct willpower toward something but our conscious grasp of reality. The premises we hold are the basis for values and thereby emotions, which means it is irrational and therefore ineffective to try to force emotions; it cannot be done except as a pretense. Hence, as with life as whole, dealing with emotions effectively requires a rational focus on reality rather than brute willpower alone. Willpower must be directed not toward emotions themselves but toward the cause of emotions, namely our conscious grasp of reality, i.e. our clarity of focus and our use of reason. Hence, far from reason and emotion being at odds with each other, reason is the means by which emotion can be brought into harmony with one's pursuit of life and happiness.
+Since the emotional mechanism is based on values, and since values are based on our premises ultimately, the emotional mechanism is shaped ultimately by our mental and physical practices. Furthermore, since values can and must be shaped by volition, the emotional mechanism also can and must be shaped by volition. It is key to note that volition here is not direct willpower toward something but our conscious grasp of reality. The premises we hold are the basis for values and thereby emotions, which means it is irrational and therefore ineffective to try to force emotions; it cannot be done except as a pretense.
+
+Hence, as with life as whole, dealing with emotions effectively requires a rational focus on reality rather than brute willpower alone. Willpower must be directed not toward emotions themselves but toward the cause of emotions, namely our conscious grasp of reality, i.e. our clarity of focus and our use of reason. Hence, far from reason and emotion being at odds with each other, reason is the means by which emotion can be brought into harmony with one's pursuit of life and happiness.
 
 # Invalid emotions
 Emotions by their nature only reflect our premises but do not reflect their validity; hence, an emotion may be invalid in the sense that it is a response based on an invalid premise. How to take such emotions into account? Firstly, it is key to note that an invalid premise does not by itself reveal a moral failure; a perfectly moral person can make honest faults and thus reach faulty premises. Secondly, invalid emotions are often important in revealing invalid premises (as we shall see); since we are not infallible, the ability to experience such emotions is a valuable ability.
@@ -32,7 +36,15 @@ _How to recognise valid and invalid emotions?_
 
 One way is to recognise and validate or invalidate the premises underlying the emotion. Another way is to keep in mind a set of emotions that necessarily arise due to invalid preimises; we shall discuss this set of emotions in the coming subsections. Finally, conflicts in our emotions indicate conflicts in our premises, indicating logical and/or factual inconsistency on some level.
 
-**REITERATING A KEY POINT**: _Invalid emotions are not to be overcome by sheer force of will but through one's clarity of focus and one's use of reason._
+---
+
+**NOTE: Emotion is not the primary target**:
+
+It is not primarily emotions we must deal with or overcome, but rather their causes, i.e. the internalised premises that guide our intellectual and psyhological mechanisms. Emotions are important effects of these, but they are ultimately effects and not the driving causes of one's well-being.
+
+**NOTE: Reiterating a key point**:
+
+Invalid emotions are not to be overcome by sheer force of will but through one's clarity of focus and one's use of reason.
 
 ## Despair and shame: A false view of one's basic efficacy
 This is discussed further here: [_Sources of Inefficacy_](https://pranigopu.github.io/philosophy/philosophy-in-practice/3-sources-of-inefficacy.html). To summarise for reference, the emotions of despair and shame arise due to an invalid view of one's basic efficacy in dealing with reality.
