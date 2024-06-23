@@ -82,6 +82,16 @@ Motivation is based on one’s internalised premises; shaky premises lead to sha
 ## The danger of irrational absolutism
 Whatever you profess, if you internalise a notion to the point of it being automatic, you — in practice — accept it as an absolute. Hence, the question is not whether to accept absolute but what absolutes to accept. Note that if what you call “confidence” or “courage” are irrational, i.e. not based on one’s rational judgement of the facts, then they are dangerous to oneself and others in principle, possibly to the point of being suicidal; in such a case, “confidence” is in fact presumptuousness or arrogance, while “courage” is in fact recklessness or foolhardiness.
 
+---
+
+**NOTE: The consequences of universal doubt and certainty without reason**:
+
+What are the consequences of each of the above two positions? The consequences of the former: lack of conviction, lack of efficacy in the pursuit of knowledge, lack of motivation toward the pursuit of truth and efficacy, etc. The consequences of the latter: taking whims and emotions as knowledge, holding revelations or intuitions as truth instead of seeking evidence, etc. Now, note a key point based on [_Knowledge and Certainty_](https://pranigopu.github.io/philosophy/epistemology/knowledge-and-certainty.html): certainty is the basic state of human cognition and must be reached for cognition beyond the perceptual level according to the facts in order to deal with reality effectively. Someone who "doubts everything" cannot really doubt everything unless he gives up his consciousness. Hence, he must hold some things as certain. But since he has no means of making the distinction between reality and fantasy, the validity of what he holds as certain is up to chance. Ultimately, both positions (universal doubt and certainty without reason) lead to false or unfounded certainty. Of course, acting on false or unfounded certainty is profoundly irrational and devalues your life since you degrade or destroy your efficacy in dealing with reality.
+
+**SIDE NOTE**: _Universal doubt is also self-contradictory since it holds as certain that nothing is certain._
+
+---
+
 ## “Threats” to conviction
 A conviction can only be under “threat” (from the perspective of the one holding the conviction) if one senses or feels that one’s efficacy in reality would be diminished, degraded or destroyed if one’s convictions were challenged. However, in my view, such a fear betrays an evasiveness at the root of one’s convictions, because only an evasion requires that it not be challenged in order to be sustained; reality is the evasive mind’s greatest antagonist. On the other hand, a conviction drawn from a rational grasp of reality cannot be threatened by opposing views because reality is what it is as an absolute and reason is the valid means of knowing it. Only a scrupulously, fundamentally rational view cannot be threatened, and only a person with reason as his absolute can explore opposing views without fearing the destruction of the ground beneath his feet.
 
