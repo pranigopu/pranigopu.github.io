@@ -9,10 +9,12 @@
 - [Introduction](#introduction)
 - [Emotions and willpower](#emotions-and-willpower)
 - [Invalid emotions](#invalid-emotions)
-  - [Despair and shame: A false view of one's basic efficacy](#despair-and-shame-a-false-view-of-ones-basic-efficacy)
-  - [Superiority / inferiority complex: An invalid view of standards](#superiority--inferiority-complex-an-invalid-view-of-standards)
-  - [Envy: An out-of-context view of value and loss](#envy-an-out-of-context-view-of-value-and-loss)
-  - [Jealousy: An out-of-context view of potential and threat](#jealousy-an-out-of-context-view-of-potential-and-threat)
+  - [Despair and shame](#despair-and-shame)
+  - [Superiority / inferiority complex](#superiority--inferiority-complex)
+  - [Envy](#envy)
+  - [Jealousy](#jealousy)
+  - [Wishfulness](#wishfulness)
+- [Contextualising emotions](#contextualising-emotions)
 
 ---
 
@@ -47,16 +49,21 @@ It is not primarily emotions we must deal with or overcome, but rather their cau
 
 Invalid emotions are not to be overcome by sheer force of will but through one's clarity of focus and one's use of reason.
 
-## Despair and shame: A false view of one's basic efficacy
+## Despair and shame
+**_A false view of one's basic efficacy_**
+
 This is discussed further here: [_Sources of Inefficacy_](https://pranigopu.github.io/philosophy/philosophy-in-practice/3-sources-of-inefficacy.html). To summarise for reference, the emotions of despair and shame arise due to an invalid view of one's basic efficacy in dealing with reality.
 
-## Superiority / inferiority complex: An invalid view of standards
+## Superiority / inferiority complex
+**_An invalid view of standards_**
+
 The following section is mostly taken from ["Superiority and inferiority" from _Judgement in Practice_](https://pranigopu.github.io/philosophy/philosophy-in-practice/4-judgement-in-practice.html#superiority-and-inferiority).
 
 A superiority or inferiority complex falsely equates superiority or inferiority in one area with superiority or inferiority in another. The judgement of superiority and inferiority is not wrong as such, but a superiority or inferiority complex is wrong because it is irrational, i.e. non-objective, which means it clouds your judgement and thus your ability to know the reality of your capabilities, your achievements and your potential. In fact, the practice of these complexes results in vices; a practised superiority complex leads to the vice of vanity whereas a practised inferiority complex leads to the vice of humility. The virtue to strive for is the virtue of pride, i.e. moral ambitiousness (a term coined by Ayn Rand to define the virtue of pride). Note that moral ambitiousness derives from the virtue of rationality, i.e. objectivity in one's approach to life, which means that pride is an extension of rationality. Furthermore, pride being based on objectivity implies that key to the virtue of pride is the feeling of pride where it is valid, i.e. where it is the objective acknowledgement of one's own achievements and virtues. I have expanded on pride in [_Pride and Moral Perfection_](https://pranigopu.github.io/philosophy/5-pride-and-moral-perfection.html), but just to clarify what I mean by pride as opposed to a superiority or inferiority complex, pride is essentially the pursuit of what is best for you. Hence, having people superior to you in one or more virtuous respects is an advantage to you, a fuel for your pride and not a knock on your pride in any way, since by the example of observably superior virtuousness, you get a directly observable grasp of what is right and possible in the pursuit of the good.
 
+## Envy
+**_An out-of-context view of value and loss_**
 
-## Envy: An out-of-context view of value and loss
 In my understanding, envy is a distinctive emotion that is not merely a combination of the emotional pain caused by another's possession or achievement and the desire to have what the other has. Rather, envy is a desire rooted in the emotional pain caused by another's possession or achievement, i.e. it is the desire primarily to overcome such a pain. On what basis do I make such a distinction? Observe: acting in envy, a person may either try to have or surpass what the other has, but he may also try to diminish or destroy what the other has. The uniting characteristic in both cases is clearly not the desire to merely have what the other has — which we shall call X — but the desire to overcome the pain of seeing the other have X.
 
 To clarify the above point, we can distinguish envy from the case wherein the other having X is seen as an injustice; here, the pain of seeing the other have X is rooted in anger, and the desire is a desire for justice rather than envy. But note that the desire is not primarily for overcoming the anger but primarily for something positive, i.e. justice. Hence, envy is indeed rooted primarily in overcoming a negative rather than achieving a positive. A positive may be achieved through envy as a by-product, but that is not the focus.
@@ -89,5 +96,21 @@ Furthermore, a key fact of reality for value-seeking being is that the values of
 
 Hence, we observe that when we grasp our context of the facts and values, then envy dissolves into more constructive emotions and motivations. Hence, I posit that envy is an emotion that reveals one's lack of contextual clarity; gaining the clarity is key to orienting yourself toward values and against irrational and potentially self-destructive goals.
 
-## Jealousy: An out-of-context view of potential and threat
+## Jealousy
+**_An out-of-context view of potential and threat_**
+
 Jealousy is similar to envy, except that instead of dealing with values and their loss, it deals with potential values and threats (i.e. potential loss) to potential values. The reasoning for the invalidity of jealousy is similar in essence; jealousy is rooted in the desire to overcome a feeling a threat rather than the desire to pursue a potential.
+
+## Wishfulness
+**_A non-objective approach to values_**
+
+_To be continued_...
+
+# Contextualising emotions
+
+_To be started properly_...
+
+Careful to contextualise the following:
+
+- Anger/resentfulness: valid for the volitional ill-acts of people in some contexts, invalid in many other contexts with people and invalid in every context with nature
+- Love
