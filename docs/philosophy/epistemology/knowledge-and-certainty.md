@@ -51,6 +51,12 @@ The self-evident is the direct awareness of reality. It is the opposite of the a
 ## Awareness is and knowledge is
 To be aware of something is to perceive and thereby affirm that it is, i.e. that it exists. Note that awareness is always awareness of something; awareness of nothing is unawareness. Now, note that _knowledge is the retained awareness of something_. Hence, to know something is to affirm that it is and retain the affirmation. Now, note that my awareness is, i.e. it exists; if it does not, I can affirm, accept or deny nothing, i.e. I can say nothing. To the extent that I say something, to that extent I affirm that my awareness is, i.e. that I am aware. Hence, since knowledge is the retained awareness of something, and since I am aware and capable of retaining my awareness of things, knowledge is, i.e. knowledge exists. In other words, since I am aware and capable of retaining my awareness of things, I know something and never nothing.
 
+---
+
+**_To put it briefly, the self-evident is something so inherent in the fact of existence that as long as you exist, you cannot but affirm it; denying it is the denial of existence as such._**
+
+---
+
 # Knowledge
 ## Self-evidence is the basis of all knowledge
 _Here, we only reaffirm what was said in the above discussion on self-evidence_.
