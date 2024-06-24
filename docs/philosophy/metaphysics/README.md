@@ -23,6 +23,7 @@
 - [Infinity with respect to existence](#infinity-with-respect-to-existence)
   - [The nature of infinity](#the-nature-of-infinity)
   - [The extension of existence](#the-extension-of-existence)
+- [Summarising metaphysics](#summarising-metaphysics)
 - [Additional points in metaphysics](#additional-points-in-metaphysics)
   - [Can we know the external world?](#can-we-know-the-external-world)
   - [Universal consciousness](#universal-consciousness)
@@ -222,6 +223,9 @@ Actuality can never be infinite, which means no chain of cause-and-effect is inf
 Is it then valid to ask when existence began? To answer, let us understand time. Time is, in essence, the measure of change. Now, note that change presupposes the existence of entities, which means time presupposes existence. In other words, existence is eternal in the sense that there was no time before existence, since existence just is.
 
 Similarly, is it valid to ask where existence stops? Obviously not, since to identify where existence stops is to identify where there is nothing. But there cannot "be" nothing anywhere, hence the "boundaries" of existence do not exist.
+
+# Summarising metaphysics
+Identity and causality are implicit and inherent in the very fact of existence itself; there is nor can be existence apart from identity and causality. Hence, since the fact of existence is an absolute, so are the principles of identity and causality and their implications (e.g. the intelligibility of reality, the absolute validity of logic and reason, etc.).
 
 # Additional points in metaphysics
 ## Can we know the external world?
