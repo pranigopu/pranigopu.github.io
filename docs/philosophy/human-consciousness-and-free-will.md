@@ -28,8 +28,8 @@
     - [Responsibility of action](#responsibility-of-action)
   - [Reiteration of key points](#reiteration-of-key-points)
 - [Integrating free will to causality](#integrating-free-will-to-causality)
-  - [Free will as an extension of causality](#free-will-as-an-extension-of-causality)
-  - [Determinism as a denial of causality](#determinism-as-a-denial-of-causality)
+  - [Free will is an extension of causality](#free-will-is-an-extension-of-causality)
+  - [Determinism is the denial of causality](#determinism-is-the-denial-of-causality)
   - [Summarisation and closing remarks](#summarisation-and-closing-remarks)
 
 ---
@@ -159,7 +159,7 @@ One may argue that since we can only do something given the right conditions, no
 To be conscious is to be an integrated being of mind and body, wherein the components of consciousness are integrated into the inseparable whole that is the consciousness. Our awareness is the locus of our self, and we are self-determined since (1) we are aware, self-aware and thus capable of focussing our awareness onto our own conscious processes (i.e. our conscious processes are fundamentally subjectable to the focus of our awareness) and (2) our awareness — being a fundamental feature of our self and the fundamental feature of our consciousness — is an essential factor (ultimately and potentially the fundamental factor) in our conscious thoughts and actions. The basis of free will is the focus of our awareness.
 
 # Integrating free will to causality
-## Free will as an extension of causality
+## Free will is an extension of causality
 In ["The principle of causality" from _Metaphysics_](https://pranigopu.github.io/philosophy/metaphysics/#the-principle-of-causality), the principle of causality is given as follows:
 
 _Causality is the law of identity applied to actions, and by extension, events (which are the result of the actions and interactions of two or more entities). An entity's action can exist neither apart from its identity nor in contradiction to its identity, which is to say that an entity can only act according to its identity. By extension, a subset of existence can only change according to the identities of the entities acting and interacting within it._
@@ -172,7 +172,7 @@ A variety of factors play a role in shaping what is and is not possible to you, 
 
 _To put it briefly, causality is precisely what makes free will possible._
 
-## Determinism as a denial of causality
+## Determinism is the denial of causality
 Causality only states that everything that exists acts only according to its nature. Furthermore, its implication is that given the same conditions, an entity will act only according to what is possible to it in those conditions (_I think if the conditions are given exhaustively enough, then only one action would be possible_). I hold that if I rewind the clock to the exact same state, I would do the exact same thing (all else equal); that is just causality and I hold causality as an absolute. Yet, a determinist position that everything we do is predetermined is still not logically necessitated. The question here is: predetermined by what? Given that your self-determined awareness is an essential factor in your actions, you _yourself_ (i.e. you with the fact and faculty of your awareness) are an essential factor that determines what you do.
 
 ---

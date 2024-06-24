@@ -35,6 +35,8 @@ The acceptance of reality, i.e. the conscious affirmation of the facts of realit
 ## Wholehearted acceptance of the past and the potential
 By causality, what has happened is not open to change. Understanding this is key to understanding that (1) one cannot validly wish for the past to not have happened, and that (2) what happened had to have happened due to the causes that were present. At the same time, it is true that the potential is open to change to some extent. Hence, we do not live in a predetermined universe, but at the same time, what has happened was necessary given the causes that were present. Furthermore, the past can lead to our awareness of things that can help us change the future for the better; without the past having occurred, the lessons and motivations that led to our awareness of what to do and not to do would have no basis and thus would not exist.
 
+**NOTE**: _The above view is validated by the fact that free will is an extension of causality_ (see: ["Free will is an extension of causality" from _Human Consciousness and Free Will_](https://pranigopu.github.io/philosophy/human-consciousness-and-free-will.html#free-will-is-an-extension-of-causality)).
+
 ## Acknowledging one's own causal efficacy or lack thereof
 We, as volitional beings, have the capacity to act toward a potential chosen by us, provided it is possible. However, our capacity is necessarily finite, since metaphysically, nothing can be actually infinite, only potentially infinite. In particular, we have a finite capacity in terms of:
 
@@ -59,6 +61,8 @@ If something happens, it happens; it must be accepted without protest (internal 
 _This is a logical application of the previous section's conclusions._
 
 Your feelings about the facts are also facts of reality themselves, i.e. they exist and are what they are. Hence, they must be accepted to, before evaluating them and dealing with them however necessary. In particular, acceptance of the facts does not mean you suppress your feelings about the facts; do not suppress feelings (positive or negative). Sometimes, the feelings are well-founded and serve to orient you toward your value for life. Other times, the feelings may be invalid or partly valid in the sense that the premises that give rise to them may be invalid or partly invalid; even in such cases, first accept that you feel what you feel, allow yourself to feel what you feel, and then evaluate your feelings and deal with them rationally (for more on dealing with emotions, see: [_Emotions_](https://pranigopu.github.io/philosophy/philosophy-in-practice/7-emotions.html)).
+
+**NOTE**: _I hold that emotions can be dealt with rationally (i.e. without compromising the use of reason in any way) due to the fact that emotions are effects of one's internalised beliefs and values, which are in turn open to rational scrutiny and thereby open to rational acceptance, management or (if necessary) change._
 
 # Conviction
 ## Need of absolute conviction
