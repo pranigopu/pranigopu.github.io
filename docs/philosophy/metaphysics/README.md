@@ -91,7 +91,7 @@ As previously said, to affirm is to affirm that "what is, is", and to accept tha
 
 ---
 
-**_In essence, the self-evident is something so inherent in the fact of existence that as long as you exist, you cannot but affirm it; denying it is the denial of existence as such._**
+**_To put it briefly, the self-evident is something so inherent in the fact of existence that as long as you exist, you cannot but affirm it; denying it is the denial of existence as such._**
 
 ---
 
