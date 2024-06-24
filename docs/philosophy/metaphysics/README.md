@@ -227,7 +227,7 @@ Similarly, is it valid to ask where existence stops? Obviously not, since to ide
 # Summarising metaphysics
 Identity and causality are implicit and inherent in the very fact of existence itself; there is nor can be existence apart from identity and causality. Hence, since the fact of existence is an absolute, so are the principles of identity and causality and their implications (e.g. the intelligibility of reality, the absolute validity of logic and reason, etc.).
 
-**NOTE**: _The laws of logic are essentially the law of identity and its corollaries._
+**NOTE**: _The laws of logic are essentially the law of identity and its corollaries. It is impossible to "disprove" the absolutism of logic, since to even try to do so, you must show that the law of identity is not an absolute, in which case there is no basis to identify anything as what it is, including the supposed "proof" against the absolutism of logic._
 
 # Additional points in metaphysics
 ## Can we know the external world?
