@@ -27,7 +27,6 @@
   - [Identifying evidence](#identifying-evidence)
     - [Note on factual context](#note-on-factual-context)
     - [Evidence vs. the irrelevant](#evidence-vs-the-irrelevant)
-  - [Contextual clarity in evidence](#contextual-clarity-in-evidence)
 
 ---
 
@@ -302,7 +301,9 @@ What happens if we consider a necessary but insufficient condition of the truth 
 
 For example, if — in our knowledge — wind speed has no bearing on the occurrence of rainfall, we cannot count it as evidence for the occurrence of rain. Wind speed has many causes in general and we have no knowledge that integrates those general causes to the causes of rainfall within our particular context. As another example, consider the case of a medium narrating a dead person's personal stories. Is it evidence that he is talking to dead people? Consider: what is the standard of proof to show that dead people can even exist beyond the grave? In our knowledge, we have no basis to think that a consciousness can exist apart from the body or in "another dimension" (if it even exists, whatever it means). These ideas have no basis in our knowledge of reality and are necessarily floating abstractions. Making at least one of them concrete would be a step toward the proof. Secondly, since information can be gained in many ways and we have no knowledge about how it was gained in the case at hand, we have no basis to make any connection between the information gained and the source of the information. Hence, another part of the proof would be to show that the information was in fact gained apart from a physical source. In truth, despite these conditions not even being enough as a standard of proof for the proposition, none of these conditions can be logically or causally related by our knowledge to the fact that the medium knows a dead person's personal stories. Hence, in our factual context, the medium's "demonstration" is irrelevant, i.e. it is not evidence for the proposition that he can in fact talk to dead people.
 
+<!--
 ## Contextual clarity in evidence
 - Integration of the self-evident to achieve complex knowledge
   - Why flat-earthers are not empirical since they disintegrate observations from a broader context that is observed
   - Why trust in the quality of a product in a supermarket is fundamentally different from an arbitrary or dogmatic claim
+-->
