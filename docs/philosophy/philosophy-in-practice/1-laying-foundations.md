@@ -13,6 +13,7 @@
   - [Acknowledging one's own causal efficacy or lack thereof](#acknowledging-ones-own-causal-efficacy-or-lack-thereof)
   - [Acknowledging failures](#acknowledging-failures)
   - [Accepting the facts before evaluating them](#accepting-the-facts-before-evaluating-them)
+  - [Accepting your feelings about the facts](#accepting-your-feelings-about-the-facts)
 - [Conviction](#conviction)
   - [Need of absolute conviction](#need-of-absolute-conviction)
   - [The danger of non-absolutism](#the-danger-of-non-absolutism)
@@ -53,6 +54,9 @@ Furthermore, never chastise yourself for the sake of chastising yourself; self-p
 If something happens, it happens; it must be accepted without protest (internal or external). However, the facts must not be accepted passively; it is your rational and moral responsibiltiy to evaluate the facts, grasp their nature and grasp your own causal efficacy or lack thereof regarding the facts. Once you evaluate the facts, you act accordingly, accepting what you cannot change and changing what you can and must. If you face failures (be it morally and/or practically), accidents or misfortunes, acknowledge them for what they are and never wish for the past to change (note that acknowledging failures has been discussed in the previous section).
 
 **NOTE**: _Metaphysically, reality is integrated by identity and causality, which means key to accepting the facts is to acknowledge that everything that happens exists in some logical and causal relationship to the rest of reality. Furthermore, it is also key to acknowledge that everything that happens necessarily happens due to the nature of things and due to causality in some form._
+
+## Accepting your feelings about the facts
+Your feelings about the facts are also facts of reality themselves, i.e. they exist and are what they are. Hence, they must be accepted to, before evaluating them and dealing with them however necessary. In particular, acceptance of the facts does not mean you suppress your feelings about the facts; do not suppress feelings (positive or negative). Sometimes, the feelings are well-founded and serve to orient you toward your value for life. Other times, the feelings may be invalid or partly valid in the sense that the premises that give rise to them may be invalid or partly invalid; even in such cases, first accept that you feel what you feel, allow yourself to feel what you feel, and then evaluate your feelings and deal with them rationally (for more on dealing with emotions, see: [_Emotions_](https://pranigopu.github.io/philosophy/philosophy-in-practice/7-emotions.html)).
 
 # Conviction
 ## Need of absolute conviction
