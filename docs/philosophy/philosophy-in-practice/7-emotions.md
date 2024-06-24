@@ -122,6 +122,15 @@ To clarify, valid regret is not based on bad outcomes as such. If you made a cho
 
 Like invalid emotions in general, invalid regret can be overcome by grasping and accepting its invalidity. Valid regret, on the other hand, can be overcome by correcting one's faults and their effects to the best of one's ability and orienting oneself to virtue.
 
+---
+
+**NOTE: Dangers of invalid regret**:
+
+- Loss of objectivity in the pursuit of values
+- Loss of earned self-esteem (which is a fundamental human value)
+- Unearned shame and despair, leading to the loss of efficacy
+- Time and effort spent on "correcting" non-issues that cannot be corrected for
+
 <!--
 Careful to contextualise the following:
 
