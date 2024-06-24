@@ -56,7 +56,7 @@ If something happens, it happens; it must be accepted without protest (internal 
 **NOTE**: _Metaphysically, reality is integrated by identity and causality, which means key to accepting the facts is to acknowledge that everything that happens exists in some logical and causal relationship to the rest of reality. Furthermore, it is also key to acknowledge that everything that happens necessarily happens due to the nature of things and due to causality in some form._
 
 ## Accepting your feelings about the facts
-_This is a logical application of the previous section._
+_This is a logical application of the previous section's conclusions._
 
 Your feelings about the facts are also facts of reality themselves, i.e. they exist and are what they are. Hence, they must be accepted to, before evaluating them and dealing with them however necessary. In particular, acceptance of the facts does not mean you suppress your feelings about the facts; do not suppress feelings (positive or negative). Sometimes, the feelings are well-founded and serve to orient you toward your value for life. Other times, the feelings may be invalid or partly valid in the sense that the premises that give rise to them may be invalid or partly invalid; even in such cases, first accept that you feel what you feel, allow yourself to feel what you feel, and then evaluate your feelings and deal with them rationally (for more on dealing with emotions, see: [_Emotions_](https://pranigopu.github.io/philosophy/philosophy-in-practice/7-emotions.html)).
 
