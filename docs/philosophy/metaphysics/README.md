@@ -227,6 +227,8 @@ Similarly, is it valid to ask where existence stops? Obviously not, since to ide
 # Summarising metaphysics
 Identity and causality are implicit and inherent in the very fact of existence itself; there is nor can be existence apart from identity and causality. Hence, since the fact of existence is an absolute, so are the principles of identity and causality and their implications (e.g. the intelligibility of reality, the absolute validity of logic and reason, etc.).
 
+**NOTE**: _The laws of logic are essentially the law of identity and its corollaries._
+
 # Additional points in metaphysics
 ## Can we know the external world?
 Again, this comes under epistemology, but since it is strongly based on the nature of consciousness, I shall speak of it here. There is a claim that everything we can ever know is what is within our consciousness, and thus, we cannot know reality as it is. This view ignores the source of the knowledge we acquire. Of course, everything that our consciousness holds is within consciousness. However, given the fact that consciousness has to begin with an input outside of itself, we have a clear, identifiable connection to a world outside our consciousness. How do we identify it? By identifying the conscious units that are irreducible to further conscious units. These units may be internal or external sensations and we can identify the source of these sensations by identifying their point of entry into our awareness. Note that here, "internal" and "external" are terms relative to our whole self (i.e. the integration of mind and body) on which our consciousness rests. Even if a sensation is internal, its source is still initially outside our consciousness.
