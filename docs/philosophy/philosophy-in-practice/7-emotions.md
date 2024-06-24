@@ -14,6 +14,7 @@
   - [Envy](#envy)
   - [Jealousy](#jealousy)
 - [Contextualising emotions](#contextualising-emotions)
+  - [Regret](#regret)
 
 ---
 
@@ -108,8 +109,16 @@ _To be continued_...
 -->
 
 # Contextualising emotions
-Dealing with emotions effectively requires grasping and validating the context of the premises underlying them (for the importance of contextual clarity, see: []())
+Dealing with emotions effectively requires grasping and validating the context of the premises underlying them (for the importance of contextual clarity, see: [_Contextual Clarity_ from **Epistemology**](https://pranigopu.github.io/philosophy/epistemology/contextual-clarity.html)).
 
+## Regret
+In my understanding, regret is the feeling of having failed morally, i.e. in terms of some standard of good action. Hence, it stands to reason that regret is only valid if you have indeed failed morally. However, what does it mean to fail morally? Rationality is fundamental virtue from which every other virtue stems. The basis of rationality is one's focus on reality to one's fullest capacity. Hence, the fundamental vice, i.e. irrationality, is based on evasion.
+
+Hence, regret is only valid if it stems from the recognition of evasion on your part. It is important to understand what evasion is and is not; after all, rationality is rooted in reality, and thus, perfect rationality is based on standards achievable by a finite, fallible consciousness. Hence, it is irrational to expect yourself to be aware beyond the scope your knowledge and awareness (which includes your knowledge and awareness of what is relevant and valuable).
+
+To clarify, valid regret is not based on bad outcomes as such. If you made a choice in full awareness of what you were doing and what for, then, if the result of the choice turned out to be bad in some way, it is not your moral failure and thus is not a cause for valid regret.
+
+**NOTE**: _Like invalid emotions in general, invalid regret can be overcome by grasping and accepting its invalidity. Valid regret, on the other hand, can be overcome by correcting one's faults and their effects to the best of one's ability and orienting oneself to virtue._
 
 <!--
 Careful to contextualise the following:
