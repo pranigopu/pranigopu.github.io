@@ -13,8 +13,6 @@
   - [Superiority / inferiority complex](#superiority--inferiority-complex)
   - [Envy](#envy)
   - [Jealousy](#jealousy)
-  - [Wishfulness](#wishfulness)
-- [Contextualising emotions](#contextualising-emotions)
 
 ---
 
@@ -101,6 +99,7 @@ Hence, we observe that when we grasp our context of the facts and values, then e
 
 Jealousy is similar to envy, except that instead of dealing with values and their loss, it deals with potential values and threats (i.e. potential loss) to potential values. The reasoning for the invalidity of jealousy is similar in essence; jealousy is rooted in the desire to overcome a feeling a threat rather than the desire to pursue a potential.
 
+<!--
 ## Wishfulness
 **_A non-objective approach to values_**
 
@@ -114,3 +113,4 @@ Careful to contextualise the following:
 
 - Anger/resentfulness: valid for the volitional ill-acts of people in some contexts, invalid in many other contexts with people and invalid in every context with nature
 - Love
+-->
