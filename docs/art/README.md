@@ -1,6 +1,6 @@
-<meta>
-    google-site-verification: googleb21df23a57bafe18.html
-</meta>
+<head>
+    <meta name="verification" content="google-site-verification: googleb21df23a57bafe18.html">
+</head>
 
 # Art
 # Introduction
