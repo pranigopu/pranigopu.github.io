@@ -13,6 +13,7 @@
   - [Superiority / inferiority complex](#superiority--inferiority-complex)
   - [Envy](#envy)
   - [Jealousy](#jealousy)
+- [Contextualising emotions](#contextualising-emotions)
 
 ---
 
@@ -104,11 +105,13 @@ Jealousy is similar to envy, except that instead of dealing with values and thei
 **_A non-objective approach to values_**
 
 _To be continued_...
+-->
 
 # Contextualising emotions
+Dealing with emotions effectively requires grasping and validating the context of the premises underlying them (for the importance of contextual clarity, see: []())
 
-_To be started properly_...
 
+<!--
 Careful to contextualise the following:
 
 - Anger/resentfulness: valid for the volitional ill-acts of people in some contexts, invalid in many other contexts with people and invalid in every context with nature
