@@ -116,7 +116,9 @@ In my understanding, regret is the feeling of having failed morally, i.e. in ter
 
 Hence, regret is only valid if it stems from the recognition of evasion on your part. It is important to understand what evasion is and is not; after all, rationality is rooted in reality, and thus, perfect rationality is based on standards achievable by a finite, fallible consciousness. Hence, it is irrational to expect yourself to be aware beyond the scope your knowledge and awareness (which includes your knowledge and awareness of what is relevant and valuable).
 
-To clarify, valid regret is not based on bad outcomes as such. If you made a choice in full awareness of what you were doing and what for, then, if the result of the choice turned out to be bad in some way, it is not your moral failure and thus is not a cause for valid regret.
+**NOTE**: _By the nature of our awareness of reality, unconscious ignorance or honest mistakes cannot count as evasion._
+
+To clarify, valid regret is not based on bad outcomes as such. If you made a choice in full awareness of what you were doing and what for, then, if the result of the choice turned out to be bad in some way, it is not your moral failure and thus is not a cause for valid regret. Note that rationality and morality demand that outcomes, good or bad, must be grasped and learnt from, but taking outcomes as the primary basis for evaluating a decision is irrational, since a decision in practice is based on a finite capacity to project the outcomes of the decision.
 
 **NOTE**: _Like invalid emotions in general, invalid regret can be overcome by grasping and accepting its invalidity. Valid regret, on the other hand, can be overcome by correcting one's faults and their effects to the best of one's ability and orienting oneself to virtue._
 
