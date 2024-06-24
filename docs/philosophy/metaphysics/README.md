@@ -89,6 +89,12 @@ Hence, what I know begins at the affirmation that what is, is. To the extent tha
 ## What is, is, and what is not, is not
 As previously said, to affirm is to affirm that "what is, is", and to accept that "what is not, is" or that "what is, is not" is to accept nothing. Hence, we know that what is, is, and by extension, what is not, is not and can be nothing. Hence, we get the self-evident basis for all that exists and all that we can know about it.
 
+---
+
+**_In essence, the self-evident is something so inherent in the fact of existence that as long as you exist, you cannot but affirm it; denying it is the denial of existence as such._**
+
+---
+
 # Axiom 1: Existence exists
 Existence exists. More precisely, only existence exists, and existence only exists. (1) If not only existence exists, then something outside existence exists. But this must be a part of existence. Therefore, only existence exists. (2) If existence does not only exist, then existence also does not exist. But what is, is, and what is not, is not. Therefore, existence only exists.
 
