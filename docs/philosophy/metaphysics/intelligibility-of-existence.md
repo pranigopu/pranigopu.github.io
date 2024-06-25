@@ -1,3 +1,5 @@
+[<< Back to Metaphysics](https://pranigopu.github.io/philosophy/metaphysics)
+
 **INTELLIGIBILITY OF EXISTENCE**
 
 ---
