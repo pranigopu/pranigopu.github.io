@@ -193,7 +193,7 @@ Note that unaccountable compulsions have no rational basis (i.e. no known valida
 
 _What about shifting contexts?_
 
-In essence, integrating one's view of reality over time in essentials helps internalise and carry the relevant aspects of the broader context into any specific context we find ourselves in. Furthermore, before getting into a narrower context, we can decide on cues as appropriate to the situation (e.g. time, effort spent, goals, awareness if and when it hits you, etc.), on the basis of which you can know when to shift your focus. However, in general, focusing on reality in the here and now, pursuing to deeper intellectual clarity when and where possible, and practicing of the right principles are together sufficient in leading a rational life.
+In essence, integrating one's view of reality over time in essentials helps internalise and carry the relevant aspects of the broader context into any specific context we find ourselves in. Furthermore, before getting into a narrower context, we can decide on cues as appropriate to the situation (e.g. time, effort spent, goals, awareness if and when it hits you, etc.), on the basis of which you can know when to shift your focus. However, in general, focusing on reality in the here and now, pursuing to deeper intellectual clarity when and where possible, and practicing of the right principles are together the fundamental needs of a fully rational life.
 
 ### Additional points
 #### Dismissing arbitrary doubts and arbitrary hypotheticals
