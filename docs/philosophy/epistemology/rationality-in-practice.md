@@ -17,6 +17,7 @@
     - [PRINCIPLE 3: Identifying logical and causal relationships](#principle-3-identifying-logical-and-causal-relationships)
     - [PRINCIPLE 4: Considerations in knowledge over considerations in ignorance](#principle-4-considerations-in-knowledge-over-considerations-in-ignorance)
     - [PRINCIPLE 5: Dismissing the practically unaccountable](#principle-5-dismissing-the-practically-unaccountable)
+    - [Integrating the above principles into broader principles](#integrating-the-above-principles-into-broader-principles)
     - [Additional points](#additional-points)
       - [Dismissing arbitrary doubts and arbitrary hypotheticals](#dismissing-arbitrary-doubts-and-arbitrary-hypotheticals)
       - [Dismissing insignficant factors and risks](#dismissing-insignficant-factors-and-risks)
@@ -170,6 +171,29 @@ If it cannot be taken into account, then no mental effort toward it has purpose,
 **NOTE 1**: It is clear that this principle is essentially an extension of principle 4.
 
 **NOTE 2**: If you cannot take a factor into account but it is (in your knowledge) necessary/valuable and possible to learn how to do so, then rationality demands that you learn. However, it is still the case that until you learn, you cannot take it into account. Furthemore, if (in you knowledge) the factor is either unnecessary or not valuable to take into account and/or it is not possible to learn how to take it into account, then the factor must clearly be dismissed.
+
+### Integrating the above principles into broader principles
+Speaking on a personal basis, each of the above principles I have outlined have taken my approach to rationality from near-paralysing overthinking, rumination and compulsiveness (in thought and action) to an alert yet sustainable and life-affirming focus on reality. However, I realised that there is another key principle that ties the above principles and adds an important level of clarity about the means to achieve efficiency in thought without evasion. The principle is as follows:
+
+_The basis of rationality is your grasp of reality in the here and now, within your current cognitive context._
+
+To expand on this, here are the key areas of focus in pursuing reason:
+
+- Direct perception of the reality in front of you
+- Your values in the here and now
+- Relevant memory, i.e. relevant retained conscious units
+
+**NOTE**: _"Relevant" means having an observable or known connection to your purpose._
+
+What about considerations from broader contexts? The answer, in essence, is that the broader premises, i.e. values and knowledge from a broader context, must be internalised before you enter the narrower context. Why? Consider: rationality demands relevance, which means it demands that shifting your focus must be done on the basis of what you know to be present and valuable, i.e. facts that are within in your current context. Consider the alternative, i.e. shifting focus out of sheer compulsion or arbitrary concerns (i.e. concerns not arising from what you are aware of within your current context). Giving into such compulsions and concerns is sheer irrationality, since on what basis would you start considering them, continue to consider them and stop considering them to move on to other things?
+
+Note that unaccountable compulsions have no rational basis (i.e. no known validation with respect to the facts you are aware of), and arbitrary concerns can proliferate endlessly without a rational basis to stop them at any point; in both cases, you may stop when you feel like, or when you feel overloaded, but the fact remains that you are either relying on whims or baselessly accepting the validity of some compulsions and concerns up to the point of overload. Also note that since your capacity to focus and exert effort are finite, the aforementioned approaches detach your thinking from your affirmation of reality and your pursuit of values, since the pursuit of value is time-bound, conditional and constant, i.e. integrated across every moment of one's existence. In other words, such approaches are fundamentally reality-denying and anti-value. In short, since unaccountable compulsions and arbitrary concerns are not based on you awareness of reality in the here and now (with all the relevant memory and retained conscious units, premises, values and knowledge), they are essentially random urges and/or random considerations that take your focus, time and energy away from reality as it confronts you, thereby detaching your awareness from reality in principle and in practice.
+
+**NOTE**: _Within some contexts, random exploration can be valid, but even in such cases, our awareness of such a current context is the basis for us realising the relevance of such exploration and choosing to pursue it._
+
+_What about shifting contexts?_
+
+In essence, integrating one's view of reality over time in essentials helps internalise and carry the relevant aspects of the broader context into any specific context we find ourselves in. Furthermore, before getting into a narrower context, we can decide on cues as appropriate to the situation (e.g. time, effort spent, goals, awareness if and when it hits you, etc.), on the basis of which you can know when to shift your focus. However, in general, focusing on reality in the here and now, pursuing to deeper intellectual clarity when and where possible, and practicing of the right principles are together sufficient in leading a rational life.
 
 ### Additional points
 #### Dismissing arbitrary doubts and arbitrary hypotheticals
