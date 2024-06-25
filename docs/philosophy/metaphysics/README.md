@@ -24,10 +24,7 @@
   - [The nature of infinity](#the-nature-of-infinity)
   - [The extension of existence](#the-extension-of-existence)
 - [Summarising metaphysics](#summarising-metaphysics)
-- [Additional points in metaphysics](#additional-points-in-metaphysics)
-  - [Can we know the external world?](#can-we-know-the-external-world)
-  - [Universal consciousness](#universal-consciousness)
-  - [The structure and composition of consciousness and reality](#the-structure-and-composition-of-consciousness-and-reality)
+- [The structure and composition of consciousness and reality](#the-structure-and-composition-of-consciousness-and-reality)
 
 ---
 
@@ -229,16 +226,7 @@ Identity and causality are implicit and inherent in the very fact of existence i
 
 **NOTE**: _The laws of logic are essentially the law of identity and its corollaries. It is self-defeating to "disprove" the absolutism of logic, since to even try to do so, you must show that the law of identity is not an absolute, in which case there is no basis to identify anything as what it is, including the supposed "proof" against the absolutism of logic._
 
-# Additional points in metaphysics
-## Can we know the external world?
-Again, this comes under epistemology, but since it is strongly based on the nature of consciousness, I shall speak of it here. There is a claim that everything we can ever know is what is within our consciousness, and thus, we cannot know reality as it is. This view ignores the source of the knowledge we acquire. Of course, everything that our consciousness holds is within consciousness. However, given the fact that consciousness has to begin with an input outside of itself, we have a clear, identifiable connection to a world outside our consciousness. How do we identify it? By identifying the conscious units that are irreducible to further conscious units. These units may be internal or external sensations and we can identify the source of these sensations by identifying their point of entry into our awareness. Note that here, "internal" and "external" are terms relative to our whole self (i.e. the integration of mind and body) on which our consciousness rests. Even if a sensation is internal, its source is still initially outside our consciousness.
-
-Now, one may claim that since sensations can be replicated within our brain without the need for an actual object to be sensed, we cannot know whether our sensations are derived from the internal or the external world. Firstly, whatever these sensations are, they are some form of knowledge beyond our consciousness. Secondly, the claim that our brain is being misled in this way is arbitrary; it is conceivable, but is it actual? If it were actual, how could we know it or test for it? In truth, being arbitrary, this claim is outside the realm of cognition (arbitrary claims shall be further discussed in epistemology). The truth is that whatever is the starting point of our consciousness, it is derived from some part of reality outside it. What part that is, is up to us to find out using our consciousness. The fact remains, however, that we have a clear link between consciousness and the reality outside it.
-
-## Universal consciousness
-What of the claim that the whole of existence is one consciousness? By the nature of consciousness, it cannot be the whole of existence (since consciousness, being a faculty, is an aspect of an entity and not the whole of it). Now, one could claim that the universe itself is a brain that supports a consciousness. However, not only is this an arbitrary claim, but it also does not contradict any metaphysical axioms or anything derived from them. Why? Because even if there exists such a consciousness, it is by its very nature a product of existence and not existence as a whole. It would be an incredible discovery in astronomy, perhaps, but it would not shake metaphysics or even physics.
-
-## The structure and composition of consciousness and reality
+# The structure and composition of consciousness and reality
 Apart from the axioms and their corollaries drawn from the self-evident facts of existence and consciousness, metaphysics does not make any claims about the specific structure and composition of either consciousness or reality itself; the study of these is the rightful domain of the special sciences. However, metaphysics underlies any further pursuit of knowledge and its truths are absolute within any field of study. The same level of absolute truth applies to any knowledge whose sole context (apart from other direct, self-evident observations) is metaphysics itself, which includes epistemology and extends to ethics (whose context includes epistemology as well as metaphysics).
 
 Hence, metaphysics is not astronomy, physics, chemistry, etc., though it underlies these disciplines. Whether the universe is a simulation, part of a multiverse or anything else that you may find it out to be, the same metaphysics applies, as well as the same epistemology and ethics. Whatever specific structure or composition reality has, the basic nature of reality is what it is. Similarly, metaphysics is not biology, psychology, neuroscience, etc., though — again — it underlies these disciplines. Whatever model of consciousness we may uncover, the basic nature of consciousness and its relationship to the rest of reality is what it is.
