@@ -24,7 +24,6 @@ In the fundamentals of metaphysics, we have established that the fact of existen
 - But what if awareness was at the source of the identities we see around us?
 - Awareness cannot be the source of existence as such, but it could — perhaps in some form and through some means — be the source of a great many things; this is up to the special sciences to uncover, as it pertains to the specific state of existence.
 
-
 # Does the part need to reflect the whole?
 Any part of reality has an identity and acts according to it, which means it exists in some logical and causal relationship to the rest of reality. Hence, any part of existence naturally reflects its relationship to the rest of existence in some form. However, a one-to-one correspondence is in no way necessitated. A creature having eyes does not mean the planet it lives on must have the power of vision, and a person having a mind does not mean the universe must be based on a mind itself. On the contrary, we observe that since everything that exists is necessarily something distinct in at least some respects, a one-to-one correspondence is never guaranteed on every level. Nonetheless, the parts do reflect the whole in some way: for example, the creature's existence does reflect a lot about its planet, e.g. the nature of lighting on the planet, the air composition, some materials present on it, etc.
 

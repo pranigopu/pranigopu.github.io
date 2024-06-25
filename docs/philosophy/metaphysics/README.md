@@ -25,6 +25,7 @@
   - [The extension of existence](#the-extension-of-existence)
 - [Summarising metaphysics](#summarising-metaphysics)
 - [The structure and composition of consciousness and reality](#the-structure-and-composition-of-consciousness-and-reality)
+- [Further reading](#further-reading)
 
 ---
 
@@ -230,3 +231,7 @@ Identity and causality are implicit and inherent in the very fact of existence i
 Apart from the axioms and their corollaries drawn from the self-evident facts of existence and consciousness, metaphysics does not make any claims about the specific structure and composition of either consciousness or reality itself; the study of these is the rightful domain of the special sciences. However, metaphysics underlies any further pursuit of knowledge and its truths are absolute within any field of study. The same level of absolute truth applies to any knowledge whose sole context (apart from other direct, self-evident observations) is metaphysics itself, which includes epistemology and extends to ethics (whose context includes epistemology as well as metaphysics).
 
 Hence, metaphysics is not astronomy, physics, chemistry, etc., though it underlies these disciplines. Whether the universe is a simulation, part of a multiverse or anything else that you may find it out to be, the same metaphysics applies, as well as the same epistemology and ethics. Whatever specific structure or composition reality has, the basic nature of reality is what it is. Similarly, metaphysics is not biology, psychology, neuroscience, etc., though — again — it underlies these disciplines. Whatever model of consciousness we may uncover, the basic nature of consciousness and its relationship to the rest of reality is what it is.
+
+# Further reading
+- [Against the Primacy of Consciousness](https://pranigopu.github.io/philosophy/metaphysics/against-primacy-of-consciousness.html)
+- [Intelligibility of Existence](https://pranigopu.github.io/philosophy/metaphysics/intelligibility-of-existence.html)
