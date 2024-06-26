@@ -21,6 +21,8 @@ For example, if a farmer chooses to stay a little hungry so that his seed stock 
 
 Hence, an anti-value is anything that actually contradicts one's values as a whole, either by frustrating the pursuit of one or more values or by degrading or destroying one or more values. Hence, the farmer taking some of his seed stock for food when he can afford to go a bit hungry is against the farmer's values, and such food would be an anti-value. Similarly, the student seeking some immediate pleasure so as to distract himself from his studies is against the student's values, and such pleasure would be an anti-value.
 
+_Hence, evaluating something as a value or an anti-value requires contextual clarity._
+
 # The nature of threat
 
 # The nature of failure
