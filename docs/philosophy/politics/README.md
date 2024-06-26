@@ -1,4 +1,4 @@
-[<< Back to Philosophy](https://pranigopu.github.io/philosophy)
+[<< Back to **Philosophy**](https://pranigopu.github.io/philosophy)
 
 # Politics
 ## Explore

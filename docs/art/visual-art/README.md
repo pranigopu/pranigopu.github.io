@@ -3,7 +3,7 @@
     a {width: 100%; align: "center";}
 </style>
 
-[<< Back to Art](https://pranigopu.github.io/art)
+[<< Back to **Art**](https://pranigopu.github.io/art)
 
 **VISUAL ART**
 

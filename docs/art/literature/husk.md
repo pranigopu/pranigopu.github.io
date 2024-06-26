@@ -1,4 +1,4 @@
-[<< Back to Literature](https://pranigopu.github.io/art/literature)
+[<< Back to **Literature**](https://pranigopu.github.io/art/literature)
 
 **HUSK**
 

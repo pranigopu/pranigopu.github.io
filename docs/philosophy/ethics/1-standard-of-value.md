@@ -1,4 +1,4 @@
-[<< Back to Ethics](https://pranigopu.github.io/philosophy/ethics)
+[<< Back to **Ethics**](https://pranigopu.github.io/philosophy/ethics)
 
 **THE STANDARD OF VALUE**
 

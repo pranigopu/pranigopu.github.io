@@ -1,4 +1,4 @@
-[<< Back to Metaphysics](https://pranigopu.github.io/philosophy/metaphysics)
+[<< Back to **Metaphysics**](https://pranigopu.github.io/philosophy/metaphysics)
 
 **AGAINST THE PRIMACY OF CONSCIOUSNESS**
 

@@ -1,4 +1,4 @@
-[<< Back to Art](https://pranigopu.github.io/art)
+[<< Back to **Art**](https://pranigopu.github.io/art)
 
 # Poetry
 ## Introduction

@@ -1,4 +1,4 @@
-[<< Back to The Guardian Spirit](https://pranigopu.github.io/art/literature/guardian-spirit.html)
+[<< Back to _The Guardian Spirit_](https://pranigopu.github.io/art/literature/guardian-spirit.html)
 
 **THE GUARDIAN SPIRIT** - _Commentary_
 

@@ -1,4 +1,4 @@
-[<< Back to The Standard of Value](https://pranigopu.github.io/philosophy/ethics/1-standard-of-value.html)
+[<< Back to _The Standard of Value_](https://pranigopu.github.io/philosophy/ethics/1-standard-of-value.html)
 
 **EPISTEMOLOGICAL MISTAKES IN PROVING LIFE AS THE STANDARD OF VALUE**
 

@@ -1,4 +1,4 @@
-[<< Back to Philosophy in Practice](https://pranigopu.github.io/philosophy/philosophy-in-practice)
+[<< Back to **Philosophy in Practice**](https://pranigopu.github.io/philosophy/philosophy-in-practice)
 
 **INTEGRATING THE ACTUAL AND THE POTENTIAL**
 

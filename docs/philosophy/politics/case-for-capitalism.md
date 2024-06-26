@@ -1,4 +1,4 @@
-[<< Back to Politics](https://pranigopu.github.io/philosophy/politics)
+[<< Back to **Politics**](https://pranigopu.github.io/philosophy/politics)
 
 **A CASE FOR CAPITALISM**
 

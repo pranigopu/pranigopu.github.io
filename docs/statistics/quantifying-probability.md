@@ -1,4 +1,4 @@
-[<< Back to Statistics](https://pranigopu.github.io/statistics)
+[<< Back to **Statistics**](https://pranigopu.github.io/statistics)
 
 **QUANTIFYING PROBABILITY**
 

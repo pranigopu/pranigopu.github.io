@@ -1,4 +1,4 @@
-[<< Back to Epistemology](https://pranigopu.github.io/philosophy/epistemology)
+[<< Back to **Epistemology**](https://pranigopu.github.io/philosophy/epistemology)
 
 **DIRECT EXPERIENCE**
 

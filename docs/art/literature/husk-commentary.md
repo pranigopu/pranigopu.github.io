@@ -1,4 +1,4 @@
-[<< Back to Husk](https://pranigopu.github.io/art/literature/husk.html)
+[<< Back to _Husk_](https://pranigopu.github.io/art/literature/husk.html)
 
 **HUSK** - _Commentary_
 
