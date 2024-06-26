@@ -8,6 +8,7 @@
 
 - [Introduction](#introduction)
 - [Emotions and willpower](#emotions-and-willpower)
+- [Emotions can reflect the validity of internalised premises](#emotions-can-reflect-the-validity-of-internalised-premises)
 - [Invalid emotions](#invalid-emotions)
   - [Despair and shame](#despair-and-shame)
   - [Superiority / inferiority complex](#superiority--inferiority-complex)
@@ -31,6 +32,11 @@ Furthermore, just as the pleasure-pain mechanism is a fuel for our physical exis
 Since the emotional mechanism is based on values, and since values are based on our premises ultimately, the emotional mechanism is shaped ultimately by our mental and physical practices. Furthermore, since values can and must be shaped by volition, the emotional mechanism also can and must be shaped by volition. It is key to note that volition here is not direct willpower toward something but our conscious grasp of reality. The premises we hold are the basis for values and thereby emotions, which means it is irrational and therefore ineffective to try to force emotions; it cannot be done except as a pretense.
 
 Hence, as with life as whole, dealing with emotions effectively requires a rational focus on reality rather than brute willpower alone. Willpower must be directed not toward emotions themselves but toward the cause of emotions, namely our conscious grasp of reality. In other words, willpower must not and realistically cannot be used for shaping emotions directly, but rather, it must be used for reaching clarity of focus and the fullest use of reason. Hence, far from reason and emotion being at odds with each other, reason is the means by which emotion can be brought into harmony with one's pursuit of life and happiness.
+
+# Emotions can reflect the validity of internalised premises
+If emotions are based on one's internalised premises, and if such premises can be flawed, then it stands to reason that there exist emotions that reflect such flawed premises and belief systems. Such emotions may be a sure sign of invalid premises (invalid emotions) or may be a sign of invalid premises if experienced out of context (out-of-context emotions).
+
+_Hence, we move on to th first key point, i.e. invalid emotions_...
 
 # Invalid emotions
 Emotions by their nature reflect our premises but do not reflect their validity; hence, an emotion may be invalid in the sense that it is a response based on invalid premises. How to take such emotions into account? Firstly, it is key to note that an invalid premise does not by itself reveal a moral failure; a perfectly moral person can make honest mistakes and thus reach mistaken premises. Secondly, invalid emotions are often important in revealing invalid premises (as we shall see); since we are not infallible, the ability to experience such emotions is a valuable ability.
@@ -107,6 +113,8 @@ Jealousy is similar to envy, except that instead of dealing with values and thei
 
 _To be continued_...
 -->
+
+_Next, we shall look into contextualising emotions, so as to recognise when our emotions are valid and when they are out of context and hence invalid_...
 
 # Contextualising emotions
 Dealing with emotions effectively requires grasping and validating the context of the premises underlying them (for the importance of contextual clarity, see: [_Contextual Clarity_ from **Epistemology**](https://pranigopu.github.io/philosophy/epistemology/contextual-clarity.html)).
