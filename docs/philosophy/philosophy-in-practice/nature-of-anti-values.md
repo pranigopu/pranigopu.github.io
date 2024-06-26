@@ -40,7 +40,7 @@ Evidently, an anti-value is anything that actually contradicts one's values as a
 _Hence, evaluating something as a value or an anti-value requires contextual clarity._
 
 # The nature of potential anti-value
-**LEXICAL NOTE**
+**LEXICAL NOTE**:
 
 In the pursuit of values, we must consider potential harm to the pursuit of our values. Recognising such a potential is an important to bring to focus all the facts we must prepare against when pursuing a value. Threat or danger (both synonyms) refers to the source of potential harm, whereas risk refers to the potential harm itself. A potential anti-value is a threat and/or a risk that, if actualised, would contradict one or more values. In other words, a potential anti-value is a threat and/or risk that you can and must act against, keeping in mind your integrated hierarchy of values. The concept of a potential anti-value distinguishes between threats and/or risks we can and must act against and threats and/or risks we must simply accept as facts, thereby orienting us toward a rational and proactive approach to values. Hence, note that something can be a threat or a risk without being a potential anti-value.
 
