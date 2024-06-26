@@ -63,4 +63,4 @@ _In short, job market competition in a free or at least semi-free economy must b
 **_To strengthen the position on non-contradiction in values,_ see**: 
 
 # The nature of failure
-A failure is the frustration of a value-seeking pursuit, i.e. it is the result of losing a potential value despite acting to achieve it. Hence, a failure is not necessarily anti-value. To be precise, a failure is anti-value if and only if it can and must be corrected for, keeping in mind one's integrated hierarchy of values.
+A failure is the frustration of a value-seeking pursuit, i.e. it is the result of losing or not achieving a value despite acting to achieve it. Hence, a failure is not necessarily anti-value. To be precise, a failure is anti-value if and only if it can and must be corrected for, keeping in mind one's integrated hierarchy of values.
