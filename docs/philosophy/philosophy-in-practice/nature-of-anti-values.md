@@ -52,15 +52,13 @@ Firstly, the job is not yours by right, so no one has a moral claim over it to b
 
 Secondly, the essential source of one's capacity for gaining and keeping a job is, in general, competence and a clear alignment with the business-related interests of the employer. Furthermore, honesty in trade is the basis of long-range economic potential, which means using fraud as a means to overcome competition serves to degrade and/or destroy reliability of both yourself and the demands of the job market. It is akin to stealing to "save money"; in both cases, you act to degrade and/or destroy the basis of the system that creates the value you seek to begin with. The principle of non-contradiction in values (see: ["Non-contradiction in values" from _The Nature of Values_ from **Ethics**](https://pranigopu.github.io/philosophy/ethics/nature-of-value.html#non-contradiction-in-values)) means that contradictions in one's pursuit of values degrade and ultimately destroy all values without exception, unless and until one acts to right one's wrongs.
 
+_In short, job market competition in a free or at least semi-free economy must be seen as a part of a value-oriented system and not as a threat._
+
 ---
 
 **NOTE 1**: It is important to note that one's self-esteem (i.e. the value for one's own efficacy in life as a whole) is a vital need of one's volitional existence, since it is what reflects the worth of one's existence to oneself. Self-esteem demands integrity, which means expedient actions that objectively harm the basis of value in the long-term serve to undermine one's self-esteem, long-range value-orientation and thereby one's life as a whole. Note also that expedient actions to directly counter objective _immediate_ threats to one's life cannot be immoral, since it is a direct extension of the principle of integrity of values.
 
 **NOTE 2**: The context of the given example matters, since morality, while absolute, is contextual. For example, a non-free, i.e. oppressive society is not conducive to human flourishing and often puts the principles of interaction between rational people at odds with the whims of some people who have the power to actually threaten or destroy your values; in such a context, at least some cases may rationally require lying, cheating, stealing, sabotage or even violence. In such a context, such actions would not be immoral and thuus would not undermine moral integrity; in fact, in such a context, they would be necessary for moral integrity, since the demands of the pursuit of one's life are twisted by the whims of a few and would thereby require the appropriate defence. Note that the contextual application of morality is not particular to morality; all true principles or generalisations, including those in science and mathematics, are absolutes which are concretised based on the context. Hence, the true principles of morality must never be considered subjective or relative, only contextual. It goes without saying that the contextual application of principles must be objective, i.e. rigourously rational, as evaluated to the best of one's ability.
-
----
-
-_In short, job market competition in a free or at least semi-free economy must be seen as a part of a value-oriented system and not a threat._
 
 **_To strengthen the position on non-contradiction in values,_ see**: 
 
