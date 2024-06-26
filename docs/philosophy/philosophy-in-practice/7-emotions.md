@@ -102,10 +102,14 @@ Furthermore, a key fact of reality for value-seeking being is that the values of
 
 Hence, we observe that when we grasp our context of the facts and values, then envy dissolves into more constructive emotions and motivations. Hence, I posit that envy is an emotion that reveals one's lack of contextual clarity; gaining the clarity is key to orienting yourself toward values and against irrational and potentially self-destructive goals.
 
+**NOTE**: _For a discussion on the nature of anti-values,_ see: [_The Nature of Anti-Value_ from **Ethics**](https://pranigopu.github.io/philosophy/ethics/nature-of-anti-value.html).
+
 ## Jealousy
 **_An out-of-context view of potential and threat_**
 
-Jealousy is similar to envy, except that instead of dealing with values and their loss, it deals with potential values and threats (i.e. potential loss) to potential values. The reasoning for the invalidity of jealousy is similar in essence; jealousy is rooted in the desire to overcome a feeling a threat rather than the desire to pursue a potential.
+Jealousy is similar to envy, except that instead of dealing with values and their loss, it deals with potential values and potential anti-values. The reasoning for the invalidity of jealousy is similar in essence; jealousy is rooted in the desire to overcome a feeling a threat rather than the desire to pursue a potential.
+
+**NOTE**: _For a discussion on the nature of anti-values,_ see: [_The Nature of Anti-Value_ from **Ethics**](https://pranigopu.github.io/philosophy/ethics/nature-of-anti-value.html).
 
 <!--
 ## Wishfulness
