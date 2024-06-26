@@ -7,7 +7,7 @@
 **Contents**:
 
 - [Introduction](#introduction)
-- [The nature of threat](#the-nature-of-threat)
+- [The nature of potential anti-value](#the-nature-of-potential-anti-value)
 - [The nature of failure](#the-nature-of-failure)
 
 ---
@@ -39,20 +39,24 @@ Evidently, an anti-value is anything that actually contradicts one's values as a
 
 _Hence, evaluating something as a value or an anti-value requires contextual clarity._
 
-# The nature of threat
-_Note that I make distinctions between threat, danger and risk._
+# The nature of potential anti-value
+**LEXICAL NOTE**
 
-A threat is a potential anti-value. Hence, as with anti-values in general, evaluating something as a threat requires contextual clarity. For example, consider: is competition for a job a threat, given at least a free or at least semi-free economy? Consider: what values are being contradicted or put in danger by the competition? Let us examine.
+In the pursuit of values, we must consider potential harm to the pursuit of our values. Recognising such a potential is an important to bring to focus all the facts we must prepare against when pursuing a value. Threat or danger (both synonyms) refers to the source of potential harm, whereas risk refers to the potential harm itself. A potential anti-value is a threat and/or a risk that, if actualised, would contradict one or more values. The concept of a potential anti-value distinguishes between threats and/or risks we can and must act against and threats and/or risks we must simply accept as facts, thereby orienting us toward a rational and proactive approach to values. Hence, note that something can be a threat or a risk without being a potential anti-value.
+
+---
+
+As with anti-values in general, evaluating something as a potential anti-value requires contextual clarity. For example, consider: is competition for a job a potential anti-value, given at least a free or at least semi-free economy? Consider: what values are being contradicted or put in danger by the competition? Let us examine.
 
 ---
 
 _Examining the above example_...
 
-Firstly, the job is not yours by right, so no one has a moral claim over it to begin with; such a recognition is based on a fundamental value for freedom in a social context, which is the root of the value of society as such and the basis for a value-oriented economy that makes worthwhile jobs possible. Thus, contradicting the fundamental value for freedom in a social context would destroy the overall basis for the job's value to you, namely its value as a means for you to create value and live independently in a free society. Hence, sabotaging the autonomy of the competition or devaluing their lives is firmly against more fundamental values, which means such competition cannot be "corrected" for by force or fraud; hence, in this context, the competition is not a threat.
+Firstly, the job is not yours by right, so no one has a moral claim over it to begin with; such a recognition is based on a fundamental value for freedom in a social context, which is the root of the value of society as such and the basis for a value-oriented economy that makes worthwhile jobs possible. Thus, contradicting the fundamental value for freedom in a social context would destroy the overall basis for the job's value to you, namely its value as a means for you to create value and live independently in a free society. Hence, sabotaging the autonomy of the competition or devaluing their lives is firmly against more fundamental values, which means such competition cannot be "corrected" for by force or fraud; hence, in this context, the competition is not a potential anti-value.
 
 Secondly, the essential source of one's capacity for gaining and keeping a job is, in general, competence and a clear alignment with the business-related interests of the employer. Furthermore, honesty in trade is the basis of long-range economic potential, which means using fraud as a means to overcome competition serves to degrade and/or destroy reliability of both yourself and the demands of the job market. It is akin to stealing to "save money"; in both cases, you act to degrade and/or destroy the basis of the system that creates the value you seek to begin with. The principle of non-contradiction in values (see: ["Non-contradiction in values" from _The Nature of Values_ from **Ethics**](https://pranigopu.github.io/philosophy/ethics/nature-of-value.html#non-contradiction-in-values)) means that contradictions in one's pursuit of values degrade and ultimately destroy all values without exception, unless and until one acts to right one's wrongs.
 
-_In short, job market competition in a free or at least semi-free economy must be seen as a part of a value-oriented system and not as a threat._
+_In short, job market competition in a free or at least semi-free economy must be seen as a part of a value-oriented system and not as a potential ant-value (though in a narrow, delimited context, it may be seen as a threat of sorts)._
 
 ---
 
