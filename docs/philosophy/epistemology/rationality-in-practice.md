@@ -20,7 +20,7 @@
     - [Principle of unaccountability](#principle-of-unaccountability)
     - [Principle of purposefulness](#principle-of-purposefulness)
     - [Principle of value-seeking](#principle-of-value-seeking)
-    - [Integrating the above principles into broader principles](#integrating-the-above-principles-into-broader-principles)
+    - [Integrating the above principles into a broader principle](#integrating-the-above-principles-into-a-broader-principle)
     - [Additional points](#additional-points)
       - [Dismissing arbitrary doubts and arbitrary hypotheticals](#dismissing-arbitrary-doubts-and-arbitrary-hypotheticals)
       - [Dismissing insignficant factors and risks](#dismissing-insignficant-factors-and-risks)
@@ -204,7 +204,7 @@ Hence, since (1) the capacity and fullest long-range exercise of consciousness i
 
 **NOTE**: _In contemplative or reflective contexts, the purpose is to expand our thinking beyond regular considerations, which means in such contexts, what would be non-essential in other contexts may not be non-essential in these._
 
-### Integrating the above principles into broader principles
+### Integrating the above principles into a broader principle
 Speaking on a personal basis, each of the above principles I have outlined have taken my approach to rationality from near-paralysing overthinking and compulsiveness (in thought and action) to an alert yet sustainable and life-affirming focus on reality. However, I realised that there is another key principle that ties the above principles and adds an important level of clarity about the means to achieve efficiency in thought without evasion. The principle is as follows:
 
 _The basis of rationality is your grasp of reality in the here and now, within your current relevant cognitive context._
@@ -217,9 +217,13 @@ To expand on this, here are the key areas of focus in pursuing reason:
 
 **NOTE**: _"Relevant" means having an observable or known connection to your purpose._
 
-What about considerations from broader contexts? The answer, in essence, is that the broader premises, i.e. values and knowledge from a broader context, must be internalised before you enter the narrower context. Why? Consider: rationality demands relevance, which means it demands that shifting your focus must be done on the basis of what you know to be present and valuable, i.e. facts that are within in your current context. Consider the alternative, i.e. shifting focus out of sheer compulsion or arbitrary concerns (i.e. concerns not arising from what you are aware of within your current context). Giving into such compulsions and concerns is sheer irrationality, since on what basis would you start considering them, continue to consider them and stop considering them to move on to other things?
+What about considerations from broader contexts? The answer, in essence, is that the broader premises, i.e. values and knowledge from a broader context, must be internalised before you enter the narrower context. Why? Consider: rationality demands relevance, which means it demands that shifting your focus must be done on the basis of what you know to be present and valuable, i.e. facts that are within in your current context. Consider the alternative, i.e. shifting focus out of sheer compulsion or arbitrary concerns (i.e. concerns not arising from what you are aware of within your current context).
 
-Note that unaccountable compulsions and arbitrary concerns have no rational basis (i.e. no known validation with respect to the facts you are aware of). In particular, arbitrary concerns can proliferate endlessly without a rational basis to stop them at any point. In both cases, you may stop when you feel like or when you feel overloaded, but the fact remains that you are either relying on whims or baselessly accepting the validity of some compulsions and concerns up to the point of overload. Also note that since your capacity to focus and exert effort are finite, the aforementioned approaches detach your thinking from your affirmation of reality and your pursuit of values, since the pursuit of value is time-bound, conditional and constant, i.e. integrated across every moment of one's existence. In other words, the aforementioned approaches are fundamentally reality-denying and anti-value. In short, since unaccountable compulsions and arbitrary concerns are not based on you awareness of reality in the here and now (with all the relevant retained experiences, premises and knowledge), they are essentially baseless urges and/or baseless considerations that take your focus, time and energy away from reality as it confronts you, thereby detaching your awareness from reality in principle and in practice.
+Giving into such compulsions and concerns is sheer irrationality, i.e. it is whim-worship, essentially. Why? Consider: on what basis would you start considering them, continue to consider them and stop considering them to move on to other things? Note that unaccountable compulsions and arbitrary concerns have no rational basis (i.e. no known validation with respect to the facts you are aware of). In particular, arbitrary concerns can proliferate endlessly without a rational basis to stop them at any point.
+
+In both cases, you may stop when you feel like or when you feel overloaded, but the fact remains that you are either relying on whims or baselessly accepting the validity of some compulsions and concerns up to the point of overload. Also note that since your capacity to focus and exert effort are finite, the aforementioned approaches detach your thinking from your affirmation of reality and your pursuit of values, since the pursuit of value is time-bound, conditional and constant, i.e. integrated across every moment of one's existence. In other words, the aforementioned approaches are fundamentally reality-denying and anti-value.
+
+In short, since unaccountable compulsions and arbitrary concerns are not based on you awareness of reality in the here and now (with all the relevant retained experiences, premises and knowledge), they are essentially baseless urges and/or baseless considerations that take your focus, time and energy away from reality as it confronts you, thereby detaching your awareness from reality in principle and in practice.
 
 **NOTE**: _Within some contexts, random exploration can be valid, but even in such cases, our awareness of such a current context is the basis for us realising the relevance of such exploration and choosing to pursue it._
 
