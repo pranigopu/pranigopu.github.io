@@ -112,7 +112,6 @@ Consciousness is not self-identified by its physical apparatus but by the proces
 Consciousness, i.e. the faculty of awareness is finite, and thus, awareness of something is necessarily the awareness of some thing or things in particular while omitting other things from awareness. In other words, my awareness is focused. What directs this focus? _This is the topic of the next section._
 
 # Free will
-## Basis of free will
 **LEXICAL NOTES**:
 
 1.<br>
@@ -125,6 +124,7 @@ I consider "volition", "free will" and "self-determination" as synonymns.
 
 ---
 
+## Basis of free will
 The precondition for awareness and hence consciousness is perception, which is automatic and cannot be first initiated by awareness since it is the basis of awareness. However, after perception, we observe that we act based on our awareness, our other conscious processes and our motives. Further, we also observe that we are self-aware, i.e. that our conscious processes and our motives are themselves open to our awareness. In other words, the actions of our consciousness are themselves subjectable to consciousness. Hence, since our consciousness is the locus of the self, and since a self-aware consciousness can guide its own actions, our self can guide our consciousness. In short, self-awareness gives consciousness the power to guide its own processes, i.e. it makes consciousness not just reactive but also proactive. Now, note that our self as whole includes the physical and mental apparatus of our consciousness as well as the body integrated with our consciousness, and we observe that our conscious physical actions are based on our conscious mental actions (which are based on our awareness). In other words, we are self-determined both cognitively and physically.
 
 If our consciousness were determined only by factors outside our control, then we would be unable to control the focus of our awareness inward in any way, and thus, unable to control our conscious processes in any way. Then, since the locus of our self is our consciousness, its active state, i.e. awareness cannot be a factor in the actions of our consciousness. But this violates our identity as self-aware conscious beings and thus cannot be true.
@@ -169,7 +169,17 @@ One may argue that since we can only do something given the right conditions, no
 To be conscious is to be an integrated being of mind and body, wherein the components of consciousness are integrated into the inseparable whole that is the consciousness. Our awareness is the locus of our self, and we are self-determined since (1) we are aware, self-aware and thus capable of focussing our awareness onto our own conscious processes (i.e. our conscious processes are fundamentally subjectable to the focus of our awareness) and (2) our awareness — being a fundamental feature of our self and the fundamental feature of our consciousness — is an essential factor (ultimately and potentially the fundamental factor) in our conscious thoughts and actions. The basis of free will is the focus of our awareness.
 
 # Integrating free will to causality
-**NOTE**: _I am considering "self-determination" and "free will" as synonyms. I use "self-determined" as a more convenient way to say "driven by free will"._
+**LEXICAL NOTE**:
+
+1.<br>
+
+I consider "self-determination" and "free will" as synonyms. I use "self-determined" as a more convenient way to say "driven by free will".
+
+2.<br>
+
+Focus is a self-imposed selectivity in the direction and scope of one's awareness. Note that awareness is finite, which means the awareness of any part of reality is already selective due to its finiteness; however, focus refers to a selectivity imposed on top of the automatic selectivity of awareness itself. I define "inward focus" as focus on one's own conscious processes, whereas "outward focus" is one's focus on some part of reality outside our consciousness.
+
+---
 
 ## Free will is an extension of causality
 In ["The principle of causality" from _Metaphysics_](https://pranigopu.github.io/philosophy/metaphysics/#the-principle-of-causality), the principle of causality is given as follows:
@@ -195,19 +205,17 @@ _Before moving on, a definition_...
 
 A potential outcome is predetermined if past factors necessarily lead to it and nothing else.
 
-**Focus**:
-
-A certain selectivity in the direction and scope of one's awareness. The act of focus is the self-generated act (rather than a mere reaction) of shifting and/or sustaining a state of selectivity.
-
 ---
 
 _Back to the discussion_...
 
-Hypothetically, if I know exactly what you are aware of, what you value and what your circumstances are, I may be able to predict exactly what you would do. But such a prediction is made possible only by knowing that your consciousness is self-determined and that its self-determined actions are based on mentally internalised factors (e.g. knowledge, values, etc.) that are open to change by means of your self-awareness. In other words, the direction of one's focus (which is the basis of free will) is fundamentally though not entirely driven by mentally interalised factors which are themselves subjectable to one's focus. Now, we cannot have an infinite regress, which means there must be a starting point of focus. If the starting point is such that our focus is determined by something apart from our self, then by extension (based on what the "self" is), our focus is determined by something apart from our consciousness. However, focus is an action of consciousness and hence cannot exist apart from it.
+Hypothetically, if I know exactly what you are aware of, what you value and what your circumstances are, I may be able to predict exactly what you would do. But such a prediction is made possible only by knowing that your consciousness is self-determined and that its self-determined actions are based on mentally internalised factors (e.g. knowledge, values, etc.) that are open to change by means of your self-awareness. In other words, the direction of one's focus (which is the basis of free will) is essentially (though not entirely) driven by mentally interalised factors which are themselves subjectable to one's focus. Now, we cannot have an infinite regress, which means there must be a starting point of focus. If the starting point is such that our focus is determined by something apart from our self, then by extension (based on what the "self" is), our focus is determined by something apart from our consciousness. However, focus is an action of consciousness and hence cannot exist apart from it.
 
-**NOTE**: _The starting point of consciousness is the direct awareness of something outside consciousness; such awareness is automatic, which means its initial focus is also automatic. However, from here onward, a volitional consciousness is an essential factor in its own actions, which means its act of focus is essentially self-caused._
+**NOTE**: _Yhe starting point of consciousness is the direct awareness of something outside consciousness; such awareness is already selective due to the finiteness of awareness. However, focus is the imposition of on top of such automatic selectivity, which means focus presupposes consciousness._
 
-Hence, our consciousness — and by extension our "self" — is the cause of our focus. Note the key fact used here: consciousness is the locus of the self. There is no self without consciousness and no consciousness without a self. Hence, we are the fundamental factor in the direction of our own focus. We can be influenced by other factors (since other factors do have real effects), but at the core of our being is a factor that is purely self-determined. Such a self-determined being cannot be predetermined even if his actions can be predicted in a given context. Why? Because to be predetermined is to be necessitated by past factors, but a self-determined being’s actions are driven on some fundamental level by himself in the present and, by the nature of a self-aware consciousness, only he has access to that factor. Hence, since his actions are not determined purely apart from him and since he does in fact determine his actions on some level, his actions cannot be fundamentally predetermined. If his actions can be predicted in some context, it is because he is a definite part of existence and acts according to a definite set of facts, but this does not change his basic nature as a self-determined being.
+Since a self-determined consciousness is an essential factor in its own actions, its act of inward focus is also essentially self-caused. Hence, by extension (given that consciousness is the locus of our self), we are an essential factor in the direction of our own focus, both inward and outward. The actions of our consciousness, i.e. our conscious thoughts and decisions, can be influenced by other factors (since other factors do have real effects), but at the core of our being is a factor that is purely self-determined.
+
+A self-determined being cannot be predetermined even if his actions can be predicted in a given context. Why? Because to be predetermined is to be necessitated by past factors, but a self-determined being’s actions are driven on some fundamental level by himself in the present and, by the nature of a self-aware consciousness, only he has access to that factor. Hence, since his actions are not determined purely apart from him and since he does in fact determine his actions on some level, his actions cannot be fundamentally predetermined. If his actions can be predicted in some context, it is because he is a definite part of existence and acts according to a definite set of facts, but this does not change his basic nature as a self-determined being.
 
 ## Summarisation and closing remarks
 I define the "self" as the faculty of awareness (i.e. consciousness) and the apparatus it rests on (mental and physical). A chain of cause and effect leads to my choices, but my self is an essential part of that causal chain. On some level, my thoughts, decisions and actions are necessarily both self-initiated and self-determined. I would act the same if in the exact same state in the past, but the past is never open to change; hence, free will is not about the past but the potential. I can do what I intend, I can be aware of my intentions and judge them, I can choose to be aware at all or evade reality. All this is my doing and nothing else, on some level.
