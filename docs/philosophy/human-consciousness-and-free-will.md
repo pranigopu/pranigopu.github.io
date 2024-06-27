@@ -183,11 +183,17 @@ _Before moving on, a definition_...
 
 A potential outcome is predetermined if past factors necessarily lead to it and nothing else.
 
+**Focus**:
+
+A certain selectivity in the direction and scope of one's awareness. The act of focus is the self-generated act (rather than a mere reaction) of shifting and/or sustaining a state of selectivity.
+
 ---
 
 _Back to the discussion_...
 
 Hypothetically, if I know exactly what you are aware of, what you value and what your circumstances are, I may be able to predict exactly what you would do. But such a prediction is made possible only by knowing that your consciousness is self-determined and that its self-determined actions are based on mentally internalised factors (e.g. knowledge, values, etc.) that are open to change by means of your self-awareness. In other words, the direction of one's focus (which is the basis of free will) is fundamentally though not entirely driven by mentally interalised factors which are themselves subjectable to one's focus. Now, we cannot have an infinite regress, which means there must be a starting point of focus. If the starting point is such that our focus is determined by something apart from our self, then by extension (based on what the "self" is), our focus is determined by something apart from our consciousness. However, focus is an action of consciousness and hence cannot exist apart from it.
+
+**NOTE**: _The starting point of consciousness is the direct awareness of something outside consciousness; such awareness is automatic, which means its initial focus is also automatic. However, from here onward, a volitional consciousness is an essential factor in its own actions, which means its act of focus is essentially self-caused._
 
 Hence, our consciousness — and by extension our "self" — is the cause of our focus. Note the key fact used here: consciousness is the locus of the self. There is no self without consciousness and no consciousness without a self. Hence, we are the fundamental factor in the direction of our own focus. We can be influenced by other factors (since other factors do have real effects), but at the core of our being is a factor that is purely self-determined. Such a self-determined being cannot be predetermined even if his actions can be predicted in a given context. Why? Because to be predetermined is to be necessitated by past factors, but a self-determined being’s actions are driven on some fundamental level by himself in the present and, by the nature of a self-aware consciousness, only he has access to that factor. Hence, since his actions are not determined purely apart from him and since he does in fact determine his actions on some level, his actions cannot be fundamentally predetermined. If his actions can be predicted in some context, it is because he is a definite part of existence and acts according to a definite set of facts, but this does not change his basic nature as a self-determined being.
 
