@@ -166,9 +166,11 @@ Causality is the law of identity applied to actions, and by extension, events (w
 
 Hence, we get the principle of causality: actions and events have identities that are metaphysically inseparable from and derived from the identities of the entities that act. Hence, given an entity with a particular identity, its action (in a certain relation to other entities and their actions) can have only a particular corresponding identity and nothing else.
 
+To extend the idea further, note that the identity of the change in any part of reality is inseparable from and derived from the identity of that part of reality. Thus, the principle of causality means that given the same set of facts, nothing else can happen. In other words, the same entities in the same conditions can act only in a certain way and no other (i.e. their actions can have only a certain identity with respect to their own identities and no other).
+
 _The interactive nature of causality_...
 
-Here, note that the identity of the change in any part of reality is inseparable from and derived from the identity of that part of reality. Any entity is necessarily within some part of reality. Let us pick some part of reality and call it X. Now, since the identities of the entities within X as well as the identities of their actions affect the identity of any change in X as a whole, it stands to reason that the actions of any entity within X are or can be affected by the actions of the other entities within X. Thus, the principle of causality means that given the same set of facts, nothing else can happen. In other words, the same entities in the same conditions can act only in a certain way and no other (i.e. their actions can have only a certain identity with respect to their own identities and no other).
+Any entity is necessarily within some part of reality. Let us pick some part of reality and call it X. Now, since the identities of the entities within X as well as the identities of their actions affect the identity of any change in X as a whole, it stands to reason that the actions of any entity within X are or can be affected by the actions of the other entities within X. Furthermore, drawing from our observations, we observe that entities can and often do act according to the actions of other entities in their environment, i.e. reactions and thus interactions exist; it is an easily-made observation that reveals that interactivity is consistent not only with causality in abstract terms but also with causality in concrete terms.
 
 _To summarise and add related points_...
 
