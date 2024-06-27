@@ -112,12 +112,22 @@ Consciousness is not self-identified by its physical apparatus but by the proces
 Consciousness, i.e. the faculty of awareness is finite, and thus, awareness of something is necessarily the awareness of some thing or things in particular while omitting other things from awareness. In other words, my awareness is focused. What directs this focus? _This is the topic of the next section._
 
 # Free will
-**NOTE**: _I consider "volition", "free will" and "self-determination" as synonymns._
-
 ## Basis of free will
-The precondition for awareness and hence consciousness is perception, which is automatic and cannot be first initiated by awareness since it is the basis of awareness. However, after perception, we observe that we act based on our awareness, our other conscious processes and our motives. Further, we also observe that our conscious processes and our motives are themselves open to our awareness. In other words, our conscious actions are fundamentally subjectable to our awareness, which is the active state (i.e. the state of sustained action) of our consciousness. Hence, since our consciousness is the locus of the self, it is our self that guides our conscious actions. Our self includes the physical and mental apparatus of our consciousness as well as the body integrated with our consciousness, and we observe that our conscious physical actions are based on our conscious mental actions (which are based on our awareness). In other words, we are self-determined both cognitively and physically.
+**LEXICAL NOTES**:
 
-If we were determined only by factors outside our control, then we would be unable to control the focus of our awareness in any way, and thus, unable to control our conscious processes in any way. Then, since the locus of our self is our consciousness, its active state, i.e. awareness cannot be a factor in our actions (mental or physical). But this violates our identity as conscious beings and thus cannot be true.
+1.<br>
+
+I consider "volition", "free will" and "self-determination" as synonymns.
+
+2.<br>
+
+"Conscious actions" means actions made with consciousness, while "actions of consciousness" refers the workings of the consciousness itself.
+
+---
+
+The precondition for awareness and hence consciousness is perception, which is automatic and cannot be first initiated by awareness since it is the basis of awareness. However, after perception, we observe that we act based on our awareness, our other conscious processes and our motives. Further, we also observe that we are self-aware, i.e. that our conscious processes and our motives are themselves open to our awareness. In other words, the actions of our consciousness are themselves subjectable to consciousness. Hence, since our consciousness is the locus of the self, and since a self-aware consciousness can guide its own actions, our self can guide our consciousness. In short, self-awareness gives consciousness the power to guide its own processes, i.e. it makes consciousness not just reactive but also proactive. Now, note that our self as whole includes the physical and mental apparatus of our consciousness as well as the body integrated with our consciousness, and we observe that our conscious physical actions are based on our conscious mental actions (which are based on our awareness). In other words, we are self-determined both cognitively and physically.
+
+If our consciousness were determined only by factors outside our control, then we would be unable to control the focus of our awareness inward in any way, and thus, unable to control our conscious processes in any way. Then, since the locus of our self is our consciousness, its active state, i.e. awareness cannot be a factor in the actions of our consciousness. But this violates our identity as self-aware conscious beings and thus cannot be true.
 
 **NOTE**: _By free will, I do not mean the ability to "transcend causality", i.e. act apart from causality; metaphysically, nothing acts nor can act apart from causality. Rather, free will is a kind of causation wherein our self is an essential cause in the chain of cause-and-effect that leads to our thoughts and actions._
 
@@ -159,6 +169,8 @@ One may argue that since we can only do something given the right conditions, no
 To be conscious is to be an integrated being of mind and body, wherein the components of consciousness are integrated into the inseparable whole that is the consciousness. Our awareness is the locus of our self, and we are self-determined since (1) we are aware, self-aware and thus capable of focussing our awareness onto our own conscious processes (i.e. our conscious processes are fundamentally subjectable to the focus of our awareness) and (2) our awareness — being a fundamental feature of our self and the fundamental feature of our consciousness — is an essential factor (ultimately and potentially the fundamental factor) in our conscious thoughts and actions. The basis of free will is the focus of our awareness.
 
 # Integrating free will to causality
+**NOTE**: _I am considering "self-determination" and "free will" as synonyms. I use "self-determined" as a more convenient way to say "driven by free will"._
+
 ## Free will is an extension of causality
 In ["The principle of causality" from _Metaphysics_](https://pranigopu.github.io/philosophy/metaphysics/#the-principle-of-causality), the principle of causality is given as follows:
 
@@ -166,7 +178,7 @@ _Causality is the law of identity applied to actions, and by extension, events (
 
 Causality is inherent in the very fact of existence, hence no part of reality can exist apart from it. Now, consciousness is a part of reality, and thus, has a certain identity and can cause certain effects unique to it, effects that cannot exist apart from it. In other words, given other necessary conditions, the consciousness is the necessary and sufficient cause, i.e. the driving cause for a range of effects made possible by the necessary conditions. To be clear, anything that exists is such that its nature is the driving cause for a range of effects made possible by the necessary conditions: a rock acts in a way distinctive to a rock that no amount of outside factors could determine by themselves, a tree's growth toward sunlight is inherent in its nature and not determined purely by outside factors, etc.
 
-Now, consider a kind of consciousness whose fundamental feature is the capacity for self-awareness, and by extension, self-determined awareness (_note that not every kind of consciousness has these attributes_). Then, such a consciousness can and does act in a self-determined way. Given other necessary conditions, your nature as a volitional being is the driving cause in the nature of your conscious actions; your conscious actions are _yours_, _self-determined_. Note that free will cannot exist apart from causality, since without causality, the nature of one's consciousness would have no effect on the nature of one's actions. Free will is not at odds with causality but precisely its extension in the context of a self-aware consciousness.
+Now, consider a kind of consciousness whose fundamental feature is the capacity for self-awareness. Then, such a consciousness can and does act in a self-determined way, because its awareness of itself and its contents can be and often is an essential factor in its own actions (by "actions", I mean actions _of_ consciousness, rather than physical actions made _with_ consciousness). Hence, given other necessary conditions, your nature as a volitional being is the driving cause in the nature of your conscious actions; your conscious actions are _yours_, _self-determined_. Note that free will cannot exist apart from causality, since without causality, the nature of one's consciousness would have no effect on the nature of one's actions. Free will is not at odds with causality but precisely its extension in the context of a self-aware consciousness.
 
 A variety of factors play a role in shaping what is and is not possible to you, and what is and is not favourable or unfavourable with respect to some purpose. Given these factors and their effects, _you_ are the driving cause for action toward realising one or some of the many possibilities. Free will is essentially the recognition of the fact that in the chain of cause-and-effect that leads to your actions, you yourself are an essential cause. You exist in reality, have a certain nature and have certain kinds of actions possible to you. The factors in the broader context in which you exist cannot be contradicted by you, but that is precisely the basis of the efficacy of your free will; if there were no definite results of definite factors, no action toward a definite potential would be possible.
 
