@@ -84,7 +84,7 @@ Since the fundamental feature of X in a given context is the fundamental factor 
 _Back to the discussion_...
 
 # Metaphysical context
-_The metaphysical context draws from_ [_Metaphysics_](https://pranigopu.github.io/philosophy/metaphysics).
+_The metaphysical context draws from_ [**Metaphysics**](https://pranigopu.github.io/philosophy/metaphysics).
 
 Existence exists, and we are conscious of it. Furthermore, everything that exists is something in particular, i.e. something that has a particular identity — this also applies to our consciousness, i.e. our consciousness also has a particular identity. In other words, we are conscious of something through a particular form of awareness. Furthermore, as discussed in metaphysics, existence exists independently of consciousness because consciousness is the faculty of awareness, i.e. the faculty of perceiving that which exists. 
 
