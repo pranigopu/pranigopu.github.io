@@ -170,12 +170,13 @@ _The contextual nature of causality_...
 
 Here, note that the identity of the change in any part of reality is inseparable from and derived from the identity of that part of reality. Any entity is necessarily a part of reality and also within a larger part of reality. For simplicity, let us call this larger part of reality as our context. Hence, since the identities of the entities within our context and their actions affect the identity of any change within our context as such, it stands to reason that the actions of any entity within our context are or can be affected by the actions of the other entities within our context. Thus, the principle of causality means that given the same context, i.e. the same facts, nothing else can happen. In other words, the same entities in the same conditions can act only in a certain way and no other (i.e. their actions can have only a certain identity with respect to their own identities and no other).
 
-_To summarise_...
+_To summarise and add related points_...
 
 - Entities cause actions and all actions are caused by entities
 - Entities always exist in a context (i.e. in relation to other facts)
 - By causality, the context of an entity affects the identity of its actions
-- By itself, an entity has only a set potential for action based on its own identity
+- By itself, an entity has only a certain potential for action based on its identity
+- The entity's potential for action is actualised based on its context
 - The causes of any occurrence — in theory — can be identified
 - The identification of causes is limited by the extent of our knowledge
 
