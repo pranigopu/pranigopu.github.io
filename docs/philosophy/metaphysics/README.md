@@ -164,7 +164,22 @@ Causality is the law of identity applied to actions, and by extension, events (w
 
 **NOTE**: _Pointing out that actions cannot exist apart from entities and their identities is key in showing that their identities (i.e. their natures) result in certain actions in a certain context, i.e. their actions are based on their identities. This, of course, is necessary to reach the principle of causality._
 
-Hence, we get the principle of causality: actions and events have identities that are metaphysically inseparable from and derived from the identities of the entities that act. Hence, given an entity with a particular identity, its action (in a certain relation to other entities and their actions) can have only a particular corresponding identity and nothing else (note that as a part of reality, an entity always exists in the context of other entities and their actions, which can affect its own actions). Thus, the principle of causality means that given the same facts, nothing else can happen, i.e. the same entities in the same conditions can act only in a certain way and no other (i.e. their actions can have only a certain identity with respect to their own identities and no other). In short, entities cause actions and all actions are caused by entities. Furthermore, the causes of any occurrence — in theory — can be identified. In practice, the identification of causes is limited by the extent of our knowledge.
+Hence, we get the principle of causality: actions and events have identities that are metaphysically inseparable from and derived from the identities of the entities that act. Hence, given an entity with a particular identity, its action (in a certain relation to other entities and their actions) can have only a particular corresponding identity and nothing else.
+
+_The contextual nature of causality_...
+
+Here, note that the identity of the change in any part of reality is inseparable from and derived from the identity of that part of reality. Any entity is necessarily a part of reality and also within a larger part of reality. For simplicity, let us call this larger part of reality as our context. Hence, since the identities of the entities within our context and their actions affect the identity of any change within our context as such, it stands to reason that the actions of any entity within our context are or can be affected by the actions of the other entities within our context. Thus, the principle of causality means that given the same context, i.e. the same facts, nothing else can happen. In other words, the same entities in the same conditions can act only in a certain way and no other (i.e. their actions can have only a certain identity with respect to their own identities and no other).
+
+_To summarise_...
+
+- Entities cause actions and all actions are caused by entities
+- Entities always exist in a context (i.e. in relation to other facts)
+- By causality, the context of an entity affects the identity of its actions
+- By itself, an entity has only a set potential for action based on its own identity
+- The causes of any occurrence — in theory — can be identified
+- The identification of causes is limited by the extent of our knowledge
+
+_Extending the idea of causality_...
 
 The concept of causality can be applied to entities as such (rather than just actions) only when the given entities, by their nature, had to be formed through some process at some point. In such cases, the cause of an entity refers to the action or actions of some entity or entities that led to its formation. However, for existence as a whole, there can be no prior cause; by the nature of existence, only it exists and it only exists. It is also invalid to say it was its own cause; saying so implies that it existed before it existed—a contradiction. There can be no cause of existence, since cause presupposes existence.
 
