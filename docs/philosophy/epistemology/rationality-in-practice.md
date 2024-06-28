@@ -136,7 +136,7 @@ To conclude, the right approach to dealing with reality is not to go over and ke
 
 **NOTE 1**: Dismissing non-essentials is a valid approach but only as secondary to seeking the essentials. In other words, if you have reason to consider something as potentially essential and relevant for the given context and purpose, then it is valid to check it is indeed so or if it is a non-essential to be dismissed.
 
-**NOTE 2**: To entertain arbitrary concerns as valid concerns is to abandon reason, because on what basis would you start or stop taking such concerns into account? Since they are arbitrary, such a basis cannot exist in your grasp of reality. Hence, such a basis is necessarily irrational, e.g. out-of-context compulsion, whims, etc.
+**NOTE 2**: To entertain arbitrary concerns as valid concerns is to abandon reason, because on what basis would you start or stop taking such concerns into account? Since they are arbitrary, such a basis cannot exist in your grasp of reality. Hence, such a basis is necessarily irrational, e.g. out-of-context compulsion, whim, etc.
 
 ### Principle of identification
 **_Identifying logical and causal relationships_**
@@ -173,7 +173,7 @@ Consider the case where considerations in ignorance are given primacy. Stark exa
 
 _To summarise_...
 
-All rational consideration is and must be primarily consideration in knowledge.
+All rational consideration primarily is and must be consideration in knowledge.
 
 ### Principle of unaccountability
 **_Dismissing the practically unaccountable_**
