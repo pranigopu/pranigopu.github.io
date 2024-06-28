@@ -186,7 +186,7 @@ If it cannot be taken into account, then no mental effort toward it has purpose,
 
 ---
 
-**NOTE 1**: It is clear that this principle is essentially an extension of principle 4.
+**NOTE 1**: It is clear that this principle is essentially an extension of the principle of knowledge-orientation.
 
 **NOTE 2**: If you cannot take a factor into account but it is (in your knowledge) necessary/valuable and possible to learn how to do so, then rationality demands that you learn. However, it is still the case that until you learn, you cannot take it into account. Furthemore, if (in you knowledge) the factor is either unnecessary or not valuable to take into account and/or it is not possible to learn how to take it into account, then the factor must clearly be dismissed.
 
