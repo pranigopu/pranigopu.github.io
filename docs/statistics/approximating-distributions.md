@@ -79,15 +79,16 @@ $\mathbb{P} + ... + \mathbb{P}$ ($n$ times) $= +_*(\mathbb{P}^n)$
 - $\frac{1}{n}\mathbb{P}_n$ as $\bar{\mathbb{P}}_n$
 
 ### 0.2.4. Distribution parameter functions
-$\mu$<br>
+$\mu$:
+
 Distribution mean function, i.e. a function that inputs a probability measure defined on a given set $S$ and outputs the corresponding distribution's mean (if it exists).
 
-$Var$<br>
+$Var$:
+
 Distribution variance function, i.e. a function that inputs a probability measure defined on a given set $S$ and outouts the corresponding distribution's variance (if it exists).
 
 ## 0.3 Maintaing probability distribution across samples
 _Henceforth, "distribution" = "probability distribution" unless specified._
-<br><br>
 
 _Maintaining the distribution of a random process across samples_...<br>The probability distribution of a random process is maintained across samples, i.e. for each sample only if each outcome of the process is independent of past outcomes. Maintaining the probability distribution for each sample is needed when studying this distribution through its samples.
 
@@ -95,10 +96,8 @@ _Maintaining the distribution of a random selection across selections_...<br>_No
 
 # 1. Estimators
 _Henceforth, "distribution" = "probability distribution" unless specified._
-<br><br>
 
 An estimator is a collection of maps (collection, because there is a map for each value of $n \in \mathbb{N}$) $T^n:X^n \rightarrow \mathbb{R}$ which implements some operation on any tuple of $X^n$. The purpose of an estimator is to estimate some real value related to the probability measure on $X$, such as the distribution mean, variance, etc.
-<br><br>
 
 **NOTE: Independent and identically distributed (IID) samples as a prerequisite for estimation**:<br>The essence of estimation is averaging; we average over many samples from a distribution to get an idea about the distribution itself. To do this, we must first ensure a lack of dependence between consequent samples, since such dependence changes the distribution of consequent samples. In the same vein, since estimation depends on averaging samples from the same distribution, we need to ensure the samples are drawn from the same distribution, i.e. we need to ensure the samples are identically distributed.
 
@@ -106,10 +105,15 @@ An estimator is a collection of maps (collection, because there is a map for eac
 Consider a theoretical distribution $\mathbb{P}$ which models a given random process whose sample space is $X$. Given an estimator $T^n:X^n \rightarrow \mathbb{R}$ (for all $n$) which estimates some parameter of $\mathbb{P}$, the distribution the estimator is essentially the pushforward measure of $\mathbb{P}^n$ through $T^n$, i.e. $T^n_*\mathbb{P}^n$. This can be understood as the distribution of the results of applying a function $T^n$ to $n$ samples each drawn from $\mathbb{P}$.
 
 ## 1.2. Properties of estimators
-These properties support the purpose of estimators; an estimator without one or both of these properties cannot be used for an accurate estimation of distribution parameters. Now, given we have an estimator $T^n$ meant to estimate the parameter $\phi(\mathbb{P})$ of the distribution $\mathbb{P}$...
+These properties support the purpose of estimators; an estimator without one or both of these properties cannot be used for an accurate estimation of distribution parameters. Now, given we have an estimator $T^n$ meant to estimate the parameter $\phi(\mathbb{P})$ of the distribution $\mathbb{P}$, we want the following properties for $T^n$:
 
-1. **Unbiasedness**<br>$\mu({T^n}_*\mathbb{P}^n) = \phi(\mathbb{P})$
-2. **Consistency**<br>$\displaystyle \lim_{n \rightarrow \infty} T^n_*\mathbb{P}^n([\phi(\mathbb{P}) - \epsilon, \phi(\mathbb{P}) + \epsilon]) = 1, \forall \epsilon > 0$
+**1. Unbiasedness**:
+
+$\mu({T^n}_*\mathbb{P}^n) = \phi(\mathbb{P})$
+
+**2. Consistency**:
+
+$\displaystyle \lim_{n \rightarrow \infty} T^n_*\mathbb{P}^n([\phi(\mathbb{P}) - \epsilon, \phi(\mathbb{P}) + \epsilon]) = 1, \forall \epsilon > 0$
 
 In words, unbiasedness implies that the mean of the distribution of the estimator values equals to the parameter to be estimated. Consistency implies that as the number of samples taken rises, the mass of the distribution of estimator values converges to an arbitrarily small neighbourhood around the parameter to be estimated.
 
