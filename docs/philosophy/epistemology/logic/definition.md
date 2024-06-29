@@ -32,7 +32,7 @@
       - [Combining both validations](#combining-both-validations)
     - [Hierarchy of genera](#hierarchy-of-genera)
     - [Specificity of genera](#specificity-of-genera)
-      - [How context determines specificity](#how-context-determines-specificity)
+    - [How context determines specificity](#how-context-determines-specificity)
   - [Rule 2: Equivalence rule](#rule-2-equivalence-rule)
     - [Validation](#validation-1)
     - [Fallacies due to violation](#fallacies-due-to-violation)
@@ -200,7 +200,7 @@ In simple terms, the purpose of definitions dictates that we must (1) choose the
 
 **NOTE**: _The fundamentality of the differentia is elaborated in the rule of fundamentality._
 
-#### How context determines specificity
+### How context determines specificity
 Always note that the required or relevant context determines the specificity required. For example, regarding the definition of "human," "rational animal" is sufficient for philosophical discussion; it defines the fundamental characteristics required to discuss human nature in broad philosophical terms. Here, "rational mammal" would entail needless specificity; there is nothing philosophically relevant in the genus "mammal" that is not also present in the genus "animal." However, for the purposes of biology, we may require more specificity, and thereby define "human" as "rational mammal," "rational primate," etc.
 
 In other words, define the genus based on the specific category of beings you want to or need to distinguish your concept from, i.e. find the minimum conceptual common denominator (CCD) required. For example, when defining "socialism," we need to define it within the broader category of "political systems" rather than overly broad categories such as "ideas" or "systems."
