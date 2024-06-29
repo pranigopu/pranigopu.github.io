@@ -225,8 +225,6 @@ Denotes either an affirmative ("is") or a negative ("is not")  relationship bet
 | 3   | Copula | "be" or "not to be" | Denotes quality. |
 | 4   | Predicate |     | Informs about the subject. |
 
----
-
 #### Types of a categorical statement/proposition
 
 | Type | Name | Form |
