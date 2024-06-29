@@ -12,11 +12,11 @@
 
 **Contents**:
 
-- [1. Generalising \& formalising probability as a measure](#1-generalising--formalising-probability-as-a-measure)
+- [1. Generalising and formalising probability as a measure](#1-generalising-and-formalising-probability-as-a-measure)
   - [Random process (_a preliminary concept_)](#random-process-a-preliminary-concept)
   - [Quantifying probabilities as proportions](#quantifying-probabilities-as-proportions)
   - [Measure](#measure)
-  - [Probability measure \& distribution](#probability-measure--distribution)
+  - [Probability measure and distribution](#probability-measure-and-distribution)
 - [2. Studying populations with probability](#2-studying-populations-with-probability)
   - [Population](#population)
     - [Generalising population distribution with random process](#generalising-population-distribution-with-random-process)
@@ -32,7 +32,7 @@
 
 ---
 
-# 1. Generalising & formalising probability as a measure
+# 1. Generalising and formalising probability as a measure
 _The need for such a generalisation and formalisation is to allow us to talk about probability in an unambiguous but sufficiently generalised context while making the presentation of these ideas more concise (thus easier to retain)_.
 
 What is probability, and when does probability come into the picture? Cognition has two basic states, namely ignorance and knowledge. In ignorance, we have no information about the nature of the object of cognition, so we have no certainty whatsoever about any of its potential. In knowledge, we have all the information about the _essential_ nature of the object of cognition - essential within a given context - to have certainty about its potential, i.e. about how it will act or be acted upon. However, cognition is not binary; when learning the nature of something, we do not go always from no knowledge to full knowledge - full within a given context. There may be and often are states of cognition for partial information, so that we may know only part of the object's potential. In essence, probability is the quantification of the level of certainty or uncertainty we have regarding some aspect of the potential of an object of cognition, which may be an entity, an environment, a phenomenon, etc. 
@@ -50,7 +50,7 @@ Consider a random process $\theta$. It is clear that some but any outcome of $\t
 
 A measure is a function that maps each subset of a given set $X$ to a non-negative real value called "mass" (_the non-negativity property_), such that the mass of $X$ as a whole is the total mass of pairwise disjoint subsets of $X$ that together make up $X$ (_the additivity property_). Note, of course, that the subset may be a set with but one element. A measure generalises and formalises the concept of quantifying some aspect of each subset of a set that is present in the subset as a part of the whole. For example, a counting measure quantifies the size of a subset; each subset's size is a part of the size of the set as a whole. Other examples of measures present in subsets of a set as parts of a whole are area of a shape and its parts, volume of a solid and its parts, the probability of some and all of the outcomes of a random process, etc.
 
-## Probability measure & distribution
+## Probability measure and distribution
 A probability measure is the formalisation of probability as a kind of measure. Often denoted as $\mathbb{P}$, a probability measure is a measure that maps each subset of a given set to a real value from $0$ to $1$ called "probability mass", with the probability mass of the set as a whole being $1$. Given that it formalises the concept of the probability of outcomes of a given random process, it is clear that the way mapping between outcomes and probabilities is done depends on the random process in question. This reinforces the fact that "probability measure" as such is a kind of measure, i.e. as such, it refers to a class of measures; a probability measure $\mathbb{P}$ applied to a particular random process represents a particular _distribution_ of probabilities. To rephrase, **_a probability distribution is a probability measure applied to a particular random process_**.
 
 # 2. Studying populations with probability
