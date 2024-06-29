@@ -14,7 +14,7 @@
 
 ---
 
-**Necessary context**: [Essentials of Metaphysics](https://pranigopu.github.io/philosophy/metaphysics/essentials-of-metaphysics.html)
+**Necessary context**: [_Essentials of Metaphysics_](https://pranigopu.github.io/philosophy/metaphysics/essentials-of-metaphysics.html)
 
 # Creatio ex nihilo
 Anything non-eternal that comes into existence necessarily has a cause. Let us say that something, call it X, is the only cause of something else, call it Y. Hence, the existence of Y is an extension of the identity of X, i.e. it cannot exist apart from nor in contradiction to X. In other words, everything that Y is was derived from X. If some part of Y, let us call it U, was not derived from X, then that part of Y is not an extension of the identity of X, and hence, it is not caused by X; given that X is the only cause of Y, then U was uncaused, which contradicts the principle of causality. Evidently, then, something cannot come from nothing, which means the indivisible building blocks of reality are either eternal or a transformation of another indivisible building block of reality.
