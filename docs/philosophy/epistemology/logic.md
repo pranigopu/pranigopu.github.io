@@ -33,8 +33,8 @@ TABLE OF CONTENTS
       - [Symbolic representations](#symbolic-representations)
       - [Terminology](#terminology)
       - [Relationships](#relationships)
-        - [For “if P then Q”](#for-if-p-then-q)
-        - [For “only if P then Q”](#for-only-if-p-then-q)
+        - [For "if P then Q"](#for-if-p-then-q)
+        - [For "only if P then Q"](#for-only-if-p-then-q)
       - [Translating from informal to formal](#translating-from-informal-to-formal)
     - [Alternative statement](#alternative-statement)
       - [Form](#form-1)
@@ -54,7 +54,7 @@ TABLE OF CONTENTS
           - [Synonymous quantities](#synonymous-quantities)
           - [Always default to particular](#always-default-to-particular)
           - [True for all implies true for some](#true-for-all-implies-true-for-some)
-          - [“Some” is not “only some”](#some-is-not-only-some)
+          - ["Some" is not "only some"](#some-is-not-only-some)
         - [Quality](#quality-1)
           - [Quality as logical not semantic or grammatical](#quality-as-logical-not-semantic-or-grammatical)
         - [Subject \& predicate](#subject--predicate)
@@ -70,7 +70,7 @@ TABLE OF CONTENTS
           - [O-proposition](#o-proposition)
           - [Summary](#summary)
       - [Relationships](#relationships-1)
-        - [For “only S is P”](#for-only-s-is-p)
+        - [For "only S is P"](#for-only-s-is-p)
         - [For different proposition types with identical subjects \& predicates](#for-different-proposition-types-with-identical-subjects--predicates)
           - [Contradictory](#contradictory)
           - [Contrary](#contrary)
@@ -185,7 +185,7 @@ In particular, since we need a standard that is applicable to any and every fact
 | Symbol | Meaning |
 | --- | --- |
 | A, B, C... | any part of reality |
-| ¬   | “not” |
+| ¬   | "not" |
 
 ### The law of identity
 Logic has but one law, which is the basic metaphysical axiom inherent in being qua being, namely the law of identity:
@@ -197,7 +197,7 @@ The subsequent laws of logic are, in essence, restatements of the law of identit
 ### The law of noncontradiction
 A cannot be ¬A in the same respect.
 
-The term “respect” means, “in relation to certain facts,” i.e. “in a certain context.” Note that with time, A can become ¬A in the same respect– but at that point, it is A anymore. Hence, to specify “at the same time” is redundant here.
+The term "respect" means, "in relation to certain facts," i.e. "in a certain context." Note that with time, A can become ¬A in the same respect– but at that point, it is A anymore. Hence, to specify "at the same time" is redundant here.
 
 Note that A and ¬A here can be anything; an entity, an attribute, an action, a unit, a concept, etc. Also, A and ¬A need not be the same kind of existent. With this in mind, we can apply the law of noncontradiction to the attribution of information.
 
@@ -217,7 +217,7 @@ To combine the above into one statement:
 
 **A cannot be B and ¬B at the same time & in the same respect**
 
-Note that time is emphasised because though it is implied in the term “respect”, it is the most important factor to consider.
+Note that time is emphasised because though it is implied in the term "respect", it is the most important factor to consider.
 
 ### The law of excluded middle
 **Anything that exists is either A or ¬A at a given time & in a given respect**
@@ -225,7 +225,7 @@ Note that time is emphasised because though it is implied in the term “respect
 This is validated by the law of noncontradiction. Note that the law of excluded middle does not state that A is either B or ¬B, where B is some particular. Assuming A and B are not identical, ¬A includes B but extends beyond it to include everything except A.
 
 ## Validation by reaffirmation through denial
-The laws of logic, i.e. the law of identity and its corollaries, are presupposed by any and every thought and action. To deny these laws presupposes their validity, i.e. any supposed refutation of these laws is forced to count on their validity, thereby becoming self-refuting. For example, the concept of “proof” rests on the validity of logic; you cannot “prove” the validity of logic, as logic is what makes proof possible. However, this very fact validates logic, i.e. shows that logic corresponds to reality.
+The laws of logic, i.e. the law of identity and its corollaries, are presupposed by any and every thought and action. To deny these laws presupposes their validity, i.e. any supposed refutation of these laws is forced to count on their validity, thereby becoming self-refuting. For example, the concept of "proof" rests on the validity of logic; you cannot "prove" the validity of logic, as logic is what makes proof possible. However, this very fact validates logic, i.e. shows that logic corresponds to reality.
 
 Validation is the process of showing that an idea corresponds to reality. Proof is a kind of validation that uses logic.
 
@@ -359,7 +359,7 @@ If P then Q:
 - **Consequent**: Q (conditional conclusion)
 
 #### Relationships
-##### For “if P then Q”
+##### For "if P then Q"
 if P then Q, i.e. P → Q, implies:
 
 - If P happens, Q _necessarily_ follows.
@@ -373,7 +373,7 @@ Hence, we have that
 
 P → Q ≡ ¬Q → ¬P
 
-##### For “only if P then Q”
+##### For "only if P then Q"
 only if P then Q, implies:
 
 - P is a necessary condition for Q.
@@ -384,7 +384,7 @@ Hence, we have that
 only if P then Q ≡ Q → P ≡ ¬P → ¬Q
 
 #### Translating from informal to formal
-The essence of any conditional or hypothetical word or phrase is captured by the form “if… then…” For example:
+The essence of any conditional or hypothetical word or phrase is captured by the form "if… then…" For example:
 
 - unless P, Q = if not P then Q
 - only if P then Q =
@@ -428,7 +428,7 @@ A categorical statement is classified with respect to 2 measures:
 - **Quality**
 
 ##### Terms of a statement
-A term of a statement is any class present in the statement. Hence, “term” may refer to either the subject or the predicate.
+A term of a statement is any class present in the statement. Hence, "term" may refer to either the subject or the predicate.
 
 ##### Subject
 The subject is the being or class of beings about which the statement gives some information. In other words, the subject is what the statement talks about.
@@ -440,16 +440,16 @@ The predicate is the being or class of beings to which the subject is related. T
 Denotes either universality or particularity for a class, i.e. refers to either all members or some members of a class. The quantifier denotes the quantity of the subject class.
 ##### Quality
 
-Denotes either an affirmative (“is”) or a negative (“is not”)  relationship between the subject and the predicate. The copula denotes the quality of the statement.
+Denotes either an affirmative ("is") or a negative ("is not")  relationship between the subject and the predicate. The copula denotes the quality of the statement.
 
 ##### Parts and types of categorical statements
 _Overview of the parts of a categorical statement_...
 
 | Part | Name | Form | Function |
 | --- | --- | --- | --- |
-| 1   | Quantifier | “all” or “some” | Denotes quantity. |
+| 1   | Quantifier | "all" or "some" | Denotes quantity. |
 | 2   | Subject |     |     |
-| 3   | Copula | “be” or “not to be” | Denotes quality. |
+| 3   | Copula | "be" or "not to be" | Denotes quality. |
 | 4   | Predicate |     | Informs about the subject. |
 
 ---
@@ -466,24 +466,24 @@ _Overview of the types of categorical statements_...
 #### Notes for conceptual clarity of above terms
 ##### Quantity
 ###### Synonymous quantities
-In ordinary language, there are many ways to refer to universality or particularity. For instance, universality may be unstated yet implied, or stated as “every”, “any”, “whichever”, etc. while particularity may be unstated yet implied, or stated as “many”, “most”, “a number of”, etc. Whatever the word or expression, universality is always translated as “all” and particularity is always translated as “some”.
+In ordinary language, there are many ways to refer to universality or particularity. For instance, universality may be unstated yet implied, or stated as "every", "any", "whichever", etc. while particularity may be unstated yet implied, or stated as "many", "most", "a number of", etc. Whatever the word or expression, universality is always translated as "all" and particularity is always translated as "some".
 
 ###### Always default to particular
-When it is not clear whether a statement denotes a universal or particular quantity, default to the particular “some”, since it commits you to the minimum information, thus removing the chance of making wrong assumptions.
+When it is not clear whether a statement denotes a universal or particular quantity, default to the particular "some", since it commits you to the minimum information, thus removing the chance of making wrong assumptions.
 
 ###### True for all implies true for some
 A universal statement implies a particular one. For example, we know that since all men are mortal, then some men are mortal. In other terms, if something is true for all, then it is true for some.
 
-###### “Some” is not “only some”
-Without extra knowledge (beyond the given statements), a statement with a particular quantity (i.e. an I or O-proposition) does not inform us about the rest of the subject class. For example, "some men are liars" does not mean that the rest of the men are not. The rest of the men may be honest, or they may be liars as well. However, this statement alone does not inform us about it. However, when we say "only some men are liars", then we know that the rest of the men are not liars. An “only some” statement tells us about the rest of the class, while a “some” statement by itself does not.
+###### "Some" is not "only some"
+Without extra knowledge (beyond the given statements), a statement with a particular quantity (i.e. an I or O-proposition) does not inform us about the rest of the subject class. For example, "some men are liars" does not mean that the rest of the men are not. The rest of the men may be honest, or they may be liars as well. However, this statement alone does not inform us about it. However, when we say "only some men are liars", then we know that the rest of the men are not liars. An "only some" statement tells us about the rest of the class, while a "some" statement by itself does not.
 
 ---
 
-**Why “only some” is not a valid quantifier**:
+**Why "only some" is not a valid quantifier**:
 
-“Only some” is not an essential quantifier, since an “only some” statement is reducible to two “some” statements. More precisely, an “only some” statement is reducible to one I-proposition + one O-proposition having the same predicate. Hence, "only some men are liars" is equivalent to "some men are liars" + "some men are not liars".
+"Only some" is not an essential quantifier, since an "only some" statement is reducible to two "some" statements. More precisely, an "only some" statement is reducible to one I-proposition + one O-proposition having the same predicate. Hence, "only some men are liars" is equivalent to "some men are liars" + "some men are not liars".
 
-Note that a set of statements such as the one above is sufficient to inform us about all the rest of the men, since the law of excluded middle means something is either A or ¬A, but cannot be both. Hence, we know that some men are liars and all the rest of them are not, since there is no category between “liar” and “non-liar”.
+Note that a set of statements such as the one above is sufficient to inform us about all the rest of the men, since the law of excluded middle means something is either A or ¬A, but cannot be both. Hence, we know that some men are liars and all the rest of them are not, since there is no category between "liar" and "non-liar".
 
 ##### Quality
 ###### Quality as logical not semantic or grammatical
@@ -499,7 +499,7 @@ In any statement, ordinary or logical, there is always a subject, i.e. what the 
 ###### Specified parts of a whole as subjects
 **Singular subjects**:
 
-When the subject consists of a single entity, such as “Socrates” or “Athens”, we apply the universal quantifier “all”. Hence, we get: "all Socrates" and "all Athens". The reason is that a single entity is a unified whole. If it is irreducible, then it consists only of itself. If not, then it consists of its components. In either case, the universal quantity is the right quantity to apply to singular subjects.
+When the subject consists of a single entity, such as "Socrates" or "Athens", we apply the universal quantifier "all". Hence, we get: "all Socrates" and "all Athens". The reason is that a single entity is a unified whole. If it is irreducible, then it consists only of itself. If not, then it consists of its components. In either case, the universal quantity is the right quantity to apply to singular subjects.
 
 ---
 
@@ -518,7 +518,7 @@ Note that in both cases, you are considering the subject of the statement as a w
 | Universal | A-proposition <br><br> All S is P | E-proposition<br><br>No S is P |
 | Particular | I-proposition <br><br> Some S is P | O-proposition<br><br>Some S is not P |
 
-Note that the E-proposition is not stated in the form “all S is not P,” because this is an amphibolous statement that can be interpreted in one of two distinct ways: "no S is P" or "some S is not P".
+Note that the E-proposition is not stated in the form "all S is not P," because this is an amphibolous statement that can be interpreted in one of two distinct ways: "no S is P" or "some S is not P".
 
 ##### Distribution
 A term is distributive if the proposition in which it occurs gives some information about every member of the class designated by that term. A distributive statement tells you something about each and every, i.e. all members of a class. An undistributive statement tells you something about some but not all members of a class (some, not only some).
@@ -574,7 +574,7 @@ For ease of indication:
 | O   | u   | d   | Some S(u) is not P(d) |
 
 #### Relationships
-##### For “only S is P”
+##### For "only S is P"
 Only S is P implies:
 
 - Any x that is P can only be S.
@@ -661,7 +661,7 @@ Note that:
 
 - Every statement has a subject and predicate
 - Any subject or predicate can be defined as a class
-- Every informal quantifier is logically either a universal or a particular, i.e. either “all” or “some”
+- Every informal quantifier is logically either a universal or a particular, i.e. either "all" or "some"
 - Every relationship between the subject and the predicate is either affirmative (positive identification) or negative (negative identification)
 
 By these facts, we see that a formal statement can always capture the logical essence of any statement without exception, without losing any logically relevant information.
@@ -677,7 +677,7 @@ Premises are hypothetical and categorical statements, and conclusion is a catego
 Note that affirmation or denial is in logical terms, not grammatical terms. The second statement may or may not be in the form of a grammatical negative, but this does not tell us whether or not it is a logical negative. For example:
 
 - If a man is illogical, then he is not happy
-- He is happy – denies the consequent “he is not happy”
+- He is happy – denies the consequent "he is not happy"
 - ∴ He is illogical
 
 Hence, note that in the hypothetical, the antecedent and consequent terms may include negatives. However, we can validly denote any negative term ¬X as a non-negative term Y = ¬X. Hence, in the presentation of the forms, the symbols P and Q (denoting the antecedent and consequent respectively) shall abstract this detail; P may be some ¬X, and Q may be some ¬Y, but this is not relevant to us.
@@ -768,7 +768,7 @@ The fallacy of broken chain is when a logical chain of hypotheticals is broken.
 
 #### Translating from informal to formal
 - Premises may not be presented in a straightforward manner.
-- Watch out for “only if” statements.
+- Watch out for "only if" statements.
 - Watch out for statements that, when converted to some equivalent form, would reveal that the chain is in fact valid.
 
 ### Alternative argument
@@ -813,11 +813,11 @@ The process of changing a proposition into a logically equivalent one by changin
 | I   | Some S is P | O   | Some P is S |
 | O   | Some S is not P | I   | NA  |
 
-\* _Converse of an A-proposition is not a true converse, because the conversion results in a more limited statement with less information. This is instead called a “converse by limitation.”_
+\* _Converse of an A-proposition is not a true converse, because the conversion results in a more limited statement with less information. This is instead called a "converse by limitation."_
 
-Note that an O-proposition does not have a converse, because, “Some S is not P,” can either mean, “No P is S,” or “Some P is S,”, which are contradictory inferences, neither being even a converse by limitation.
+Note that an O-proposition does not have a converse, because, "Some S is not P," can either mean, "No P is S," or "Some P is S,", which are contradictory inferences, neither being even a converse by limitation.
 
-Note also that while, “Some non-P is S,” is equivalent to, “Some S is not P,”, it is not a converse but rather the converse of the obverse–the predicate P is replaced by the new predicate non-P.
+Note also that while, "Some non-P is S," is equivalent to, "Some S is not P,", it is not a converse but rather the converse of the obverse–the predicate P is replaced by the new predicate non-P.
 
 ##### Contraposition
 The process of changing a proposition into a logically equivalent one by obverting the converse of the obverse of the original (i.e. first obverting, then converting the last result, then obverting the last result).
@@ -1003,7 +1003,7 @@ However, if an argument with 2 premises and a conclusion has more than 3 terms, 
 1. Translate informal statements–if any–to formal statements.
 2. Identify the terms involved–the subject, predicate and middle terms. <br> **NOTE**: _They are generally easiest to identify from the conclusion._
 3. Identify & arrange the premises & conclusions in syllogistic order.
-4. Restate the statements as a relation between two classes–the resulting copula must be some form of “to be”
+4. Restate the statements as a relation between two classes–the resulting copula must be some form of "to be"
 5. If there are more than 3 terms, try to reduce them–if possible–by identifying the logical inverses and using immediate inferences.
 6. If the argument is a syllogism–i.e. has only 3 terms–then check its validity by referring to the rules of syllogistic validity
 
@@ -1158,9 +1158,9 @@ In simple terms, the purpose of definitions dictates that we must (1) choose the
 **NOTE**: _The fundamentality of the differentia is elaborated in the rule of fundamentality._
 
 ##### How context determines specificity
-Always note that the required or relevant context determines the specificity required. For example, regarding the definition of “human,” “rational animal” is sufficient for philosophical discussion; it defines the fundamental characteristics required to discuss human nature in broad philosophical terms. Here, “rational mammal” would entail needless specificity; there is nothing philosophically relevant in the genus “mammal” that is not also present in the genus “animal.” However, for the purposes of biology, we may require more specificity, and thereby define “human” as “rational mammal,” “rational primate,” etc.
+Always note that the required or relevant context determines the specificity required. For example, regarding the definition of "human," "rational animal" is sufficient for philosophical discussion; it defines the fundamental characteristics required to discuss human nature in broad philosophical terms. Here, "rational mammal" would entail needless specificity; there is nothing philosophically relevant in the genus "mammal" that is not also present in the genus "animal." However, for the purposes of biology, we may require more specificity, and thereby define "human" as "rational mammal," "rational primate," etc.
 
-In other words, define the genus based on the specific category of beings you want to or need to distinguish your concept from, i.e. find the minimum conceptual common denominator (CCD) required. For example, when defining “socialism,” we need to define it within the broader category of “political systems” rather than overly broad categories such as “ideas” or “systems.”
+In other words, define the genus based on the specific category of beings you want to or need to distinguish your concept from, i.e. find the minimum conceptual common denominator (CCD) required. For example, when defining "socialism," we need to define it within the broader category of "political systems" rather than overly broad categories such as "ideas" or "systems."
 
 ### Rule 2: Equivalence rule
 The definiendum (the class being defined) and the definiens (the definition offered) must be logically equivalent in the given context. In other words, for the given context, the definition must be true (a) for all members of the definiendum and it must be true (b) only of the members of the definiendum.
@@ -1179,152 +1179,107 @@ To avoid making these fallacies, here are some tips. (1) Let your mind range ove
 #### Checking equivalence
 Your definition is logically equivalent when you can assert it as an A-proposition which is simply convertible. Note that an A-proposition is a categorical statement of the form "all S is P". This proposition is not simply convertible by itself, since from "all S is P", you can only determine that "some P is S "and not that "all P is S". A simply convertible A-proposition is such that you can say from "all S is P" that "all P is S". In other words, you should be able to assert your definition in both ways:
 
-- All S is P ( condition (a) is fulfilled)
+- All S is P (condition (a) is fulfilled)
 - All P is S (condition (b) is fulfilled)
 
 ### Rule 3: Fundamentality rule
 
-The definition must state fundamental characteristics.
-
-i.e.
-
-The essential characteristics used in the definition must also be the fundamental characteristics (in the given context).
+The definition must state fundamental characteristics. In other words, the essential characteristics used in the definition must also be the fundamental characteristics (in the given context).
 
 #### Validation
-
 This rule becomes crucial if the units of a given concept have a number of distinctive characteristics, each true for all units and only true for those units in the given context. The purpose of a definition is, in essence, unit-economy in cognition. This means that a definition must be a proper condensation of a concept and not a catalogue of its distinctive characteristics.
 
 In short, the fundamental characteristics, due to their relatively wide-ranging implications about the nature of the units of a concept, makes them the only rational choice of differentia. In other words, fundamental characteristics have the most causal significance, and thus, imply the widest context possible with the fewest possible mental units. Consequently, grasping the fundamental characteristics enables you to understand the properties and behaviour of a being in the widest range of situations and circumstances.
 
 #### Identifying the fundamentals
-
-- If we have one or more distinctive characteristics, find out what distinctive character–either among them or some other–is the root or cause of them that is itself a distinctive characteristic.
-- If a distinctive characteristic does not have any roots that are also distinctive to the class, this does not mean this characteristic is fundamental.
+If we have one or more distinctive characteristics, find out what distinctive character (either among them or some other) is the root or cause of them that is itself a distinctive characteristic. Note that if a distinctive characteristic does not have any roots that are also distinctive to the class, this does not mean this characteristic is fundamental.
 
 #### Fundamentality being the fundamental rule
-
 The rule of fundamentality is implicit in every other rule, i.e. the violation of any other rule automatically violates this one. Hence, to pinpoint the flaws in a definition, first check with every other rule.
 
 ### Rule 4: Circularity rule
-
-The definition must not–directly or indirectly–define the subject by the subject itself.
-
-i.e.
-
-The definition must not contain any content that, to understand, presupposes the definition you are supposed to be providing.
+The definition must not–directly or indirectly–define the subject by the subject itself. In other words, the definition must not contain any content that, to understand, presupposes the definition you are supposed to be providing.
 
 #### Ways to commit circularity
 
-- Naming the concept being defined or its derivatives.  
-    Ex. Democracy: “A system of governance in which leaders are elected democratically.”
-- Use of synonyms or synonymous expressions for the concept being defined or its derivatives.  
-    Ex. Lateness: “The state of tardiness.”
+1.<br>
 
-- Note that synonyms can help if you already have a definition for the concept and just need to connect this definition with the synonyms.
+Naming the concept being defined or its derivatives. For example: Democracy being defined as "a system of governance in which leaders are elected democratically".
 
-- Use of concepts whose own definitions require the concept being defined.
-- Use of correlatives–i.e. 2 things so related that the existence of either implies the existence of the other  
-    Ex.
+2.<br>
 
-- Cause: “That which creates an effect.”  
-    Effect: “That which is caused by something.”
-- Husband: “A man who has a wife.”  
-    Wife: “A woman who has a husband.”
+Use of synonyms or synonymous expressions for the concept being defined or its derivatives. For example: Lateness being defined as "the state of tardiness". Note that synonyms can help if you already have a definition for the concept and just need to connect this definition with the synonyms.
+
+3.<br>
+
+Use of concepts whose own definitions require the concept being defined.
+
+4.<br>
+
+Use of correlatives, i.e. 2 things so related that the existence of either implies the existence of the other. For example: Cause being defined as "that which creates an effect", and effect being defined as "that which is caused by something". As another example: Husband being defined as "a man who has a wife", and wife being defined as "a woman who has a husband".
 
 ##### Defining correlatives
-
-In defining correlatives, do not define one correlative in terms of the other–the 2-way implication between them means no new information is conveyed. Instead, define the actual essence of the correlatives, i.e. define the relationship between the correlatives. So, for example, to define “husband” or “wife,” first define the underlying relationship, i.e. “marriage.” Thus, define the correlatives with respect to their relationship.
+In defining correlatives, do not define one correlative in terms of the other–the 2-way implication between them means no new information is conveyed. Instead, define the actual essence of the correlatives, i.e. define the relationship between the correlatives. So, for example, to define "husband" or "wife," first define the underlying relationship, i.e. "marriage." Thus, define the correlatives with respect to their relationship.
 
 ### Rule 5: Negatives rule
-
-Where possible, a definition must be positive not negative.
-
-i.e.
-
-As far as possible, a definition must identify what something is rather than what it is not.
+Where possible, a definition must be positive not negative. In other words, as far as possible, a definition must identify what something is rather than what it is not.
 
 #### Validation
-
 Identity is defined by the existence of specific attributes. Thus, identification of concepts, i.e. definitions, must involve identification of what exists. Note that even when identifying a concept in negatives, you are necessarily identifying it with respect to positives; an absence can only be identified if you know what could be present but is not. Furthermore, confirming a positive is far easier than confirming a negative, since a positive is immediately identifiable while a negative can only be identified by first confirming what is in fact present.
 
 Hence, positive definitions must precede negative ones, and choosing a negative definition where a positive one is available reduces your ability–in terms of efficiency and effectiveness–to identify and apply the concept.
 
 ---
 
-Note that there are certain concepts that can only be defined in terms of negatives, due to the only differentia possible in the given context being the absence of certain characteristics. For example,
+**NOTE: Valid negative defnitions**:
 
-- Bachelor: “Unmarried (i.e. not married) man.”
-- Vacuum: “Space without matter.”
-- Orphan: “Person without parents.”
-- Bald: “Absence of hair.”
+There are certain concepts that can only be defined in terms of negatives, due to the only differentia possible in the given context being the absence of certain characteristics. Some examples are:
+
+- Bachelor: "Unmarried (i.e. not married) man"
+- Vacuum: "Space without matter"
+- Orphan: "Person without parents"
+- Bald: "Absence of hair"
 
 ### Rule 6: Obscurity rule
-
 (This is a general rule for thought, not just definitions)
 
-Definition must be stated literally (i.e. with exact meaning), clearly and simply and economically as possible–for the relevant context
-
-i.e.
-
-Say what you mean and mean what you say, directly, clearly, exactly and simply as possible–for the relevant context.
+Definition must be stated literally (i.e. with exact meaning), clearly and simply and economically as possible–for the relevant context. In other words, say what you mean and mean what you say, directly, clearly, exactly and simply as possible, for the relevant context.
 
 #### Validation
-
-An unnecessarily complicated, difficult-to-retain definition defeats the essential purpose of a definition: achieving unit-economy by effectively condensing the nature of a concept in a given context.
-
-Note that legitimate technicality or specificity in the appropriate context is not necessarily a violation of this rule, even if the definitions seem overly complicated for someone outside this context. For example, the definitions of organs in medical terms would be far more specific and detailed than a layman’s definitions due to the different requirements of their respective contexts.
-
-Hence, the rule of obscurity, like every other rule, applies within a given context.
+An unnecessarily complicated, difficult-to-retain definition defeats the essential purpose of a definition: achieving unit-economy by effectively condensing the nature of a concept in a given context. Note that legitimate technicality or specificity in the appropriate context is not necessarily a violation of this rule, even if the definitions seem overly complicated for someone outside this context. For example, the definitions of organs in medical terms would be far more specific and detailed than a layman’s definitions due to the different requirements of their respective contexts. Hence, the rule of obscurity, like every other rule, applies within a given context.
 
 ### Final notes on validating definitions
-
-- Invalidating a definition does not mean you will be presented with a valid one. Furthermore, to invalidate a definition, you do not need to know the valid one.
-- You can neither make nor validate definitions out-of-context. Hence, every rule for the validity of definitions is to be applied within a given cognitive context.
+Invalidating a definition does not mean you will be presented with a valid one. Furthermore, to invalidate a definition, you do not need to know the valid one. Lastly, you can neither make nor validate definitions out-of-context. Hence, every rule for the validity of definitions is to be applied within a given cognitive context.
 
 ## Tips for forming valid definitions
+1.<br>
 
-- If unsure about how to define a concept in your specific context, start with a simpler, broader context and then narrow down.
-- Note the purpose of a definition in studies:  
-    To integrate and isolate an unlimited range of concretes for the purposes of specialised study.With this in mind, ask:
+If unsure about how to define a concept in your specific context, start with a simpler, broader context and then narrow down.
 
-- Is the definition too generalised so as to be useless for specialised study?  
-    i.e.  
-    Does the definition name a fundamental similarity that warrants a specialised study, or does it integrate too disparate a set of things so that it is not meaningful to study the concept in a more intensive context?  
+2.<br>
+
+Note the purpose of a definition in any area of study: to integrate and isolate an unlimited range of concretes for the purposes of specialised study. With this in mind, ask: is the definition too generalised so as to be useless for specialised study? In other words, does the definition name a fundamental similarity that warrants a specialised study, or does it integrate too disparate a set of things so that it is not meaningful to study the concept in a more intensive context?  
       
-    Note: The broader the scope of a definition, the less useful it is in a more intensive context.
-
----
+**NOTE**: _The broader the scope of a definition, the less useful it is in a more intensive context._
 
 # Inductive reasoning
-
-The essence of induction is the inference of generalisations (universals) from perceived instances (particulars). Deduction requires universals, and thus, presupposes induction; induction, thus, is the primary process of reasoning.
-
-Hence, human cognition without generalisation is a self-contradiction as it would have to be human cognition without induction, and thus, without deduction — hence, it would have to be cognition without reason, i.e. non-cognition.
+The essence of induction is the inference of generalisations (universals) from perceived instances (particulars). Deduction requires universals, and thus, presupposes induction; induction, thus, is the primary process of reasoning. Hence, human cognition without generalisation is a self-contradiction as it would have to be human cognition without induction, and thus, without deduction — hence, it would have to be cognition without reason, i.e. non-cognition.
 
 ## Definitions & clarifications
-
 ### Generalisation
-
-A proposition that ascribes an attribute to every member of an unlimited class (if the class were limited, it would be enumerable, making inference unnecessary since you can learn about each member individually).
-
-In formal terms, a generalisation is a proposition of the form:
+A proposition that ascribes an attribute to every member of an unlimited class (if the class were limited, it would be enumerable, making inference unnecessary since you can learn about each member individually). In formal terms, a generalisation is a proposition of the form:
 
 All S is P
 
-NOTE: No metaphysical proposition is a generalisation, since a metaphysical proposition only reaffirms the fact of existence and identity as such; no metaphysical proposition abstracts and ascribes attributes of particulars to every member of an unlimited class. Corollaries of metaphysical propositions are clearly also not generalisations, as they are merely recontextualisations of the metaphysical propositions.
+**NOTE**: _No metaphysical proposition is a generalisation, since a metaphysical proposition only reaffirms the fact of existence and identity as such; no metaphysical proposition abstracts and ascribes attributes of particulars to every member of an unlimited class. Corollaries of metaphysical propositions are clearly also not generalisations, as they are merely recontextualisations of the metaphysical propositions._
 
 ### Concept vs. generalisation
-
-Both concepts and generalisations are means of extending cognition beyond perception. Concepts are the means of integrating a range of concretes; integration here means to make a range of concretes retainable and accessible by a single mental unit. Concepts by themselves serve to organise existing knowledge (ex. to organise existing perceptions into a potentially unlimited category), not to claim new knowledge. Generalisations, on the other hand, are the means to gain new knowledge about the referents of concepts.
-
-Thus, while a concept is either valid or invalid but not true or false, a generalisation is either true or false rather than valid or invalid.
+Both concepts and generalisations are means of extending cognition beyond perception. Concepts are the means of integrating a range of concretes; integration here means to make a range of concretes retainable and accessible by a single mental unit. Concepts by themselves serve to organise existing knowledge (ex. to organise existing perceptions into a potentially unlimited category), not to claim new knowledge. Generalisations, on the other hand, are the means to gain new knowledge about the referents of concepts. Thus, while a concept is either valid or invalid but not true or false, a generalisation is either true or false rather than valid or invalid.
 
 ## The problem of induction
-
 Can observations of particulars ever lead to knowledge — with certainty — about the broader category under which the particulars lie? If so, how?
 
 ## Axioms of induction
-
 A method of reasoning must begin with axioms, i.e. propositions irreducible by logic (as they are the basis of logic). Such axioms must be (1) self-evident and (2) sufficient to cover every area the method of reasoning can explore.
 
 For any method of reasoning, we begin — before any generalisation — at the laws of logic and perceptions (which are self-evident). For deduction, we are also given generalisations as premises and — often — observations of particulars. However, we are not given generalisations at the start of induction, since induction is the method of reaching generalisations. To move from perceptions to generalisations, we need a means to integrate an unlimited class of perceptions, i.e. we need concepts. First-level concepts are concepts whose referents are perceptions, and thus, this is where we begin inductive reasoning.
@@ -1333,18 +1288,16 @@ However, concepts by themselves are not new knowledge but the integration of kno
 
 ---
 
-EXAMPLE: The concept of swans may be integrated by essentials that do not include their colour (since their colour is not key causal factors in their nature and are not necessitated by other similarities). If we find that, for some reason inherent in the nature of the swans, they have to be white, then the generalisation would be “all swans are white” (which is not true of course, but this is just an example), which is knowledge that goes beyond the concept of swan itself.
+**Example**:
+
+The concept of swans may be integrated by essentials that do not include their colour (since their colour is not key causal factors in their nature and are not necessitated by other similarities). If we find that, for some reason inherent in the nature of the swans, they have to be white, then the generalisation would be "all swans are white" (which is not true of course, but this is just an example), which is knowledge that goes beyond the concept of swan itself.
 
 ---
 
 The law that relates facts of reality to each other is the law of causality, which says that things can only act by their nature. Hence, it is through the discovery of causality that we discover something beyond known facts about a kind of thing so as to discover something that is necessitated by the nature of that kind of thing but was not evident in perception alone. Thus, generalisation must begin with applying concepts to perceived causal relationships.
 
----
+_Can causal relationships be perceived? If so, to what extent?_
 
-Can causal relationships be perceived? If so, to what extent?
+A perceptual causal relationship is the perception of an action of an entity or an interaction between two or more entities necessitated by the nature of the entities involved. If I push an object and the object moves, these actions are not only sequential but also causal, since it is self-evident that solid matter (which my hand and the ball both consist of) resists — and thus can impact — other solid matter. A first-level generalisation is a generalisation of a perceptual causal relationship, and it is formed by applying concepts to the causal relationship, i.e. retaining its essence and omitting its measurements. Hence, the axioms of induction are first-level generalisations, which — through a similar method of abstraction — can lead to higher-level generalisations.
 
-A perceptual causal relationship is the perception of an action of an entity or an interaction between two or more entities necessitated by the nature of the entities involved. If I push an object and the object moves, these actions are not only sequential but also causal, since it is self-evident that solid matter (which my hand and the ball both consist of) resists — and thus can impact — other solid matter. A first-level generalisation is a generalisation of a perceptual causal relationship, and it is formed by applying concepts to the causal relationship, i.e. retaining its essence and omitting its measurements.
-
-NOTE: Applying concepts only lead to a generalisation if the essence of the causal relationship is retained by the concepts being applied. For example, I can validly say, “fire burns paper” upon observing it, but it is invalid and thus false to say, “orange, waving things burn white, flat things”; the former retains the essence of the causal relationship (the heat and the material) whereas the latter omits it.
-
-Hence, the axioms of induction are first-level generalisations, which — through a similar method of abstraction — can lead to higher-level generalisations.
+**NOTE**: _Applying concepts only lead to a generalisation if the essence of the causal relationship is retained by the concepts being applied. For example, I can validly say, "fire burns paper" upon observing it, but it is invalid and thus false to say, "orange, waving things burn white, flat things"; the former retains the essence of the causal relationship (the heat and the material) whereas the latter omits it._
