@@ -42,7 +42,6 @@ The following are defined and explained in the file on quantifying probabilities
 - "Drawing from a distribution"
 
 The idea of maintaining the distribution of a random process across samples is discussed in the file on approximating distributions.
-<br><br>
 
 _Henceforth, "distribution" = "probability distribution" unless specified._
 
@@ -62,7 +61,6 @@ In the case where everything is known, no further work is needed. But in the cas
 
 ## 1.1. Test statistic
 Consider a theoretical distribution $\mathbb{P}$ which models a given random process whose sample space is $X$. A test statistic is an estimator of some parameter of $\mathbb{P}$ or a function of an estimator of some parameter of $\mathbb{P}$, i.e. it is a collection of maps (collection, because there is a map for each value of $n \in \mathbb{N}$) $T^n:X^n \rightarrow \mathbb{R}$ which implements some operation on any tuple of $X^n$. As with estimators, the distribution of the test statistic is a pushforward measure on $\mathbb{P}^n$ through $T^n$, i.e. $T^n_*\mathbb{P}^n$. This can be understood as the distribution of the results of applying a function $T^n$ to $n$ samples each drawn from $\mathbb{P}$.
-<br><br>
 
 To test how plausible the observed value of the test statistic is, we need to have some idea about the probability distribution of the test statistic itself. The essence of hypothesis testing is figuring out the test statistic's probability distribution (through exact derivations or approximations), then using this distribution to judge the plausibility of an observed value. We ask, in effect, "Given a set of samples as well as the knowledge and assumptions about the samples, the distribution and their relation, is the observed value too extreme (i.e. too unlikely or implausible)?"
 
@@ -83,7 +81,6 @@ In essence, we reject $H_0$ if our observation is _deemed_ to be _sufficiently u
 
 #### 1.2.3.1. Defining "sufficiently unlikely"
 We pick a parameter $\alpha \in (0, 1)$, the **confidence level**. This is a proportion of the most likely (i.e. highest probability) values of the test statistic's distribution. Since the proportion is that of a probability distribution, $\alpha$ is also the probability mass (i.e. combined probability) of the $(100 \times \alpha)$% most likely values of the test statistic. For example, if $\alpha = 0.95$, then it refers to the probability mass of the $95$% most likely values of the test statistic.
-<br><br>
 
 The smallest interval containing these values is called the **confidence interval**. Using the confidence interval, we can define what we mean by "sufficiently unlikely"; if an observed value of the test statistic lies outside the confidence interval, i.e. outside the range of the $(100 \times \alpha)$% most likely values of the test statistic, the observed value is deemed "sufficiently unlikely". Usually, $\alpha$ is chosen as $0.95, 0.99, 0.999,$ etc.
 
@@ -101,10 +98,7 @@ _Also called "one-tailed" and "two-tailed"_
 - "Left side" is the part of the distribution in $(-\infty, t]$
 - "Right side" is the part of the distribution in $[t, \infty)$
 
-<br>
-
 Depending on the type of distribution, the critical region, i.e. $(100 \times (1-\alpha))$% of the least likely (i.e. most extreme) values may lie on either only one side of the distribution, or on both sides of the distribution. The parts of the distribution that make up the critical region depend on (1) the shape of the distribution (extent of skewness, concentration of values, etc.) and (2) the confidence level considered. For example, for any symmetric distribution, equally extreme values lie on both sides, leading to the critical region being equally divided on both sides of the distribution. As another example, if the confidence level is low enough, an asymmetric distribution's critical region may lie on both sides of the mean (unequally divided), though for a high enough confidence level, an asymmetric distribution's critical region always lies on only one side of the distribution.
-<br><br>
 
 **NOTE: Effect of one or two sidedness on** $p$**-value**: 
 
