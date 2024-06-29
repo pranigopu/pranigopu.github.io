@@ -1,3 +1,9 @@
+<head>
+  <script type="text/javascript" id="MathJax-script" async
+    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+</head>
+
 [<< Back to **Statistics**](https://pranigopu.github.io/statistics)
 
 **QUANTIFYING PROBABILITY**
