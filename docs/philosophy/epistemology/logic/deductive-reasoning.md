@@ -87,7 +87,7 @@
         - [Rule 5: Negative statement rule](#rule-5-negative-statement-rule)
       - [Validating syllogisms in practice](#validating-syllogisms-in-practice)
       - [General steps for solving a syllogistic argument](#general-steps-for-solving-a-syllogistic-argument)
-  - [Translating from informal to formal–general points](#translating-from-informal-to-formalgeneral-points)
+  - [Translating from informal to formal – general points](#translating-from-informal-to-formal--general-points)
 
 ---
 
@@ -562,7 +562,7 @@ Only contains categorical statements as its premises and conclusions. The two ba
 An immediate inference is an argument wherein the conclusion is drawn from a single premise. By the nature of deduction, such a conclusion is either equivalent to the premise, or a more limited statement than the premise wherein information is lost. The elementary types of immediate inferences are given below.
 
 #### Obversion
-The process of changing a proposition into a logically equivalent one having a different quality–i.e. copula is inverted (affirmative to negative, or negative to affirmative).
+The process of changing a proposition into a logically equivalent one having a different quality – i.e. copula is inverted (affirmative to negative, or negative to affirmative).
 
 | Original |     | Obversion |     |
 | --- | --- | --- | --- |
@@ -585,7 +585,7 @@ The process of changing a proposition into a logically equivalent one by changin
 
 \* _Converse of an A-proposition is not a true converse, because the conversion results in a more limited statement with less information. This is instead called a "converse by limitation."_
 
-Note that an O-proposition does not have a converse, because, "Some S is not P," can either mean, "No P is S," or "Some P is S,", which are contradictory inferences, neither being even a converse by limitation. Note also that while, "Some non-P is S," is equivalent to, "Some S is not P,", it is not a converse but rather the converse of the obverse–the predicate P is replaced by the new predicate non-P.
+Note that an O-proposition does not have a converse, because, "Some S is not P," can either mean, "No P is S," or "Some P is S,", which are contradictory inferences, neither being even a converse by limitation. Note also that while, "Some non-P is S," is equivalent to, "Some S is not P,", it is not a converse but rather the converse of the obverse – the predicate P is replaced by the new predicate non-P.
 
 #### Contraposition
 The process of changing a proposition into a logically equivalent one by obverting the converse of the obverse of the original (i.e. first obverting, then converting the last result, then obverting the last result).
@@ -603,9 +603,9 @@ Here, only the contraposition of an A-proposition is useful to note.
 ### Syllogism
 A deductive argument containing 2 premises and 3 terms, 2 of which are linked in the conclusion as a result of the linking of each of them with the 3rd (also called middle) term in the premises. In other terms, a syllogism is a categorical argument which connects the terms S, M and P in the manner:
 
-- Premise 1: M–P (or P–M)
-- Premise 2: S–M (or M–S)
-- Conclusion: S–P
+- Premise 1: M – P (or P – M)
+- Premise 2: S – M (or M – S)
+- Conclusion: S – P
 
 Note that the left-side terms are the subjects, while the right side terms are the predicates. A simple example of such an argument is:
 
@@ -617,7 +617,7 @@ Note that the left-side terms are the subjects, while the right side terms are t
 
 **Minor term is**:
 
-The subject of conclusion. It is called so because usually–by the nature of most such deductive arguments–the conclusion’s subject is the term denoting the least broad, i.e. narrowest class in the argument.
+The subject of conclusion. It is called so because usually – by the nature of most such deductive arguments – the conclusion’s subject is the term denoting the least broad, i.e. narrowest class in the argument.
 
 **Minor premise**:
 
@@ -625,11 +625,11 @@ The premise containing the minor term; it is the 2nd premise.
 
 **Major term**:
 
-The predicate of conclusion. It is called so because usually–by the nature of most such deductive arguments–the conclusion’s predicate is the term denoting the least narrow, i.e. broadest class in the argument.
+The predicate of conclusion. It is called so because usually – by the nature of most such deductive arguments – the conclusion’s predicate is the term denoting the least narrow, i.e. broadest class in the argument.
 
 **Major premise**:
 
-The premise containing the minor term–the 1st premise.
+The premise containing the minor term – the 1st premise.
 
 **Middle term**:
 
@@ -659,7 +659,7 @@ The argument must have 3 and only 3 terms.
 
 **Justification**:
 
-A 2-premise argument where each premise relates only 2 terms can make a logical inference from at most 3 terms. **_Any more_**, and we have a case where the premises relate 2 distinct pairs of terms, and thus, are disconnected. Hence, the only logical conclusion possible is an immediate inference from one of the premises, making the other redundant. **_Any less_**, and we have 2 premises with the same subjects and predicates. Hence, either we say everything we could about the terms from the 2 premises alone or we say the same thing about the 2 terms twice–in either case, the only logical conclusion possible is an immediate inference from one of the premises, making the other redundant.
+A 2-premise argument where each premise relates only 2 terms can make a logical inference from at most 3 terms. **_Any more_**, and we have a case where the premises relate 2 distinct pairs of terms, and thus, are disconnected. Hence, the only logical conclusion possible is an immediate inference from one of the premises, making the other redundant. **_Any less_**, and we have 2 premises with the same subjects and predicates. Hence, either we say everything we could about the terms from the 2 premises alone or we say the same thing about the 2 terms twice – in either case, the only logical conclusion possible is an immediate inference from one of the premises, making the other redundant.
 
 ---
 
@@ -673,7 +673,7 @@ Having more than 3 terms in a syllogism.
 
 ##### Rule 2: Distributive middle rule
 
-The middle term must be distributive at least once in the argument–i.e. at least one premise must inform something about every member of the class denoted by the middle term.
+The middle term must be distributive at least once in the argument – i.e. at least one premise must inform something about every member of the class denoted by the middle term.
 
 **Justification**:
 
@@ -682,7 +682,7 @@ Only if the middle term (M) is distributive can you either
 - link all of M to some/all of the minor term, S, or
 - link all of M to some/all of the major term, P
 
-Of course, if either of the above are true, then M is distributive by definition; hence any one of these points is the necessary and sufficient condition for M to be distributive. Now, since M is the only term that can relate S to P across premises, the only way to relate S and P in a syllogism is to ensure that S and P do not link to distinct, non-overlapping parts of M. The only way to ensure this within the argument is to either (1) link all of M to some/all of the minor term, S, or (2) link all of M to some/all of the major term, P. In other words, the only way to ensure this within the argument is if M is distributive. Note again that M needs to be distributive in at least one premise–maybe both, but not none.
+Of course, if either of the above are true, then M is distributive by definition; hence any one of these points is the necessary and sufficient condition for M to be distributive. Now, since M is the only term that can relate S to P across premises, the only way to relate S and P in a syllogism is to ensure that S and P do not link to distinct, non-overlapping parts of M. The only way to ensure this within the argument is to either (1) link all of M to some/all of the minor term, S, or (2) link all of M to some/all of the major term, P. In other words, the only way to ensure this within the argument is if M is distributive. Note again that M needs to be distributive in at least one premise – maybe both, but not none.
 
 ---
 
@@ -700,9 +700,9 @@ If a term is distributive in the conclusion, then it must be distributive in the
 **Justification**:
 
 - Distributive ⇒ Some information about all members
-- Undistributive ⇒ Some information about some–not all– members
+- Undistributive ⇒ Some information about some – not all –  members
 
-In deduction, you never go from information about some members of a class to information about all members of the class; the essence of deduction is making explicit what is implicit–i.e. contained–in the given premises.
+In deduction, you never go from information about some members of a class to information about all members of the class; the essence of deduction is making explicit what is implicit – i.e. contained – in the given premises.
 
 ---
 
@@ -717,7 +717,7 @@ Minor term is distributed in conclusion but not in premises.
 Major term is distributed in conclusion but not in premises.
 
 ##### Rule 4: Two negative premises rule
-No conclusion follows from 2 negative premises–negative means either E or O-propositions.
+No conclusion follows from 2 negative premises – negative means either E or O-propositions.
 
 **Justification**:
 
@@ -729,7 +729,7 @@ Hence,
 - Some/all of P is not M ⇒  Some/all of P is non-M ... (1)
 - Some/all of S is not M ⇒ Some/all of S is non-M ... (2)
 
-But notice that in both (1) and (2), the linking term–which is non-M–is not distributive. Therefore–violating the distributed middle rule–non-M is not a logical, i.e. guaranteed link between S and P, hence no conclusion can be drawn.
+But notice that in both (1) and (2), the linking term – which is non-M – is not distributive. Therefore – violating the distributed middle rule – non-M is not a logical, i.e. guaranteed link between S and P, hence no conclusion can be drawn.
 
 _To see it in another way_...
 
@@ -762,17 +762,17 @@ _To see it in another way_...
 Since we can only relate S and P through a part of M, if we know that some/all of S is non-overlapping with some/all of P, then it must be that the part of M linking S and P in the premises must be non-overlapping with either S or P.
 
 #### Validating syllogisms in practice
-If an argument with 2 premises, 3 terms and a conclusion–i.e. a syllogism– is invalid, then it cannot be anything but invalid because it violates one of the 4 other rules, and–by the nature of the rules of syllogistic validity–such a violation necessarily means that the argument is invalid.
+If an argument with 2 premises, 3 terms and a conclusion – i.e. a syllogism –  is invalid, then it cannot be anything but invalid because it violates one of the 4 other rules, and – by the nature of the rules of syllogistic validity – such a violation necessarily means that the argument is invalid.
 
 However, if an argument with 2 premises and a conclusion has more than 3 terms, it may be reducible to a valid syllogism only if the extra terms are logical inverses of one of 3 essential terms. To help convert such an argument to a valid syllogism, we can use one or more immediate inferences on one or more of the argument’s statements.
 
 #### General steps for solving a syllogistic argument
-1. Translate informal statements–if any–to formal statements.
-2. Identify the terms involved–the subject, predicate and middle terms. <br> **NOTE**: _They are generally easiest to identify from the conclusion._
+1. Translate informal statements – if any – to formal statements.
+2. Identify the terms involved – the subject, predicate and middle terms. <br> **NOTE**: _They are generally easiest to identify from the conclusion._
 3. Identify and arrange the premises and conclusions in syllogistic order.
-4. Restate the statements as a relation between two classes–the resulting copula must be some form of "to be"
-5. If there are more than 3 terms, try to reduce them–if possible–by identifying the logical inverses and using immediate inferences.
-6. If the argument is a syllogism–i.e. has only 3 terms–then check its validity by referring to the rules of syllogistic validity
+4. Restate the statements as a relation between two classes – the resulting copula must be some form of "to be"
+5. If there are more than 3 terms, try to reduce them – if possible – by identifying the logical inverses and using immediate inferences.
+6. If the argument is a syllogism – i.e. has only 3 terms – then check its validity by referring to the rules of syllogistic validity
 
-## Translating from informal to formal–general points
+## Translating from informal to formal – general points
 Purpose of translation is to let the logical structure stand out clearly, and to make the logical relationships clearer. Doing so enables you to grasp (1) the argument’s essence, (2) the argument’s implications, and (3) the basis of the argument’s validity or invalidity. The translation can and should retain all the logical meaning. Hence, identify the implicit terms or presuppositions
