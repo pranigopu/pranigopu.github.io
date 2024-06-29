@@ -97,7 +97,7 @@ As previously said, to affirm is to affirm that "what is, is", and to accept tha
 ---
 
 # Axiom 1: Existence exists
-Existence exists. More precisely, only existence exists, and existence only exists. (1) If not only existence exists, then something outside existence exists. But this must be a part of existence. Therefore, only existence exists. (2) If existence does not only exist, then existence also does not exist. But what is, is, and what is not, is not. Therefore, existence only exists.
+Existence exists. More precisely, only existence exists, and existence only exists. (1) If not only existence exists, then something outside existence exists. But this must be a part of existence. Therefore, only existence exists. (2) If existence does not only exist, then existence also does not exist. But then, there would be nothing. Now, note that "nothing" is merely that which does not exist, i.e. that which is not. But what is, is, and what is not, is not. Hence, there cannot "be" nothing, since to be is to be something that exists. Therefore, existence only exists.
 
 Existence is not an irreducible whole; we exist and are aware of things that exist as a part of existence. Any part of existence, which we shall call a "thing", exists due to the nature of existence itself. Since a thing is a part of existence and not the whole, it is not true that only it exists, because saying so would deny the existence of other things that exist. However, since a thing is a part of existence, it is true that it only exists, because if it does not exist, then it is not a part of existence and hence is not a thing. After all, what is, is, and what is not, is not.
 
