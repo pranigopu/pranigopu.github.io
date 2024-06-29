@@ -103,7 +103,11 @@ Existence exists. More precisely, only existence exists, and existence only exis
 
 Existence is not an irreducible whole; we exist and are aware of things that exist as a part of existence. Any part of existence, which we shall call a "thing", exists due to the nature of existence itself. Since a thing is a part of existence and not the whole, it is not true that only it exists, because saying so would deny the existence of other things that exist. However, since a thing is a part of existence, it is true that it only exists, because if it does not exist, then it is not a part of existence and hence is not a thing. After all, what is, is, and what is not, is not.
 
-**NOTE**: _When I say that a thing only exists, I mean that as long as it is a part of existence, it only exists. Of course, there are things that cease to exist, at which point they are not things anymore, i.e. they are nothing. In other words, as long as a thing exists, it only exists and cannot be in a state between existence and non-existence._
+---
+
+**NOTE 1**: When I say that a thing only exists, I mean that as long as it is a part of existence, it only exists. Of course, there are things that cease to exist, at which point they are not things anymore, i.e. they are nothing. In other words, as long as a thing exists, it only exists and cannot be in a state between existence and non-existence.
+
+**NOTE 2**: The fact that multiplicity is inherent in existence shall be proved later.
 
 # _The axiomatic fact of consciousness_
 
@@ -175,6 +179,8 @@ To extend the idea further, note that the identity of the change in any part of 
 _The interactive nature of causality_...
 
 Any entity is necessarily within some part of reality. Let us pick some part of reality and call it X. Now, since the identities of the entities within X as well as the identities of their actions affect the identity of any change in X as a whole, it stands to reason that the actions of any entity within X are or can be affected by the actions of the other entities within X. Furthermore, drawing from our observations, we observe that entities can and often do act according to the actions of other entities in their environment, i.e. reactions and thus interactions exist; it is an easily-made observation that reveals that interactivity is consistent not only with causality in abstract terms but also with causality in concrete terms.
+
+**NOTE**: _The fact that interactivity is inherent in existence shall be proved later._
 
 _To summarise and add related points_...
 
