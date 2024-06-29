@@ -116,7 +116,7 @@ In words, unbiasedness implies that the mean of the distribution of the estimato
 ## 1.3. Some noteworthy estimators
 
 1. Sample mean, distributed by $\bar{\mathbb{P}}_n$
-2. Sample variance, distributed by $\frac{1}{n}(\mathbb{(P-\mu(\mathbb{P})}^n)$
+2. Sample variance, distributed by $\frac{1}{n}(\mathbb{P}-\mu(\mathbb{P})^n)$
 
 **MORE ON SAMPLE MEAN DISTRIBUTION**:<br>
 The sample mean distribution is such that....
