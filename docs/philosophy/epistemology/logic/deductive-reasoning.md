@@ -220,10 +220,10 @@ Denotes either an affirmative ("is") or a negative ("is not")  relationship bet
 
 | Part | Name | Form | Function |
 | --- | --- | --- | --- |
-| 1   | Quantifier | "all" or "some" | Denotes quantity. |
+| 1   | Quantifier | "all" or "some" | Denotes quantity |
 | 2   | Subject |     |     |
-| 3   | Copula | "be" or "not to be" | Denotes quality. |
-| 4   | Predicate |     | Informs about the subject. |
+| 3   | Copula | "be" or "not to be" | Denotes quality |
+| 4   | Predicate |     | Informs about the subject |
 
 #### Types of a categorical statement/proposition
 
