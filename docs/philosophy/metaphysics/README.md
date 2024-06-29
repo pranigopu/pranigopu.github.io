@@ -15,10 +15,10 @@
 - [Axiom 1: Existence exists](#axiom-1-existence-exists)
 - [_The axiomatic fact of consciousness_](#the-axiomatic-fact-of-consciousness)
 - [Axiom 2: The law of identity](#axiom-2-the-law-of-identity)
-  - [Non-contradiction](#non-contradiction)
-  - [Existence is identity](#existence-is-identity)
-  - [Application of the concept of identity](#application-of-the-concept-of-identity)
-  - [The principle of causality](#the-principle-of-causality)
+  - [Corollary 1: Non-contradiction](#corollary-1-non-contradiction)
+  - [Corollary 2: Existence is identity](#corollary-2-existence-is-identity)
+  - [_Application of the concept of identity_](#application-of-the-concept-of-identity)
+  - [Corollary 3: The principle of causality](#corollary-3-the-principle-of-causality)
 - [The primacy of existence](#the-primacy-of-existence)
 - [Infinity with respect to existence](#infinity-with-respect-to-existence)
   - [The nature of infinity](#the-nature-of-infinity)
@@ -122,22 +122,22 @@ A thing is what it is, and this is the law of identity. If a thing is not what i
 
 One might say that a thing may be multiple things at once, or multiple things may be referred to as one. However, this conflates abstractions with their concrete referents. When I say "thing", I am referring to a particular, concrete part of reality, which can be identified through a variety of abstractions that focus on some attributes and omit the rest. Note also that when multiple things are referred to as one, I am abstracting their similarities, omitting their differences and retaining this abstraction as a unified whole that can be broken down into its concrete referents when necessary. Thus, to re-emphasise, by "thing" here, I am referring to a particular, concrete part of reality rather than the abstractions derived from it. However, the law of identity naturally extends to abstractions too, in the sense that any abstraction in a given context refers to a particular subset of reality and no other, and thus, has only a particular meaning in the given context and no other.
 
-## Non-contradiction
+## Corollary 1: Non-contradiction
 If A contradicts B, that means if A exists, then B does not, and if B exists, then A does not. If both hold true, then (1) A exists and does not exist, i.e. A has to be both A and not A, and (2) B exists and does not exist, i.e. B has to be both B and not B. This violates the law of identity. Hence, if A contradicts B, then A and B cannot both exist at once, which means either A exists or B exists or both do not exist (if possible). This is the law of non-contradiction and is a corollary of the law of identity.
 
-## Existence is identity
+## Corollary 2: Existence is identity
 The previous paragraphs point to the fact that to exist is to be something, i.e. to have identity. In other words, existence is identity. To reiterate a previous point in other terms, if X does not have an identity, then X is not X, i.e. X does not exist. This is to reiterate the fact that identity is not something that just "happens to be the case in existence", but rather, identity is integral to and inseparable from the fact of existence. In fact, the two axioms given so far are the same one self-evident truth; the law of identity is essentially the axiom of existence from the perspective of particulars.
 
 **NOTE**: _The law of identity does not logically depend on the axiom of existence; there can be no logical dependence in the truths that presuppose logic. Rather, the axioms are the same one self-evident truth affirmed explicitly in two ways: one way affirms the fact of existence for all particulars together (the axiom of existence), the other way affirms the fact of existence for any given particular (the law of identity)._
 
-## Application of the concept of identity
+## _Application of the concept of identity_
 To expand on the concept of identity, note that a thing cannot have contradictory attributes, i.e. attributes that negate each other. Furthermore, a thing can have neither more attributes than its identity allows nor less attributes than its identity demands, since by the law of identity, a thing is what it is and only what it is.
 
 For example, observing that the presence of a colour negates the presence of other colours in a given space, we can say that an object cannot be all red and all green at the same time. Similarly, observing that various attributes of a stone and a leaf contradict each other (e.g. a stone is rigid and hard while a leaf is flexible and soft, a stone does not grow from plants while a leaf is a vital part of a plant, etc.), we can say that an object cannot be a stone and a leaf at the same time.
 
 As another example, consider a light bulb. Saying that a light bulb is also an ornament does not contradict its identity, because its use as an ornament involves some subset of its existing attributes, such as solidity, aesthetics, etc., and no contradicting attributes. Now, note that it would be wrong to state that a light bulb is only an ornament, because it would omit a variety of existing attributes demanded by its identity. Similarly, it would be wrong to call every ornament a light bulb, because an ornament may not have all the attributes needed to be a light bulb.
 
-## The principle of causality
+## Corollary 3: The principle of causality
 _First, some definitions_...
 
 **NOTE**: _Entities and actions must ultimately be defined through ostensive definitions since they are concepts from direct perceptions that are irreducible to other perceptions; on some basic level, an entity is grasped as a whole and an action or a change is a single perception. But I shall indicate some defining aspects that can show where to look._
