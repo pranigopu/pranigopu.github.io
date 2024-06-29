@@ -63,28 +63,28 @@
 # Introduction
 A definition is a statement that identifies the nature of the units subsumed under a concept. In other terms, definitions serve to give each concept a clear, specific identity in one’s cognitive context, and thus, identify its essence, its referents in reality, and its distinctness from other concepts. For this discussion, the valid method of concept formation and the meaning of concepts is taken for granted.
 
-The fundamental tool of reason, and thus, of logic, is concepts. Concepts are the link between perceptual information and knowledge, i.e. the grasp of (1) the key facts that unite and divide relevant parts of reality–relevant with respect to us and our purposes, of course, and (2) he core causes, attributes and relationships–of and between entities–underlying perceived facts–i.e. the essentials and the fundamentals of perceived reality, i.e. the nature (i.e. identity) of entities, and the derived nature of their actions and interactions. Note that the nature of entities is the cause, their actions the effect.
+The fundamental tool of reason, and thus, of logic, is concepts. Concepts are the link between perceptual information and knowledge, i.e. the grasp of (1) the key facts that unite and divide relevant parts of reality – relevant with respect to us and our purposes, of course, and (2) he core causes, attributes and relationships – of and between entities – underlying perceived facts – i.e. the essentials and the fundamentals of perceived reality, i.e. the nature (i.e. identity) of entities, and the derived nature of their actions and interactions. Note that the nature of entities is the cause, their actions the effect.
 
-Concepts are the basic, indispensable means of expanding the range and depth of our cognition, and the primary means to efficiently and effectively expand the use of our finite capacity. A definition is–in essence–an effective condensation of a concept, i.e. a statement that captures the whole relevant context of knowledge conveyed by a concept while minimising the mental units required to hold this context in focus. Hence, definitions are indispensable in the proper grasp, retention and application of concepts. Due to its vital role in cognition in general and logic in particular, we shall explore the rules that enable us to form and validate effective definitions.
+Concepts are the basic, indispensable means of expanding the range and depth of our cognition, and the primary means to efficiently and effectively expand the use of our finite capacity. A definition is – in essence – an effective condensation of a concept, i.e. a statement that captures the whole relevant context of knowledge conveyed by a concept while minimising the mental units required to hold this context in focus. Hence, definitions are indispensable in the proper grasp, retention and application of concepts. Due to its vital role in cognition in general and logic in particular, we shall explore the rules that enable us to form and validate effective definitions.
 
 # Elaboration of key terms
 (Credits to: Ayn Rand)
 
 ## Unit
-A unit is a member of a group of similar beings. It is the result of viewing an being in relation to similar beings, retaining the similarities and omitting the differences between them. Note that by omitting differences, we do not deny that they exist; rather, we are saying that differences exist but may exist in any quantity–it is only that these particular differences are not considered.
+A unit is a member of a group of similar beings. It is the result of viewing an being in relation to similar beings, retaining the similarities and omitting the differences between them. Note that by omitting differences, we do not deny that they exist; rather, we are saying that differences exist but may exist in any quantity – it is only that these particular differences are not considered.
 
 ## Concept
-The mental integration of units of a certain kind. In other words, a single mental unit–a word or statement–is used to refer to any unit of that kind. Units are identification of a specific–though unlimited–set of concretes, and thus, concepts are the integration of a range of concretes into a single mental unit.
+The mental integration of units of a certain kind. In other words, a single mental unit – a word or statement – is used to refer to any unit of that kind. Units are identification of a specific – though unlimited – set of concretes, and thus, concepts are the integration of a range of concretes into a single mental unit.
 
 ### Measurement omission
-The key aspect of concept-formation is measurement omission, i.e. the process of retaining the shared, distinctive characteristics that unite the members of a group while omitting–not denying but keeping out of focus–the differences in measurements of these characteristics between members of the same group.
+The key aspect of concept-formation is measurement omission, i.e. the process of retaining the shared, distinctive characteristics that unite the members of a group while omitting – not denying but keeping out of focus – the differences in measurements of these characteristics between members of the same group.
 
 ### Concept vs. conceptualisation
-Since identity is not dependent on consciousness, the referents of a concept do not change; the concept can refer to any being possessing a certain set of characteristics. In other words, while our knowledge of the referents of a concept–and thus the concept’s definition–is contextual and can change with one’s cognitive context, the referents themselves are what they are–or were, or can be–independent of consciousness. Hence, the concept remains the same for any context.
+Since identity is not dependent on consciousness, the referents of a concept do not change; the concept can refer to any being possessing a certain set of characteristics. In other words, while our knowledge of the referents of a concept – and thus the concept’s definition – is contextual and can change with one’s cognitive context, the referents themselves are what they are – or were, or can be – independent of consciousness. Hence, the concept remains the same for any context.
 
 _In other words_...
 
-Since a concept is the mental integration of a fixed–albeit unlimited–set of referents, a concept as such is not contextual; only our grasp of it is. A concept as such implies any and every piece of knowledge we may learn about its referents–this is made possible by measurement omission. In this regard, a concept is like an arithmetic sequence integrated as an algebraic formulation. Such a formulation refers to an unlimited range of terms possessing a certain characteristic and implies anything we may learn about these terms–either individually or as a whole.
+Since a concept is the mental integration of a fixed – albeit unlimited – set of referents, a concept as such is not contextual; only our grasp of it is. A concept as such implies any and every piece of knowledge we may learn about its referents – this is made possible by measurement omission. In this regard, a concept is like an arithmetic sequence integrated as an algebraic formulation. Such a formulation refers to an unlimited range of terms possessing a certain characteristic and implies anything we may learn about these terms – either individually or as a whole.
 
 However, we do not form any knowledge, including concepts, in a vacuum. To form a concept, we first need some cognitive context from which we can begin abstracting perceptions into units and integrating these units into concepts. Hence, every concept is grasped in a specific cognitive context. Therefore, the process of conceptualisation is contextual. However, the end product of this process is not simply a sum of our knowledge but a reference to an unlimited range of concretes by implication (mainly through measurement omission).
 
@@ -116,7 +116,7 @@ A characteristic that is the effect, i.e. the derivative of an essential charact
 ### Objectivity of essentials & fundamentals
 Essentials or fundamentals can only be identified in a certain cognitive context; we cannot identify more than we know. Furthermore, the required context in which we need to retain the nature of the units subsumed by a concept may necessitate a more limited cognitive context, thereby limiting what we may identify as essentials or fundamentals. In either case, we see that essentials and fundamentals are defined with respect to a certain context.
 
-Metaphysically, beings have no essentials and fundamentals as such. Metaphysically–i.e. independent of consciousness–only concretes exist, and the identity of a concrete consists of everything that it is and not just some set of basic features. Essentials and fundamentals are identified based on our conscious purpose and knowledge–they are only relevant to unit-perception. They do refer to reality and are objective, but they are not independent of consciousness as they are the products of a conscious, selective focus on reality.
+Metaphysically, beings have no essentials and fundamentals as such. Metaphysically – i.e. independent of consciousness – only concretes exist, and the identity of a concrete consists of everything that it is and not just some set of basic features. Essentials and fundamentals are identified based on our conscious purpose and knowledge – they are only relevant to unit-perception. They do refer to reality and are objective, but they are not independent of consciousness as they are the products of a conscious, selective focus on reality.
 
 ## Definition
 A definition is a statement that identifies the nature of the units subsumed under a concept by means of specifying their essential characteristics. In other words, a definition is the statement of essence. Given that essentials are contextual, so are definitions. A statement that merely identifies facts or truths about the units of a concept or the concept as a whole is not necessarily a definition. To be a definition, the statement has to specify and be limited to the essentials. This restriction arises from the role of definitions in cognition; an effective condensation of a concept that minimises the mental units required to hold the whole context of a concept in focus.
@@ -129,7 +129,7 @@ Given their contextual nature, definitions can change with the cognitive context
 
 ### What a definition is not
 #### Ostensive definition
-A definition is a conceptual statement and not the mere presentation of instances or examples of a concept. For certain concepts which form the basis of–and are presupposed by–any other concept, we obviously cannot provide conceptual statements to define them as that would result in a circular definition. Examples of such concepts are:
+A definition is a conceptual statement and not the mere presentation of instances or examples of a concept. For certain concepts which form the basis of – and are presupposed by – any other concept, we obviously cannot provide conceptual statements to define them as that would result in a circular definition. Examples of such concepts are:
 
 - Sensations and basic perceptions
 - Metaphysical axiomatic concepts such as existence, identity, and entity
@@ -170,12 +170,12 @@ Concepts are a form of organising perceptual material, which means not just disc
 #### Validation using CCD
 2 or more existents can only be differentiated on the basis of mutually exclusive characteristics (since mutually non-exclusive characteristics could exist in both at once, thereby not differentiating them). The only way to ensure such mutual exclusivity is to identify characteristics that are different measurements of the same broader characteristic.
 
-Hence, 2 or more existents can only be differentiated on the basis of a shared commensurable characteristic, wherein each existent contains a different measurement of this characteristic. The set of the essential commensurable characteristics shared by a set of existents is their conceptual common denominator–CCD. Note that the CCD for everything in existence (considered at once) is existence itself. Hence, the process of differentiation is scalable to any level.
+Hence, 2 or more existents can only be differentiated on the basis of a shared commensurable characteristic, wherein each existent contains a different measurement of this characteristic. The set of the essential commensurable characteristics shared by a set of existents is their conceptual common denominator – CCD. Note that the CCD for everything in existence (considered at once) is existence itself. Hence, the process of differentiation is scalable to any level.
 
-By extension, to differentiate a class of beings from everything else requires a broader CCD that unites this class with everything else and thereby differentiates it based on having different measurements of the CCD. Hence, to differentiate a concept from everything else in a given context, we need a broader CCD that unites it with everything else in the context–i.e. we need a genus. However, to actually differentiate this concept, we need the particular distinguishing measurements of the CCD that are present in the concept–i.e. we need a differentia.
+By extension, to differentiate a class of beings from everything else requires a broader CCD that unites this class with everything else and thereby differentiates it based on having different measurements of the CCD. Hence, to differentiate a concept from everything else in a given context, we need a broader CCD that unites it with everything else in the context – i.e. we need a genus. However, to actually differentiate this concept, we need the particular distinguishing measurements of the CCD that are present in the concept – i.e. we need a differentia.
 
 #### Combining both validations
-Knowledge is contextual, and one’s grasp of a concept necessarily exists in a cognitive context that–ultimately–relates to the sum of our knowledge. To hold the proper context in which a concept is to be grasped, we must understand how it relates to the rest of our knowledge, while also being distinct from the rest of our knowledge. Hence, since a concept integrates a class of beings, we must discover how (1) this class of beings is similar to other classes or kinds of beings, i.e. we must discover the CCD that unites this class to other classes in a sufficiently broad context (sufficiency is based on relevance), and (2) this class of beings is different from other classes or kinds of beings, i.e. we must discover the particular measurements of the CCD of the broader context that differentiate this class from other classes in the given context. (1) implies the need for a genus, while (2) implies the need for a differentia.
+Knowledge is contextual, and one’s grasp of a concept necessarily exists in a cognitive context that – ultimately – relates to the sum of our knowledge. To hold the proper context in which a concept is to be grasped, we must understand how it relates to the rest of our knowledge, while also being distinct from the rest of our knowledge. Hence, since a concept integrates a class of beings, we must discover how (1) this class of beings is similar to other classes or kinds of beings, i.e. we must discover the CCD that unites this class to other classes in a sufficiently broad context (sufficiency is based on relevance), and (2) this class of beings is different from other classes or kinds of beings, i.e. we must discover the particular measurements of the CCD of the broader context that differentiate this class from other classes in the given context. (1) implies the need for a genus, while (2) implies the need for a differentia.
 
 ### Hierarchy of genera
 
@@ -188,7 +188,7 @@ Since all knowledge is hierarchical, genera also exist in a hierarchy. For examp
 | Organism | Animal |  -  |
 
 ### Specificity of genera
-The genus of a class must be identified with respect to the relevant cognitive context–this may be the general available context, or simply the specific required context. For the highest cognitive efficacy, you must select as a genus the wider class that shares the greatest number of characteristics with the definiendum (i.e. the class being defined) in the relevant cognitive context.
+The genus of a class must be identified with respect to the relevant cognitive context – this may be the general available context, or simply the specific required context. For the highest cognitive efficacy, you must select as a genus the wider class that shares the greatest number of characteristics with the definiendum (i.e. the class being defined) in the relevant cognitive context.
 
 ---
 
@@ -198,11 +198,11 @@ The wider class that shares the greatest number of non-distinctive characteristi
 
 **Fundamental differentia**:
 
-The distinctive characteristic(s) that leads to or is responsible for the greatest number of distinctive characteristics–distinctive within the specific genus.
+The distinctive characteristic(s) that leads to or is responsible for the greatest number of distinctive characteristics – distinctive within the specific genus.
 
 ---
 
-In simple terms, the purpose of definitions dictates that we must (1) choose the most specific genus possible–in the relevant context, and (2) choose the broadest, i.e. most fundamental differentia possible–in the relevant context.
+In simple terms, the purpose of definitions dictates that we must (1) choose the most specific genus possible – in the relevant context, and (2) choose the broadest, i.e. most fundamental differentia possible – in the relevant context.
 
 **NOTE**: _The fundamentality of the differentia is elaborated in the rule of fundamentality._
 
@@ -215,15 +215,15 @@ In other words, define the genus based on the specific category of beings you wa
 The definiendum (the class being defined) and the definiens (the definition offered) must be logically equivalent in the given context. In other words, for the given context, the definition must be true (a) for all members of the definiendum and it must be true (b) only of the members of the definiendum.
 
 ### Validation
-Note that (a) is necessary to integrate the class–to specify what makes each member of the class a part of the same class–and (b) is necessary to differentiate the class–to specify what makes each member of the class distinct from members of other classes.
+Note that (a) is necessary to integrate the class – to specify what makes each member of the class a part of the same class – and (b) is necessary to differentiate the class – to specify what makes each member of the class distinct from members of other classes.
 
 ### Fallacies due to violation
 Violating this rule can result in one of 2 fallacies:
 
-1. Definition is too narrow–condition <br> (a) is violated, i.e. the definition includes too little.
-2. Definition is too broad–condition <br> (b) is violated, i.e. the definition includes too much.
+1. Definition is too narrow – condition <br> (a) is violated, i.e. the definition includes too little.
+2. Definition is too broad – condition <br> (b) is violated, i.e. the definition includes too much.
 
-To avoid making these fallacies, here are some tips. (1) Let your mind range over a wide variety of examples, both within the class being defined, and outside the class being defined; variety is key. (2) To avoid violating condition (b) in particular, keep in mind the specific broader category of beings you want to differentiate your concept from (by keeping in mind a certain cluster of associated concepts)–i.e. keep the appropriately defined genus in mind (not too narrow or too broad).
+To avoid making these fallacies, here are some tips. (1) Let your mind range over a wide variety of examples, both within the class being defined, and outside the class being defined; variety is key. (2) To avoid violating condition (b) in particular, keep in mind the specific broader category of beings you want to differentiate your concept from (by keeping in mind a certain cluster of associated concepts) – i.e. keep the appropriately defined genus in mind (not too narrow or too broad).
 
 ### Checking equivalence
 Your definition is logically equivalent when you can assert it as an A-proposition which is simply convertible. Note that an A-proposition is a categorical statement of the form "all S is P". This proposition is not simply convertible by itself, since from "all S is P", you can only determine that "some P is S "and not that "all P is S". A simply convertible A-proposition is such that you can say from "all S is P" that "all P is S". In other words, you should be able to assert your definition in both ways:
@@ -247,7 +247,7 @@ If we have one or more distinctive characteristics, find out what distinctive ch
 The rule of fundamentality is implicit in every other rule, i.e. the violation of any other rule automatically violates this one. Hence, to pinpoint the flaws in a definition, first check with every other rule.
 
 ## Rule 4: Circularity rule
-The definition must not–directly or indirectly–define the subject by the subject itself. In other words, the definition must not contain any content that, to understand, presupposes the definition you are supposed to be providing.
+The definition must not – directly or indirectly – define the subject by the subject itself. In other words, the definition must not contain any content that, to understand, presupposes the definition you are supposed to be providing.
 
 ### Ways to commit circularity
 
@@ -268,7 +268,7 @@ Use of concepts whose own definitions require the concept being defined.
 Use of correlatives, i.e. 2 things so related that the existence of either implies the existence of the other. For example: Cause being defined as "that which creates an effect", and effect being defined as "that which is caused by something". As another example: Husband being defined as "a man who has a wife", and wife being defined as "a woman who has a husband".
 
 #### Defining correlatives
-In defining correlatives, do not define one correlative in terms of the other–the 2-way implication between them means no new information is conveyed. Instead, define the actual essence of the correlatives, i.e. define the relationship between the correlatives. So, for example, to define "husband" or "wife," first define the underlying relationship, i.e. "marriage." Thus, define the correlatives with respect to their relationship.
+In defining correlatives, do not define one correlative in terms of the other – the 2-way implication between them means no new information is conveyed. Instead, define the actual essence of the correlatives, i.e. define the relationship between the correlatives. So, for example, to define "husband" or "wife," first define the underlying relationship, i.e. "marriage." Thus, define the correlatives with respect to their relationship.
 
 ## Rule 5: Negatives rule
 Where possible, a definition must be positive not negative. In other words, as far as possible, a definition must identify what something is rather than what it is not.
@@ -276,7 +276,7 @@ Where possible, a definition must be positive not negative. In other words, as f
 ### Validation
 Identity is defined by the existence of specific attributes. Thus, identification of concepts, i.e. definitions, must involve identification of what exists. Note that even when identifying a concept in negatives, you are necessarily identifying it with respect to positives; an absence can only be identified if you know what could be present but is not. Furthermore, confirming a positive is far easier than confirming a negative, since a positive is immediately identifiable while a negative can only be identified by first confirming what is in fact present.
 
-Hence, positive definitions must precede negative ones, and choosing a negative definition where a positive one is available reduces your ability–in terms of efficiency and effectiveness–to identify and apply the concept.
+Hence, positive definitions must precede negative ones, and choosing a negative definition where a positive one is available reduces your ability – in terms of efficiency and effectiveness – to identify and apply the concept.
 
 ---
 
@@ -292,7 +292,7 @@ There are certain concepts that can only be defined in terms of negatives, due t
 ## Rule 6: Obscurity rule
 (This is a general rule for thought, not just definitions)
 
-Definition must be stated literally (i.e. with exact meaning), clearly and simply and economically as possible–for the relevant context. In other words, say what you mean and mean what you say, directly, clearly, exactly and simply as possible, for the relevant context.
+Definition must be stated literally (i.e. with exact meaning), clearly and simply and economically as possible – for the relevant context. In other words, say what you mean and mean what you say, directly, clearly, exactly and simply as possible, for the relevant context.
 
 ### Validation
 An unnecessarily complicated, difficult-to-retain definition defeats the essential purpose of a definition: achieving unit-economy by effectively condensing the nature of a concept in a given context. Note that legitimate technicality or specificity in the appropriate context is not necessarily a violation of this rule, even if the definitions seem overly complicated for someone outside this context. For example, the definitions of organs in medical terms would be far more specific and detailed than a layman’s definitions due to the different requirements of their respective contexts. Hence, the rule of obscurity, like every other rule, applies within a given context.
