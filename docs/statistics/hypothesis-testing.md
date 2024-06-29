@@ -22,7 +22,7 @@
 - [0. Definitions](#0-definitions)
 - [1. Introduction](#1-introduction)
   - [1.1. Test statistic](#11-test-statistic)
-  - [1.2. Formulating a hypothesis \& a test](#12-formulating-a-hypothesis--a-test)
+  - [1.2. Formulating a hypothesis and a test](#12-formulating-a-hypothesis-and-a-test)
     - [1.2.1. Null hypothesis](#121-null-hypothesis)
     - [1.2.2. Distribution of test statistic with respect to $H\_0$](#122-distribution-of-test-statistic-with-respect-to-h_0)
     - [1.2.3. Conditions to reject $H\_0$](#123-conditions-to-reject-h_0)
@@ -36,7 +36,7 @@
 # 0. Definitions
 The following are defined and explained in the file on quantifying probabilities:
 
-- Population, random process, sample & sample space
+- Population, random process, sample and sample space
 - Generalising a population's distribution with a random process
 - Generalising random sampling as sampling from a random process
 - "Drawing from a distribution"
@@ -66,7 +66,7 @@ Consider a theoretical distribution $\mathbb{P}$ which models a given random pro
 
 To test how plausible the observed value of the test statistic is, we need to have some idea about the probability distribution of the test statistic itself. The essence of hypothesis testing is figuring out the test statistic's probability distribution (through exact derivations or approximations), then using this distribution to judge the plausibility of an observed value. We ask, in effect, "Given a set of samples as well as the knowledge and assumptions about the samples, the distribution and their relation, is the observed value too extreme (i.e. too unlikely or implausible)?"
 
-## 1.2. Formulating a hypothesis & a test
+## 1.2. Formulating a hypothesis and a test
 ### 1.2.1. Null hypothesis
 To test some aspect of the relation between the observed samples and a theoretical distribution, we form a hypothesis with respect to the relevant test statistic. The simplest way to form a test hypothesis is to form an assumption of no difference, i.e. to hypothesise that there is no difference (i.e. no distance) between the observed random process' distribution and a given theoretical distribution (known or assumed); this is the null hypothesis ("null" refers to "no difference" or "no distance"), notated as $H_0$. We may formulate $H_0$ more precisely, to, for example, make a statement of no difference or distance between:
 
