@@ -19,6 +19,8 @@
   - [Corollary 2: Existence is identity](#corollary-2-existence-is-identity)
   - [_Application of the concept of identity_](#application-of-the-concept-of-identity)
   - [Corollary 3: The principle of causality](#corollary-3-the-principle-of-causality)
+- [Creatio ex nihilo](#creatio-ex-nihilo)
+- [Multiplicity and interactivity](#multiplicity-and-interactivity)
 - [The primacy of existence](#the-primacy-of-existence)
 - [Infinity with respect to existence](#infinity-with-respect-to-existence)
   - [The nature of infinity](#the-nature-of-infinity)
@@ -193,6 +195,16 @@ The concept of causality can be applied to entities as such (rather than just ac
 **NOTE 1**: Given that everything that exists is a part of reality that exists in a certain context (i.e. with respect to certain facts), a cause is not merely the actions of a set of entities, but the actions of a set of entities in a certain context (i.e. with respect to certain facts, e.g. conditions, relationships, etc.).
 
 **NOTE 2**: The principle of causality is a necessary, inseparable implication of the law of identity; the principle of causality is the law of identity applied to change. To go even further, causality is inherent in the very fact of existence; no part of existence exists nor can exist apart from causality. More precisely, no change or lack of change (i.e. zero difference between the past and the present of an entity) exists apart from causality.
+
+# Creatio ex nihilo
+Anything non-eternal that comes into existence necessarily has a cause. Let us say that something, call it X, is the only cause of something else, call it Y. Hence, the existence of Y is an extension of the identity of X, i.e. it cannot exist apart from nor in contradiction to X. In other words, everything that Y is was derived from X. If some part of Y, let us call it U, was not derived from X, then that part of Y is not an extension of the identity of X, and hence, it is not caused by X; given that X is the only cause of Y, then U was uncaused, which contradicts the principle of causality. Evidently, then, something cannot come from nothing, which means the indivisible building blocks of reality are either eternal or a transformation of another indivisible building block of reality.
+
+# Multiplicity and interactivity
+Multiplicity is inherent in existence. If existence were merely one indivisible thing, then by its nature, no other things could or would arise from it, since something cannot come from nothing. Hence, the fact that there is more than one thing in existence implies that multiplicity is inherent in existence. As a side note, to say that a god was responsible for the existence of multiplicity is self-contradictory; if the god were to exist in an existence without multiplicity, then god would necessarily have to be the one indivisible thing in existence from which nothing else can arise. Needless to say, such a god cannot create anything. Even the assertion that "everything is god" implies that god is an entity composed of many other entities, which still presupposes mutliplicity, since without multiplicity, there is only one indivisible whole.
+
+**NOTE**: _Obviously, existence is one whole, but it is not an indivisible whole._
+
+Interactivity is also inherent in the fact of existence. If it were not, then the existence of any entity neither would nor could have any effect on the existence any other. In other words, nothing complex or causally efficacious could exist. In such a case, existence would be eternally inert and could never be otherwise. Hence, the observation of interactivity implies that interactivity is inherent in existence. As a side note, to say that a god was responsible for the existence of interactivity is self-contradictory; if a causally efficiacious entity such as god were to exist, then its own existence presupposes interactivity.
 
 # The primacy of existence
 Metaphysically, existence is not defined in terms of "physical", "mental", etc., only in terms of existence qua existence, i.e. existence as a whole. The self-evident facts validated as axioms are: (1) Existence is absolute. (2) Everything that exists must be something in particular, i.e. it must exist as what it is; the law of identity. (3) What an entity does is an extension of what the entity is; the principle of causality. (4) Consciousness exists and is the faculty that perceives that which exists. Whatever one's worldview is, it is the case that consciousness is indeed the faculty that perceives that which exists, no matter what "that" is, be it the product of one's mind, the external world, etc.
