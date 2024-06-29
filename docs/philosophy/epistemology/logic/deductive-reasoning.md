@@ -158,7 +158,7 @@ Hence, we have that
 only if P then Q ≡ Q → P ≡ ¬P → ¬Q
 
 ### Translating from informal to formal
-The essence of any conditional or hypothetical word or phrase is captured by the form "if… then…" For example:
+The essence of any conditional or hypothetical word or phrase is captured by the form "if ... then ..." For example:
 
 - unless P, Q = if not P then Q
 - only if P then Q =
@@ -217,6 +217,7 @@ Denotes either universality or particularity for a class, i.e. refers to either 
 Denotes either an affirmative ("is") or a negative ("is not")  relationship between the subject and the predicate. The copula denotes the quality of the statement.
 
 #### Parts of a categorical statement
+
 | Part | Name | Form | Function |
 | --- | --- | --- | --- |
 | 1   | Quantifier | "all" or "some" | Denotes quantity. |
@@ -227,6 +228,7 @@ Denotes either an affirmative ("is") or a negative ("is not")  relationship bet
 ---
 
 #### Types of a categorical statement/proposition
+
 | Type | Name | Form |
 | --- | --- | --- |
 | A | Universal affirmative | All S is P |
@@ -284,6 +286,7 @@ Note that in both cases, you are considering the subject of the statement as a w
 
 ### Analysis of propositions
 #### Categorisation based on quantity and quality
+
 | Quantity/Quality | Affirmative | Negative |
 | --- | --- | --- |
 | Universal | A-proposition <br><br> All S is P | E-proposition <br><br> No S is P |
