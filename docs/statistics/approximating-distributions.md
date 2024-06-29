@@ -19,7 +19,7 @@
 
 **Contents**:
 
-- [0. Key ideas \& definitions](#0-key-ideas--definitions)
+- [0. Key ideas and definitions](#0-key-ideas-and-definitions)
   - [0.1. Product measure](#01-product-measure)
     - [0.1.1. Product measure of a probability measure](#011-product-measure-of-a-probability-measure)
   - [0.2. Definitions related to distributions](#02-definitions-related-to-distributions)
@@ -40,7 +40,7 @@
 
 ---
 
-# 0. Key ideas & definitions
+# 0. Key ideas and definitions
 Some phrases and terms regarding probability distributions are discussed in the file on quantifying probabilities. Chiefly, the phrase "drawing from a distribution" is clarified there. Other key ideas and concepts are...
 
 ## 0.1. Product measure
