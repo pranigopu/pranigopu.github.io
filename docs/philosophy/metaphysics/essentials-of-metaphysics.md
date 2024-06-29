@@ -88,9 +88,7 @@ As previously said, to affirm is to affirm that "what is, is", and to accept tha
 
 **_To put it briefly, the self-evident is something so inherent in your very awareness of existence that as long as you exist, you cannot but affirm it; denying it is the denial of awareness and existence as such._**
 
-**NOTE**: Existence can never be truly denied, since even to deny, you must stay in existence, and beyond existence, no capacity for denial exists.
-
----
+**NOTE**: _Existence can never be truly denied, since even to deny, you must stay in existence, and beyond existence, no capacity for denial exists._
 
 # Axiom 1: Existence exists
 Existence exists. More precisely, only existence exists, and existence only exists. (1) If not only existence exists, then something outside existence exists. But this must be a part of existence. Therefore, only existence exists. (2) If existence does not only exist, then existence also does not exist. But then, there would be nothing. Now, note that "nothing" is merely that which does not exist, i.e. that which is not. But what is, is, and what is not, is not. Hence, there cannot "be" nothing, since to be is to be something that exists. Therefore, existence only exists.
