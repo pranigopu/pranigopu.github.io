@@ -149,21 +149,21 @@ Let $\mathbb{P}$ be a probability distribution defined for a random process $\th
 
 ---
 
-_Now, set this aside for a moment and consider the first-order derivative of_ $F$, _i.e._ $F^1$...
+_Now, set this aside for a moment and consider the first-order derivative of_ $F$, _i.e._ $F^{-1}$...
 
-Integrating $F^1$ for the interval $[a, b]$ results in:
+Integrating $F^{-1}$ for the interval $[a, b]$ results in:
 
-$\displaystyle \int_a^b F^1(t) dt = [F(t)]_a^b = F(b) - F(a)$
+$\displaystyle \int_a^b F^{-1}(t) dt = [F(t)]_a^b = F(b) - F(a)$
 
 ---
 
 With this result, we have that:
 
-$\displaystyle \mathbb{P}([a, b]) = \int_a^b F^1(t) dt$
+$\displaystyle \mathbb{P}([a, b]) = \int_a^b F^{-1}(t) dt$
 
-Hence, we get $F^1$ as the function such that its integral for any interval $[a, b]$ is the probability mass of that interval under the distribution $\mathbb{P}$. In other words, $F^1$ is a curve such that the area under the curve for any interval represents the probability mass of that interval under the distribution $\mathbb{P}$. From this, we can see that $F^1$ is valuable in visualising, conceptualising and thus studying the spread of the mass of the distribution.
+Hence, we get $F^{-1}$ as the function such that its integral for any interval $[a, b]$ is the probability mass of that interval under the distribution $\mathbb{P}$. In other words, $F^{-1}$ is a curve such that the area under the curve for any interval represents the probability mass of that interval under the distribution $\mathbb{P}$. From this, we can see that $F^{-1}$ is valuable in visualising, conceptualising and thus studying the spread of the mass of the distribution.
 
-Now, also consider what $F^1(x)$ represents for any point $x$ in the sample space. Evidently, it is the gradient, i.e. rate of change of the cumulative probability mass at that point. A higher gradient represents a higher rise in probability mass at that point, which shows a higher concentration of the probability mass in a small neighbourhood of that point. Thus, we term the gradient of the cumulative probability mass at a point as the probability density at the point.
+Now, also consider what $F^{-1}(x)$ represents for any point $x$ in the sample space. Evidently, it is the gradient, i.e. rate of change of the cumulative probability mass at that point. A higher gradient represents a higher rise in probability mass at that point, which shows a higher concentration of the probability mass in a small neighbourhood of that point. Thus, we term the gradient of the cumulative probability mass at a point as the probability density at the point.
 <br><br>
 
 _To reinforce the last few statements_...
@@ -172,9 +172,9 @@ _To reinforce the last few statements_...
 2. Comparing the way the probability density values for each of two distributions helps us compare the way outcomes from each distribution are expected to be spread over space, time, the population or some other metric.
 3. The key purpose of probability density is to study the spread of the distribution, i.e. to study how and in what proportions is the total probability mass concentrated across the sample space.
 
-Probability density is hence a useful concept, albeit a more abstract concept than probability mass. Of course, just as with CDF, we can study the spread of the distribution using the probability measure and the derivatives of cumulative probability mass, but the concept a probability density function, i.e. PDF offers economy in thought, reference and notation. For convenience, we shall notate the PDF $F^1$ as $f$. Just to clarify, given a point $x$ in the sample space:
+Probability density is hence a useful concept, albeit a more abstract concept than probability mass. Of course, just as with CDF, we can study the spread of the distribution using the probability measure and the derivatives of cumulative probability mass, but the concept a probability density function, i.e. PDF offers economy in thought, reference and notation. For convenience, we shall notate the PDF $F^{-1}$ as $f$. Just to clarify, given a point $x$ in the sample space:
 
-- $f(x) = \frac{d \mathbb{P}((-\infty, x])}{dx} = \frac{d F(x)}{dx} = F^1(x)$
+- $f(x) = \frac{d \mathbb{P}((-\infty, x])}{dx} = \frac{d F(x)}{dx} = F^{-1}(x)$
 - **_Probability density defined at a point_** $x$ **_is the gradient of the cumulative probability mass at_** $x$
 
 **NOTE 1: The domain of CDF and PDF**:<br>Both the CDF and the PDF are defined not for intervals but single points in the sample space; they are less generalised functions than a probability measure and have to be treated as specific kinds of operations using the probability measure.
