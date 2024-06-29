@@ -17,7 +17,7 @@ _Fundamentals_...
 
 _Expansion_...
 
-- [Logic](https://pranigopu.github.io/philosophy/epistemology/logic.html)
+- [Logic](https://pranigopu.github.io/philosophy/epistemology/logic)
 - [Knowledge and Certainty](https://pranigopu.github.io/philosophy/epistemology/knowledge-and-certainty.html)
 - [Contextual Clarity](https://pranigopu.github.io/philosophy/epistemology/contextual-clarity.html)
 - [Rationality in Practice](https://pranigopu.github.io/philosophy/epistemology/rationality-in-practice.html)
