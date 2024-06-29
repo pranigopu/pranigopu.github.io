@@ -421,13 +421,12 @@ Key:
 - SP: Superimplicant
 - SB: Subimplicant
 
-|     |     |     |     |     |
+|     | **A** | **E** | **I** | **O** |
 | --- | --- | --- | --- | --- |
-|     | A   | E   | I   | O   |
-| A   |     | CN  | SP  | CD  |
-| E   | CN  |     | CD  | SP  |
-| I   | SB  | CD  |     | SC  |
-| O   | CD  | SB  | SC  |     |
+| **A** |    | CN | SP | CD |
+| **E** | CN |    | CD | SP |
+| **I** | SB | CD |    | SC |
+| **O** | CD | SB | SC |    |
 
 ### Translating from informal to formal
 Note that:
@@ -565,26 +564,24 @@ An immediate inference is an argument wherein the conclusion is drawn from a sin
 #### Obversion
 The process of changing a proposition into a logically equivalent one having a different quality–i.e. copula is inverted (affirmative to negative, or negative to affirmative).
 
-|     |     |     |     |
-| --- | --- | --- | --- |
 | Original |     | Obversion |     |
-| Type | Form | Type | Form |
-| A   | All S is P | E   | No S is P |
-| E   | No S is P | A   | All S is non-P |
-| I   | Some S is P | O   | Some S is not non-P |
-| O   | Some S is not P | I   | Some S is non-P |
+| --- | --- | --- | --- |
+| **Type** | **Form** | **Type** | **Form** |
+| A | All S is P | E | No S is P |
+| E | No S is P | A | All S is non-P |
+| I | Some S is P | O | Some S is not non-P |
+| O | Some S is not P | I | Some S is non-P |
 
 #### Conversion
 The process of changing a proposition into a logically equivalent one by changing the order of the subject and predicate. In other terms, for a categorical statement "q S c P", we obtain an equivalent statement where S becomes the predicate and P becomes the subject.
 
-|     |     |     |     |
+| **Original** |     | **Conversion** |     |
 | --- | --- | --- | --- |
-| Original |     | Conversion |     |
-| Type | Form | Type | Form |
-| A   | All S is P | E   | \* Some P is S |
-| E   | No S is P | A   | No P is S |
-| I   | Some S is P | O   | Some P is S |
-| O   | Some S is not P | I   | NA  |
+| **Type** | **Form** | **Type** | **Form** |
+| A | All S is P | E | \* Some P is S |
+| E | No S is P | A | No P is S |
+| I | Some S is P | O | Some P is S |
+| O | Some S is not P | I | NA  |
 
 \* _Converse of an A-proposition is not a true converse, because the conversion results in a more limited statement with less information. This is instead called a "converse by limitation."_
 
