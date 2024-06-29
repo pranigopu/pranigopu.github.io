@@ -280,7 +280,7 @@ Hence, positive definitions must precede negative ones, and choosing a negative 
 
 ---
 
-**NOTE: Valid negative defnitions**:
+**NOTE: Valid negative definitions**:
 
 There are certain concepts that can only be defined in terms of negatives, due to the only differentia possible in the given context being the absence of certain characteristics. Some examples are:
 
