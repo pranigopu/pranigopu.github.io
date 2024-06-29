@@ -585,9 +585,7 @@ The process of changing a proposition into a logically equivalent one by changin
 
 \* _Converse of an A-proposition is not a true converse, because the conversion results in a more limited statement with less information. This is instead called a "converse by limitation."_
 
-Note that an O-proposition does not have a converse, because, "Some S is not P," can either mean, "No P is S," or "Some P is S,", which are contradictory inferences, neither being even a converse by limitation.
-
-Note also that while, "Some non-P is S," is equivalent to, "Some S is not P,", it is not a converse but rather the converse of the obverse–the predicate P is replaced by the new predicate non-P.
+Note that an O-proposition does not have a converse, because, "Some S is not P," can either mean, "No P is S," or "Some P is S,", which are contradictory inferences, neither being even a converse by limitation. Note also that while, "Some non-P is S," is equivalent to, "Some S is not P,", it is not a converse but rather the converse of the obverse–the predicate P is replaced by the new predicate non-P.
 
 #### Contraposition
 The process of changing a proposition into a logically equivalent one by obverting the converse of the obverse of the original (i.e. first obverting, then converting the last result, then obverting the last result).
