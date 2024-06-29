@@ -28,7 +28,8 @@
       - [Predicate](#predicate)
       - [Quantity](#quantity)
       - [Quality](#quality)
-      - [Parts and types of categorical statements](#parts-and-types-of-categorical-statements)
+      - [Parts of a categorical statement](#parts-of-a-categorical-statement)
+      - [Types of a categorical statement/proposition](#types-of-a-categorical-statementproposition)
     - [Notes for conceptual clarity of above terms](#notes-for-conceptual-clarity-of-above-terms)
       - [Quantity](#quantity-1)
         - [Synonymous quantities](#synonymous-quantities)
@@ -215,9 +216,7 @@ Denotes either universality or particularity for a class, i.e. refers to either 
 
 Denotes either an affirmative ("is") or a negative ("is not")  relationship between the subject and the predicate. The copula denotes the quality of the statement.
 
-#### Parts and types of categorical statements
-_Overview of the parts of a categorical statement_...
-
+#### Parts of a categorical statement
 | Part | Name | Form | Function |
 | --- | --- | --- | --- |
 | 1   | Quantifier | "all" or "some" | Denotes quantity. |
@@ -227,14 +226,13 @@ _Overview of the parts of a categorical statement_...
 
 ---
 
-_Overview of the types of categorical statements_...
-
+#### Types of a categorical statement/proposition
 | Type | Name | Form |
 | --- | --- | --- |
-| A-proposition | Universal affirmative | All S is P |
-| E-proposition | Universal negative | No S is P |
-| I-proposition | Particular affirmative | Some S is P |
-| O-proposition | Particular negative | Some S is not P |
+| A | Universal affirmative | All S is P |
+| E | Universal negative | No S is P |
+| I | Particular affirmative | Some S is P |
+| O | Particular negative | Some S is not P |
 
 ### Notes for conceptual clarity of above terms
 #### Quantity
@@ -288,8 +286,8 @@ Note that in both cases, you are considering the subject of the statement as a w
 #### Categorisation based on quantity and quality
 | Quantity/Quality | Affirmative | Negative |
 | --- | --- | --- |
-| Universal | A-proposition <br><br> All S is P | E-proposition<br><br>No S is P |
-| Particular | I-proposition <br><br> Some S is P | O-proposition<br><br>Some S is not P |
+| Universal | A-proposition <br><br> All S is P | E-proposition <br><br> No S is P |
+| Particular | I-proposition <br><br> Some S is P | O-proposition <br><br> Some S is not P |
 
 Note that the E-proposition is not stated in the form "all S is not P," because this is an amphibolous statement that can be interpreted in one of two distinct ways: "no S is P" or "some S is not P".
 
@@ -341,10 +339,10 @@ For ease of indication:
 
 | Proposition type | Subject | Predicate | Symbolically |
 | --- | --- | --- | --- |
-| A   | d   | u   | All S(d) is P(u) |
-| E   | d   | d   | No S(d) is P(d) |
-| I   | u   | u   | Some S(u) is P(u) |
-| O   | u   | d   | Some S(u) is not P(d) |
+| A | d | u | All S(d) is P(u) |
+| E | d | d | No S(d) is P(d) |
+| I | u | u | Some S(u) is P(u) |
+| O | u | d | Some S(u) is not P(d) |
 
 ### Relationships
 #### For "only S is P"
@@ -364,10 +362,10 @@ Let S be the common subject and P be the common predicate. Then, we have the fol
 
 | Proposition type | Proposition |
 | --- | --- |
-| A-proposition | All S is P |
-| E-proposition | No S is P |
-| I-proposition | Some S is P |
-| O-proposition | Some S is not P |
+| A | All S is P |
+| E | No S is P |
+| I | Some S is P |
+| O | Some S is not P |
 
 For these propositions, we have the following relationships...
 
