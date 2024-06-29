@@ -20,6 +20,7 @@ _Expansion_...
 - [Logic](https://pranigopu.github.io/philosophy/epistemology/logic)
 - [Knowledge and Certainty](https://pranigopu.github.io/philosophy/epistemology/knowledge-and-certainty.html)
 - [Contextual Clarity](https://pranigopu.github.io/philosophy/epistemology/contextual-clarity.html)
+- [Objectivity](https://pranigopu.github.io/philosophy/epistemology/objectivity.html)
 - [Rationality in Practice](https://pranigopu.github.io/philosophy/epistemology/rationality-in-practice.html)
 - [Exploration in Truth-seeking](https://pranigopu.github.io/philosophy/epistemology/exploration-in-truth-seeking.html)
 - [Closing Remarks on Epistemology](https://pranigopu.github.io/philosophy/epistemology/closing-remarks-on-epistemology.html)
