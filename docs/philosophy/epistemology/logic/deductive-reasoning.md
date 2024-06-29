@@ -56,7 +56,7 @@
         - [Contradictory](#contradictory)
         - [Contrary](#contrary)
         - [Subcontrary](#subcontrary)
-        - [Superimplication \& subimplication](#superimplication-subimplication)
+        - [Superimplication and subimplication](#superimplication-and-subimplication)
         - [Summary](#summary-1)
     - [Translating from informal to formal](#translating-from-informal-to-formal-1)
 - [Types of arguments and their validations](#types-of-arguments-and-their-validations)
@@ -393,7 +393,7 @@ Both cannot be true **BUT** both can be false, i.e. at least one of them is fal
 
 Both can be true BUT both cannot be false, i.e. at least one of them is true.
 
-##### Superimplication & subimplication
+##### Superimplication and subimplication
 Proposition X is the superimplicant of proposition Y if:
 
 - truth of X ⇒ truth of Y <br> **BUT**
