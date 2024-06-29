@@ -53,7 +53,7 @@ To be aware of something is to perceive and thereby affirm that it is, i.e. that
 
 ---
 
-**_To put it briefly, the self-evident is something so inherent in the fact of existence that as long as you exist, you cannot but affirm it; denying it is the denial of existence as such._**
+**_To put it briefly, the self-evident is something so inherent in your very awareness of existence that as long as you exist, you cannot but affirm it; denying it is the denial of awareness and existence as such._**
 
 **NOTE**: Existence can never be truly denied, since even to deny, you must stay in existence, and beyond existence, no capacity for denial exists.
 
