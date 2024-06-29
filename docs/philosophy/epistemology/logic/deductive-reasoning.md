@@ -581,7 +581,7 @@ The process of changing a proposition into a logically equivalent one by changin
 | A | All S is P | E | \* Some P is S |
 | E | No S is P | A | No P is S |
 | I | Some S is P | O | Some P is S |
-| O | Some S is not P | I | NA  |
+| O | Some S is not P | I | NA |
 
 \* _Converse of an A-proposition is not a true converse, because the conversion results in a more limited statement with less information. This is instead called a "converse by limitation."_
 
@@ -592,14 +592,13 @@ Note also that while, "Some non-P is S," is equivalent to, "Some S is not P,", i
 #### Contraposition
 The process of changing a proposition into a logically equivalent one by obverting the converse of the obverse of the original (i.e. first obverting, then converting the last result, then obverting the last result).
 
-|     |     |     |     |
-| --- | --- | --- | --- |
 | Original |     | Contraposition |     |
-| Type | Form | Type | Form |
-| A   | All S is P | E   | All non-P is non-S |
-| E   | No S is P | A   | NA  |
-| I   | Some S is P | O   | NA  |
-| O   | Some S is not P | I   | Some non-P is not non-S |
+| --- | --- | --- | --- |
+| **Type** | **Form** | **Type** | **Form** |
+| A | All S is P | E | All non-P is non-S |
+| E | No S is P | A | NA |
+| I | Some S is P | O | NA |
+| O | Some S is not P | I | Some non-P is not non-S |
 
 Here, only the contraposition of an A-proposition is useful to note.
 
