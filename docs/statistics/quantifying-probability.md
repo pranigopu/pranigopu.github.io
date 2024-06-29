@@ -113,14 +113,14 @@ _First, a key concept_...
 ## Pushforward measure
 Let measure $M$ be defined for a set $X$ in a specific context. Now, consider a set $Y$ wherein, in this context, each element of $Y$ is a function of an element in $X$, i.e. there is a function $f$ such that $f(x) = y, \forall (x, y) \in X \times Y$. Hence, note that $f$ is surjective, i.e. every image (output of the function) has a preimage (input to the function). Then, the pushforward measure of $M$ through $f$ is given by:
 
-$f_*M(y) = M(f^{-1}(y)) = M({x \in X | f(x) = y})$
+$f_*M(y) = M(f^{-1}(y)) = M(\{x \in X | f(x) = y\})$
 
 **NOTE: The inverse of a function**: <br> $f^{-1}$ is the inverse of the function $f$, defined such that it inputs an element $y$ of $Y$ and outputs the element or elements of $X$ that map to $y$ through $f$. Note that $f^{-1}$ is not necessarily a function, since it may map one image to a set of many preimages (thus, it is a one-to-many relation rather than a function). In general, we shall consider the inverse of a function as a map from a number to a set of numbers.
 
 ## Pushforward probability measure
 Let $\mathbb{P}$ be a probability distribution defined for a random process $\theta$ whose sample space is $X$. Now, consider the sample space $Y$ of $\theta$ after transforming any and every outcome of $\theta$ by a function $f$. It is clear that since the transformed outcomes come from the same core random process, their distribution can be derived from the distribution of the untransformed outcomes, namely $\mathbb{P}$. In particular, we can see that the probability mass of any subset of values $B$ in $Y$ is exactly the probability mass of the set of all values in $X$ that map to the values in $B$, because (1) the values in $B$ are but a subset of transformed outcomes of $\theta$ and (2) the sample space of $\theta$ is $X$. Hence, the probability mass of $B$ is given by:
 
-$\mathbb{P}({x \in X | f(x) = y \in B}) = \mathbb{P}(f^{-1}(B))$
+$\mathbb{P}(\{x \in X | f(x) = y \in B\}) = \mathbb{P}(f^{-1}(B))$
 
 $f^{-1}(B)$ _is shorthand for the set_ $\displaystyle \bigcup_{y \in B} f^{-1}(y)$
 
