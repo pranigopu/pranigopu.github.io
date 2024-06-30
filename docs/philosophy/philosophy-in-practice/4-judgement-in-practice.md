@@ -15,7 +15,7 @@
 ---
 
 # Introduction
-Ultimately, ideas are inseparable from actions, be they implicit ideas or explicitly stated ones. However, the exact nature of the relationship between ideas and actions are more complex, especially in more specific contexts. We shall look into their relationship to understand when and how to judge someone (including ourselves) based on ideas and actions.
+Ultimately, ideas are inseparable from actions, be they implicit ideas or explicitly stated ones. However, the exact nature of the relationship between ideas and actions is more complex, especially in more specific contexts. We shall look into their relationship to understand when and how to judge someone (including ourselves) based on ideas and actions.
 
 # The link between ideas and actions
 Ideas do not necessarily translate into actions, and the way they do is complex due to the following factors: (1) having an idea does not mean you have internalised it, (2) you cannot internalise an idea unless you concretise it through repetition and/or observation and/or action, (3) a complex idea that needs to be consciously brought to focus cannot be wholly internalised and automatised, (4) having and validating an idea does not necessarily mean you know how to translate it into action effectively (as an example, consider how proving a theorem in mathematics does not necessarily give you the skills to apply it in real-life problems; application is, in general, a different skill than validation), (5) ideas may be implicit, i.e. internalised subconsciously, hence making the ideological basis of your actions unclear or ambiguous.
