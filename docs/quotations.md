@@ -80,6 +80,10 @@ There is value not in suffering but in overcoming it. <br> — PG, edited from M
 
 It is not suffering but the pursuit of values that betters you. <br> — PG, The Nature of Life, Value & Morality
 
+Hypocrisy destroys efficacy. <br> — PG, edited from The Nature of Life, Value & Morality
+
+To value life, you must value yourself. To value yourself, you must practise pride and achieve self-esteem. To practise pride and achieve self-esteem, you must know what is virtuous, you must do what is virtuous and you must know that what you do is virtuous indeed. A compromise in any part of all this destroys the rest. <br> — PG
+
 ## On moral perfection
 Moral perfection is not about genuflecting to some deity or to pursue morality as an end in itself. It’s not about keeping a good record in some official bookkeeping. Being perfectly moral is the only path to your values and your happiness. <br> —Tara Smith
 
@@ -92,12 +96,6 @@ The morally perfect man does not demand of himself the impossible, but he does d
 ---
 
 **NOTE**: _“Defeat” in this context refers to lasting damage to one’s fundamental capacity for self-motivated, self-determined existence. “Defeat” in this context may be described as “defeat of the spirit”._
-
----
-
-Hypocrisy destroys efficacy. <br> — PG, edited from The Nature of Life, Value & Morality
-
-To value life, you must value yourself. To value yourself, you must practise pride and achieve self-esteem. To practise pride and achieve self-esteem, you must know what is virtuous, you must do what is virtuous and you must know that what you do is virtuous indeed. A compromise in any part of all this destroys the rest. <br> — PG
 
 # Quotations on the nature of man
 Free will is not an exception to but an extension of causality. <br> — PG
