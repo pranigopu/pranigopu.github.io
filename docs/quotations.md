@@ -71,6 +71,12 @@ I care about those who suffer, but not at the price of my life, nor the lives of
 
 Why should I fear death? If I am, death is not. If death is, I am not. Why should I fear that which cannot exist when I do? <br> — Epicurus
 
+---
+
+**NOTE**: _Death cannot concern the living because they are living, nor can it concern the dead because they are not._
+
+---
+
 To hold that there is a self beyond life is treason to your own self. <br> — PG, edited from  The Nature of Life, Value & Morality
 
 ## On the pursuit of values
