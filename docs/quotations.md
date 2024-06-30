@@ -73,7 +73,7 @@ Why should I fear death? If I am, death is not. If death is, I am not. Why shoul
 
 ---
 
-**NOTE**: _Death cannot concern the living because they are living, nor can it concern the dead because they are not._
+**NOTE**: _Death cannot concern the living because they are alive, nor can it concern the dead because they are not._
 
 ---
 
