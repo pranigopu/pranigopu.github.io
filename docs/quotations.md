@@ -99,13 +99,15 @@ While moral perfection cannot coexist with moral failure, it can and does coexis
 
 The morally perfect man does not demand of himself the impossible, but he does demand of himself every ounce of the possible. <br> — Leonard Peikoff, edited from Objectivism: The Philosophy of Ayn Rand
 
----
-
-**NOTE**: _“Defeat” in this context refers to lasting damage to one’s fundamental capacity for self-motivated, self-determined existence. “Defeat” in this context may be described as “defeat of the spirit”._
-
 # Quotations on the nature of man
 Free will is not an exception to but an extension of causality. <br> — PG
 
 Fate can destroy me, but it can never defeat me. <br> — Agasti
+
+---
+
+**NOTE**: _“Defeat” in this context refers to lasting damage to one’s fundamental capacity for self-motivated, self-determined existence. “Defeat” in this context may be described as “defeat of the spirit”._
+
+---
 
 Numberless are the world's wonders, but none more wonderful than man. <br> ― Sophocles, Antigone
