@@ -202,7 +202,7 @@ The basic idea here is: the achievement of values is conditional, time-bound and
 
 **NOTE**: _Choosing not to pursue values at any given moment is to choose not to pursue a purpose at the given moment; here, no valid cognition is possible. More precisely, consistent rationality demands consistent value-orientation._
 
-Hence, since (1) the capacity and fullest long-range exercise of consciousness is valuable to our existence, and since (2) the pursuit of value (with the standard of value being life) and thus the need for rationality is ever-present when conscious, the violation of rational principles (e.g. indulging in non-essentials, arbitrary concerns, etc.) is a violation of our value for life as such, in some form. If the violation of rational principles is a habit or practice, then we devalue our life as a whole, serving ultimately to degrade and destroy it.
+Hence, since (1) the capacity and fullest long-range exercise of consciousness is valuable to our existence, and since (2) the pursuit of value (with the standard of value being life) and thus the need for rationality is ever-present when conscious, even an occasional but deliberate violation of rational principles (e.g. indulging in non-essentials, arbitrary concerns, etc.) is a violation of our value for life as such, in some form. If the violation of rational principles is a habit or practice, then we devalue our life as a whole, serving ultimately to degrade and destroy it.
 
 **NOTE**: _In contemplative or reflective contexts, the purpose is to expand our thinking beyond regular considerations, which means in such contexts, what would be non-essential in other contexts may not be non-essential in these._
 
