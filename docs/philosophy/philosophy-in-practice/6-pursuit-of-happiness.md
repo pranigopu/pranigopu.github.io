@@ -13,11 +13,11 @@
   - [Happiness and willpower](#happiness-and-willpower)
   - [The nature of life-affirmation in the moment](#the-nature-of-life-affirmation-in-the-moment)
   - [Happiness and ambition](#happiness-and-ambition)
-- [Integrity in life-affirmation](#integrity-in-life-affirmation)
+- [Essentialising and integrating life-affirmation](#essentialising-and-integrating-life-affirmation)
   - [Introduction](#introduction-1)
   - [Definitions](#definitions)
-  - [Outlining the abstract principles](#outlining-the-abstract-principles)
-  - [Applying the obtained principles in practice](#applying-the-obtained-principles-in-practice)
+  - [Obtaining the abstract principles](#obtaining-the-abstract-principles)
+  - [Applying the principles in practice](#applying-the-principles-in-practice)
 
 ---
 
@@ -87,9 +87,9 @@ _To put the point briefly, the essence of happiness is to be alive, aware and se
 
 I hasten to add that exercising one's fullest capacity for life is not and cannot be a burden that takes away from one's experience of values in the moment; after all, the metaphysical source of value is life in the moment, and thus, to exercise one's fullest capacity for life means to take life in the moment as the essential. Furthermore, rationality demands relevance and efficiency; one's current context and purpose is the basis of further considerations, and the proliferation of arbitrary doubts and hypotheses detached from one's current context and purpose is profoundly irrational. Hence, exercising one's fullest capacity for life is a means to enable, enrich and enhance one's experience of life in the moment. Long-range pursuits are not ends in themselves but a means to make one's life in the moment blossom to the fullest.
 
-# Integrity in life-affirmation
+# Essentialising and integrating life-affirmation
 ## Introduction
-The non-contradictory achievement of values is key to happiness, which is why it is key to understand how integrity must be achieved in life-affirmation. Since (1) life is the ultimate value and thus the ultimate purpose, (2) since life lived in the moment is the metaphysical source of value and purpose (since concretes are the basis of further abstractions, both epistemologically and ethically), and (3) since contexts cannot be contradictory (i.e. narrower contexts cannot contradict nor be contradicted by broader contexts), it stands to reason that any value or pursuit of value is an aspect of the value for life lived in the moment. In other words, concrete life-affirmation is the ultimate purpose of all value-seeking pursuits, short-range or long-range, and any value-seeking pursuit can exist neither apart from nor in contradiction to concrete life-affirmation.
+The non-contradictory achievement of values is key to happiness, which is why it is key to understand how integrity must be achieved in life-affirmation. Since (1) life is the ultimate value and thus the ultimate purpose, (2) since life lived in the moment is the metaphysical source of value and purpose (because concretes are the basis of further abstractions, both epistemologically and ethically), and (3) since contexts cannot be contradictory (i.e. narrower contexts cannot contradict nor be contradicted by broader contexts), it stands to reason that any value or pursuit of value is an aspect of the value for life lived in the moment. In other words, concrete life-affirmation is the ultimate purpose of all value-seeking pursuits, short-range or long-range, and any value-seeking pursuit can exist neither apart from nor in contradiction to concrete life-affirmation.
 
 ## Definitions
 
@@ -115,7 +115,7 @@ Pertaining to volitional life-orientation.
 
 **NOTE**: _A volitional consciousness is based on self-driven awareness._
 
-## Outlining the abstract principles
+## Obtaining the abstract principles
 Since concretes are the basis of any further abstraction, we shall start the integration of life-affirmation at the most narrow, i.e. concrete context, namely the nutritive aspect of life, i.e. the physical sustenance of life. Then, we move onto the sensitive aspect of life, i.e. the sustenance of a conscious existence. By the non-contradictory nature of values, the nutritive aspect of life serves to fuel conscious existence, while the sensitive aspect of life can expand the scope of one's physical sustenance.
 
 **NOTE**: _"Sensitive" refers to the capacity for sense-perception rather than sensitivity._
@@ -142,15 +142,13 @@ Thus, a rational being needs to not only be able to sense its environment but al
 
 Since a being's values are rooted in the being's form of life, and since a sense of self-value is an internal factor for a self-driven being's self-driven existence, a sense of self-value is essentially the being's recognition of the potential of its own self with respect to its existence. In other words, a sense of self-value is one's sense of efficacy in sustaining one's conscious and physical existence. Hence, we see that a rational being must achieve and maintain virtues (i.e. qualities of long-range efficacy in living) to be able to sustain itself.
 
----
+**NOTE**: _If a being is reduced permanently to a lower form of life, then the being ceases to exist, since the essence of its identity is lost. Hence, as a rational being, you cannot survive as a purely sensitive or nutritive being; "you" would cease to exist and in your place would be either a beast or a vegetable._
 
-**KEY POINT**: If a being is reduced permanently to a lower form of life, then the being ceases to exist, since the essence of its identity is lost. Hence, as a rational being, you cannot survive as a purely sensitive or nutritive being; "you" would cease to exist and in your place would be a beast or a vegetable.
-
-## Applying the obtained principles in practice
+## Applying the principles in practice
 Here, we see a clear relationship in the case of a rational being: the greater the integration of potential, the greater the capacity for self-sustenance. We also see that the needs of a rational being build upon on the needs of sensitive and nutritive beings, i.e. the needs unique to a rational being cannot contradict nor be contradicted by its sensitive and nutritive needs.
 
 What does it mean in practice? It means that every need is necessary, and no kind of need can exist apart from the other. If a rational being focuses solely on its nutritive or sensitive needs, it neglects and thereby degrades or even destroys its potential, thereby degrading or destroying its capacity to exist volitionally. On the other hand, if a rational being neglects its nutritive or sensitive needs, it evidently cannot sustain itself for long (at least not by its own effort), since it is neglecting the preconditions of its own existence. Hence, we see two key points: (1) Survival for a rational being cannot be at "any cost", i.e. at the cost of the destruction of one's potential for life. (2) Survival in the long-range has no meaning apart from the affirmation of life in the present.
 
-Hence, as rational beings, we see a method arise. Start by considering what it takes to sustain oneself concretely. Hence, start from the most basic needs of life, both nutritive and sensitive. Then, begin integrating increasingly longer-range potentials that support and/or advance one's capacity for sustaining oneself concretely. Integrate rationally, i.e. according to your knowledge, and do not try to integrate potentials that are only hypothetically connected to your concrete experience of life.
+Hence, as rational beings, we see a method arise. Start by considering what it takes to sustain oneself concretely. Hence, start from the most basic needs of life, both nutritive and sensitive. Then, begin integrating increasingly longer-range potentials that support and/or advance one's capacity for sustaining oneself concretely. Integrate rationally, i.e. according to your knowledge, and do not try to integrate potentials that are only hypothetically connected to your concrete experience of life. A key point to remember is that the purpose of every long-range pursuit is the affirmation of life in the moment; hence, choose your long-range pursuits rationally, building up from your basic needs to the pursuits that, in your knowledge, objectively support and/or advance your capacity to satisfy your basic needs more effectively, especially in a broader context.
 
-**NOTE**: _A truly self-sustaining, i.e. valuable potential adds to your concrete experience of life by means of the very process of striving toward it; any other kind of potential may be considered (if you have reason to believe it has potential value) but it must not be pursued without sufficiently concretising its value._
+**NOTE**: _By its nature, a truly self-sustaining, i.e. valuable potential adds to your concrete experience of life by means of the very process of striving toward it; any other kind of potential may be considered (if you have reason to believe it has potential value) but it must not be pursued without sufficiently concretising its value._

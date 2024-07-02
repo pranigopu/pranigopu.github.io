@@ -21,6 +21,7 @@
     - [Principle of purposefulness](#principle-of-purposefulness)
     - [Principle of value-seeking](#principle-of-value-seeking)
     - [Integrating the above principles into a broader principle](#integrating-the-above-principles-into-a-broader-principle)
+    - [Essential further reading](#essential-further-reading)
     - [Additional points](#additional-points)
       - [Dismissing arbitrary doubts and arbitrary hypotheticals](#dismissing-arbitrary-doubts-and-arbitrary-hypotheticals)
       - [Dismissing insignficant factors and risks](#dismissing-insignficant-factors-and-risks)
@@ -232,6 +233,9 @@ In short, since unaccountable compulsions and arbitrary concerns are not based o
 _What about shifting contexts?_
 
 In essence, integrating one's view of reality over time in essentials helps internalise and carry the relevant aspects of the broader context into any specific context we find ourselves in. Furthermore, before getting into a narrower context, we can decide on cues as appropriate to the situation (e.g. time, effort spent, goals, awareness if and when it hits you, etc.), on the basis of which you can know when to shift your focus. However, overall, the following three are together the fundamental needs of a fully rational life: (1) focusing on reality in the here and now, (2) pursuing deeper intellectual clarity when and where possible, and (3) practicing the right virtues and principles.
+
+### Essential further reading
+While the above principles show the method of essentialisation, they do not show what to essentialise, i.e. they show the method, not the content. Of course, method without content is useless. Hence, an essential topic to the method of essentialisation is the topic of the essentials of life-affirmation, since life is the ultimate value, which means life-affirmation must be the essential object of focus. In essence, just as all values are aspects of the value for life in the moment, so is all rational focus rooted in the focus on concrete life-affirmation; all specific acts of focus are aspects of the focus on concrete life-affirmation. Read more about life-affirmation here: ["Essentialising and integrating life-affirmation" from _The Pursuit of Happiness_ from **Philosophy in Practice**](https://pranigopu.github.io/philosophy/philosophy-in-practice/6-pursuit-of-happiness.html#essentialising-and-integrating-life-affirmation)
 
 ### Additional points
 #### Dismissing arbitrary doubts and arbitrary hypotheticals
