@@ -94,7 +94,6 @@ Now, we shall expand on the ideas presented in the previous section, so as to cl
 The non-contradictory achievement of values is key to happiness, which is why it is key to understand how integrity must be achieved in life-affirmation. Since (1) life is the ultimate value and thus the ultimate purpose, (2) since life lived in the moment is the metaphysical source of value and purpose (because concretes are the basis of further abstractions, both epistemologically and ethically), and (3) since contexts cannot be contradictory (i.e. narrower contexts cannot contradict nor be contradicted by broader contexts), it stands to reason that any value or pursuit of value is an aspect of the value for life lived in the moment. In other words, concrete life-affirmation is the ultimate purpose of all value-seeking pursuits, short-range or long-range, and any value-seeking pursuit can exist neither apart from nor in contradiction to concrete life-affirmation.
 
 ## Definitions
-
 **Concrete life-affirmation**:
 
 The experience of concrete values.
