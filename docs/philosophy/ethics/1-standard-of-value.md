@@ -106,13 +106,19 @@ If an entity's pursuit of an end result is not tied to its own existence as the 
 # Establishing life as the source and standard of value
 _We shall now try to use the above understanding and basic conclusions to form a more rigorous argument for why life is the source and standard of value. Some definitions based on the epistemological groundwork from the previous discussion_...
 
+**Fundamental condition**:
+
+A fundamental condition C for X is the necessary and sufficient for X, i.e. if C, then X, and if X, then C.
+
 **Life**:
 
 Life is self-generated, self-sustaining action. No action can exist out of context, i.e. apart from its necessary conditions, hence life also exists with respect to necessary conditions. In other words, life is possible within a set of constraints. Furthermore, within these constraints, life is the self-generated action of a living entity that necessarily results in sustaining its own existence.
 
 **Goal**:
 
-The goal of an entity is the self-driven pursuit of a potential within a broader self-driven pursuit toward some potential that is continuously present within a set of constraints.
+The goal of an entity is the potential that the entity (1) always orients itself toward within a set of constraints, and (2) always acts in a fundamentally self-generated way to actualise. A self-generated action of an entity is one wherein, given a set of necessary conditions for a potential that also other potentials, the fundamental, i.e. necessary and sufficient condition for the achievement of one potential over another is the entity's own nature and nothing else.
+
+For example, two magnets may always orient themselves toward each other other the in right conditions, but neither magnet's action is fundamentally self-generated, because only the action of both magnets on each other is sufficient to cause the attraction, rather than the action of either one magnet with respect to the other. As another example, under gravity, water always seeks its level, but such an action is not fundamentally self-generated, because only the interaction between the force of gravity and the liquidity of water are sufficient to cause the water's level-seeking. By contrast, the growth of a tree toward sunlight is fundamentally self-generated, because given the necessary but not sufficient conditions for life (e.g. the right air composition and the availability of water and sunlight), the fundamental condition for the tree's growth is the tree's own nature as a photosynthesising life-form.
 
 ---
 
