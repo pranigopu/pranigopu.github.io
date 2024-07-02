@@ -6,7 +6,8 @@
 
 **Contents**:
 
-- [Creatio ex nihilo](#creatio-ex-nihilo)
+- [Creation from nothingness](#creation-from-nothingness)
+- [Destruction into nothingness](#destruction-into-nothingness)
 - [Multiplicity and interactivity](#multiplicity-and-interactivity)
 - [Infinity with respect to existence](#infinity-with-respect-to-existence)
   - [The nature of infinity](#the-nature-of-infinity)
@@ -16,7 +17,7 @@
 
 **Necessary context**: [_Essentials of Metaphysics_](https://pranigopu.github.io/philosophy/metaphysics/essentials-of-metaphysics.html)
 
-# Creatio ex nihilo
+# Creation from nothingness
 **LEXICAL NOTES**:
 
 1.<br>
@@ -36,6 +37,9 @@ Change can exist neither apart from nor in contradiction to entities that exist,
 Now, for the sake of argument, let us say that something, call it X, is the only cause of something else, call it Y. Hence, the existence of Y is an extension of the identity of X, i.e. it cannot exist apart from nor in contradiction to X. In other words, everything that Y is was derived from X. If some part of Y, let us call it Y', was not derived from X, then Y' is not an extension of the identity of X and thus was not caused by X; given that X is the only cause of Y, it must be that Y' was uncaused, which contradicts the principle of causality. Evidently, then, something cannot come from nothing, which means that the indivisible building blocks of reality are either eternal or a transformation of another indivisible building block of reality.
 
 **NOTE**: _There can be no capacity to create something from nothing, since for X to create something from nothing is for X to cause something whose identity is detached in some way from the identity of X; this violates the principle of causality and thus the law of identity. Hence, such a capacity cannot be said to be a part of the identity of anything, not even a god (if such an entity were to exist at all). Needless to say, the laws of reality do not allow for reality-defying capacities._
+
+# Destruction into nothingness
+A change is always a change of entities that exist, which means the result of the change is always an extension of the identities of the entities that exist. Now, note that something is not nothing, and thus, the extension of something cannot be nothing. Thus, change always maintains the existence of the building blocks of reality and never destroys them.
 
 # Multiplicity and interactivity
 Multiplicity is inherent in existence. If existence were merely one indivisible thing, then by its nature, no other things could or would arise from it, since something cannot come from nothing. Hence, the fact that there is more than one thing in existence implies that multiplicity is inherent in existence. As a side note, to say that a god was responsible for the existence of multiplicity is self-contradictory; if the god were to exist in an existence without multiplicity, then god would necessarily have to be the one indivisible thing in existence from which nothing else can arise. Needless to say, such a god cannot create anything. Even the assertion that "everything is god" implies that god is an entity composed of many things, which still presupposes mutliplicity, since without multiplicity, there is only one indivisible whole. Even to say "multiplicity is an illusion" is a self-contradiction, because now, we have two things: the indivisible whole and the illusion about the indivisible whole. After all, an illusion is something; if it were nothing, it would not be an illusion and there would be nothing to say about it.
