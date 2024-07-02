@@ -6,13 +6,13 @@
 
 **Contents**:
 
-- [Motivation](#motivation)
+- [Introduction](#introduction)
 - [Does considering the universe to be intelligible require faith?](#does-considering-the-universe-to-be-intelligible-require-faith)
 - [Can we know the external world?](#can-we-know-the-external-world)
 
 ---
 
-# Motivation
+# Introduction
 Why consider the question of intelligibility? Because by its nature, a volitional being must grasp its potential in reality to drive itself and thereby exist; the question of intelligibility helps it grasp whether it has the potential to know reality and thereby deal with effectively or not. In a real sense, the question of the intelligibility of existence is a matter of life and death.
 
 # Does considering the universe to be intelligible require faith?
