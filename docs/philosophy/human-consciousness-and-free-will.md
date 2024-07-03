@@ -31,6 +31,7 @@
   - [Free will is an extension of causality](#free-will-is-an-extension-of-causality)
   - [Determinism is the denial of causality](#determinism-is-the-denial-of-causality)
   - [Summarisation and closing remarks](#summarisation-and-closing-remarks)
+- [Necessary vs. contingent with respect ot free will](#necessary-vs-contingent-with-respect-ot-free-will)
 
 ---
 
@@ -227,3 +228,10 @@ That said, the capacity for free will is not unaffected by other factors and, of
 **ADDITIONAL NOTE**:
 
 I posit that considering the unchangeable and inevitable nature of the past as proof of predetermination is a misuse of the concept of potential. We could not have done otherwise in the past, because the necessary and sufficient conditions for something to happen were present; in the case of volitional decisions, one of the factors is the particular exercise of will based on particular purposes and reasons. However, potential never relates to "what could have been" (which is speculation, i.e. imagining at least some of the deciding factors to have been different), but rather to "what can be"; since our volitional faculty is ours to direct on some level, the factor that is our own particular exercise of will is still open to change by our own awareness and self-determination, to some extent.
+
+# Necessary vs. contingent with respect ot free will
+Firstly, I reject the necessary vs. contingent dichotomy (see: [_The Meaning of “Necessary” Versus “Contingent” Truth_ from website: **Objectivism In Depth**](https://objectivismindepth.com/2015/05/21/the-meaning-of-necessary-versus-contingent-truth/))
+
+Secondly, I think contingency as applied to facts (metaphysical or man-made) brings no cognitive clarity, only cognitive confusion. “Metaphysical vs. man-made” clearly distinguishes the root causes of the facts we observe, while “potential” clearly identifies what can be changed and in what way. I think “contingency” as applied to facts is either useless when used as “possibility” or “potentiality”, or confusing when used to describe the nature of actual facts, because every actual fact is necessary (necessary in the sense that it had to be the case given other facts and/or factors).
+
+I mean, even the facts arising from choices of a free agent result from the purpose and context the free agent has at the time of making the choices; why would we act differently without a different purpose and/or a different context? We do have free will, but I think it makes much more sense (intellectually and practically) to think of free will as what we can do rather than what we could have done. I guess, at most, we could think of what we could have done as a hypothetical, i.e. as in “what could I have done if I were to face the same scenario again but with a different purpose and/or awareness that I did not have at the time”.
