@@ -163,6 +163,8 @@ By causality, what has happened is not open to change. Understanding this is key
 ## Principle of value-seeking
 **_A principle that supports the validity of the others_**
 
+_This section is lifted from_ ["Value-seeking is continuous" from _The Nature of Value_ from **Ethics**](https://pranigopu.github.io/philosophy/ethics/nature-of-value.html#values-seeking-is-continuous).
+
 The basic idea here is: the achievement of values is conditional, time-bound and a constant need in some form, i.e. there is not state of life and no point in life that does not require the pursuit and achievement of values in some form. For a volitional being in particular, the values to be pursued and achieved when conscious necessarily extend to values that sustain one's self-motivated existence, which means conscious life-affirmation involves not only the automatic pursuit of values (e.g. breathing, digesting, etc.) but also the volitional pursuit of values. Why? Because a volitional existence can only be sustained by integrating one's present with some potential and by valuing consciousness to the fullest (which is not contradicted by actual unconsciousness, since sustaining the capacity of one's consciousness to the fullest also requires rest, sleep and perhaps other acute needs, such as surgery, that may involve actual unconsciousness). In other words, to sustain our existence as volitional beings, we need to recognise and strive for some valuable potential (which could be as direct as enjoying the moment).
 
 **NOTE**: _Choosing not to pursue values at any given moment is to choose not to pursue a purpose at the given moment; here, no valid cognition is possible. More precisely, consistent rationality demands consistent value-orientation._
