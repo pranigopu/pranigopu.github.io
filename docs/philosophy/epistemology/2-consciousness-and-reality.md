@@ -29,4 +29,4 @@ The fact of consciousness offers the knowledge, implicitly rather than explicitl
 
 _Knowledge of reality is possible_...
 
-Consider the view, "knowledge of reality is impossible". This is a self-contradictory view since it asserts knowledge while denying the validity of knowledge, including the validity of what it asserts. Such a view cannot be true as it falsifies itself. Nonetheless, I shall delve deeper into how and why knowledge of reality is in fact possible.
+Consider the view, "knowledge of reality is impossible". This is a self-contradictory view since it asserts knowledge while denying the validity of knowledge, including the validity of what it asserts. Such a view cannot be true as it falsifies itself. Nonetheless, in the later sections of **Epistemology**, I shall delve deeper into how and why knowledge of reality is in fact possible.

@@ -4,13 +4,41 @@
 
 **Contents**:
 
-- [Conceptual map](#conceptual-map)
+- [Integration](#integration)
+  - [Soil](#soil)
+  - [Conceptual map for practice](#conceptual-map-for-practice)
+  - [](#)
 - [Key points to remember](#key-points-to-remember)
 - [Art to capture the core of my philosophy](#art-to-capture-the-core-of-my-philosophy)
 
 ---
 
-# Conceptual map
+# Integration
+## Soil
+This is the layer of fundamentals.
+
+**Metaphysics**:
+
+- [_Essentials of Metaphysics_](https://pranigopu.github.io/philosophy/metaphysics/essentials-of-metaphysics.html)
+
+**Philosophical psychology**:
+
+- [_Human Consciousness and Free Will_](https://pranigopu.github.io/philosophy/human-consciousness-and-free-will.html)
+
+**Epistemology**:
+
+- [Direct Experience](https://pranigopu.github.io/philosophy/epistemology/3-direct-experience.html)
+- [Integration of Perception](https://pranigopu.github.io/philosophy/epistemology/4-integration-of-perception.html)
+- [Knowledge and Certainty](https://pranigopu.github.io/philosophy/epistemology/knowledge-and-certainty.html)
+
+**Ethics**:
+
+- [The Standard of Value](https://pranigopu.github.io/philosophy/ethics/1-standard-of-value.html)
+- [The Nature of Life](https://pranigopu.github.io/philosophy/ethics/nature-of-life.html)
+- [The Nature of Value](https://pranigopu.github.io/philosophy/ethics/nature-of-value.html)
+- [The Nature of Morality](https://pranigopu.github.io/philosophy/ethics/nature-of-morality.html)
+
+## Conceptual map for practice
 
 ```
 Life-affirmation
@@ -27,6 +55,8 @@ MP--+             NC Id EF
 ```
 
 [Key](https://pranigopu.github.io/philosophy/summary/key.html) | [Justification](https://pranigopu.github.io/philosophy/summary/justification.html)
+
+##
 
 # Key points to remember
 - Objectivity is the root of virtue
