@@ -47,13 +47,13 @@ Life-affirmation
    /       \
   Se       Aw
  /  \     /  \
-Pr  AR   CC--RP-->Co,Re,Ef
-|   |              / | \
-MP--+             NC Id EF
-    |  |___________________|
-    |            |
-    |            |
-    +------------Ob
+Pr  AR   CC--RP-->Co,Re,Ef,RF
+|   |                / | \
+MP--+               NC Id EF
+    |   |____________________|
+    |              |
+    |              |
+    +--------------Ob
 ```
 
 [Key >>](https://pranigopu.github.io/philosophy/summary/key.html) :: [Justification >>](https://pranigopu.github.io/philosophy/summary/justification.html)
