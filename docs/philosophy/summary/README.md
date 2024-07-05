@@ -19,11 +19,11 @@ The layer of fundamentals.
 
 **Metaphysics**:
 
-- [_Essentials of Metaphysics_](https://pranigopu.github.io/philosophy/metaphysics/essentials-of-metaphysics.html)
+- [Essentials of Metaphysics](https://pranigopu.github.io/philosophy/metaphysics/essentials-of-metaphysics.html)
 
 **Philosophical psychology**:
 
-- [_Human Consciousness and Free Will_](https://pranigopu.github.io/philosophy/human-consciousness-and-free-will.html)
+- [Human Consciousness and Free Will](https://pranigopu.github.io/philosophy/human-consciousness-and-free-will.html)
 
 **Epistemology**:
 
@@ -56,7 +56,7 @@ MP--+             NC Id EF
     +------------Ob
 ```
 
-[Key >>](https://pranigopu.github.io/philosophy/summary/key.html) | [Justification >>](https://pranigopu.github.io/philosophy/summary/justification.html)
+[Key >>](https://pranigopu.github.io/philosophy/summary/key.html) :: [Justification >>](https://pranigopu.github.io/philosophy/summary/justification.html)
 
 ## Branches
 Key specifics of the stem.
