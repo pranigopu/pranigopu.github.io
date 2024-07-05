@@ -70,6 +70,14 @@ Key specifics of the stem.
 
 [Elaboration >>](https://pranigopu.github.io/philosophy/philosophy-in-practice/1-laying-foundations.html#the-acceptance-of-reality)
 
+**Dealing with emotions**:
+
+- Emotions derive from internalised premises
+- Internalised contextual clarity is vital
+- Invalid emotions are based on poor context
+- Emotion is not subjectable to willpower
+- Premises are subjectable to focus and change
+
 **Essentialising focus**:
 
 - Principle of essentials-first
