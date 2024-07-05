@@ -17,7 +17,7 @@ The underlying idea is that life-affirmation involves two basic aspects: (1) the
 
 In terms of one's experience of life, the ultimate purpose of life-affirmation is happiness, which is the fullest, most flourishing experience of one's life as a volitional being. In other words, the pursuit of happiness is the sole moral obligation. But while happiness through virtuous integrity can be expected long-range, such happiness cannot always be expected in the moment or short-range.
 
-However, serenity, which is the basis of happiness, is also the basis of life-affirmation and rationality in the moment. By serenity, I do not mean calmness, necessarily, but rather, the recognition of the facts, of one's own causal efficacy and of the limits of one's causal efficacy in the given context. Hence, serenity is the state of consciousness arising from objectivity. Such a state can and must be pursued in the moment and/or the short-range, since it is the basis of happiness, be it in the present (if possible) or in the future.
+However, serenity, which is the basis of happiness, is also the basis of life-affirmation and rationality in the moment. By serenity, I do not mean calmness necessarily (indeed, my concept of serenity is compatible with a lack of calm, as in energy, excitement, agitation, etc,), but rather, the recognition of the facts, of one's own causal efficacy and of the limits of one's causal efficacy in the given context. Hence, serenity is the state of consciousness arising from objectivity. Such a state can and must be pursued in the moment and/or the short-range, since it is the basis of happiness, be it in the present (if possible) or in the future.
 
 _Thus, we have serenity as the first branch._
 
