@@ -63,10 +63,10 @@ Key specifics of the stem.
 
 **Acceptance of reality**:
 
-- Acceptance of facts precedes evaluation/explanation
+- Accept facts before evaluating/explaning
 - One's feelings about the facts are also facts
 - Wholeheartedly accept the past and the potential
-- Acknowledge your causal efficacy and/or inefficacy
+- Accept your causal efficacy and/or inefficacy
 
 [Elaboration >>](https://pranigopu.github.io/philosophy/philosophy-in-practice/1-laying-foundations.html#the-acceptance-of-reality)
 
