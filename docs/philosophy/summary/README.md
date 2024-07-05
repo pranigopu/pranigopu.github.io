@@ -78,6 +78,8 @@ Key specifics of the stem.
 - Emotion is not subjectable to willpower
 - Premises are subjectable to focus and change
 
+[Elaboration >>](https://pranigopu.github.io/philosophy/philosophy-in-practice/7-emotions.html)
+
 **Essentialising focus**:
 
 - Principle of essentials-first
