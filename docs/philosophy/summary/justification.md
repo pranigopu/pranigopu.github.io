@@ -21,7 +21,7 @@ However, serenity, which is the basis of happiness, is also the basis of life-af
 
 _Thus, we have serenity as the first branch._
 
-The other branch is simpler to understand; rationality is essentially one's awareness of reality to the fullest _relevant_ extent ("relevant" here implies a purposeful, value-oriented approach to cognition).
+The other branch is simpler to understand; rationality is essentially one's awareness of reality to the fullest _relevant_ extent ("relevant" here implies a purposeful, value-oriented approach to cognition). This branch focuses more on the intellectual aspect of life-affirmation, but it is vital to note that the psychological and intellectual aspects are both parts of the same inseparable whole, and thus, are integrated and interconnected, neither existing apart from the other.
 
 _Thus, we have awareness as the second branch._
 
