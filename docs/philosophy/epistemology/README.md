@@ -15,13 +15,16 @@ _Fundamentals_...
 6. [Concept-formation](https://pranigopu.github.io/philosophy/epistemology/6-concept-formation.html)
 7. [Reason](https://pranigopu.github.io/philosophy/epistemology/7-reason.html)
 
-_Expansion_...
+_Fundamental expansion_...
 
-- [Logic](https://pranigopu.github.io/philosophy/epistemology/logic)
 - [Knowledge and Certainty](https://pranigopu.github.io/philosophy/epistemology/knowledge-and-certainty.html)
+- [Logic](https://pranigopu.github.io/philosophy/epistemology/logic)
 - [Contextual Clarity](https://pranigopu.github.io/philosophy/epistemology/contextual-clarity.html)
-- [Objectivity](https://pranigopu.github.io/philosophy/epistemology/objectivity.html)
-- [The Necessity of Generalisation](https://pranigopu.github.io/philosophy/epistemology/necessity-of-generalisation.html)
 - [Rationality in Practice](https://pranigopu.github.io/philosophy/epistemology/rationality-in-practice.html)
+
+_Additional expansion_...
+
+- [Objectivity](https://pranigopu.github.io/philosophy/epistemology/objectivity.html)
 - [Exploration in Truth-seeking](https://pranigopu.github.io/philosophy/epistemology/exploration-in-truth-seeking.html)
+- [The Necessity of Generalisation](https://pranigopu.github.io/philosophy/epistemology/necessity-of-generalisation.html)
 - [Closing Remarks on Epistemology](https://pranigopu.github.io/philosophy/epistemology/closing-remarks-on-epistemology.html)

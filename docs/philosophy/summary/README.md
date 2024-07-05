@@ -6,8 +6,8 @@
 
 - [Integration](#integration)
   - [Soil](#soil)
-  - [Conceptual map for practice](#conceptual-map-for-practice)
-  - [](#)
+  - [Stem](#stem)
+  - [Branches](#branches)
 - [Key points to remember](#key-points-to-remember)
 - [Art to capture the core of my philosophy](#art-to-capture-the-core-of-my-philosophy)
 
@@ -15,7 +15,7 @@
 
 # Integration
 ## Soil
-This is the layer of fundamentals.
+The layer of fundamentals.
 
 **Metaphysics**:
 
@@ -38,7 +38,9 @@ This is the layer of fundamentals.
 - [The Nature of Value](https://pranigopu.github.io/philosophy/ethics/nature-of-value.html)
 - [The Nature of Morality](https://pranigopu.github.io/philosophy/ethics/nature-of-morality.html)
 
-## Conceptual map for practice
+## Stem
+The layer connecting theory to practice.
+
 
 ```
 Life-affirmation
@@ -54,9 +56,28 @@ MP--+             NC Id EF
     +------------Ob
 ```
 
-[Key](https://pranigopu.github.io/philosophy/summary/key.html) | [Justification](https://pranigopu.github.io/philosophy/summary/justification.html)
+[Key >>](https://pranigopu.github.io/philosophy/summary/key.html) | [Justification >>](https://pranigopu.github.io/philosophy/summary/justification.html)
 
-##
+## Branches
+Key specifics of the stem.
+
+**Acceptance of reality**:
+
+- Acceptance of facts precedes evaluation/explanation
+- One's feelings about the facts are also facts
+- Wholeheartedly accept the past and the potential
+- Acknowledge your causal efficacy and/or inefficacy
+
+[Elaboration >>](https://pranigopu.github.io/philosophy/philosophy-in-practice/1-laying-foundations.html#the-acceptance-of-reality)
+
+**Essentialising focus**:
+
+- Principle of essentials-first
+- Principle of knowledge-orientation
+- Principle of unaccountability
+- Principle of purposefulness
+
+[Elaboration >>](https://pranigopu.github.io/philosophy/epistemology/rationality-in-practice.html#principle-of-essentialisation)
 
 # Key points to remember
 - Objectivity is the root of virtue

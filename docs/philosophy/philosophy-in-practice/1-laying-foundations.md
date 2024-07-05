@@ -63,7 +63,11 @@ Furthermore, never chastise yourself for the sake of chastising yourself; self-p
 ## Accepting the facts before evaluating them
 If something happens, it happens; it must be accepted without protest (internal or external). However, the facts must not be accepted passively; it is your rational and moral responsibiltiy to evaluate the facts, grasp their nature and grasp your own causal efficacy or lack thereof regarding the facts. Once you evaluate the facts, you act accordingly, accepting what you cannot change and changing what you can and must. If you face failures (be it morally and/or practically), accidents or misfortunes, acknowledge them for what they are and never wish for the past to change (note that acknowledging failures has been discussed in the previous section).
 
-**NOTE**: _Metaphysically, reality is integrated by identity and causality, which means key to accepting the facts is to acknowledge that everything that happens exists in some logical and causal relationship to the rest of reality. Furthermore, it is also key to acknowledge that everything that happens necessarily happens due to the nature of things and due to causality in some form._
+---
+
+**NOTE 1**: Metaphysically, reality is integrated by identity and causality, which means key to accepting the facts is to acknowledge that everything that happens exists in some logical and causal relationship to the rest of reality. Furthermore, it is also key to acknowledge that everything that happens necessarily happens due to the nature of things and due to causality in some form.
+
+**NOTE 2**: Protest is only valid against volitional acts of injustice, not against facts as such. In other words, if your protest is valid, direct it not toward the state of affairs itself but toward the volitional actors and decisions that are the cause of it (if such is indeed the case).
 
 ## Accepting your feelings about the facts
 _This is a logical application of the previous section's conclusions._
