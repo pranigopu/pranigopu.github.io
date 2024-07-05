@@ -6,6 +6,7 @@
 
 - [Conceptual map](#conceptual-map)
 - [Key points to remember](#key-points-to-remember)
+- [Art to capture the core of my philosophy](#art-to-capture-the-core-of-my-philosophy)
 
 ---
 
@@ -52,3 +53,6 @@ MP--+               NC Id EF
 - Value-seeking is continuous (see: [1](https://pranigopu.github.io/philosophy/ethics/nature-of-value.html#values-seeking-is-continuous), [2](https://pranigopu.github.io/philosophy/epistemology/rationality-in-practice.html#principle-of-value-seeking))
 - The pursuit of happiness is the sole moral obligation
 - Serenity is the basis of happiness
+
+# Art to capture the core of my philosophy
+- [_Poems for Life on Earth_](https://pranigopu.github.io/art/poetry/poems-for-life-on-earth.html)
