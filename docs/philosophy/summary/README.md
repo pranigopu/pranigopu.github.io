@@ -82,7 +82,8 @@ Key specifics of the stem.
 # Key points to remember
 - Objectivity is the root of virtue
 - Evasion is the root of vice
-- Virtue and vice are not fixed states <br> _Volition is always operative in morality_
+- Volition is always operative in virtue
+- Virtue and vice are not fixed states
 - Life is the source of value and purpose
 - Life is the only end in itself
 - By its nature, life is ongoing and continuous
