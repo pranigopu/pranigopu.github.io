@@ -9,14 +9,13 @@
 - [Pride as the key to the pursuit of values](#pride-as-the-key-to-the-pursuit-of-values)
   - [Pride as a virtue](#pride-as-a-virtue)
   - [The practice of pride](#the-practice-of-pride)
+    - [Pride is always possible and desirable](#pride-is-always-possible-and-desirable)
+    - [Need for the consistent practice of pride](#need-for-the-consistent-practice-of-pride)
   - [Pride as a key to a life-oriented ethics](#pride-as-a-key-to-a-life-oriented-ethics)
 - [Moral perfection](#moral-perfection)
   - [Moral perfection is morality in practice](#moral-perfection-is-morality-in-practice)
   - [Reality-based standard of perfection](#reality-based-standard-of-perfection)
   - [Purpose of moral perfection](#purpose-of-moral-perfection)
-- [Pride in practice](#pride-in-practice)
-  - [Pride is always possible and desirable](#pride-is-always-possible-and-desirable)
-  - [Need for the consistent practice of pride](#need-for-the-consistent-practice-of-pride)
 
 ---
 
@@ -61,6 +60,14 @@ Hence, we see that pride is not just evaluative of our actions and our self but 
 - Pride may or may not involve self-congratulatory expression. <br> _Such expression is not essential to pride, and may or may not accompany it._
 
 **NOTE**: _Moral standards are not subjective but contextual, i.e. they are absolute abstract principles applied to the context of your life, capabilities, and situation._
+
+### Pride is always possible and desirable
+The virtue of pride, i.e. moral ambitiousness, can be practiced by anyone and anytime (and it is always valuable to do so), even with low self-esteem or an immoral past, since pride depends on what you do, strive to do and aim to do (all of these are the building blocks, and without any one, pride dies). Pride is the precondition for and the path to self-esteem, and self-esteem is one of the core values that sustains life long-range. The feeling of pride is a consequence of self-esteem, but the virtue of pride is how you get there. Therefore, pride is a necessity and is always achievable on some level.
+
+### Need for the consistent practice of pride
+It is important to note that self-esteem is a fundamental value without which we cannot sustain our value for our life in the long-range. It is also important to note that though the virtue of pride is always achievable on some level, and though striving to achieve it (no matter how inconsistent or immoral we have been up to that point) is always desirable (i.e. to our self-interest), it is only the consistent practice of the virtue of pride that can build and maintain self-esteem.
+
+If we act in a way that keeps undermining our self-esteem, though we can always strive to achieve more through the virtue of pride, there is a cost. At worst, we may have acted in a way that diminishes the maximum level of self-esteem we can reach. At best, we would have impeded our progress, thus wasting precious time, energy or resources. There are costs in-between the worst and best cases, but in every case, the value for one's life requires us to pursue our values and principles (thus practice the virtue of pride) consistently and not intentionally incur costs.
 
 ## Pride as a key to a life-oriented ethics
 To live (as a volitional being) requires a sense of self-value. But a human, whose defining characteristic is a volitional consciousness, has no automatic conscious values, i.e. no automatic values with respect to his existence as a conscious, volitional being. Now, note that life is the objective standard of value, where "life" in this context is the form of existence particular to a volitional being. To value life requires valuing the self, i.e. the entity that is doing the living. As any other conscious value, this value for oneself — self-esteem — is not automatic.
@@ -127,12 +134,3 @@ _Whatever is anti-reason is anti-mind, and thus, anti-life and thereby immoral._
 "_Moral perfection is not about genuflecting to some deity or to pursue morality as an end in itself. It's not about keeping a good record in some official bookkeeping. Being perfectly moral is the only path to your values and your happiness._" <br> — Tara Smith
 
 Hence, note that to be morally perfect is not the goal, but rather, it is the means to the goal of living life. Hence, do not obsess with moral perfection as such (as an end in itself), but rather, focus on life and your ability to live it. Moral imperfection is not a reason by itself to give up hope or value for yourself or your life, but rather, it is evidence of some spiritual need or lacking that must be addressed (and it is morally necessary to do so).
-
-# Pride in practice
-## Pride is always possible and desirable
-The virtue of pride, i.e. moral ambitiousness, can be practiced by anyone and anytime (and it is always valuable to do so), even with low self-esteem or an immoral past, since pride depends on what you do, strive to do and aim to do (all of these are the building blocks, and without any one, pride dies). Pride is the precondition for and the path to self-esteem, and self-esteem is one of the core values that sustains life long-range. The feeling of pride is a consequence of self-esteem, but the virtue of pride is how you get there. Therefore, pride is a necessity and is always achievable on some level.
-
-## Need for the consistent practice of pride
-It is important to note that self-esteem is a fundamental value without which we cannot sustain our value for our life in the long-range. It is also important to note that though the virtue of pride is always achievable on some level, and though striving to achieve it (no matter how inconsistent or immoral we have been up to that point) is always desirable (i.e. to our self-interest), it is only the consistent practice of the virtue of pride that can build and maintain self-esteem.
-
-If we act in a way that keeps undermining our self-esteem, though we can always strive to achieve more through the virtue of pride, there is a cost. At worst, we may have acted in a way that diminishes the maximum level of self-esteem we can reach. At best, we would have impeded our progress, thus wasting precious time, energy or resources. There are costs in-between the worst and best cases, but in every case, the value for one's life requires us to pursue our values and principles (thus practice the virtue of pride) consistently and not intentionally incur costs.
