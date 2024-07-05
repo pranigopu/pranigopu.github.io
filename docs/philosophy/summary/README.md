@@ -9,7 +9,7 @@
   - [Stem](#stem)
   - [Branches](#branches)
 - [Key points to remember](#key-points-to-remember)
-- [Art to capture the core of my philosophy](#art-to-capture-the-core-of-my-philosophy)
+- [Art to invigorate the spirit](#art-to-invigorate-the-spirit)
 
 ---
 
@@ -90,5 +90,6 @@ Key specifics of the stem.
 - The pursuit of happiness is the sole moral obligation
 - Serenity is the basis of happiness
 
-# Art to capture the core of my philosophy
-- [_Poems for Life on Earth_](https://pranigopu.github.io/art/poetry/poems-for-life-on-earth.html)
+# Art to invigorate the spirit
+- [Poems for Life on Earth](https://pranigopu.github.io/art/poetry/poems-for-life-on-earth.html)
+- [Top Favourite Visual Art](https://pranigopu.github.io/art/visual-art/top-favourites.html)
