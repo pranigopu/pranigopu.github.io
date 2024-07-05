@@ -28,7 +28,7 @@ _Thus, we have awareness as the second branch._
 # The sub-branches of serenity
 **KEY INSIGHT**: Serenity requires non-evasion and an orientation toward virtue.
 
-**NOTE**: _Non-evasion in action results in an orientation toward virtue._
+**NOTE**: _Non-evasion in action is essentially an orientation toward virtue._
 
 **Handling the virtue-orientation aspect**:
 
