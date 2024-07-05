@@ -17,6 +17,6 @@
 | Re | Relevance |
 | Ef | Efficiency |
 | NC | Non-contradiction <br> _Especially contextual non-contradiction_ |
-| Id | Identification <br> _Especially of logical and causal relationships_ |
+| Id | Identification <br> _Especially logical & causal relationships_ |
 | EF | Essentialising focus |
 | Ob | Objectivity |
