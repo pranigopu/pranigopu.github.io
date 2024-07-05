@@ -32,7 +32,7 @@ _Thus, we have awareness as the second branch._
 
 Thanks to Dr. Tara Smith's insights (see: (1) ["Moral Ambition: Perfection and Pride, Part 1" by Tara Smith](https://www.youtube.com/watch?v=W-oP0BxZcks&list=PLce8-cUD6KMcUnyfBJkQhoFRHlmuIYkor&index=28), (2) [_Pride and Moral Perfection_ from **Philosophy in Practice**](https://pranigopu.github.io/philosophy/philosophy-in-practice/5-pride-and-moral-perfection.html)) and also aligned with Aristotle, I hold pride as the crown of all virtues, not just as an end result of full virtuousness (as Aristotle identifies it) but also as the means to self-value and virtuousness (as Ayn Rand identifies it, especially through her definition of pride as "moral ambitiousness").
 
-Furthermore, along with rationality, I have recognised pride as the most practicable virtue, since it not only clearly integrates every other virtue but is also something that can be identified, pursued and achieved concretely. Below pride, I have given moral perfection, since moral perfection is both the end result of the full practice of pride and the basis for sustaining and advancing pride long-range.
+Furthermore, along with rationality (which is focused on more explicitly in the "awareness" branch), I have recognised pride as the most practicable virtue, since it not only naturally integrates every other virtue but is also something that can be identified, pursued and achieved concretely. Below pride, I have given moral perfection, since moral perfection is both the end result of the full practice of pride and the basis for sustaining and advancing pride long-range.
 
 **Handling the non-evasion aspect**:
 
