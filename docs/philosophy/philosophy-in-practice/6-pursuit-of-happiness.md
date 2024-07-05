@@ -18,6 +18,8 @@
   - [Definitions](#definitions)
   - [Obtaining the abstract principles](#obtaining-the-abstract-principles)
   - [Applying the principles in practice](#applying-the-principles-in-practice)
+- [Additional points](#additional-points)
+  - [Motivation by love vs. motivation by fear](#motivation-by-love-vs-motivation-by-fear)
 
 ---
 
@@ -152,4 +154,20 @@ What does it mean in practice? It means that every need is necessary, and no kin
 
 Hence, as rational beings, we see a method arise. Start by considering what it takes to sustain oneself concretely. Hence, start from the most basic needs of life, both nutritive and sensitive. Then, begin integrating increasingly longer-range potentials that support and/or advance one's capacity for sustaining oneself concretely. Integrate rationally, i.e. according to your knowledge, and do not try to integrate potentials that are only hypothetically connected to your concrete experience of life. A key point to remember is that the purpose of every long-range pursuit is the affirmation of life in the moment; hence, choose your long-range pursuits rationally, building up from your basic needs to the pursuits that, in your knowledge, objectively support and/or advance your capacity to satisfy your basic needs more effectively, especially in a broader context.
 
-**NOTE**: _By its nature, a truly self-sustaining, i.e. valuable potential adds to your concrete experience of life by means of the very process of striving toward it; any other kind of potential may be considered (if you have reason to believe it has potential value) but it must not be pursued without sufficiently concretising its value._
+---
+
+**NOTE: The value of the process**:
+
+By its nature, a truly self-sustaining, i.e. valuable potential adds to your concrete experience of life by means of the very process of striving toward it; any other kind of potential may be considered (if you have reason to believe it has potential value) but it must not be pursued without sufficiently concretising its value.
+
+**NOTE: The value of philosophy**:
+
+Philosophy is the ultimate integrator of knowledge and value-judgement, which is why it is so crucial to validate our worldview and values philosophically. For a greater clarity about how and why philosophy is so essential, see: ["Why to pursue philosophy?" from _Introduction to Philosophy_ from **Philosophy**](https://pranigopu.github.io/philosophy/intro-to-philosophy.html#why-to-pursue-philosophy).
+
+# Additional points
+## Motivation by love vs. motivation by fear
+In any pursuit in life – be it a result-oriented goal or the desire to achieve some potential or whatever – must be framed as: the pursuit of happiness, ultimately. Happiness is the concomitant of life, and since the standard of value is one’s life, the standard of value in psychological terms is happiness. Whatever you choose to do, choose and pursue it as a part – in some form – of your pursuit of happiness.
+
+Motivation by fear can often be valid for particular instances; for your life as a whole and your life’s central purposes, it is simply not valid (check the document on ethics in the philosophy folder). Rather, motivation by love, i.e. a motivation driven by a value for oneself and one’s life, is what is moral.
+
+The above are not merely window-dressing, since how you frame a goal is important in: (1) how you respond to it psychologically, (2) what values you consider as important by association, hence, (2.1) what sub-goals you pursue and tend to achieve and (2.2) how you evaluate and experience their achievement.
