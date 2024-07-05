@@ -106,6 +106,16 @@ _All values are ultimately one value_. In other words, every value is the same o
 
 Note that an attempted application of one's value for life is _in fact_ an application of one's value for life if and only if it is logical, i.e. non-contradictory with respect to the sum of one's knowledge. If it is illogical, i.e. contradictory with respect to the given context and/or a broader context, then it is necessarily detached from the source of value that is life. In other words, it is not a value. Hence, it is not valid to say, "It is a value, but since the loss is too great, it is not worth pursuing it." Logically, there can be no weighing of values against anti-values, there can only be value or lack thereof. In truth, either something is a value and worth pursuing in the given context, or it is not a value at all in the given context.
 
+---
+
+**Expanding on of the above**:
+
+When something is a value, it is a value only in a certain context or range of contexts. To be a value out of context is to be a value in and of itself, without reference to any standard applied to the situation; this is a negation of the concept of value. This is key in understanding how to consider tempting yet harmful options or options that are bad for us in the bigger picture or longer range.
+
+One fallacy is to consider this situation as one of "balancing values with negatives". In this view, if a supposed value is in fact harmful or bad in the longer run, we would consider it as a value yet with the negatives outweighing this value; the pros outweighed by the cons, or the reward outweighed by the cost. Now, it must be noted that the root of this fallacy is in equating the concept of value (in the philosophical sense) with the concept of reward or gain.
+
+In philosophical terms, a value is an element within an integrated system consisting of both other values as well as the context at hand. A value that (in your knowledge) causes you harm in the long-run is a contradiction in terms, since if you knew something was bad for you in a deeper sense that mattered to you, it would not be a value in your context. If your context is irrationally narrow (e.g. like an addict’s) or irrationally broad (e.g. like a neurotic’s), you would find values that would in a more rational context be complete non-values or even anti-values. The key is finding what is the right context (to the best of your knowledge) and evaluating the options contextually. Nothing is good or bad by itself, only in context and in relation to your standard of value.
+
 # Values are contextual
 **_This is a logical extension of what was said in "Integrity of values"_**
 
