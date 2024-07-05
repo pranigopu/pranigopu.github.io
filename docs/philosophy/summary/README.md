@@ -5,16 +5,16 @@
 **Contents**:
 
 - [Integration](#integration)
-  - [Soil](#soil)
-  - [Stem](#stem)
-  - [Branches](#branches)
+  - [Soil and roots](#soil-and-roots)
+  - [Stem and branches](#stem-and-branches)
+  - [Specific branches](#specific-branches)
 - [Key points to remember](#key-points-to-remember)
 - [Art to invigorate the spirit](#art-to-invigorate-the-spirit)
 
 ---
 
 # Integration
-## Soil
+## Soil and roots
 The layer of fundamentals.
 
 **Metaphysics**:
@@ -38,7 +38,7 @@ The layer of fundamentals.
 - [The Nature of Value](https://pranigopu.github.io/philosophy/ethics/nature-of-value.html)
 - [The Nature of Morality](https://pranigopu.github.io/philosophy/ethics/nature-of-morality.html)
 
-## Stem
+## Stem and branches
 The layer connecting theory to practice.
 
 
@@ -58,8 +58,8 @@ MP--+             NC Id EF
 
 [Key >>](https://pranigopu.github.io/philosophy/summary/key.html) :: [Justification >>](https://pranigopu.github.io/philosophy/summary/justification.html)
 
-## Branches
-Key specifics of the stem.
+## Specific branches
+Key specifics from the last section.
 
 **Acceptance of reality**:
 
