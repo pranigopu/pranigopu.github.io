@@ -13,21 +13,23 @@
   - [Rational decision-making is always volitional](#rational-decision-making-is-always-volitional)
   - [Volition as a part of an integrated system](#volition-as-a-part-of-an-integrated-system)
   - [Essentialising focus](#essentialising-focus)
-    - [Principle of contextual non-contradiction](#principle-of-contextual-non-contradiction)
-    - [Principle of essentialisation](#principle-of-essentialisation)
-    - [Principle of identification](#principle-of-identification)
+  - [Shaping motivations](#shaping-motivations)
+- [Defining principles for rationality in practice](#defining-principles-for-rationality-in-practice)
+  - [Principle of contextual non-contradiction](#principle-of-contextual-non-contradiction)
+  - [Principle of identification](#principle-of-identification)
+  - [Principle of value-seeking](#principle-of-value-seeking)
+  - [Principle of essentialisation](#principle-of-essentialisation)
+    - [Principle of essentials-first](#principle-of-essentials-first)
     - [Principle of knowledge-orientation](#principle-of-knowledge-orientation)
     - [Principle of unaccountability](#principle-of-unaccountability)
     - [Principle of purposefulness](#principle-of-purposefulness)
-    - [Principle of value-seeking](#principle-of-value-seeking)
     - [Integrating the above principles into a broader principle](#integrating-the-above-principles-into-a-broader-principle)
     - [Essential further reading](#essential-further-reading)
-    - [Additional points](#additional-points)
-      - [Dismissing arbitrary doubts and arbitrary hypotheticals](#dismissing-arbitrary-doubts-and-arbitrary-hypotheticals)
-      - [Dismissing insignficant factors and risks](#dismissing-insignficant-factors-and-risks)
-      - [Contextual clarity when considering possibilities](#contextual-clarity-when-considering-possibilities)
-      - [Rational exploration](#rational-exploration)
-  - [Shaping motivations](#shaping-motivations)
+  - [Additional points](#additional-points)
+    - [Dismissing arbitrary doubts and arbitrary hypotheticals](#dismissing-arbitrary-doubts-and-arbitrary-hypotheticals)
+    - [Dismissing insignficant factors and risks](#dismissing-insignficant-factors-and-risks)
+    - [Contextual clarity when considering possibilities](#contextual-clarity-when-considering-possibilities)
+    - [Rational exploration](#rational-exploration)
 
 ---
 
@@ -115,7 +117,19 @@ _To see why abstraction in general and essentials in particular are objective an
 
 Since volition is essentially the ability to focus selectively, the rational use of volition requires the rational use of focus, which requires thinking in essentials. In other words, the focus of our minds must be on that which is essential in the given context. We expand into particulars as indicated by the context, progressively expanding the scope of our focus, but always with the method of thinking in essentials. The question now is: how to recognise and focus on essentials in a given context?
 
-### Principle of contextual non-contradiction
+**NOTE**: _The exact principles for essentialising focus shall be discussed later._
+
+## Shaping motivations
+_This is lifted from_ ["Further points on motivation" from _Integrating the Actual and the Potential_ from **Philosophy in Practice**](https://pranigopu.github.io/philosophy/philosophy-in-practice/2-integrating-actual-and-potential.html#further-points-on-motivation).
+
+Motivation has both an intellectual (abstract) and a psychological (concrete) aspect. Both are vital and must be integrated (at least over time); the abstract aspect integrates the relevant concretes and validates motivations in the right context, whereas the concrete aspect is what ultimately drives your actions. However, the concrete, i.e. psychological aspect is largely subconscious; the abstract, i.e. intellectual aspect is key in shaping the psychological aspect, but such shaping must be done logically (remember the analogy of a programmer — the intellectual aspect — and the computer — the psychological aspect). Thus, shaping your motivations may often be a matter of a more tactful, indirect approach rather than direct intent or willpower, especially in view of the complexity of your goals and of your means to achieve them.
+
+_Motivation and willpower are explored in-depth in_ [_Integrating the actual and the potential_ from **Philosophy in Practice**](https://pranigopu.github.io/philosophy/philosophy-in-practice/2-integrating-actual-and-potential.html).
+
+# Defining principles for rationality in practice
+So far, we have looked at the key requirements of rationality as well as the broad nature of rationality in practice. Now, I shall try to lay out the principles that actually achieve these key requirements, thereby enabling and advancing the pursuit of rationality in practice.
+
+## Principle of contextual non-contradiction
 **_Non-contradiction in contexts_**
 
 _This reinforces the idea in_ ["Hierarchical and contextual organisation of values" from _Integrating the Actual and the Potential_ from **Philosophy in Practice**](https://pranigopu.github.io/philosophy/philosophy-in-practice/2-integrating-actual-and-potential.html#hierarchical-and-contextual-organisation-of-values).
@@ -124,22 +138,7 @@ Essentials in a narrower context cannot contradict those in a broader context th
 
 **NOTE**: _Elements of a broader context can have various specific or concrete expressions in narrower contexts; even so, non-contradiction is maintained, wherein none of the different expressions contradict the overarching elements in the broader context._
 
-### Principle of essentialisation
-**_Seeking essentials vs. dismissing non-essentials_**
-
-The act of staying in focus is the act of grasping what is, rather than what is not. The reason is clear: what is not can only be grasped (if at all) with respect to what is. Extending the same principle to any act and result of selective focus, we see that seeking the essentials is the act of staying in focus to grasp what is, i.e. what exists, what knowledge exists about what exists, and what we know about what relates to our purpose and to what extent.
-
-Focusing on the non-essential apart from one's pursuit of the essentials is to reject one's grasp of reality in favour of the unreal (e.g. either that which does not exist or that which has no existing relationship within one's knowledge to what is relevant in one's context). Doing so is essentially an act of turning away from reality, which can never reach the efficacy of turning to reality, except by accident; hence, it can ever be a valid policy. Furthermore, the more focus on the non-essentials, the more you turn away from dealing with reality and learning more about it, since learning can only happen with respect to what you know and not apart from it. Moreover, turning away from reality means your awareness is either less capable or incapable of learning more about what could potentially turn out to be essential.
-
-To conclude, the right approach to dealing with reality is not to go over and keep dismissing the non-essentials but rather to seek the essentials and expand your focus based on what you know and what comes into your awareness (which you must keep keen and ready, which is only possible if you keep your focus clear, which in turn is only possible by keeping the essentials in sight and not delving unnecessarily into the non-essentials). Hence, focus on seeking the essentials rather than dismissing the non-essentials. Even logistically, the former approach is the efficient and effective approach in practice while the latter approach tends to proliferate arbitrary concerns and can do so far beyond what can practically be dealt with (since the realm of the arbitrary is always infinite while the realm of knowledge is always finite at any given point).
-
----
-
-**NOTE 1**: Dismissing non-essentials is a valid approach but only as secondary to seeking the essentials. In other words, if you have reason to consider something as potentially essential and relevant for the given context and purpose, then it is valid to check it is indeed so or if it is a non-essential to be dismissed.
-
-**NOTE 2**: To entertain arbitrary concerns as valid concerns is to abandon reason, because on what basis would you start or stop taking such concerns into account? Since they are arbitrary, such a basis cannot exist in your grasp of reality. Hence, such a basis is necessarily irrational, e.g. out-of-context compulsion, whim, etc.
-
-### Principle of identification
+## Principle of identification
 **_Identifying logical and causal relationships_**
 
 Metaphysically, everthing in existence is integrated to each other by identity and causality, i.e. by logical and causal relationships. Hence, logical and causal relationships are essential to grasping the nature of things in existence, thereby being essential to grasping reality. Hence, identifying logical and causal relationships is key to rationality and thus morality.
@@ -160,6 +159,35 @@ For example, I remember validating a conclusion, this memory has a cause that in
 **Wholehearted acceptance of the past and the potential**:
 
 By causality, what has happened is not open to change. Understanding this is key to understanding that (1) one cannot validly wish for the past to not have happened, and that (2) what happened had to have happened due to the causes that were present. At the same time, it is true that the potential is open to change to some extent. Hence, we do not live in a predetermined universe, but at the same time, what has happened was necessary given the causes that were present. Furthermore, the past can lead to our awareness of things that can help us change the future for the better; without the past having occurred, the lessons and motivations that led to our awareness of what to do and not to do would have no basis and thus would not exist.
+
+## Principle of value-seeking
+**_A principle that supports the validity of the others_**
+
+The basic idea here is: the achievement of values is conditional, time-bound and a constant need in some form, i.e. there is not state of life and no point in life that does not require the pursuit and achievement of values in some form. For a volitional being in particular, the values to be pursued and achieved when conscious necessarily extend to values that sustain one's self-motivated existence, which means conscious life-affirmation involves not only the automatic pursuit of values (e.g. breathing, digesting, etc.) but also the volitional pursuit of values. Why? Because a volitional existence can only be sustained by integrating one's present with some potential and by valuing consciousness to the fullest (which is not contradicted by actual unconsciousness, since sustaining the capacity of one's consciousness to the fullest also requires rest, sleep and perhaps other acute needs, such as surgery, that may involve actual unconsciousness). In other words, to sustain our existence as volitional beings, we need to recognise and strive for some valuable potential (which could be as direct as enjoying the moment).
+
+**NOTE**: _Choosing not to pursue values at any given moment is to choose not to pursue a purpose at the given moment; here, no valid cognition is possible. More precisely, consistent rationality demands consistent value-orientation._
+
+Hence, since (1) the capacity and fullest long-range exercise of consciousness is valuable to our existence, and since (2) the pursuit of value (with the standard of value being life) and thus the need for rationality is ever-present when conscious, even an occasional but deliberate violation of rational principles (e.g. indulging in non-essentials, arbitrary concerns, etc.) is a violation of our value for life as such, in some form. If the violation of rational principles is a habit or practice, then we devalue our life as a whole, serving ultimately to degrade and destroy it.
+
+**NOTE**: _In contemplative or reflective contexts, the purpose is to expand our thinking beyond regular considerations, which means in such contexts, what would be non-essential in other contexts may not be non-essential in these._
+
+## Principle of essentialisation
+As mentioned before, essentials are the basis of a rational use of the mind, since they are the means to most efficiently integrate a context with respect to relevance. Hence, essentials are indispensable to consistent rationality. Below are the specific principles by which essentialisation can be achieved.
+
+### Principle of essentials-first
+**_Seeking essentials vs. dismissing non-essentials_**
+
+The act of staying in focus is the act of grasping what is, rather than what is not. The reason is clear: what is not can only be grasped (if at all) with respect to what is. Extending the same principle to any act and result of selective focus, we see that seeking the essentials is the act of staying in focus to grasp what is, i.e. what exists, what knowledge exists about what exists, and what we know about what relates to our purpose and to what extent.
+
+Focusing on the non-essential apart from one's pursuit of the essentials is to reject one's grasp of reality in favour of the unreal (e.g. either that which does not exist or that which has no existing relationship within one's knowledge to what is relevant in one's context). Doing so is essentially an act of turning away from reality, which can never reach the efficacy of turning to reality, except by accident; hence, it can ever be a valid policy. Furthermore, the more focus on the non-essentials, the more you turn away from dealing with reality and learning more about it, since learning can only happen with respect to what you know and not apart from it. Moreover, turning away from reality means your awareness is either less capable or incapable of learning more about what could potentially turn out to be essential.
+
+To conclude, the right approach to dealing with reality is not to go over and keep dismissing the non-essentials but rather to seek the essentials and expand your focus based on what you know and what comes into your awareness (which you must keep keen and ready, which is only possible if you keep your focus clear, which in turn is only possible by keeping the essentials in sight and not delving unnecessarily into the non-essentials). Hence, focus on seeking the essentials rather than dismissing the non-essentials. Even logistically, the former approach is the efficient and effective approach in practice while the latter approach tends to proliferate arbitrary concerns and can do so far beyond what can practically be dealt with (since the realm of the arbitrary is always infinite while the realm of knowledge is always finite at any given point).
+
+---
+
+**NOTE 1**: Dismissing non-essentials is a valid approach but only as secondary to seeking the essentials. In other words, if you have reason to consider something as potentially essential and relevant for the given context and purpose, then it is valid to check it is indeed so or if it is a non-essential to be dismissed.
+
+**NOTE 2**: To entertain arbitrary concerns as valid concerns is to abandon reason, because on what basis would you start or stop taking such concerns into account? Since they are arbitrary, such a basis cannot exist in your grasp of reality. Hence, such a basis is necessarily irrational, e.g. out-of-context compulsion, whim, etc.
 
 ### Principle of knowledge-orientation
 **_Considerations in knowledge over considerations in ignorance_**
@@ -196,17 +224,6 @@ Purpose is key to cognition, and it is especially key to thinking in essentials;
 
 In particular, when entering a narrower context, we must grasp how our essential purpose translates into the narrower context, i.e. we must grasp what is and is not relevant to keep in mind, and what narrower purposes to pursue. In fact, when we can only enter a narrower context rationally with respect to a purpose, namely the purpose of concretising and thus realising the broader purpose of life-affirmation as per our current context.
 
-### Principle of value-seeking
-**_A principle that supports the validity of the others_**
-
-The basic idea here is: the achievement of values is conditional, time-bound and a constant need in some form, i.e. there is not state of life and no point in life that does not require the pursuit and achievement of values in some form. For a volitional being in particular, the values to be pursued and achieved when conscious necessarily extend to values that sustain one's self-motivated existence, which means conscious life-affirmation involves not only the automatic pursuit of values (e.g. breathing, digesting, etc.) but also the volitional pursuit of values. Why? Because a volitional existence can only be sustained by integrating one's present with some potential and by valuing consciousness to the fullest (which is not contradicted by actual unconsciousness, since sustaining the capacity of one's consciousness to the fullest also requires rest, sleep and perhaps other acute needs, such as surgery, that may involve actual unconsciousness). In other words, to sustain our existence as volitional beings, we need to recognise and strive for some valuable potential (which could be as direct as enjoying the moment).
-
-**NOTE**: _Choosing not to pursue values at any given moment is to choose not to pursue a purpose at the given moment; here, no valid cognition is possible. More precisely, consistent rationality demands consistent value-orientation._
-
-Hence, since (1) the capacity and fullest long-range exercise of consciousness is valuable to our existence, and since (2) the pursuit of value (with the standard of value being life) and thus the need for rationality is ever-present when conscious, even an occasional but deliberate violation of rational principles (e.g. indulging in non-essentials, arbitrary concerns, etc.) is a violation of our value for life as such, in some form. If the violation of rational principles is a habit or practice, then we devalue our life as a whole, serving ultimately to degrade and destroy it.
-
-**NOTE**: _In contemplative or reflective contexts, the purpose is to expand our thinking beyond regular considerations, which means in such contexts, what would be non-essential in other contexts may not be non-essential in these._
-
 ### Integrating the above principles into a broader principle
 Speaking on a personal basis, each of the above principles I have outlined have taken my approach to rationality from near-paralysing overthinking and compulsiveness (in thought and action) to an alert yet sustainable and life-affirming focus on reality. However, I realised that there is another key principle that ties the above principles and adds an important level of clarity about the means to achieve efficiency in thought without evasion. The principle is as follows:
 
@@ -237,24 +254,17 @@ In essence, integrating one's view of reality over time in essentials helps inte
 ### Essential further reading
 While the above principles show the method of essentialisation, they do not show what to essentialise, i.e. they show the method, not the content. Of course, method without content is useless. Hence, an essential topic to the method of essentialisation is the topic of the essentials of life-affirmation, since life is the ultimate value and the ultimate purpose, which means life-affirmation must be the essential object of focus. In essence, just as all values are aspects of the value for life in the moment, so is all rational focus rooted in the focus on concrete life-affirmation; all specific acts of focus are aspects of the focus on concrete life-affirmation. Read more about life-affirmation here: ["Essentialising and integrating life-affirmation" from _The Pursuit of Happiness_ from **Philosophy in Practice**](https://pranigopu.github.io/philosophy/philosophy-in-practice/6-pursuit-of-happiness.html#essentialising-and-integrating-life-affirmation)
 
-### Additional points
-#### Dismissing arbitrary doubts and arbitrary hypotheticals
-By the principles knowledge-orientation and unaccountability, arbitrary doubts and arbitrary hypotheticals are based primarily in ignorance and cannot be accounted for. Arbitrary doubts and arbitrary hypotheticals are particularly pernicious since they can proliferate indefinitely, waste one's finite time, energy and resources and thereby lead to indecision and/or irrational judgement. Furthermore, by the principle of essentialisation, dismiss as arbitrary only what you have reason to think may be essential; primarily seek the essentials and dismiss the arbitrary only as a part of the process. In other words, do not even get into arbitrary doubts and arbitrary hypotheticals unless there is reason to think that they may be relevant.
+## Additional points
+### Dismissing arbitrary doubts and arbitrary hypotheticals
+By the principles knowledge-orientation and unaccountability, arbitrary doubts and arbitrary hypotheticals are based primarily in ignorance and cannot be accounted for. Arbitrary doubts and arbitrary hypotheticals are particularly pernicious since they can proliferate indefinitely, waste one's finite time, energy and resources and thereby lead to indecision and/or irrational judgement. Furthermore, by the principle of essentials-first, dismiss as arbitrary only what you have reason to think may be essential; primarily seek the essentials and dismiss the arbitrary only as a part of the process. In other words, do not even get into arbitrary doubts and arbitrary hypotheticals unless there is reason to think that they may be relevant.
 
-#### Dismissing insignficant factors and risks
-By the principles of knowledge-orientation and unaccountability, insigificant factors and risks cannot be practically accounted for, especially with respect to one's knowledge of the essentials and one's hierarchy of values. Furthermore, by the principle of essentialisation, since seeking the essentials is primary, by the finiteness of focus, much of the less important is excluded by default and must not be included lest what is known to be important and essential are taken out of focus.
+### Dismissing insignficant factors and risks
+By the principles of knowledge-orientation and unaccountability, insigificant factors and risks cannot be practically accounted for, especially with respect to one's knowledge of the essentials and one's hierarchy of values. Furthermore, by the principle of essentials-first, since seeking the essentials is primary, by the finiteness of focus, much of the less important is excluded by default and must not be included lest what is known to be important and essential are taken out of focus.
 
-#### Contextual clarity when considering possibilities
+### Contextual clarity when considering possibilities
 A claim of possibility, like all knowledge claims, is contextual, i.e. based on a certain set of necessary and/or sufficient conditions. For example, if I say, "It is possible for a man to kill a tiger," what I am really saying is, "A man can kill a tiger under certain necessary and/or sufficient conditions, e.g. if the man is able-bodied enough and/or if the man is armed and ready and/or if the tiger is weak enough, etc." It is invalid for me to go up to a crippled old man and tell him that he can kill a rampaging tiger because it is "possible for a man to kill a tiger." As another example, if I say, "It is possible for me to get infected by contact with outdoor surfaces," implicit in my statement are conditions (e.g. infected people coming into contact with the surface, the infection being transmissible through the skin, etc.), of which only the conditions I can actually account for are relevant to consider.
 
 Keeping claims of possibility tied to the right context prevents false generalisations, inefficiency and/or ineffectiveness in thought and action due to the consideration of irrelevant or insignificant factors and dangerously false and irresponsible conclusions.
 
-#### Rational exploration
+### Rational exploration
 It is key to note that what may be irrelevant, arbitrary or insignificant in some contexts may be useful to explore in other more expansive contexts (e.g. more relaxed contexts, more reflective contexts, brainstorming sessions, intensive study, long-range and/or detailed deliberation, etc.). Exploration is a vital part of expanding the scope of one's knowledge in the long-run, which makes it relevant sometimes to consider and/or reflect over at least some of what we would normally brush aside. Note that this aspect of rationality does not (and cannot) contradict any of the other aspects. Rather, it is based on the contextual nature of rationality and affirms the relevance of exploration in the right contexts.
-
-## Shaping motivations
-_This is lifted from_ ["Further points on motivation" from _Integrating the Actual and the Potential_ from **Philosophy in Practice**](https://pranigopu.github.io/philosophy/philosophy-in-practice/2-integrating-actual-and-potential.html#further-points-on-motivation).
-
-Motivation has both an intellectual (abstract) and a psychological (concrete) aspect. Both are vital and must be integrated (at least over time); the abstract aspect integrates the relevant concretes and validates motivations in the right context, whereas the concrete aspect is what ultimately drives your actions. However, the concrete, i.e. psychological aspect is largely subconscious; the abstract, i.e. intellectual aspect is key in shaping the psychological aspect, but such shaping must be done logically (remember the analogy of a programmer — the intellectual aspect — and the computer — the psychological aspect). Thus, shaping your motivations may often be a matter of a more tactful, indirect approach rather than direct intent or willpower, especially in view of the complexity of your goals and of your means to achieve them.
-
-_Motivation and willpower are explored in-depth in_ [_Integrating the actual and the potential_ from **Philosophy in Practice**](https://pranigopu.github.io/philosophy/philosophy-in-practice/2-integrating-actual-and-potential.html).
