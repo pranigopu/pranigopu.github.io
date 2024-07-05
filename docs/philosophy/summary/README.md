@@ -88,7 +88,7 @@ Key specifics of the stem.
 - Life is the only end in itself
 - By its nature, life is ongoing and continuous
 - Value-seeking is continuous (see: [1](https://pranigopu.github.io/philosophy/ethics/nature-of-value.html#values-seeking-is-continuous), [2](https://pranigopu.github.io/philosophy/epistemology/rationality-in-practice.html#principle-of-value-seeking))
-- The pursuit of happiness is the sole moral obligation
+- Pursuit of happiness: the sole moral obligation
 - Serenity is the basis of happiness
 
 # Art to invigorate the spirit
