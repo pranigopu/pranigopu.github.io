@@ -72,6 +72,8 @@ Key specifics of the stem.
 
 **Dealing with emotions**:
 
+- Emotions are not means of cognition
+- Emotions are a key means to concretise value
 - Emotions derive from internalised premises
 - Internalised contextual clarity is vital
 - Invalid emotions are based on poor context
