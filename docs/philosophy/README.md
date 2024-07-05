@@ -12,3 +12,4 @@ The other philosopher whose works I have studied to some extent is Aristotle. I 
 - [Ethics](https://pranigopu.github.io/philosophy/ethics)
 - [Politics](https://pranigopu.github.io/philosophy/politics)
 - [Philosophy in Practice](https://pranigopu.github.io/philosophy/philosophy-in-practice)
+- [Summary](https://pranigopu.github.io/philosophy/summary.html)
