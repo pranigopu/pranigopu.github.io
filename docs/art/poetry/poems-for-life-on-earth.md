@@ -6,17 +6,21 @@
 
 **Contents**:
 
-- [Truth and Pride](#truth-and-pride)
-- [Heart of the Heart](#heart-of-the-heart)
-- [Philosophia](#philosophia)
-- [An Ode to the Fact of Existence](#an-ode-to-the-fact-of-existence)
-- [The Peerless Value](#the-peerless-value)
+- [On truth](#on-truth)
+  - [Truth and Pride](#truth-and-pride)
+  - [Philosophia](#philosophia)
+  - [Non-evasion](#non-evasion)
+- [On life](#on-life)
+  - [Heart of the Heart](#heart-of-the-heart)
+  - [An Ode to the Fact of Existence](#an-ode-to-the-fact-of-existence)
+  - [The Peerless Value](#the-peerless-value)
 
 ---
 
 _A collection of my poems that essentialise my views on key aspects of truth, self-value and the affirmation of the facts of reality._
 
-# Truth and Pride
+# On truth
+## Truth and Pride
 **(4 beats per line; starting line starts at the last beat)**
 
 My mis- <br>
@@ -30,21 +34,7 @@ Hunger for that which is right; <br>
 When my acts nourish me, I’ll know <br>
 Then it’s on my side.
 
-# Heart of the Heart
-**(4 beats per line; starting line starts at the last beat)**
-
-I care <br>
-Not for what one sees in me, I <br>
-Only care to see, <br>
-Not for tales in posterity, I <br>
-Only care to be, to
-
-Be and to breathe, to <br>
-Savour or to weep. My <br>
-Life holds no hero’s arc, for <br>
-It is mine to reap.
-
-# Philosophia
+## Philosophia
 **(4 beats per line)**
 
 I shall hate the hateful, <br>
@@ -62,7 +52,45 @@ Look fate in the eye, ac- <br>
 Never to pray unto the sky; the <br>
 Truth is not my enemy.
 
-# An Ode to the Fact of Existence
+## Non-evasion
+**(4 beats per line)**
+
+I fear no glimpse, no <br>
+Thought, no reminder; <br>
+If they bring unease, they'll <br>
+Serve as my pathfinder, my
+
+Map to what I've missed or lost or <br>
+Wrongly put behind me; no <br>
+Ghosts shall haunt my closet, no <br>
+Delphic dread shall find me.
+
+I fear no glimpse, no <br>
+Thought, no desire; <br>
+Ghastly or benign, they'd <br>
+Serve to fuel my fire, <br>
+
+The fire kept alive by the <br>
+Breaths of a clear mind; no <br>
+Beast shall seize my soul, no <br>
+Shame or regret shall bind.
+
+# On life
+## Heart of the Heart
+**(4 beats per line; starting line starts at the last beat)**
+
+I care <br>
+Not for what one sees in me, I <br>
+Only care to see, <br>
+Not for tales in posterity, I <br>
+Only care to be, to
+
+Be and to breathe, to <br>
+Savour or to weep. My <br>
+Life holds no hero’s arc, for <br>
+It is mine to reap.
+
+## An Ode to the Fact of Existence
 **(4 beats per line; starting line starts at the last beat)**
 
 The pro- <br>
@@ -81,7 +109,7 @@ All I say is, “Yes, <br>
 Yes, all that’s good and true is <br>
 Twined in your impress.”
 
-# The Peerless Value
+## The Peerless Value
 **(4 beats per line)**
 
 I can be no one else and none can be me; <br>
