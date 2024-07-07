@@ -24,7 +24,7 @@ Secondly, you may point to the fact that believing in intelligibility on faith l
 
 Hence, we come to a clear conclusion: intelligibility is inherent in the affirmation of anything that exists, which means it is inherent in the affirmation of existence as such, which means it is inherent in the relationship between consciousness and reality, which means it is an inherent potential in the very fact of existence. Intelligibility, in essence, is the affirmation of identity and causality, and hence, it is a direct consequence of the very fact of existence.
 
-Is this faith? No, it is self-evidence — something so inherent in existence that to deny it is to inevitably and demonstrably deny existence. Faith is the assertion of a claim as fact without independently grasping its correspondence to reality; then, self-evidence is not faith since it is the basic material given directly by reality to a consciousness. To reject the self-evident is to deny one's own awareness of reality, which is the basis of any observation and any thereby truth.
+Is this faith? No, it is self-evidence — something so inherent in existence that to deny it is to inevitably and demonstrably deny existence. Faith is the assertion of a claim as fact without independently grasping its correspondence to reality; then, self-evidence is not faith since it is the basic material given directly by reality to a consciousness. To reject the self-evident is to deny one's own awareness of reality, which is the basis of any observation and thereby any truth.
 
 # Can we know the external world?
 **_An argument against epistemological subjectivism_**
