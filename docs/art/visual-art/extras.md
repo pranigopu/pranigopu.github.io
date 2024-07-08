@@ -14,6 +14,7 @@
 - [Anne Dancing with Little Robot](#anne-dancing-with-little-robot)
 - [Dagny Taggart in the Comet (by OpenArt AI)](#dagny-taggart-in-the-comet-by-openart-ai)
 - [The New Colossus](#the-new-colossus)
+- [Monna Vanna by Andrea Salaì (from the Louvre)](#monna-vanna-by-andrea-salaì-from-the-louvre)
 
 ---
 
@@ -30,4 +31,9 @@
 # The New Colossus
 <a href="https://pranigopu.github.io/art/visual-art/The New Colossus.jpg">
 <img src="https://pranigopu.github.io/art/visual-art/The New Colossus.jpg">
+</a>
+
+# Monna Vanna by Andrea Salaì (from the Louvre)
+<a href="https://pranigopu.github.io/art/visual-art/Monna Vanna by Andrea Salaì (Louvre).jpg">
+<img src="https://pranigopu.github.io/art/visual-art/Monna Vanna by Andrea Salaì (Louvre).jpg">
 </a>
