@@ -1,7 +1,9 @@
 <style>
     img {width: 100%;}
     a {width: 100%; align: "center";}
-    table {width: 100%, align: "center"}
+    table {width: 100%}
+    tr {width: 100%}
+    td {width: 100%, align: "center"}
 </style>
 
 [<< Back to **Art**](https://pranigopu.github.io/art)
