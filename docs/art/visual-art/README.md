@@ -1,9 +1,6 @@
 <style>
     img {width: 100%;}
     a {width: 100%; align: "center";}
-    table {width: 100%}
-    tr {width: 100%}
-    td {width: 100%, align: "center"}
 </style>
 
 [<< Back to **Art**](https://pranigopu.github.io/art)
@@ -33,20 +30,13 @@
 None of the presented artworks are mine. I just wanted to gather and present my favourite pieces of visual art in one place, maybe also giving my own commentary wherever I see fit. For extra visual artworks that are not my favourites but that I still enjoy, see: [Extra Visual Art](https://pranigopu.github.io/art/visual-art/extras.html). For the top favourites, see: [Top Favourite Visual Art](https://pranigopu.github.io/art/visual-art/top-favourites.html)
 
 # Clio’s Dream by Codech and Malavia
-<table>
-    <tr>
-        <td>
-            <a href="https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia-1.png">
-            <img src="https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia-1.png">
-            </a>
-        </td>
-        <td>
-            <a href="https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia-2.png">
-            <img src="https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia-2.png">
-            </a>
-        </td>
-    </tr>
-</table>
+<a href="https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia-1.png">
+<img src="https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia-1.png">
+</a>
+
+<a href="https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia-2.png">
+<img src="https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia-2.png">
+</a>
 
 # Camina Drummer by NKN (@frecuenciankn on Twitter)
 <a href="https://pranigopu.github.io/art/visual-art/Camina Drummer by NKN (@frecuenciankn on Twitter).png">
