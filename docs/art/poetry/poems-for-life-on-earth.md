@@ -67,13 +67,13 @@ Delphic dread shall find me.
 
 I fear no glimpse, no <br>
 Thought, no desire; <br>
-Ghastly or benign, they'd <br>
+Ghastly or benign, they'll <br>
 Serve to fuel my fire, <br>
 
 The fire kept alive by the <br>
 Breaths of a clear mind; no <br>
 Beast shall seize my soul, no <br>
-Shame or regret shall bind.
+Shame shall ever bind.
 
 # On life
 ## Heart of the Heart
