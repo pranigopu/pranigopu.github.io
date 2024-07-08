@@ -19,6 +19,7 @@
 - [Self-Made Man](#self-made-man)
 - [Michelangelo’s David by Vicki Pritchard](#michelangelos-david-by-vicki-pritchard)
 - [Suicide of Queen Dido by Claude-Augustin Cayot](#suicide-of-queen-dido-by-claude-augustin-cayot)
+- [Monna Vanna by Andrea Salaì](#monna-vanna-by-andrea-salaì)
 - [David by Michelangelo](#david-by-michelangelo)
 - [Woman Fishing by Vishal Gurjar](#woman-fishing-by-vishal-gurjar)
 - [Aristotle from "The School of Athens" by Raphael](#aristotle-from-the-school-of-athens-by-raphael)
@@ -65,6 +66,11 @@ None of the presented artworks are mine. I just wanted to gather and present my 
 # Suicide of Queen Dido by Claude-Augustin Cayot
 <a href="https://pranigopu.github.io/art/visual-art/Suicide of Queen Dido by Claude-Augustin Cayot.jpg">
 <img src="https://pranigopu.github.io/art/visual-art/Suicide of Queen Dido by Claude-Augustin Cayot.jpg">
+</a>
+
+# Monna Vanna by Andrea Salaì
+<a href="https://pranigopu.github.io/art/visual-art/Monna Vanna by Andrea Salaì.jpg">
+<img src="https://pranigopu.github.io/art/visual-art/Monna Vanna by Andrea Salaì.jpg">
 </a>
 
 # David by Michelangelo
