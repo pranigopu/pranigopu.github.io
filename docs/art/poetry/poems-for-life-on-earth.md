@@ -116,7 +116,7 @@ Twined in your impress.”
 I can be no one else and none can be me; <br>
 All that was and is are open to no plea, no <br>
 Wish, no whim, no whimsical dream, for <br>
-Such dreams are nothing but a dried up stream, tied up <br>
+Such dreams are but a dried up stream, tied up <br>
 In the null, in the sheer lifeless beyond, for <br>
 They shun and spurn all of which to be fond. <br>
 What is, is, and what is not, is not; <br>
