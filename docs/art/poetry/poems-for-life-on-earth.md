@@ -138,10 +138,10 @@ Stand, not forlornly, but
 Glad, in flesh and blood, no <br>
 Phantoms in my veins. But <br>
 If I let them in my skull, my <br>
-Heart would beat for null.
+Heart would beat... for null.
 
 ---
 
 **Performance note**:
 
-The last line is meant to contain a rest such that "null" and "skull" line up rhythmically (i.e. such that both these words fall on the fourth beat). However, I leave it up to the reader or performer to decide where they want to put this rest. My personal favourites are: "Heart would beat for... null" and "Heart would beat... for null".
+The last line contains a rest such that "null" and "skull" line up rhythmically.
