@@ -127,7 +127,7 @@ Whole that is me, that I am and could be. No <br>
 Other’s life is mine, nor can be, nor should be.
 
 ## Wishes and Dreams
-**(4 beats per line)**
+**(4 beats per line; starting line starts at the last beat)**
 
 The <br>
 Things my heart beats for, are <br>
