@@ -140,8 +140,4 @@ Phantoms in my veins. But <br>
 If I let them in my skull, my <br>
 Heart would beat... for null.
 
----
-
-**Performance note**:
-
-The last line contains a rest such that "null" and "skull" line up rhythmically.
+**NOTE**: _The last line contains a rest such that "null" and "skull" line up rhythmically._
