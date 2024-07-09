@@ -63,7 +63,7 @@ Serve as my pathfinder, my
 
 Map to what I've missed or lost or <br>
 Wrongly put behind me; no <br>
-Ghosts shall haunt my closet, no <br>
+Ghosts will haunt my closet, no <br>
 Delphic dread shall find me.
 
 I fear no glimpse, no <br>
@@ -73,7 +73,7 @@ Serve to fuel my fire, <br>
 
 The fire kept alive by the <br>
 Breaths of a clear mind; no <br>
-Beast shall seize my soul, no <br>
+Beast will seize my soul, no <br>
 Shame shall ever bind.
 
 # On life
