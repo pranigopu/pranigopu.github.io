@@ -14,6 +14,7 @@
   - [Heart of the Heart](#heart-of-the-heart)
   - [An Ode to the Fact of Existence](#an-ode-to-the-fact-of-existence)
   - [The Peerless Value](#the-peerless-value)
+  - [Wishes and Dreams](#wishes-and-dreams)
 
 ---
 
@@ -124,3 +125,17 @@ Seek the desirable, the parts I want as mine, but <br>
 All that’s aspirable can never outshine the <br>
 Whole that is me, that I am and could be. No <br>
 Other’s life is mine, nor can be, nor should be.
+
+## Wishes and Dreams
+**(4 beats per line)**
+
+The <br>
+Things my heart beats for, are <br>
+Of and from this world, this <br>
+One, the one and only, where I <br>
+Stand, not forlornly, but
+
+Glad, in flesh and blood, no <br>
+Phantoms in my veins. But <br>
+If I let them in my skull, my <br>
+Heart would beat for null.
