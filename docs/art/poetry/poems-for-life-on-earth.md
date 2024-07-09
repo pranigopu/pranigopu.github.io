@@ -22,7 +22,7 @@ _A collection of my poems that essentialise my views on key aspects of truth, se
 
 # On truth
 ## Truth and Pride
-**(4 beats per line; first line starts at the last beat)**
+**(4 beats per line; first line starts in the last beat)**
 
 My mis- <br>
 -takes shall not shame me, for <br>
@@ -36,7 +36,7 @@ When my acts nourish me, I’ll know <br>
 Then it’s on my side.
 
 ## Philosophia
-**(4 beats per line)**
+**(2 beats per line)**
 
 I shall hate the hateful, <br>
 And shall love the good, but <br>
@@ -54,7 +54,7 @@ Never to pray unto the sky; the <br>
 Truth is not my enemy.
 
 ## Non-evasion
-**(4 beats per line)**
+**(2 beats per line)**
 
 I fear no glimpse, no <br>
 Thought, no reminder; <br>
@@ -78,7 +78,7 @@ Shame shall ever bind.
 
 # On life
 ## Heart of the Heart
-**(4 beats per line; first line starts at the last beat)**
+**(2 beats per line; first line starts in the last beat)**
 
 I care <br>
 Not for what one sees in me, I <br>
@@ -92,7 +92,7 @@ Life holds no hero’s arc, for <br>
 It is mine to reap.
 
 ## An Ode to the Fact of Existence
-**(4 beats per line; first line starts at the last beat)**
+**(4 beats per line; first line starts in the last beat)**
 
 The pro- <br>
 -faned and treasured, the pains and pleasures, <br>
@@ -127,7 +127,7 @@ Whole that is me, that I am and could be. No <br>
 Other’s life is mine, nor can be, nor should be.
 
 ## Wishes and Dreams
-**(4 beats per line; first line starts at the last beat)**
+**(4 beats per line; first line starts in the last beat)**
 
 The <br>
 Things my heart beats for, are <br>
