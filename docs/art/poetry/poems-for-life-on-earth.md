@@ -136,6 +136,6 @@ One, the one and only, where I <br>
 Stand, not forlornly, but
 
 Glad, in flesh and blood, no <br>
-Phantoms in my veins. But <br>
-If I let them in my skull, my <br>
+Phantoms in my veins. But if I <br>
+Let them in my skull, my <br>
 Heart would beat for null.
