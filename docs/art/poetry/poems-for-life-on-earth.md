@@ -138,6 +138,6 @@ Stand, not forlornly, but
 Glad, in flesh and blood, no <br>
 Phantoms in my veins. But <br>
 If I let them in my skull, my <br>
-Heart would beat... for null.
+Heart would beat for... null.
 
 **NOTE**: _"Null" and "skull" line up rhythmically._
