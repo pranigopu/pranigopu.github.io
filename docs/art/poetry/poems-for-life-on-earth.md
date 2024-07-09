@@ -137,5 +137,5 @@ Stand, not forlornly, but
 
 Glad, in flesh and blood, no <br>
 Phantoms in my veins. But <br>
-If I let them in my skull, my <br>
-Heart would beat for null.
+If I let them in my skull, <br>
+Then my heart would beat for null.
