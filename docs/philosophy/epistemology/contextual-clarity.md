@@ -1,3 +1,7 @@
+<style>
+    * {font-family: "Times New Roman"}
+</style>
+
 [<< Back to **Epistemology**](https://pranigopu.github.io/philosophy/epistemology)
 
 **CONCEPTUAL CLARITY**
