@@ -1,11 +1,6 @@
 <style>
     * {font-family: "Times New Roman"}
     p, ol, ul, th, td {font-size: 24px}
-    h5 {font-size: 24px; font-style: italic}
-    h4 {font-size: 24px}
-    h3 {font-size: 32px}
-    h2 {font-size: 40px}
-    h1 {font-size: 48px}
 </style>
 
 [<< Back to **Epistemology**](https://pranigopu.github.io/philosophy/epistemology)
@@ -215,6 +210,15 @@ Consider the case where considerations in ignorance are given primacy. Stark exa
 _To summarise_...
 
 All rational consideration primarily is and must be consideration in knowledge.
+
+---
+
+**KEY POINTS**:
+
+- Knowledge-orientation begins the current context
+- Relevance is an essential part of knowledge
+- All knowledge is hierarchical and contextual
+- All cognition and thus knowledge-seeking is purposeful
 
 ### Principle of unaccountability
 **_Dismissing the practically unaccountable_**
