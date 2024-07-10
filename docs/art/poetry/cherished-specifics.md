@@ -1,3 +1,8 @@
+<style>
+    * {font-family: "Times New Roman"}
+    p, ol, ul, td {font-size: 20px}
+</style>
+
 [<< Back to **Poetry**](https://pranigopu.github.io/art/poetry)
 
 **CHERISHED SPECIFICS**

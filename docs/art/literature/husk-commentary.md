@@ -1,3 +1,8 @@
+<style>
+    * {font-family: "Times New Roman"}
+    p, ol, ul, td {font-size: 20px}
+</style>
+
 [<< Back to _Husk_](https://pranigopu.github.io/art/literature/husk.html)
 
 **HUSK** - _Commentary_

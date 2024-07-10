@@ -1,3 +1,8 @@
+<style>
+    * {font-family: "Times New Roman"}
+    p, ol, ul, td {font-size: 20px}
+</style>
+
 [<< Back to _The Standard of Value_](https://pranigopu.github.io/philosophy/ethics/1-standard-of-value.html)
 
 **EPISTEMOLOGICAL MISTAKES IN PROVING LIFE AS THE STANDARD OF VALUE**

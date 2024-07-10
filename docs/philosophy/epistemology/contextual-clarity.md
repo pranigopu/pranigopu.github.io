@@ -3,6 +3,11 @@
     p, ol, ul, td {font-size: 20px}
 </style>
 
+<style>
+    * {font-family: "Times New Roman"}
+    p, ol, ul, td {font-size: 20px}
+</style>
+
 [<< Back to **Epistemology**](https://pranigopu.github.io/philosophy/epistemology)
 
 **CONCEPTUAL CLARITY**

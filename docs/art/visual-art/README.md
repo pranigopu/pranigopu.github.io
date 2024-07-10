@@ -3,6 +3,11 @@
     a {width: 100%; align: "center";}
 </style>
 
+<style>
+    * {font-family: "Times New Roman"}
+    p, ol, ul, td {font-size: 20px}
+</style>
+
 [<< Back to **Art**](https://pranigopu.github.io/art)
 
 **VISUAL ART**

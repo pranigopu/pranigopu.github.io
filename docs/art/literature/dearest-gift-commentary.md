@@ -1,3 +1,8 @@
+<style>
+    * {font-family: "Times New Roman"}
+    p, ol, ul, td {font-size: 20px}
+</style>
+
 [<< Back to _The Dearest Gift_](https://pranigopu.github.io/art/literature/dearest-gift.html)
 
 **THE DEAREST GIFT** - _Commentary_

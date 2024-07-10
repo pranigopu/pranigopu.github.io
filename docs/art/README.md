@@ -2,6 +2,11 @@
     <meta name="verification" content="google-site-verification: googleb21df23a57bafe18.html">
 </head>
 
+<style>
+    * {font-family: "Times New Roman"}
+    p, ol, ul, td {font-size: 20px}
+</style>
+
 # Art
 # Introduction
 Art is the essentialised and stylised concretisation of philosophy.
