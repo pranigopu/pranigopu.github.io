@@ -36,7 +36,7 @@
     - [Essential further reading](#essential-further-reading)
   - [Additional points](#additional-points)
     - [Dismissing arbitrary doubts and arbitrary hypotheticals](#dismissing-arbitrary-doubts-and-arbitrary-hypotheticals)
-    - [Dismissing insignificant factors and risks](#dismissing-insignificant-factors-and-risks)
+    - [Dismissing irrelevant factors and risks](#dismissing-irrelevant-factors-and-risks)
     - [Contextual clarity when considering possibilities](#contextual-clarity-when-considering-possibilities)
     - [Rational exploration](#rational-exploration)
 
@@ -383,8 +383,8 @@ While the above principles show the method of essentialisation, they do not show
 By the principles of knowledge-orientation and unaccountability, arbitrary doubts and arbitrary hypotheticals are based primarily in ignorance and cannot be accounted for. Arbitrary doubts and arbitrary hypotheticals are particularly pernicious since they can proliferate indefinitely, waste one's finite time, energy and resources and thereby lead to indecision and/or irrational judgement. Furthermore, by the principle of essentials-first, dismiss as arbitrary only what you have reason to think may be essential; primarily seek the essentials and dismiss the arbitrary only as a part of the process. In other words, do not even get into arbitrary doubts and arbitrary hypotheticals unless there is reason to think that they may be relevant.
 
 
-### Dismissing insignificant factors and risks
-By the principles of knowledge-orientation and unaccountability, insignificant factors and risks cannot be practically accounted for, especially with respect to one's knowledge of the essentials and one's hierarchy of values. Furthermore, by the principle of essentials-first, since seeking the essentials is primary, by the finiteness of focus, much of the less important is excluded by default and must not be included lest what is known to be important and essential are taken out of focus.
+### Dismissing irrelevant factors and risks
+By the principles of knowledge-orientation and unaccountability, irrelevant factors and risks cannot be practically accounted for, especially with respect to one's knowledge of the essentials and one's hierarchy of values. Furthermore, by the principle of essentials-first, since seeking the essentials is primary, by the finiteness of focus, much of the less important is excluded by default and must not be included lest what is known to be important and essential are taken out of focus.
 
 
 ### Contextual clarity when considering possibilities
