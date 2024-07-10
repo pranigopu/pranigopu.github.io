@@ -1,5 +1,6 @@
 <style>
     * {font-family: "Cambria"}
+    p, ol, ul, td {font-size: 20px}
 </style>
 
 [<< Back to **Epistemology**](https://pranigopu.github.io/philosophy/epistemology)
