@@ -72,7 +72,7 @@ A factor is a fact that is a cause for one or more results.
 
 **Fundamental feature**:
 
-A fundamental feature is the feature of an existent X that unites all of X's features in the given context. Hence, the fundamental feature of X in a given context is the fundamental factor in the nature and behaviour of X in the given context (since what a thing does is an expression of what it is).
+A fundamental feature is the feature of an existent X that unites all of X's features in the given context. Hence, the fundamental feature of X in a given context is the fundamental factor in the nature and behaviour of X in the given context (since by the principle of causality, what a thing does is an extension of what it is).
 
 _Finding the fundamental feature_...
 
