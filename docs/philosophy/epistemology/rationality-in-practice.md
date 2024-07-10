@@ -215,7 +215,7 @@ All rational consideration primarily is and must be consideration in knowledge.
 
 **KEY POINTS**:
 
-- Knowledge-orientation begins the current context
+- Knowledge-orientation begins at the current context
 - Relevance is an essential part of knowledge
 - All knowledge is hierarchical and contextual
 - All cognition and thus knowledge-seeking is purposeful
