@@ -1,6 +1,6 @@
 <style>
     * {font-family: "Times New Roman"}
-    p, ol, ul, td {font-size: 20px}
+    p, ol, ul, th, td {font-size: 24px}
 </style>
 
 [<< Back to **Poetry**](https://pranigopu.github.io/art/poetry)

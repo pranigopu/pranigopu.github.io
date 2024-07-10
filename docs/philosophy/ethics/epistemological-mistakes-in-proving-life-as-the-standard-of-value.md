@@ -1,6 +1,6 @@
 <style>
     * {font-family: "Times New Roman"}
-    p, ol, ul, td {font-size: 20px}
+    p, ol, ul, th, td {font-size: 24px}
 </style>
 
 [<< Back to _The Standard of Value_](https://pranigopu.github.io/philosophy/ethics/1-standard-of-value.html)
