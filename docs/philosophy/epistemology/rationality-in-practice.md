@@ -1,6 +1,11 @@
 <style>
     * {font-family: "Times New Roman"}
     p, ol, ul, th, td {font-size: 24px}
+    h5 {font-size: 24px; font-style: italic}
+    h4 {font-size: 24px}
+    h3 {font-size: 32px}
+    h2 {font-size: 40px}
+    h1 {font-size: 48px}
 </style>
 
 [<< Back to **Epistemology**](https://pranigopu.github.io/philosophy/epistemology)
