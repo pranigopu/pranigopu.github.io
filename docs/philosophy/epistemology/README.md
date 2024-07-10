@@ -15,7 +15,7 @@ _Fundamentals_...
 1. [Key Concepts in Epistemology](https://pranigopu.github.io/philosophy/epistemology/1-key-concepts-in-epistemology.html)
 2. [Consciousness and Reality](https://pranigopu.github.io/philosophy/epistemology/2-consciousness-and-reality.html)
 3. [Direct Experience](https://pranigopu.github.io/philosophy/epistemology/3-direct-experience.html)
-4. [Integration of Perception](https://pranigopu.github.io/philosophy/epistemology/4-integration-of-perception.html) <br> _Link between concrete observations and abstractions._
+4. [Integration of Perception](https://pranigopu.github.io/philosophy/epistemology/4-integration-of-perception.html) <br> >> _Link between concrete observations and abstractions_
 5. [Unit Perception](https://pranigopu.github.io/philosophy/epistemology/5-unit-perception.html)
 6. [Concept-formation](https://pranigopu.github.io/philosophy/epistemology/6-concept-formation.html)
 7. [Reason](https://pranigopu.github.io/philosophy/epistemology/7-reason.html)
