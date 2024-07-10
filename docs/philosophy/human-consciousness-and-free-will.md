@@ -175,7 +175,7 @@ One may argue that since we can only do something given the right conditions, no
 **NOTE**: _Not all actions are conscious (i.e. intentional), thus responsibility does not apply for all actions._
 
 ## Reiteration of key points
-To be conscious is to be an integrated being of mind and body, wherein the components of consciousness are integrated into the inseparable whole that is the consciousness. Our awareness is the locus of our self, and we are self-determined since (1) we are aware, self-aware and thus capable of focussing our awareness onto our own conscious processes (i.e. our conscious processes are fundamentally subjectable to the focus of our awareness) and (2) our awareness — being a fundamental feature of our self and the fundamental feature of our consciousness — is an essential factor (ultimately and potentially the fundamental factor) in our conscious thoughts and actions. The basis of free will is the focus of our awareness.
+To be conscious is to be an integrated being of mind and body, wherein the components of consciousness are integrated into the inseparable whole that is the consciousness. Our consciousness is the locus of our self, and we are self-determined since (1) we are aware, self-aware and thus capable of focussing our awareness onto our own conscious processes (i.e. our conscious processes are fundamentally subjectable to the focus of our awareness) and (2) our awareness — being an essential capacity of our self as it is the fundamental capacity of our consciousness — is an essential factor (ultimately and potentially the fundamental factor) in our conscious thoughts and actions. The basis of free will is the focus of our awareness.
 
 # Integrating free will to causality
 **LEXICAL NOTE**:
