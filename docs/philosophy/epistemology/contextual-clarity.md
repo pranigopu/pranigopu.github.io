@@ -1,5 +1,5 @@
 <style>
-    * {font-family: "Times New Roman"}
+    * {font-family: "Cambria"}
 </style>
 
 [<< Back to **Epistemology**](https://pranigopu.github.io/philosophy/epistemology)
