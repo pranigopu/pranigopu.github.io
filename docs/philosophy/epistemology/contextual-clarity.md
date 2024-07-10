@@ -1,5 +1,5 @@
 <style>
-    * {font-family: "Cambria"}
+    * {font-family: "Times New Roman"}
     p, ol, ul, td {font-size: 20px}
 </style>
 
