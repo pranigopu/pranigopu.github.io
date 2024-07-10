@@ -114,7 +114,7 @@ _To handle concretes efficiently requires thinking in essentials._
 
 **NOTE: Importance of abstraction**:
 
-Firstly, only by abstracting (i.e. selectively focusing on and isolating certain aspects that are metaphysically inseparable) can we grasp the underlying similarities between distinct particulars, especially when they have no apparent or perceptually obvious similarities. Secondly, only through abstractions can we mentally separate and thereby grasp more essential characteristics whose existence necessarily implies the existence of a number of other characteristics. In this way, we can grasp the most relevant causal factors in the behaviour or nature of something with much fewer conscious units, and thus, with fewer mental resources.
+Firstly, only by abstracting (i.e. selectively focusing on and isolating certain aspects that are metaphysically inseparable) can we grasp the underlying similarities between distinct particulars, especially when they have no apparent or perceptually obvious similarities. Secondly, only through abstractions can we mentally separate and thereby grasp more essential characteristics whose existence necessarily implies the existence of a number of other characteristics. In this way, we can grasp the most relevant causal factors in the behaviour or nature of something using much fewer conscious units, and thus, using fewer mental resources.
 
 **NOTE: Validity of abstractions and essentials**:
 
