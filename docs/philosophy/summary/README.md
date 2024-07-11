@@ -1,3 +1,9 @@
+<style>
+    * {font-family: "Times New Roman"}
+    p, ol, ul, th, td {font-size: 24px}
+</style>
+
+
 **SUMMARY**
 
 ---
