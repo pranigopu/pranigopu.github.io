@@ -139,7 +139,7 @@ The virtue of Pride can best be described by the term: "moral ambitiousness." It
 - By never accepting any code of irrational virtues impossible to practice and by never failing to practice the virtues one knows to be rational
 - By never accepting an unearned guilt and never earning any, or, if one has earned it, never leaving it uncorrected
 - By never resigning oneself passively to any flaws in one's character
-- Never placing any concern, wish, fear or mood of the moment above the reality of one's own self-esteem.
+- Never placing any concern, wish, fear or mood of the moment above the reality of one's own self-esteem
 
 Above all, it means one's rejection of the role of a sacrificial animal, the rejection of any doctrine that preaches self-immolation as a moral virtue or duty.
 
