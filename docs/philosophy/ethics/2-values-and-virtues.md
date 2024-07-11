@@ -125,6 +125,12 @@ Now, note that the aforementioned value for a rational being is predicated on hi
 
 Beyond this baseline, I must treat others according to the values they represent; their virtues, trade (in material and spiritual exchange of values), etc. Treating them any other way would undermine my own pursuit of values, as it would undermine either their ability to represent the values they do or my ability to gain the values they represent. If they represent a threat to my pursuit of values, I must treat them as such (with force, if necessary; the proper use of force shall be discussed later). Therefore, the primary virtue with regards to other people is justice, i.e. treating someone as they deserve, i.e. according to the value (or lack or negation thereof) that they objectively represent to me (the use of "objectively" is here redundant and only for emphasis).
 
+---
+
+**NOTE: Gratitude is an application of justice**:
+
+Drawing from insights in Objectivist philosophy, we see that gratitude (as discussed before) is in fact an application of justice, since it consists of treating other people according to the value they (through their volitional actions) represent to us. Similarly, we can also see how admiration, denunciation, acknowledgement, neglect, praise, blame, etc. are forms of justice, provided they are grounded in reason.
+
 # Pride as the key to the pursuit of values
 Pride is both a feeling and a virtue. In this sense, it is both descriptive and prescriptive. The virtue of pride involves holding high standards of conduct and — consequently — of character. The feeling of pride is the result of and potentially a fuel for the virtue of pride. The virtue is primary; the feeling of pride without the virtue is vanity.
 
