@@ -18,7 +18,7 @@
   - [Values and virtues as an integrated whole](#values-and-virtues-as-an-integrated-whole)
 - [Deriving key values and virtues](#deriving-key-values-and-virtues)
   - [Reason and rationality](#reason-and-rationality)
-    - [Honesty beyond from self-honesty](#honesty-beyond-from-self-honesty)
+    - [Honesty beyond self-honesty](#honesty-beyond-self-honesty)
     - [Independence](#independence)
   - [Purpose and productivity](#purpose-and-productivity)
   - [Self-esteem and pride](#self-esteem-and-pride)
@@ -65,7 +65,7 @@ Since all values are ultimately aspects of the value of life, all virtues are ul
 ## Reason and rationality
 **<u>Reason</u>** is the only means to know reality and extend one’s knowledge in the broadest context, namely life lived long-range. Thus, it is our primary means of dealing with reality in terms of both the actual and the potential (i.e. the present, the short-range and the long-range). Hence, it is a fundamental value, and its corresponding virtue is **_rationality_**. The achievement of reason requires one to act such that the truth is not evaded, i.e. not wilfully ignored. Hence, **_self-honesty_** is another virtue that is fundamental to reason, since it is an aspect of objectivity and thus of rationality. Self-honesty is acting such that you neither falsify (in any way) nor hide the truth from yourself, insofar as you grasp the truth.
 
-### Honesty beyond from self-honesty
+### Honesty beyond self-honesty
 **_Honesty_** as a whole also involves the communication of truth to others. This is not a fundamental virtue in the pursuit of reason itself, since what you communicate to others does not necessarily lead to the evasion of truth in your own rational processes. To the extent that it does, however, it is a virtue in the pursuit of reason. For example, if lying to others about yourself makes it easier to believe these lies yourself, honesty toward others is — all other things being equal — more in line with the pursuit of reason. Similarly, falsifying a scientific finding as a scientist hampers the progress of increasing my knowledge of the world, since (1) others would not be able to utilise the right findings and discover more about reality, (2) I would damage or destroy my ability to collaborate with others in the pursuit of knowledge, and (3) I would set a precedent for a behaviour that would cause scientific advancement to suffer in the long run. In short, such dishonesty degrades or destroys my potential for life and values. Note that this logic also applies to any pursuit of knowledge.
 
 In a social context, being honest is, in general, a way of valuing the other person. How? Consider: man's primary means of survival is his mind, and his mind needs the truth to grasp reality so that he can act effectively in reality. Hence, in general, being honest is a way to respect the other's mind, perceptiveness, reason and, consequently, the other's life as a volitional being. Of course, not everyone deserves such respect. In particular, being truthful to someone (apart from yourself) would be immoral (i.e. dishonest to your own values) if it would lead to harm or loss to your life and/or your more fundamental values; hence, it would be moral to lie to, say, a thug, an agent of legal oppression, etc. In short, honesty is a way of valuing other people, and in general, the extent to which you are honest with them reveals the extent to which you value them.
