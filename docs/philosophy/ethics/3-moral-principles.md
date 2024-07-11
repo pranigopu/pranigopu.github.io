@@ -40,7 +40,7 @@ Context is the finite sum of facts (physical, intellectual, psychological, etc.)
 
 **The broadest context available**:
 
-The broadest context available is that context which offers the widest possible valid integration of our knowledge. In other words, it is the context that relates any consideration we may have to the greatest amount of knowledge and notions held by us (notions may not constitute knowledge). It is important to note that when considering a particular case, the broadest context available includes and does not ignore the particular case. In other words, a narrower context neither contradicts nor is contradicted by a broader context, if properly integrated.
+The broadest context available is that context which offers the widest possible valid integration of our knowledge. In other words, it is the context that relates any consideration we may have to the greatest amount of knowledge held by us. It is important to note that when considering a particular case, the broadest context available includes and does not ignore the particular case. In other words, a narrower context neither contradicts nor is contradicted by a broader context, if properly integrated.
 
 # Need for strict principles in morality
 Any goal, to be achieved in reality, depends on a grasp of the essentials pertaining to the object of the goal. To grasp the essentials, to retain them and to use them to make decisions in a context as deep and broad, i.e. far-reaching and wide-ranging as you need; this is the use of principles.
