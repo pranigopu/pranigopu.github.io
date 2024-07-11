@@ -210,7 +210,7 @@ It is key to note that what existence (and thus "life") means to a conscious bei
 
 _Actuality and potentiality are integrated by volition_...
 
-Reality is not unknowable but unknown; even when we understand a lot about reality, we know that we do not know it all. Most importantly, we know that to understand and deal with reality as it is, we must understand and deal with facts beyond the actual, observed aspects of reality. It stands to reason, then, that to deal with the actual most effectively (in principle) is to grasp the potential. Hence, valuing the potential is not separate from valuing the actual, but a form of valuing the actual even further, in a broader context. Just as the potential is nothing, i.e. loses value when we give up the actual, so does the actual lose its value (in fact and not just in feeling) when we give up the potential.
+Reality is not unknowable but unknown; even when we understand a lot about reality, we know that we do not know it all. Most importantly, we know that to understand and deal with reality as it is, we must understand and deal with facts beyond the actual, observed aspects of reality. It stands to reason, then, that to deal with the actual most effectively (in principle) is to grasp the potential. Hence, valuing the potential is not separate from valuing the actual but rather a form of valuing the actual even further, in a broader context. Just as the potential is nothing, i.e. loses value when we give up the actual, so does the actual lose its value (in fact and not just in feeling) when we give up the potential.
 
 _Additional point_...
 
