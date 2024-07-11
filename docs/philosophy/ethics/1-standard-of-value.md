@@ -194,7 +194,7 @@ If X is the primary cause for Y, then X is the cause of all causes that cause Y.
 
 **Primary potential**:
 
-If X is the primary potential of Y, then the primary causes of the identity of Y lead to X, given that the conditions support the existence of Y.
+If X is the primary potential of Y, then the primary causes arising from the identity of Y lead to X, given that the conditions support the existence of Y.
 
 ---
 
