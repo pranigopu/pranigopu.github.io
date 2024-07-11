@@ -129,7 +129,7 @@ Beyond this baseline, I must treat others according to the values they represent
 
 **NOTE: Gratitude is an application of justice**:
 
-Drawing from insights in Objectivist philosophy, we see that gratitude (as discussed before) is in fact an application of justice, since it consists of treating other people according to the value they (through their volitional actions) represent to us. Similarly, we can also see how admiration, denunciation, acknowledgement, neglect, praise, blame, etc. are forms of justice, provided they are grounded in reason.
+Drawing from insights in Objectivist ethics, we see that gratitude is in fact an application of justice, since it consists of treating other people according to the value they (through their volitional actions) represent to us. Similarly, we can also see how admiration, denunciation, acknowledgement, neglect, praise, blame, etc. are forms of justice, provided they are grounded in reason.
 
 # Pride as the key to the pursuit of values
 Pride is both a feeling and a virtue. In this sense, it is both descriptive and prescriptive. The virtue of pride involves holding high standards of conduct and — consequently — of character. The feeling of pride is the result of and potentially a fuel for the virtue of pride. The virtue is primary; the feeling of pride without the virtue is vanity.
