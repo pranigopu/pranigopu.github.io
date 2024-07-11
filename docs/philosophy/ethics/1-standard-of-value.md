@@ -28,7 +28,7 @@
   - [Expanding on the basic nature of life](#expanding-on-the-basic-nature-of-life)
   - [Summary](#summary-1)
   - [Epistemological mistakes to avoid](#epistemological-mistakes-to-avoid)
-- [The value of life as an expression of reality's absolutes](#the-value-of-life-as-an-expression-of-realitys-absolutes)
+- [The value for life as an expression of reality's absolutes](#the-value-for-life-as-an-expression-of-realitys-absolutes)
 - [Life as a volitional being](#life-as-a-volitional-being)
 - [Further discussion on life and value](#further-discussion-on-life-and-value)
   - ["Gaining" an absence or a negative](#gaining-an-absence-or-a-negative)
@@ -176,10 +176,10 @@ A living being is the only kind of entity that can hold a goal that is an end in
 ## Epistemological mistakes to avoid
 This is an important epistemological discussion on the potential conceptual and logical mistakes that must be avoided in any proof, with the proof of life as the standard of value taken as the case study. Check the discussion [here](https://pranigopu.github.io/philosophy/ethics/epistemological-mistakes-in-proving-life-as-the-standard-of-value.html).
 
-# The value of life as an expression of reality's absolutes
+# The value for life as an expression of reality's absolutes
 Metaphysically, reality is the absolute. Epistemologically, reason is the absolute. With reality and reason as our context, we observe that the question of how to act only comes up if we can act and have a reason to act, i.e. if we can have and pursue values. A value is the basis of self-generated cause as opposed to causal coincidence. As we have seen, the objective source of value is life, which is — by its nature — the ultimate value, and thus, the standard of value.
 
-In essence, the value of life is the affirmation of existence. Existence has no alternative; non-existence is not a separate realm of values competing with existence. The question, "Why to affirm existence?" is invalid as there is nothing to affirm — fundamentally — but existence. To reject life as the standard of value is to reject existence as such and thus to reject values as such, to pursue the non-existent, the unreal — the zero. We may choose to end our existence or place our existence at risk, and there may (in many cases) be good reasons to do so (as we shall see later). But to reject life as the standard is to have and pursue no values ultimately. It is either-or; either life as the ultimate value or self-destruction as the ultimate end (which, incidentally, you can never reach since you will cease to exist before you do).
+In essence, the value for life is the affirmation of existence. Existence has no alternative; non-existence is not a separate realm of values competing with existence. The question, "Why to affirm existence?" is invalid as there is nothing to affirm — fundamentally — but existence. To reject life as the standard of value is to reject existence as such and thus to reject values as such, to pursue the non-existent, the unreal — the zero. We may choose to end our existence or place our existence at risk, and there may (in many cases) be good reasons to do so (as we shall see later). But to reject life as the standard is to have and pursue no values ultimately. It is either-or; either life as the ultimate value or self-destruction as the ultimate end (which, incidentally, you can never reach since you will cease to exist before you do).
 
 # Life as a volitional being
 _First, some definitions_...
