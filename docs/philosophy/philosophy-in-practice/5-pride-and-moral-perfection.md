@@ -107,6 +107,8 @@ Hence, a truly proud person would (among other things):
 - Recognise the primacy of the virtue of pride
 - Recognise that objectivity is essential to pride
 
+**KEY POINT**: _It is invalid to consider pride as something to be "tempered" by humility or objectivity. Setting aside humility (which I regard as a vice), pride is not tempered by objectivity but caused (at least in large part) by it, i.e. a conscientious objective approach to life is one of the pillars of pride itself. Hence, in accepting well-warranted or deserved blows to pride, a proud person is not being humble but as proud has he can be. In fact, if a person tries to cover up such blows or protest against them, then he would truly degrade his pride, because while accepting a blow to your pride involves accepting a reduction in the the feeling of pride, the virtue of pride (which is the fundamental aspect of pride) is intact. However, rejecting a well-warranted or deserved blow to your feeling of pride involves a reduction in the virtue of pride, i.e. the core of pride itself._
+
 ---
 
 **LEXICAL NOTE: Deserve vs. warrant**:
