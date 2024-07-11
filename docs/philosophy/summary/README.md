@@ -43,17 +43,21 @@ The layer connecting theory to practice.
 
 
 ```
-Life-affirmation
-   /       \
-  Se       Aw
- /  \     /  \
-Pr  AR   CC--RP-->Co,Re,Ef,RF
-|   |                / | \
-MP--+               NC Id EF
-    |   |____________________|
-    |              |
-    |              |
-    +--------------Ob
+ Life-affirmation
+    /       \
+   Se       Aw
+  /  \     /  \
+ Pr  AR  CC--RP-->Co,Re,Ef,RF
+ |   |  /             / | \
+ MP  CC              NC Id EF
+    / | \
+   Wi Rg Em
+|___________|
+      |
+      |   |____________________|
+      |              |
+      |              |
+      In-------------Ob
 ```
 
 [Key >>](https://pranigopu.github.io/philosophy/summary/key.html) :: [Justification >>](https://pranigopu.github.io/philosophy/summary/justification.html)

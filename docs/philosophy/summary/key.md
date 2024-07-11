@@ -11,20 +11,24 @@
 
 | Code | Meaning |
 | --- | --- |
-| Se | Serenity |
-| Pr | Pride |
-| MP | Moral perfection |
 | AR | Acceptance of reality |
 | Aw | Awareness |
 | CC | Contextual clarity |
-| RP | Rationality in practice |
 | Co | Consistency |
-| Re | Relevance |
 | Ef | Efficiency |
-| RF | Rational application of focus |
-| NC | Non-contradiction <br> _Especially contextual non-contradiction_ |
-| Id | Identification <br> _Especially logical & causal relationships_ |
 | EF | Essentialising focus |
+| Em | Emotion |
+| Id | Identification <br> _Especially logical & causal relationships_ |
+| In | Integrity |
+| MP | Moral perfection |
+| NC | Non-contradiction <br> _Especially contextual non-contradiction_ |
 | Ob | Objectivity |
+| Pr | Pride |
+| RP | Rationality in practice |
+| Re | Relevance |
+| Rg | Regret |
+| RF | Rational application of focus |
+| Se | Serenity |
+| Wi | Wishfulness |
 
 **NOTE**: _"Rational application of focus" involves the rational use of willpower and motivation. It is tied to efficiency, but since it is not merely a subset of efficiency and involves other wider principles, I decided to place it as a separate area of rationality in practice._
