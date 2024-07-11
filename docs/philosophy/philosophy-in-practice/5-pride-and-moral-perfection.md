@@ -106,9 +106,9 @@ _Back to the discussion_...
 
 **Moral perfection is not**:
 
-- Moral infallibility; no volitional consciousness can be infallible.
-- A fixed state of perfection; life and thus the pursuit of morality (i.e. the code of values with life as the standard) is an active, lifelong commitment.
-- The best possible imaginable.
+- Moral infallibility; no volitional consciousness can be infallible
+- A fixed state of perfection; life and thus the pursuit of morality (i.e. the code of values with life as the standard) is an active, lifelong commitment
+- The best possible imaginable
 
 ---
 
@@ -120,9 +120,9 @@ _Back to the discussion_...
 
 **Moral perfection is**:
 
-- Best possible in reality, i.e. with respect to rational objectives.
+- The best possible in reality, i.e. with respect to rational objectives
 - Based on the context of the individual; involves following interrelated constraints:
-  - _Time available_, imposed by the situation or allocated according to one's hierarchy of values.
+  - _Time available_, imposed by the situation or allocated according to one's hierarchy of values
   - _Task_, with regards to its importance, requirements, etc.
   - _Doer_, with regards to experience, values, capacity (intellectual, psychological and physical), etc.
 

@@ -159,7 +159,7 @@ Experience of illusion presupposes experience of reality first — without exper
 
 ---
 
-_Back to the main discussion_...
+_Back to the discussion_...
 
 ## Clarifying the nature of free will
 ### Integration of consciousness and its components
