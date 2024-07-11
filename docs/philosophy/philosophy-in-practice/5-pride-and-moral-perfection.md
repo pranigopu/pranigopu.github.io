@@ -17,6 +17,8 @@
     - [Pride is always possible and desirable](#pride-is-always-possible-and-desirable)
     - [Need for the consistent practice of pride](#need-for-the-consistent-practice-of-pride)
   - [Pride as a key to a life-oriented ethics](#pride-as-a-key-to-a-life-oriented-ethics)
+  - [What does pride demand?](#what-does-pride-demand)
+  - [The basis of pride and its measurement](#the-basis-of-pride-and-its-measurement)
 - [Moral perfection](#moral-perfection)
   - [Moral perfection is morality in practice](#moral-perfection-is-morality-in-practice)
   - [Reality-based standard of perfection](#reality-based-standard-of-perfection)
@@ -87,6 +89,34 @@ Pride is the recognition of the fact that you are your highest value, because yo
 - To earn self-esteem, one must shape his soul, i.e. his character and conscious experience, in the image of his moral ideal.
 
 If life is the standard of value, then there can be no value placed higher than oneself. The full achievement of this standard and of one's value for oneself is the egoism that desires the best in all things, in values of matter and spirit. At the base of such egoism is the aim to achieve one's own moral perfection.
+
+## What does pride demand?
+Based on the nature and purpose of pride, what are the essentials of pride, and what damages, degrades or destroys this essence? A key essential of pride is objectivity, i.e. the recognition of facts and the conscious use of your mind to integrate them with reason. Another key essential of pride is personal efficacy, i.e. one's internalised capacity to pursue valuable potential. Now, note that both are essentials, which means neither can be prioritised over the other.
+
+Hence, if something in your life becomes a blow to your sense of personal efficacy, and if such a blow is well-warranted due to genuine deficiencies and/or faults, then pride demands that you remain objective, acknowledging your deficiencies and/or faults and dealing with them to best of your ability. Hence, pride demands that you take well-warranted blows to your pride with serenity without trying to boost your feeling of pride. Why? Because to pride, the virtue is primary, and the feeling is derivative. Thus, prioritising the feeling over the virtue degrades or even destroys your capacity to feel pride, since the virtue is the source of the feeling and the feeling has no identity apart from the virtue. In summary, to be as proud as you can be, you must be willing to take, accept and work on well-warranted blows to your pride (if they are indeed well-warranted).
+
+It is key to note that a blow to your pride only happens when you either cease to be objective or when your personal efficacy is contradicted in some way. There are two ways such a contradiction can happen: (1) due to a volitional fault, and (2) due to a non-volitional fault. A volitional fault is the failure to realise a valuable potential that was in your knowledge and capacity, which means it must be dealt with by being aware of your fault and correcting for it.
+
+A non-volitional fault, on the other hand, is due to the lack of knowledge and/or capacity. A non-volitional fault itself can be of two kinds: (a) subjectable to change, and (2) unsubjectable to change. If you can change it and if it is valuable to do so, you must. But if you cannot change it, then, though it can only be a blow to your sense of personal efficacy if you had a false view of what you were capable of. In case (b), you must realise that the fault must not be a source of shame, and that pride demands its acceptance, in the name of objectivity.
+
+Hence, a truly proud person would (among other things):
+
+- Recognise and admit his faults, if they exist
+- Accept when he gets a warranted or deserved blow to his feeling of pride
+- Strive to deal with his faults to the best of his ability
+- Recognise the primacy of the virtue of pride
+- Recognise that objectivity is essential to pride
+
+---
+
+**LEXICAL NOTE: Deserve vs. warrant**:
+
+To be warranted is to be based on the facts, whereas to deserve is the be warranted by the fact of one's volitional faults. Hence, a well-warranted blow to pride need not be a source of regret, whereas a well-deserved blow to pride would be.
+
+## The basis of pride and its measurement
+Since your pride depends on your own specific standards of value and virtue, i.e. on absolute moral standards applied to your own context, it stands to reason that your pride is not commensurable with the pride of others. Rather, pride can only be compared in relative terms, i.e. in terms of how much each person achieves his own specific standards of value and virtue.
+
+Pride can draw from traits that you have no control over, but it can only do so based on how you value these traits and exercise your volition with respect to them. If you do not have some natural traits that are either not worth achieving in your context or cannot be achieved by you, then their absence is a non-factor; their absence must not be a source of shame and cannot be a blow to pride. It is impossible to compare your pride based on how you are to your pride based on how you could be in some fantasy-world. To re-iterate, if something cannot be (either due to your hierarchy of values or due to practical impossibility), then it must be neither an object of desire nor a source of shame.
 
 # Moral perfection
 ## Moral perfection is morality in practice
