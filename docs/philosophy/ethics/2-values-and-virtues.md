@@ -128,7 +128,7 @@ Beyond this baseline, I must treat others according to the values they represent
 # Pride as the key to the pursuit of values
 Pride is both a feeling and a virtue. In this sense, it is both descriptive and prescriptive. The virtue of pride involves holding high standards of conduct and — consequently — of character. The feeling of pride is the result of and potentially a fuel for the virtue of pride. The virtue is primary; the feeling of pride without the virtue is vanity.
 
-"_The virtue of Pride can best be described by the term: "moral ambitiousness."_ " <br> — The Objectivist Ethics, "The Virtue of Selfishness" by Ayn Rand, page 27
+"_The virtue of Pride can best be described by the term: "moral ambitiousness."_" <br> — The Objectivist Ethics, "The Virtue of Selfishness" by Ayn Rand, page 27
 
 ---
 
