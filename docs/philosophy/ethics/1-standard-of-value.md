@@ -27,7 +27,7 @@
   - [Life as the only end in itself](#life-as-the-only-end-in-itself)
   - [Expanding on the basic nature of life](#expanding-on-the-basic-nature-of-life)
   - [Summary](#summary-1)
-  - [EPISTEMOLOGICAL MISTAKES IN PROVING LIFE AS THE STANDARD OF VALUE](#epistemological-mistakes-in-proving-life-as-the-standard-of-value)
+  - [Epistemological mistakes to avoid](#epistemological-mistakes-to-avoid)
 - [The value of life as an expression of reality's absolutes](#the-value-of-life-as-an-expression-of-realitys-absolutes)
 - [Life as a volitional being](#life-as-a-volitional-being)
 - [Further discussion on life and value](#further-discussion-on-life-and-value)
@@ -173,8 +173,7 @@ A living being is the only kind of entity that can hold a goal that is an end in
 
 ---
 
-## EPISTEMOLOGICAL MISTAKES IN PROVING LIFE AS THE STANDARD OF VALUE
-
+## Epistemological mistakes to avoid
 This is an important epistemological discussion on the potential conceptual and logical mistakes that must be avoided in any proof, with the proof of life as the standard of value taken as the case study. Check the discussion [here](https://pranigopu.github.io/philosophy/ethics/epistemological-mistakes-in-proving-life-as-the-standard-of-value.html).
 
 # The value of life as an expression of reality's absolutes
