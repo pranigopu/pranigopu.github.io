@@ -22,7 +22,8 @@ Epistemology gives us the means to seek knowledge. Ethics gives us the means to 
 ## Reading
 _Fundamentals_...
 1. [The Standard of Value](https://pranigopu.github.io/philosophy/ethics/1-standard-of-value.html)
-
+2. [Values and Virtues](https://pranigopu.github.io/philosophy/ethics/2-values-and-virtues.html)
+3. [Moral Principles](https://pranigopu.github.io/philosophy/ethics/3-moral-principles.html)
 
 _Expansion_...
 
@@ -30,4 +31,4 @@ _Expansion_...
 - [The Nature of Value](https://pranigopu.github.io/philosophy/ethics/nature-of-value.html)
 - [The Nature of Anti-Value](https://pranigopu.github.io/philosophy/ethics/nature-of-anti-value.html)
 - [The Nature of Morality](https://pranigopu.github.io/philosophy/ethics/nature-of-morality.html)
-- [Morality in a Social Context](https://pranigopu.github.io/philosophy/ethics/morality-in-social-context.html) <br> **NOTE**: _This forms the basis for politics, so it is the main link between ethics and politics._
+- [Morality in a Social Context](https://pranigopu.github.io/philosophy/ethics/morality-in-social-context.html) <br> _This forms the basis for politics, so it is the main link between ethics and politics_
