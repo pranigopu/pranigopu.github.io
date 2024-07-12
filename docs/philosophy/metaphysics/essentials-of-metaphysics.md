@@ -191,7 +191,7 @@ _To summarise and add related points_...
 
 _Extending the idea of causality_...
 
-The concept of causality can be applied to entities as such (rather than just actions) only when the given entities, by their nature, had to be formed through some process at some point. In such cases, the cause of an entity refers to the action or actions of some entity or entities that led to its formation. However, for existence as a whole, there can be no prior cause; by the nature of existence, only it exists and it only exists. It is also invalid to say it was its own cause; saying so implies that it existed before it existed—a contradiction. There can be no cause of existence, since cause presupposes existence.
+The concept of causality can be applied to entities as such (rather than just actions) only when the given entities, by their nature, had to be formed through some process at some point. In such cases, the cause of an entity refers to the action or actions of some entity or entities that led to its formation. However, for existence as a whole, there can be no prior cause; by the nature of existence, only it exists and it only exists. It is also invalid to say it was its own cause; saying so implies that it existed before it existed — a contradiction. There can be no cause of existence, since cause presupposes existence.
 
 ---
 
