@@ -43,7 +43,7 @@ Validation is the process of showing that an idea or a statement is or refers to
 
 ---
 
-**NOTE**: _An idea being axiomatic does not mean it cannot be described in more detail. An axiomatic idea, such as existence or consciousness, is the abstraction of a vast range of particular observations in particular contexts._
+**NOTE**: _An idea being axiomatic does not mean it cannot be described in more detail. An axiomatic idea, such as existence or consciousness, is the abstraction of a vast range of particular observations in particular contexts. In particular, existence is a fact that unites everything in reality, whereas consciousness is a fact that unites every thought and deliberate action. Both these facts exist in a range of contexts that condition their more specific natures._
 
 # Key definitions
 
