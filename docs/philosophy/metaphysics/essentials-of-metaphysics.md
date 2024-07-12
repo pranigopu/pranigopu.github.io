@@ -55,7 +55,7 @@ A thing, as opposed to nothing, exists. A "thing" may be anything that exists. E
 
 **Fact**:
 
-A fact is that which corresponds to reality. At the most concrete level, facts are discovered by the very act of awareness. In general, a fact is of anything that exists, e.g. an entity, an event, a system, an attribute, an abstraction, etc. Later on in metaphysics, we shall see that things are what they are, i.e. reality is what it is; it is up to us to find the facts based on the observations, valid concepts and valid generalisations we hold. Note that "validity" is with respect to our existing base of knowledge (i.e. facts and integrations of facts).
+A fact is that which corresponds to reality. At the most concrete level, facts are discovered by the very act of awareness. In general, a fact is of anything that exists, e.g. an entity, an event, a system, an attribute, an abstraction, etc. Later in metaphysics, we shall see that things are what they are, i.e. reality is what it is; it is up to us to find the facts based on the observations, valid concepts and valid generalisations we hold. Note that "validity" is with respect to our existing base of knowledge (i.e. facts and integrations of facts).
 
 **Identity**:
 
