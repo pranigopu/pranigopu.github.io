@@ -183,7 +183,7 @@ _To summarise and add related points_...
 
 - Entities cause actions and all actions are caused by entities
 - Entities always exist in a context (i.e. in relation to other facts)
-- By causality, the context of an entity affects the identity of its actions
+- By causality, the context of an entity can affect the identity of its actions
 - By itself, an entity has only a certain potential for action based on its identity
 - The entity's potential for action is actualised based on its context
 - The causes of any occurrence — in theory — can be identified
