@@ -14,6 +14,7 @@
 - [Introduction](#introduction)
 - [Key characteristics of happiness](#key-characteristics-of-happiness)
 - [Happiness and emotional states](#happiness-and-emotional-states)
+- [Happiness and potential](#happiness-and-potential)
 - [The pursuit of happiness](#the-pursuit-of-happiness)
   - [Happiness and willpower](#happiness-and-willpower)
   - [The nature of life-affirmation in the moment](#the-nature-of-life-affirmation-in-the-moment)
@@ -58,6 +59,15 @@ Based on the above conclusions, the essentials of happiness are self-value, enga
 
 However, since happiness cannot be consistent with the loss of essential or long-range values, the experience of heavy loss does impact happiness. In such a state, most of the essentials (namely pride, purpose and rationality) can still be present. However, due to the significance of the loss, one's tendency inevitably shifts (at least for a while) toward the experience of negative emotions. It is key to note, however, that even in heavy loss, as long as one values one's life, one's orientation in the long-range should be toward happiness ultimately. But reaching happiness ultimately requires the affirmation of one's loss, which requires the acceptance of some form of suffering, such as grief, and the acceptance of reality, i.e. serenity. For very heavy losses, the achievement of serenity can require mourning.
 
+# Happiness and potential
+The pursuit and achievement of value can only be done in an individual's real-life context, i.e. a value can only be a value to someone if it exists, is known by him and achievable by him. The potential of a person's life is not an imagined potential but an objective one. If it turns out that he was mistaken in what his potential consists of (be it lesser or greater than he had thought), though he may suffer an emotional blow of some kind, it is not potential that he has lost but knowledge that he has gained, because you cannot lose something that never existed (namely, the imagined potential). In fact, by gaining knowledge about reality (despite the emotional blow), he has strengthened his real ability to pursue happiness.
+
+Furthermore, if, for some reason, his potential in one or more respects is diminished or degraded (e.g. by illness, disability, failure, etc.), his essential ability to pursue happiness is not diminished or degraded as long as he keeps his mind active and engages with what is actually possible and valuable to him. In other words, losing potential in one or more respects changes the form of happiness available to him, but it does not change the fact that he can, in some way, still pursue his happiness. That being said, I am denying that loss of potential can (though does not always) lead to a diminished or degraded experience of life overall.
+
+Here, but more generally as well, the only way to come to pursue happiness to the fullest is to accept the facts, which is why I regard serenity as the basis of happiness. Of course, if potential is destroyed entirely, the only form of life-affirmation possible may be serenity, but if you have serenity, you have the basis for the best life possible to you, whatever that may be. Additionally, I hold that lamenting one's fate is anti-life and irrational; why concern yourself with what you cannot change, especially when there is potential to be pursued?
+
+**KEY POINT** (credit to ChatGPT): _Recognizing and accepting limitations (e.g. due to illness or disability) does not diminish one’s capacity for happiness. Instead, it helps in redirecting efforts towards achievable and meaningful goals._
+
 # The pursuit of happiness
 _Here, we also reinforce some of the previous points._
 
@@ -79,7 +89,29 @@ Note also that the nature of concrete motivation aligns with this view; we can f
 
 **REITERIATING A KEY POINT**: _In some or even many instances, the demands of life-affirmation are such that (1) it is invalid to experience positivity in the moment beyond the basic affirmation of life (e.g. invalid to experience joy, enjoyment and pleasure), or such that (2) it is valid and necessary to experience neutrality or even negativity. To put the point briefly: the demands of life-affirmation are varied and do not always require the experience of positivity beyond the basic affirmation of life._
 
+---
+
+**Observation 1**:
+
+Initially, I only considered enjoyment as a means and result of concretising one’s pursuit of values. However, I realised that many of my proudest pursuits that brought me great value in the moment and far beyond (e.g. music composition, philosophical or fiction writing, personal programming projects, etc.) could not always be accurately labelled as “enjoyable”, although they were engaging and were a source of self-motivation in life. Hence, to expand my consideration, I use “life-affirmation” as the broader concept of which “enjoyment” is a sub-concept.
+
+**Observation 2**:
+
+_Taken verbatim from_ ["The basis of motivation and willpower" _Integrating the Actual and the Potential_](https://pranigopu.github.io/philosophy/philosophy-in-practice/2-integrating-actual-and-potential.html#the-basis-of-motivation-and-willpower).
+
+In the face of a deadline that was not too close but important to address (i.e. my semester 2 final assignments in 2024), I found that consciously and completely engaging with concretely enjoyable activities — such as watching a show I enjoyed — had two advantages compared to pushing against my desires and forcing myself to work. (1) I did not drain my willpower, and thus, did not drain my motivation and capacity to engage with valuable but uncomfortable work in general. (2) I was able to properly satisfy myself (since I did not keep undermining my pleasure with shame or despair) and move past my need for concrete enjoyment, and thus, was able to focus on more challenging work more effectively, leading to far more efficient work and substantial results. I would compare this case to that of starvation; when you are starved, it is hard to think of anything but food, not least because food is an essential need that must be satisfied to fuel yourself for other pursuits. In this light, note that I do not regard concrete enjoyment — or any form of life-affirmation — as something "to get over with" or a nuisance or an itch that must be addressed, but rather, as a vital, genuine need of my mind and for my life, just as food is a genuine need of the body and not a mere indulgence.
+
+**KEY POINT**: _The above only applies if there is no evasion on your part about what you are doing and what may be its consequences to you. Only a full and true acceptance of reality as it is can ensure that such indulgence can be of any value and pleasure (in the true sense) to you; evasion is a cause of shame and despair, and thus, destroys enjoyment and life-affirmation._
+
+---
+
 I hold, however, that life-affirmation in the long-term does lead to and call for a genuine enjoyment of life in the moment as a tendency and a common practice. Furthermore, I hold that genuine enjoyment is impossible without rationality and objectivity in one's pursuits, which include pursuits that do not lead to or call for enjoyment in the moment. Lastly and perhaps most importantly, I hold that life-affirmation never involves the sacrifice or renunciation of values, be they short-term or long-term. You can and must never give up any values in the moment for the sake of "long-term values", but rather, you must understand what actually are your values in the moment, i.e. the things that you must act to gain and/or keep so as to integrate your pursuit of the potential with your experience of the actual; after all, a value is never a value in isolation and only in integration with every other value, all ultimately aspects of the value for life itself (see: ["Integrity in values" from _The Nature of Value_ from **Ethics**](https://pranigopu.github.io/philosophy/ethics/nature-of-value.html#integrity-of-values)). In fact, for a volitional being, the experience of value in the present neither exists nor can exist apart from the recognition and pursuit of valuable potential in some form; the former gives rise to the latter and the latter sustains and enriches the former. To reiterate a previous point in other words, the source of value is life lived in the moment, in concrete and active engagement.
+
+---
+
+**NOTE: Life-affirmation and efficacy**:
+
+To reinforce the view that life-affirmation cannot exist in isolation, consider the fact that life-affirmation — like any objective state of success or fulfilment in life — cannot be contradictory. Hence, a necessity for life-affirmation is achieving and maintaining one’s efficacy in life and the pursuit of values. Furthermore, the pursuit of life-affirmation (e.g. in the form of enjoyment) is a powerful, concrete way to orient your actions toward your values and thereby achieve moral and practical efficacy; hence, the pursuit of life-affirmation in the truest sense leads to efficacy, which is a precondition for experiencing life-affirmation, especially in the form of enjoyment.
 
 ## Happiness and ambition
 It is vital to understand what is practically meant by the "non-contradictory achievement of values". Right away, it is clear that since life is an ongoing process of self-advancing purpose, so is the pursuit of values. In other words, life, being the end in itself, has no final state after which its purpose is reached; life is the source of purpose, which means purpose lasts as long as life can be sustained. Hence, the non-contradictory achievement of values cannot be a final state that we keep striving toward. Rather, such achievement is state of being wherein (1) we are able to do something to sustain our life in the moment, (2) we are able to strive toward a life-oriented potential, and (3) we act with reason and thus never evade what is possible to us in our knowledge and within our capacity. Evidently, the experience of happiness can vary greatly across contexts, but as long as the essence of happiness can be retained, we can achieve and pursue happiness in both relative privation and relative affluence.

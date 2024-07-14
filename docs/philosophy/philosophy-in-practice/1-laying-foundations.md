@@ -25,6 +25,7 @@
   - [The danger of irrational absolutism](#the-danger-of-irrational-absolutism)
   - [“Threats” to conviction](#threats-to-conviction)
 - [Integrating the fundamentals with the expansion](#integrating-the-fundamentals-with-the-expansion)
+- [Concretisation](#concretisation)
 
 ---
 
@@ -137,10 +138,17 @@ Hence, you need to focus on both as required: the fundamentals and the expansion
 
 _More specific principles are not enough_...
 
-When first trying to concretise or apply my fundamentals (specifically in ethics), I tried to expand on the broader principles and obtain more specific principles that I could use (you can see these principles here: Principles for Life). While helpful and a good step forward, such principles are still too broad to depend on entirely. I realised that I needed more than more specific abstract principles. I needed experience and the integration of experience into learning, methods, approaches, perspectives, etc. All that (and maybe more) is necessary in order to successfully apply my basic philosophy in life. Broader abstractions and abstract principles are necessary, but they are not sufficient.
+When first trying to concretise or apply my fundamentals (specifically in ethics), I tried to expand on the broader principles and obtain more specific principles that I could use (you can see these principles here: [_Specific Moral Principles_ from **Ethics**](https://pranigopu.github.io/philosophy/ethics/specific-moral-principles.html)). While helpful and a good step forward, such principles are still too broad to depend on entirely. I realised that I needed more than more specific abstract principles. I needed experience and the integration of experience into learning, methods, approaches, perspectives, etc. All that (and maybe more) is necessary in order to successfully apply my basic philosophy in life. Broader abstractions and abstract principles are necessary, but they are not sufficient.
 
 _Including informative failures and pitfalls that you experienced_...
 
 When trying to discover the effective ways of applying my philosophy, I often ran into pitfalls, mistakes or flaws in my approach or thinking that led to certain failures or poor results. However, these failures and poor results served as important data to help point me in the right direction. Now, while documenting the right direction that I had learned, it was very beneficial to include where and why I had failed before; not only would it help me or others out of similar situations in the future, it could also serve to strengthen and validate the inductive process that led to the right conclusions.
 
 **NOTE**: _The last observation above extends to the value of including concrete observations in general (successes, failures, attempts and others)._
+
+# Concretisation
+_Drawing from_ ["Philosophy is inextricably tied to concretes" from "How to pursue philosophy?" from _Introduction to Philosophy_ from **Philosophy**](https://pranigopu.github.io/philosophy/intro-to-philosophy.html#philosophy-is-inextricably-tied-to-concretes).
+
+All truth and value is ultimately of and from concretes, because ultimately, only particulars exist. Abstractions are objective but do not exist apart from particulars; they are the results of the selective focus of consciousness on particulars (the objectivity of abstractions is discussed in epistemology). Of course, the same holds for philosophical ideas. If a philosophy is to form the basis of your thoughts and actions, you must grasp how concretes integrate into the broad abstractions in philosophy and how the broad abstractions can be reduced back to concretes. You must grasp truth, value and philosophy as much in terms of concretes experienced first-hand as in terms of abstractions.
+
+In terms of truth, concretisiation consists of reducing concepts to their concrete refers and applying generalisations to concrete contexts. In terms of values, concretisation consists of the concrete, self-sustaining experience of life, i.e. concrete life-affirmation in some form. In terms of philosophy as a whole, concretisiation consists of the actual practice of philosophical principles, especially of principles in epistemology and ethics.
