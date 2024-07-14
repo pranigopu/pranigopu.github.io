@@ -14,8 +14,9 @@
 - [Introduction](#introduction)
 - [The basis of motivation and willpower](#the-basis-of-motivation-and-willpower)
 - [Further points on motivation](#further-points-on-motivation)
-- [The hierarchical and contextual organisation of values](#the-hierarchical-and-contextual-organisation-of-values)
-- [Integrating the value of the process with the goal](#integrating-the-value-of-the-process-with-the-goal)
+- [Key additional points](#key-additional-points)
+  - [The hierarchical and contextual organisation of values](#the-hierarchical-and-contextual-organisation-of-values)
+  - [Integrating the value of the process with the goal](#integrating-the-value-of-the-process-with-the-goal)
 
 ---
 
@@ -88,10 +89,11 @@ Motivation has both an intellectual (abstract) and a psychological (concrete) as
 
 If you lack the motivation or capacity to do something in a given context, then beyond a certain point, you literally — in fact — cannot sustain its pursuit of your own volition in that context. However, this need not incapacitate you; while you may lack the motivation or capacity to do something in the given context, you can shift your focus to improve your ability (e.g. by addressing more basic existential needs, mental or physical) or pursue something else (according to what you judge to be the most important or valuable in a broader context). Note that motivation can persevere in the hardest, most severe of conditions, and it can falter even in relative comfort; in general, it is not primarily a question of "what is going on outside" but "what is going on inside" (although, of course, both questions are important and potentially relevant to each other). Why is the motivation present or absent? Ask to understand its roots: what are its essential causes, what are the relevant factors in dealing with it, etc.? Understanding this is a part of understanding reality objectively so you can deal with it effectively. It is ineffective to try to brute-force your way through your lack of motivation because the facts about your consciousness (e.g. the nature of volition, finiteness of willpower, etc.) and its relationship to reality (e.g. how emotions and motives arise, what is the nature and role of values, how can and must a mind grasp the facts effectively, etc.) will not sustain it.
 
-# The hierarchical and contextual organisation of values
+# Key additional points
+## The hierarchical and contextual organisation of values
 To make explicit what has been implicit so far: values, same as knowledge, are hierarchical and contextual. Hence, values, same as knowledge, must be evaluated from the most fundamental, abstract level to the most concrete level. Whether you start with abstract or concrete considerations, make sure to integrate to the point that you gain the most fundamental, abstract level view of the goal before applying this view to the more concrete levels; this allows you to pursue your values in a broader context, the broadest being of your life as a whole.
 
-# Integrating the value of the process with the goal
+## Integrating the value of the process with the goal
 The goal’s object may represent one or few values, but often does not represent all the values relevant within the overall context (overall ⇒ including the process and the result). Furthermore, the probability of success is often less than certain and can even be quite uncertain. Hence, it stands to reason that what makes a goal worth pursuing is not just the values represented by the goal’s object but the integrated system of values represented by the steps within the process of pursuit itself.
 
 The goal is vital in that it serves to integrate the whole system of one’s values in a concrete (i.e. particular) context, and thus, serves to achieve moral and practical efficacy (the moral is the practical; distinction is made for emphasis). Hence, a goal must be evaluated with respect to not only its object but also the way it integrates the whole system of one’s values in the process of the pursuit.
