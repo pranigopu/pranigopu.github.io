@@ -40,15 +40,15 @@ Consider it another way: why pursue something, short-term or long-term, if there
 
 However, why follow your motivations to the fullest while keeping one's focus on reality rather than fight against motivations toward more "constructive" or long-range pursuits? Note that by "fighting" one's motivations, I do not mean engaging in uncomfortable, difficult or even excruciating work — after all, motivation can persist even in great hardship and falter even in great comfort, so "comfort" and "pleasantness" are non-essentials in motivation (not necessarily insignificant but non-essential). Rather, by "fighting" one's motivations, I mean acting against your motives, i.e. acting against what you experience most concrete value for (e.g. emotionally, psychologically, physically, etc.). Now, consider the following points:
 
-1.
+1.<br>
 
 The source of volition and therefore of willpower is one's ability to direct one's focus. Hence, ultimately, keeping one's focus on reality (which includes the factual context, one's philosophical convictions, one's hierarchy of values in a broader level, etc.) is the basic cause for the direction of one's motivation.
 
-2.
+2.<br>
 
 One's volitional mechanism is finite in capacity and has a particular nature and range by which it operates; trying to operate one's volition apart from its nature or outside its range leads to motivational overload, i.e. the failure to concretely value something. When in such a state, trying to push past it by mere effort is the denial of the nature of your volitional faculty and thereby a denial of reality. To put it in other words, willpower is finite (though renewable) and not omnipotent even within one's own mind, and motivation is neither causeless nor subjective but rather based on one's internalised premises.
 
-3.
+3.<br>
 
 Drawing from the second point, one's volitional mechanism can only operate when one's potential is concretised in some way and to some extent. This is because the basis of volition is long-range purpose, and the metaphysical basis of purpose is the concrete affirmation of life. To concretise potential is to concretise the values present in the pursuit of the potential; if such values do not exist, the pursuit cannot be sustained after a point.
 
@@ -68,24 +68,24 @@ Summarising the point so far into a tip, the idea is: keep your focus on reality
 
 **Observations**:
 
-1.
+1.<br>
 
 In the face of a deadline that was not too close but important to address (i.e. my semester 2 final assignments in 2024), I found that consciously and completely engaging with concretely enjoyable activities — such as watching a show I enjoyed — had two advantages compared to pushing against my desires and forcing myself to work. (1) I did not drain my willpower, and thus, did not drain my motivation and capacity to engage with valuable but uncomfortable work in general. (2) I was able to properly satisfy myself (since I did not keep undermining my pleasure with shame or despair) and move past my need for concrete enjoyment, and thus, was able to focus on more challenging work more effectively, leading to far more efficient work and substantial results. I would compare this case to that of starvation; when you are starved, it is hard to think of anything but food, not least because food is an essential need that must be satisfied to fuel yourself for other pursuits. In this light, note that I do not regard concrete enjoyment — or any form of life-affirmation — as something "to get over with" or a nuisance or an itch that must be addressed, but rather, as a vital, genuine need of my mind and for my life, just as food is a genuine need of the body and not a mere indulgence.
 
 **KEY POINT**: _The above only applies if there is no evasion on your part about what you are doing and what may be its consequences to you. Only a full and true acceptance of reality as it is can ensure that such indulgence can be of any value and pleasure (in the true sense) to you; evasion is a cause of shame and despair, and thus, destroys enjoyment and life-affirmation._
 
-2.
+2.<br>
 
 When I strain myself beyond my motivations, I tend to get drained in one or more respects; cognitively, emotionally or physically. Cognitive and physical drain are easier to overcome through rest, but emotional drain indicates a psychological experience of loss in values. Even though the values involved are worth pursuing in the long-run, since the psychological aspect of motivation is what drives you, such a loss in fact drains you (at least temporarily) of the will to pursue your goals further (a good analogy would be the training of muscles). The psychological aspect can be shaped over time but often not immediately, and draining it in the short-run makes losing the context of and thus value for the long-run almost inevitable (e.g. (a) initial and intermediate stages of doing the final assignments of semester 2 in 2024, (b) December-January examination preparation in 2023-2024, wherein I lost the motivation for both job applications and studying, etc.).
 
 # Further points on motivation
-1.
+1.<br>
 
 Motivation has both an intellectual (abstract) and a psychological (concrete) aspect. Both are vital and must be integrated (at least over time); the abstract aspect integrates the relevant concretes and validates motivations in the right context, whereas the concrete aspect is what ultimately drives your actions. However, the concrete, i.e. psychological aspect is largely subconscious; the abstract, i.e. intellectual aspect is key in shaping the psychological aspect, but such shaping must be done logically (remember the analogy of a programmer — the intellectual aspect — and the computer — the psychological aspect). Thus, shaping your motivations may often be a matter of a more tactful, indirect approach rather than direct intent or willpower, especially in view of the complexity of your goals and of your means to achieve them.
 
 <!--DUPLICATE OF THE ABOVE TEXT IN: "Shaping motivations" from "Rational application of focus", https://pranigopu.github.io/philosophy/epistemology/rationality-in-practice.html)-->
 
-2.
+2.<br>
 
 If you lack the motivation or capacity to do something in a given context, then beyond a certain point, you literally — in fact — cannot sustain its pursuit of your own volition in that context. However, this need not incapacitate you; while you may lack the motivation or capacity to do something in the given context, you can shift your focus to improve your ability (e.g. by addressing more basic existential needs, mental or physical) or pursue something else (according to what you judge to be the most important or valuable in a broader context). Note that motivation can persevere in the hardest, most severe of conditions, and it can falter even in relative comfort; in general, it is not primarily a question of "what is going on outside" but "what is going on inside" (although, of course, both questions are important and potentially relevant to each other). Why is the motivation present or absent? Ask to understand its roots: what are its essential causes, what are the relevant factors in dealing with it, etc.? Understanding this is a part of understanding reality objectively so you can deal with it effectively. It is ineffective to try to brute-force your way through your lack of motivation because the facts about your consciousness (e.g. the nature of volition, finiteness of willpower, etc.) and its relationship to reality (e.g. how emotions and motives arise, what is the nature and role of values, how can and must a mind grasp the facts effectively, etc.) will not sustain it.
 
