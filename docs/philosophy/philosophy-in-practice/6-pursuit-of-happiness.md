@@ -66,7 +66,7 @@ Furthermore, if, for some reason, his potential in one or more respects is dimin
 
 Here, but more generally as well, the only way to come to pursue happiness to the fullest is to accept the facts, which is why I regard serenity as the basis of happiness. Of course, if potential is destroyed entirely, the only form of life-affirmation possible may be serenity, but if you have serenity, you have the basis for the best life possible to you, whatever that may be. Additionally, I hold that lamenting one's fate is anti-life and irrational; why concern yourself with what you cannot change, especially when there is potential to be pursued?
 
-**KEY POINT** (credit to ChatGPT): _Recognizing and accepting limitations (e.g. due to illness or disability) does not diminish one’s capacity for happiness. Instead, it helps in redirecting efforts towards achievable and meaningful goals._
+**KEY POINT** (credit to ChatGPT): _Recognising and accepting limitations (e.g. due to illness or disability) does not diminish one’s capacity for happiness. Instead, it helps in redirecting efforts towards achievable and meaningful goals._
 
 # The pursuit of happiness
 _Here, we also reinforce some of the previous points._
