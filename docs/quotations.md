@@ -99,6 +99,8 @@ While moral perfection cannot coexist with moral failure, it can and does coexis
 
 The morally perfect man does not demand of himself the impossible, but he does demand of himself every ounce of the possible. <br> — Leonard Peikoff, edited from Objectivism: The Philosophy of Ayn Rand
 
+Self-esteem is earned, but pride is practiced. <br> — PG
+
 # Quotations on the nature of man
 Free will is not an exception to but an extension of causality. <br> — PG
 
