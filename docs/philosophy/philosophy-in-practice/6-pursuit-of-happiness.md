@@ -25,6 +25,7 @@
   - [Obtaining the abstract principles](#obtaining-the-abstract-principles)
   - [Applying the principles in practice](#applying-the-principles-in-practice)
 - [Additional points](#additional-points)
+  - [Current focus in the pursuit of happiness](#current-focus-in-the-pursuit-of-happiness)
   - [Motivation by love vs. motivation by fear](#motivation-by-love-vs-motivation-by-fear)
 
 ---
@@ -204,6 +205,11 @@ By its nature, a truly self-sustaining, i.e. valuable potential adds to your con
 Philosophy is the ultimate integrator of knowledge and value-judgement, which is why it is so crucial to validate our worldview and values philosophically. For a greater clarity about how and why philosophy is so essential, see: ["Why to pursue philosophy?" from _Introduction to Philosophy_ from **Philosophy**](https://pranigopu.github.io/philosophy/intro-to-philosophy.html#why-to-pursue-philosophy).
 
 # Additional points
+## Current focus in the pursuit of happiness
+An analogy for happiness (though only an analogy, and not a perfect one) is that of the goal of reaching the peak through a trek. During the trek, while you are aware of the goal and while your plans, routes and actions fall in line with that goal, your focus moment-by-moment is largely on the next step, the next checkpoint, etc. In other words, the current focus as you trek is usually not the peak itself but the process of trekking.
+
+In a similar sence, I hold that in the pursuit of happiness, while it is important to grasp the long-range and plan and act accordingly, one's current focus must usually not be on happiness itself but rather on concrete life-affirmation, i.e. the experience of life as you live it, without an expectation or goal of happiness in every moment. Rather, to achieve happiness, one must focus on the basis and causes of happiness, namely serenity, awareness, integrity, objectivity and ultimately the love of existence (i.e. the love of the fact that one exists and that one can exist; self-value).
+
 ## Motivation by love vs. motivation by fear
 In any pursuit in life – be it a result-oriented goal or the desire to achieve some potential or whatever – must be framed as: the pursuit of happiness, ultimately. Happiness is the concomitant of life, and since the standard of value is one’s life, the standard of value in psychological terms is happiness. Whatever you choose to do, choose and pursue it as a part – in some form – of your pursuit of happiness.
 
