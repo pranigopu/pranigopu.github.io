@@ -94,7 +94,7 @@ If you lack the motivation or capacity to do something in a given context, then 
 To make explicit what has been implicit so far: values, same as knowledge, are hierarchical and contextual. Hence, values, same as knowledge, must be evaluated from the most fundamental, abstract level to the most concrete level. Whether you start with abstract or concrete considerations, make sure to integrate to the point that you gain the most fundamental, abstract level view of the goal before applying this view to the more concrete levels; this allows you to pursue your values in a broader context, the broadest being of your life as a whole.
 
 ## Integrating the value of the process with the goal
-The goal’s object may represent one or few values, but often does not represent all the values relevant within the overall context (overall ⇒ including the process and the result). Furthermore, the probability of success is often less than certain and can even be quite uncertain. Hence, it stands to reason that what makes a goal worth pursuing is not just the values represented by the goal’s object but the integrated system of values represented by the steps within the process of pursuit itself.
+The goal’s object may represent one or few values, but often does not represent all the values relevant within the overall context (overall ⇒ including the process and the result). Furthermore, the probability of success is often less than certain and can even be quite uncertain. Hence, it stands to reason that what makes a goal worth pursuing is not just the values represented by the goal’s object but the integrated system of values represented by the steps within the process of the pursuit itself.
 
 The goal is vital in that it serves to integrate the whole system of one’s values in a concrete (i.e. particular) context, and thus, serves to achieve moral and practical efficacy (the moral is the practical; distinction is made for emphasis). Hence, a goal must be evaluated with respect to not only its object but also the way it integrates the whole system of one’s values in the process of the pursuit.
 
@@ -102,4 +102,4 @@ In other words, the process is as valuable — if not more — than the result, 
 
 _To conclude_...
 
-The long-range is not separate but integrated to the present and the short-range. Integrating your pursuit of your value for life in the long-range to your present gives value to the present, leading to greater happiness in the moment. This is in line with the fact that happiness is the state of non-contradictory achievement of your values.
+The long-range is not separate but rather integrated to the present and the short-range. Integrating your pursuit of your value for life in the long-range to your present gives value to the present, leading to greater happiness in the moment. This is in line with the fact that happiness is the state of non-contradictory achievement of your values.
