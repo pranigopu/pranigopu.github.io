@@ -64,6 +64,9 @@ The layer connecting theory to practice.
       |              |
       |              |
       In-------------Ob
+     |_________________|
+              |
+              LE
 ```
 
 [Key >>](https://pranigopu.github.io/philosophy/summary/key.html) :: [Justification >>](https://pranigopu.github.io/philosophy/summary/justification.html)
