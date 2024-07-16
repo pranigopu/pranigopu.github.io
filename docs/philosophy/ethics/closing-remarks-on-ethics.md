@@ -20,7 +20,7 @@
 - [Value for life and volition](#value-for-life-and-volition)
   - [The natural and the volitional](#the-natural-and-the-volitional)
   - [Rationality as the full realisation of volition](#rationality-as-the-full-realisation-of-volition)
-  - [To curse volition \& its struggle is to curse existence](#to-curse-volition--its-struggle-is-to-curse-existence)
+  - [To curse volition and its struggle is to curse existence](#to-curse-volition-and-its-struggle-is-to-curse-existence)
 
 ---
 
@@ -65,7 +65,7 @@ To be a volitional being to the fullest is equivalent to being a rational being 
 
 Thus, to be volitional to the full is to be rational to the full.
 
-## To curse volition & its struggle is to curse existence
+## To curse volition and its struggle is to curse existence
 Exercising volition is, of course, not automatic and is often difficult or even taxing, especially with regards to the potential (i.e. the long-range). It may be tempting to wish for a metaphysically simpler life such as that of an animal. But we are what we are (as volitional beings) and can be nothing else, fundamentally. If we were not as we are, we would not exist, i.e. there would be no “us”.
 
 Thus, to wish for a non-volitional form of existence in any way is ultimately (if not immediately) to be indifferent to our existence or wish for our non-existence, i.e. to wish for nothing; it is, in essence, nihilistic. Volition and our struggle to use it is not a curse but, essentially, the gift of existence itself and is the source and standard of our values. The form of existence of an animal or a plant is and can be nothing to us, and ours is — objectively — the highest form of existence we can value; it would be, in fact, the destruction of values to try to keep the standard of value as anything less.
