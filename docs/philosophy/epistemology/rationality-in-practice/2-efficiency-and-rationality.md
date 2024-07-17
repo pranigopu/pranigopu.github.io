@@ -3,39 +3,11 @@
     p, ol, ul, th, td {font-size: 24px}
 </style>
 
-[<< Back to **Epistemology**](https://pranigopu.github.io/philosophy/epistemology)
+[<< Back to **Rationality in Practice**](https://pranigopu.github.io/philosophy/epistemology/rationality-in-practice)
 
 **EFFICIENCY AND RATIONALITY**
 
 ---
-
-**Contents**:
-- [Rational expectation](#rational-expectation)
-- [Rational application of volition](#rational-application-of-volition)
-  - [Rational decision-making is always volitional](#rational-decision-making-is-always-volitional)
-  - [Volition as a part of an integrated system](#volition-as-a-part-of-an-integrated-system)
-  - [Essentialising focus](#essentialising-focus)
-  - [Shaping motivations](#shaping-motivations)
-- [Defining principles for rationality in practice](#defining-principles-for-rationality-in-practice)
-  - [Principle of contextual non-contradiction](#principle-of-contextual-non-contradiction)
-  - [Principle of identification](#principle-of-identification)
-  - [Principle of value-seeking](#principle-of-value-seeking)
-  - [Principle of essentialisation](#principle-of-essentialisation)
-    - [Principle of essentials-first](#principle-of-essentials-first)
-    - [Principle of knowledge-orientation](#principle-of-knowledge-orientation)
-    - [Principle of unaccountability](#principle-of-unaccountability)
-    - [Principle of purposefulness](#principle-of-purposefulness)
-    - [Integrating the above principles into a broader principle](#integrating-the-above-principles-into-a-broader-principle)
-    - [Essential further reading](#essential-further-reading)
-  - [Additional points](#additional-points)
-    - [Dismissing arbitrary doubts and arbitrary hypotheticals](#dismissing-arbitrary-doubts-and-arbitrary-hypotheticals)
-    - [Dismissing irrelevant factors and risks](#dismissing-irrelevant-factors-and-risks)
-    - [Contextual clarity when considering possibilities](#contextual-clarity-when-considering-possibilities)
-    - [Rational exploration](#rational-exploration)
-
----
-
-**KEY IDEA**: _Efficiency in effort is integral to rationality._
 
 We have seen above that rationality demands relevance, which means it demands selectivity in focus and effort. Now, I shall look at a related aspect of rationality in practice, namely the need for efficiency, whose basis is the same as the basis of the need for relevance: the fact that consciousness is finite. We start by grasping what the use of reason must ultimately be based on. The use of reason is the use of one's faculty of identifying and integrating the material provided by one's direct awareness of reality. Since reality is integrated by identity and causality, the use of reason must ultimately be based on the broadest context we can grasp, i.e. the context of our life as a whole, i.e. life lived long-range.
 

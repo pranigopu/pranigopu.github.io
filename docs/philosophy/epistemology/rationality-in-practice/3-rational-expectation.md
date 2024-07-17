@@ -3,7 +3,7 @@
     p, ol, ul, th, td {font-size: 24px}
 </style>
 
-[<< Back to **Epistemology**](https://pranigopu.github.io/philosophy/epistemology)
+[<< Back to **Rationality in Practice**](https://pranigopu.github.io/philosophy/epistemology/rationality-in-practice)
 
 **RATIONAL EXPECTATION**
 

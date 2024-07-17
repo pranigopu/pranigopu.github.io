@@ -3,7 +3,7 @@
     p, ol, ul, th, td {font-size: 24px}
 </style>
 
-[<< Back to **Epistemology**](https://pranigopu.github.io/philosophy/epistemology)
+[<< Back to **Rationality in Practice**](https://pranigopu.github.io/philosophy/epistemology/rationality-in-practice)
 
 **PRINCIPLES FOR RATIONALITY IN PRACTICE**
 
@@ -87,13 +87,26 @@ The act of staying in focus is the act of grasping what is, rather than what is 
 
 Focusing on the non-essential apart from one's pursuit of the essentials is to reject one's grasp of reality in favour of the unreal (e.g. either that which does not exist or that which has no existing relationship within one's knowledge to what is relevant in one's context). Doing so is essentially an act of turning away from reality, which can never reach the efficacy of turning to reality, except by accident; hence, it can ever be a valid policy. Furthermore, the more focus on the non-essentials, the more you turn away from dealing with reality and learning more about it, since learning can only happen with respect to what you know and not apart from it. Moreover, turning away from reality means your awareness is either less capable or incapable of learning more about what could potentially turn out to be essential.
 
+**NOTE**: _A non-essential concern that is not arbitrary may be relevant to your values, but only as an offshoot of essential concerns. In other words, when pursuing your values, a concern may be non-essential with respect to other concerns, but would still be worth pursuing once the essential concerns are addressed sufficiently. In such a case, the non-essential concern is a concern that becomes essential only when the previous essential concerns are addressed sufficiently._
+
 To conclude, the right approach to dealing with reality is not to go over and keep dismissing the non-essentials but rather to seek the essentials and expand your focus based on what you know and what comes into your awareness (which you must keep keen and ready, which is only possible if you keep your focus clear, which in turn is only possible by keeping the essentials in sight and not delving unnecessarily into the non-essentials). Hence, focus on seeking the essentials rather than dismissing the non-essentials. Even logistically, the former approach is the efficient and effective approach in practice while the latter approach tends to proliferate arbitrary concerns and can do so far beyond what can practically be dealt with (since the realm of the arbitrary is always infinite while the realm of knowledge is always finite at any given point).
 
 ---
 
 **NOTE 1**: Dismissing non-essentials is a valid approach but only as secondary to seeking the essentials. In other words, if you have reason to consider something as potentially essential and relevant for the given context and purpose, then it is valid to check if it is indeed so or if it is a non-essential to be dismissed.
 
-**NOTE 2**: To entertain arbitrary concerns as valid concerns is to abandon reason, because on what basis would you start or stop taking such concerns into account? Since they are arbitrary, such a basis cannot exist in your grasp of reality. Hence, such a basis is necessarily irrational, e.g. out-of-context compulsion, whim, etc.
+**NOTE 2**: Dismissing a non-essential does not always mean disregarding it entirely. Rather, dismissing a non-essential concern is about putting it outside your current focus; if it is an arbitrary concern, you put it out of focus for good, whereas if it is a non-essential concern, you put if out of focus for the current context, until it becomes relevant.
+
+**NOTE 3**: To entertain arbitrary concerns as valid concerns is to abandon reason, because on what basis would you start or stop taking such concerns into account? Since they are arbitrary, such a basis cannot exist in your grasp of reality. Hence, such a basis is necessarily irrational, e.g. out-of-context compulsion, whim, etc.
+
+**NOTE 4**: If you want to maximise your ability to recognise hidden concerns and possibilities, entertaining arbitrary and non-essential concerns achieves the exact opposite, i.e. it undermines your focus on reality and your ability to recognise valid concerns and possibilities in reality. An essentials-frst approach is the only way to maximise your ability to keep your focus on reality clear and alert is to focus on the essentials.
+
+---
+
+**LEXICAL NOTE: Arbitrary concerns and non-essential concerns**:
+
+An arbitrary concern is not the same as a non-essential concern (although it is a kind of non-essential concern). A non-essential concern in a given context may be an area of focus that is not entirely irrelevant in the given context, in the sense that it may (in your knowledge) become relevant once the essentials of the given context are addressed sufficiently. An example of a non-arbitrary non-essential concern: buying a tasty treat is not irrelevant to your values, but it is non-essential when grocery shopping and must only be addressed after addressing the essential shopping-list.  On the other hand, an arbitrary concern in a given context is an area of focus that has no relevance in the given context. An example of an arbitrary concern: worrying about how a specific phrasing of an idea would affect the reception of your idea, when you have neither the means nor the reason take such effects into account (if they can be identified at all).
+
 
 ## Principle of knowledge-orientation
 **_Considerations in knowledge over considerations in ignorance_**

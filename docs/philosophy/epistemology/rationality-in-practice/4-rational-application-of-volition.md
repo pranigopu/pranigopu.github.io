@@ -3,7 +3,7 @@
     p, ol, ul, th, td {font-size: 24px}
 </style>
 
-[<< Back to **Epistemology**](https://pranigopu.github.io/philosophy/epistemology)
+[<< Back to **Rationality in Practice**](https://pranigopu.github.io/philosophy/epistemology/rationality-in-practice)
 
 **RATIONAL APPLICATION OF VOLITION**
 
@@ -15,22 +15,8 @@
 - [Volition as a part of an integrated system](#volition-as-a-part-of-an-integrated-system)
   - [Essentialising focus](#essentialising-focus)
   - [Shaping motivations](#shaping-motivations)
-- [Defining principles for rationality in practice](#defining-principles-for-rationality-in-practice)
-  - [Principle of contextual non-contradiction](#principle-of-contextual-non-contradiction)
-  - [Principle of identification](#principle-of-identification)
-  - [Principle of value-seeking](#principle-of-value-seeking)
-  - [Principle of essentialisation](#principle-of-essentialisation)
-    - [Principle of essentials-first](#principle-of-essentials-first)
-    - [Principle of knowledge-orientation](#principle-of-knowledge-orientation)
-    - [Principle of unaccountability](#principle-of-unaccountability)
-    - [Principle of purposefulness](#principle-of-purposefulness)
-    - [Integrating the above principles into a broader principle](#integrating-the-above-principles-into-a-broader-principle)
-    - [Essential further reading](#essential-further-reading)
-  - [Additional points](#additional-points)
-    - [Dismissing arbitrary doubts and arbitrary hypotheticals](#dismissing-arbitrary-doubts-and-arbitrary-hypotheticals)
-    - [Dismissing irrelevant factors and risks](#dismissing-irrelevant-factors-and-risks)
-    - [Contextual clarity when considering possibilities](#contextual-clarity-when-considering-possibilities)
-    - [Rational exploration](#rational-exploration)
+- [Rational application of effort](#rational-application-of-effort)
+  - [Rejection of arbitrary effort](#rejection-of-arbitrary-effort)
 
 ---
 
@@ -81,3 +67,25 @@ _This is lifted from_ ["Further points on motivation" from _Integrating the Actu
 Motivation has both an intellectual (abstract) and a psychological (concrete) aspect. Both are vital and must be integrated (at least over time); the abstract aspect integrates the relevant concretes and validates motivations in the right context, whereas the concrete aspect is what ultimately drives your actions. However, the concrete, i.e. psychological aspect is largely subconscious; the abstract, i.e. intellectual aspect is key in shaping the psychological aspect, but such shaping must be done logically (remember the analogy of a programmer — the intellectual aspect — and the computer — the psychological aspect). Thus, shaping your motivations may often be a matter of a more tactful, indirect approach rather than direct intent or willpower, especially in view of the complexity of your goals and of your means to achieve them.
 
 _Motivation and willpower are explored in-depth in_ [_Integrating the actual and the potential_ from **Philosophy in Practice**](https://pranigopu.github.io/philosophy/philosophy-in-practice/2-integrating-actual-and-potential.html).
+
+# Rational application of effort
+**_An extension of the above discussions_**
+
+Three vital facts about any living being is that (1) the time and energy available to it is finite, (2) values are time-bound and conditional (i.e. not guaranteed) and (3) values (i.e. things worth pursuing and/or necessary to pursue) are ever-present and continuous (see: ["Value-seeking is continuous" from _The Nature of Value_ from **Ethics**](https://pranigopu.github.io/philosophy/ethics/nature-of-value.html#value-seeking-is-continuous)). Furthermore, the broader and long-range values of a volitional being are not automatic and not always obvious, i.e. they require the use of reason and rational effort to be discovered and pursued effectively. These facts imply that if one aims to live as a volitional being, then one must apply one's effort judiciously. We shall now explore what this means in practice.
+
+## Rejection of arbitrary effort
+ **LEXICAL NOTE**:
+ 
+An arbitrary concern is not the same as a non-essential concern (although it is a kind of non-essential concern). A non-essential concern in a given context may be an area of focus that is not entirely irrelevant in the given context, in the sense that it may (in your knowledge) become relevant once the essentials of the given context are addressed sufficiently. An example of a non-arbitrary non-essential concern: buying a tasty treat is not irrelevant to your values, but it is non-essential when grocery shopping and must only be addressed after addressing the essential shopping-list.  On the other hand, an arbitrary concern in a given context is an area of focus that has no relevance in the given context. An example of an arbitrary concern: worrying about how a specific phrasing of an idea would affect the reception of your idea, when you have neither the means nor the reason take such effects into account (if they can be identified at all). Arbitrary effort applies to arbitrary concerns in particular, not to non-essential concerns in general.
+
+---
+
+By the nature of an arbitrary concern, once it is recognised as arbitrary, engaging with it any further is not only detached from any kind of rational consideration, but it also undermines rationality and the ability to identify and pursue values. How? Let us explore.
+
+1.<br>
+
+To entertain arbitrary concerns as valid concerns is to abandon reason, because on what basis would you start or stop taking such concerns into account? Since they are arbitrary, such a basis cannot exist in your grasp of reality. Hence, such a basis is necessarily irrational and necessarily results in either compulsiveness or whim-worship.
+
+2.<br>
+
+Focusing on arbitrary concerns necessarily comes at the cost of focusing on what you know to be valuable. Furthermore, focusing on arbitrary concerns in the hope that they may turn out to be more valuable is the same, in essence, as driving blind in the hope that your new path may turn out to be better than the one you left. If such an approach is taken as valid or acceptable, then the result is a state of mind that disregards reality and loses its capacity to recognise potential values and threats.
