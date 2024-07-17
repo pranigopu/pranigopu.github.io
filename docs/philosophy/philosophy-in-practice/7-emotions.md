@@ -150,9 +150,9 @@ To clarify, valid regret is not based on bad outcomes as such. If you made a cho
 - Time and effort spent on "correcting" non-issues that cannot be corrected for
 
 ## Wishfulness
-Wishfulness is the feeling arising from hypothetical benefits to oneself. Note that a "benefit" to oneself is anything that serves to positively impact oneself with respect to one's hierarchy of values ("value" here is in the broad sense of the word, i.e. "that which one acts to gain and/or keep"). Hence, note that a hypothetical benefit is not necessarily a real benefit but rather an imagined benefit within an imagined context.
+Wishfulness is the feeling arising from hypothetical benefits to oneself. Note that a "benefit" to oneself is anything that serves to positively impact oneself with respect to one's hierarchy of values ("value" here is used in the broad sense of the word, i.e. "that which one acts to gain and/or keep"). Hence, note that a hypothetical benefit is not necessarily a real benefit but rather an imagined benefit within an imagined context.
 
-A benefit may or may not be a value, but what one regards as beneficial is based on what one regards as valuable, since a benefit is identified with respect to one's hierarchy of values. Thus, wishfulness is a form of value-orientation that orients you toward certain values by orienting you toward on certain benefits that are beneficial with respect to those values. Hence, wishfulness invalid when the values it orients you toward are invalid, i.e. impossible to achieve, non-values or anti-values.
+A benefit may or may not be a value, but what one regards as beneficial is based on what one regards as valuable, since a benefit is identified with respect to one's hierarchy of values. Thus, wishfulness is a form of value-orientation that orients you toward certain values by orienting you toward what is beneficial with respect to those values. Hence, wishfulness invalid when the values it orients you toward are invalid, i.e. impossible to achieve, non-values or anti-values.
 
 _Why does the validity of value-orientation matter?_
 
