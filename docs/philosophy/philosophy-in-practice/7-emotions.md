@@ -21,6 +21,7 @@
   - [Jealousy](#jealousy)
 - [Contextualising emotions](#contextualising-emotions)
   - [Regret](#regret)
+  - [Wishfulness](#wishfulness)
 
 ---
 
@@ -129,7 +130,7 @@ _Next, we shall look into contextualising emotions, so as to recognise when our 
 Dealing with emotions effectively requires grasping and validating the context of the premises underlying them (for the importance of contextual clarity, see: [_Contextual Clarity_ from **Epistemology**](https://pranigopu.github.io/philosophy/epistemology/contextual-clarity.html)).
 
 ## Regret
-In my understanding, regret is the feeling of having failed morally, i.e. in terms of some standard of good action. Hence, it stands to reason that regret is only valid if you have indeed failed morally. However, what does it mean to fail morally? Rationality is fundamental virtue from which every other virtue stems. The basis of rationality is one's focus on reality to one's fullest capacity. Hence, the fundamental vice, i.e. irrationality, is based on evasion, which is the conscious refusal to focus on the facts relevant within our context and capacity ("not blindness but the refusal to see").
+In my understanding, regret is the feeling arising from having failed morally, i.e. in terms of some standard of good action. Hence, it stands to reason that regret is only valid if you have indeed failed morally. However, what does it mean to fail morally? Rationality is fundamental virtue from which every other virtue stems. The basis of rationality is one's focus on reality to one's fullest capacity. Hence, the fundamental vice, i.e. irrationality, is based on evasion, which is the conscious refusal to focus on the facts relevant within our context and capacity ("not blindness but the refusal to see").
 
 Hence, regret is only valid if it stems from the recognition of evasion on your part. It is important to understand what evasion is and is not; after all, rationality is rooted in reality, and thus, perfect rationality is based on standards achievable by a finite, fallible consciousness. Furthermore, cognition is always contextual and always purposeful with respect to one's hierarchy of values. Hence, it is irrational to expect yourself to be aware beyond the scope your knowledge and awareness, which includes your knowledge and awareness of what is relevant and valuable.
 
@@ -137,7 +138,7 @@ Hence, regret is only valid if it stems from the recognition of evasion on your 
 
 To clarify, valid regret is not based on bad outcomes as such. If you made a choice in full awareness of what you were doing and what for, then, if the result of the choice turned out to be bad in some way, it is not your moral failure and thus is not a cause for valid regret. After all, decisions made with the best possible knowledge and reasoning can still lead to unforeseen outcomes, because we are neither omniscient nor infallible. Note that rationality and morality demand that outcomes, good or bad, must be grasped and learnt from, but taking outcomes as the primary basis for evaluating a decision is irrational, since a decision in practice is based on a finite capacity to project the outcomes of the decision.
 
-Like invalid emotions in general, invalid regret can be overcome by grasping and accepting its invalidity. Valid regret, on the other hand, can be overcome by correcting one's faults and their effects to the best of one's ability and orienting oneself to virtue.
+**NOTE**: _Like invalid emotions in general, invalid regret can be overcome by grasping and accepting its invalidity. Valid regret, on the other hand, can be overcome by correcting one's faults and their effects to the best of one's ability and orienting oneself to virtue._
 
 ---
 
@@ -147,6 +148,17 @@ Like invalid emotions in general, invalid regret can be overcome by grasping and
 - Loss of earned self-esteem (which is a fundamental human value)
 - Unearned shame and despair, leading to the loss of efficacy
 - Time and effort spent on "correcting" non-issues that cannot be corrected for
+
+## Wishfulness
+Wishfulness is the feeling arising from hypothetical benefits to oneself. Note that a "benefit" to oneself is anything that serves to positively impact oneself with respect to one's hierarchy of values ("value" here is in the broad sense of the word, i.e. "that which one acts to gain and/or keep"). Hence, note that a hypothetical benefit is not necessarily a real benefit but rather an imagined benefit within an imagined context.
+
+A benefit may or may not be a value, but what one regards as beneficial is based on what one regards as valuable, since a benefit is identified with respect to one's hierarchy of values. Thus, wishfulness is a form of value-orientation that orients you toward certain values by orienting you toward on certain benefits that are beneficial with respect to those values. Hence, wishfulness invalid when the values it orients you toward are invalid, i.e. impossible to achieve, non-values or anti-values.
+
+_Why does the validity of value-orientation matter?_
+
+Three vital facts about any living being is that (1) the time and energy available to it is finite, (2) values are time-bound and conditional (i.e. not guaranteed) and (3) values (i.e. things worth pursuing and/or necessary to pursue) are ever-present and continuous (see: ["Value-seeking is continuous" from _The Nature of Value_ from **Ethics**](https://pranigopu.github.io/philosophy/ethics/nature-of-value.html#value-seeking-is-continuous)). Furthermore, the broader and long-range values of a volitional being are not automatic and not always obvious, i.e. they require the use of reason and rational effort to be discovered and pursued effectively.
+
+These facts imply that if one aims to live as a volitional being, then one must apply one's time and effort judiciously, which means one must be rigorously rational in one's pursuit of values, never losing sight of the essentials and the relevant facts. Invalid wishfulness degrades and ultimately destroys such a pursuit of values. Furthermore, since invalid wishfulness equates the "valuable" to either the "impossible" or the "ineffective" (in the case of non-values) or the actively "detrimental" (in the case of anti-values), one's pursuit of potential is met with a sense of inefficacy and a diminishing, degradation or even destruction of one's concrete experience of values (which is the fuel for one's value-orientation). Hence, invalid wishfulness eventually leads to the loss of self-motivation, the loss of self-value and the loss of value for one's life as a whole.
 
 <!--
 Careful to contextualise the following:
