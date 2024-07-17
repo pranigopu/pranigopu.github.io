@@ -40,7 +40,7 @@ _How is cognitive overload recognised?_
 Cognitive overload happens when you are unable to focus on the essentials. If you find that whenever you shift your focus mentally, you are inevitably losing sight of the essentials (e.g. the purpose, the key facts, the relevant context, etc.), then you can know that you are experiencing cognitive overload. Remember that the ability to focus varies with the context: a high-pressure situation tends to narrow one's focus to the barest level, whereas a relaxed situation may allow a broader scope than even normal circumstances.
 
 ## Motivational overload
-_This is an extension of_ ["Rational application of volition" from _Rationality in Practice_ from **Epistemology**](https://pranigopu.github.io/philosophy/epistemology/rationality-in-practice.html#rational-application-of-volition).
+_This is an extension of_ [_Rational Application of Volition_ from **Rationality in Practice** from **Epistemology**](https://pranigopu.github.io/philosophy/epistemology/rationality-in-practice/rational-application-of-volition).
 
 This follows from the same basic premise as cognitive overload: the mind — and thus, one's volitional mechanism — has an identity, and can only function according to that identity; trying to operate one's volition outside its range leads to motivational failure, i.e. the failure to concretely (i.e. through action) value something.
 

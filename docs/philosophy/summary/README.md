@@ -102,7 +102,7 @@ Key specifics from the last section.
 - Principle of unaccountability
 - Principle of purposefulness
 
-[Elaboration >>](https://pranigopu.github.io/philosophy/epistemology/rationality-in-practice.html#principle-of-essentialisation)
+[Elaboration >>](https://pranigopu.github.io/philosophy/epistemology/rationality-in-practice/5-principles-for-rationality-in-practice.html#principle-of-essentialisation)
 
 # Key points to remember
 - Objectivity is the root of virtue
@@ -112,7 +112,7 @@ Key specifics from the last section.
 - Life is the source of value and purpose
 - Life is the only end in itself
 - By its nature, life is ongoing and continuous
-- Value-seeking is continuous (see: [1](https://pranigopu.github.io/philosophy/ethics/nature-of-value.html#values-seeking-is-continuous), [2](https://pranigopu.github.io/philosophy/epistemology/rationality-in-practice.html#principle-of-value-seeking))
+- Value-seeking is continuous (see: [1](https://pranigopu.github.io/philosophy/ethics/nature-of-value.html#values-seeking-is-continuous), [2](https://pranigopu.github.io/philosophy/epistemology/rationality-in-practice/5-principles-for-rationality-in-practice.html#principle-of-value-seeking))
 - Pursuit of happiness: the sole moral obligation
 - Serenity is the basis of happiness
 

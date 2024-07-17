@@ -83,7 +83,7 @@ When I strain myself beyond my motivations, I tend to get drained in one or more
 
 Motivation has both an intellectual (abstract) and a psychological (concrete) aspect. Both are vital and must be integrated (at least over time); the abstract aspect integrates the relevant concretes and validates motivations in the right context, whereas the concrete aspect is what ultimately drives your actions. However, the concrete, i.e. psychological aspect is largely subconscious; the abstract, i.e. intellectual aspect is key in shaping the psychological aspect, but such shaping must be done logically (remember the analogy of a programmer — the intellectual aspect — and the computer — the psychological aspect). Thus, shaping your motivations may often be a matter of a more tactful, indirect approach rather than direct intent or willpower, especially in view of the complexity of your goals and of your means to achieve them.
 
-<!--DUPLICATE OF THE ABOVE TEXT IN: "Shaping motivations" from "Rational application of focus", https://pranigopu.github.io/philosophy/epistemology/rationality-in-practice.html)-->
+<!--DUPLICATE OF THE ABOVE TEXT IN: "Shaping motivations" from _Rational application of focus_ from **Rationality in Practice** from **Epistemology**, https://pranigopu.github.io/philosophy/epistemology/rationality-in-practice/4-rational-application-of-volition.html#shaping-motivations)-->
 
 2.<br>
 
