@@ -189,7 +189,7 @@ Hence, the question becomes: "_Is X relevant in my current context as well as th
 
 Hence, the principle can be more clearly stated as follows:
 
-"The basis of rationality is your grasp of reality in the here and now, within your current relevant cognitive context, which implies the relevant broader contexts through which you reached the current context."
+"The basis of rationality is your grasp of reality in the here and now, within your current relevant cognitive context, which implies the relevant broader cognitive contexts that subsume the current context."
 
 ## Essential further reading
 While the above principles show the method of essentialisation, they do not show what to essentialise, i.e. they show the method, not the content. Of course, method without content is useless. Hence, an essential topic to the method of essentialisation is the topic of the essentials of life-affirmation, since life is the ultimate value and the ultimate purpose, which means life-affirmation must be the essential object of focus. In essence, just as all values are aspects of the value for life in the moment, so is all rational focus rooted in the focus on concrete life-affirmation; all specific acts of focus are aspects of the focus on concrete life-affirmation. Read more about life-affirmation here: ["Essentialising and integrating life-affirmation" from _The Pursuit of Happiness_ from **Philosophy in Practice**](https://pranigopu.github.io/philosophy/philosophy-in-practice/6-pursuit-of-happiness.html#essentialising-and-integrating-life-affirmation)
