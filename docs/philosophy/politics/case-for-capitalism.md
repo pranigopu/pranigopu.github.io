@@ -15,6 +15,8 @@
 - [The importance of property](#the-importance-of-property)
 - [The basis of value-exchange](#the-basis-of-value-exchange)
 - [The right economic system](#the-right-economic-system)
+- [Essential critiques of capitalism](#essential-critiques-of-capitalism)
+  - [Concentration of economic power](#concentration-of-economic-power)
 
 ---
 
@@ -39,3 +41,18 @@ Hence, we see the rise of two key aspects of morally sanctioned value-exchange: 
 Given that the right to property is fundamental and given that free trade and agreement — including contractual agreement — is the moral right of any individual, the only moral system is one that sanctions and protects both of these rights. The name given to such a system is laissez-faire capitalism. The particular methods of implementing such a system can vary, but three principles are constant: the right to property, the right to free trade and the enforcement of contracts. I want to stress that no individual rights are possible without the right to property, since property is the means by which an individual can seek, use and dispose of his values as he sees fit, i.e. it is the basis of his right to own life and thus his individual freedom in practice.
 
 As may already be apparent, an economic system rests on a political system, which means laissez-faire capitalism defines not only the principles of economics but also the principles of governance (i.e. politics). In particular, it defines the overriding obligation of the government to be the protection of individual rights; after all, it is only by the protection of individual rights that the right to property, free trade, etc. can be protected logically and legally, especially long-range. Laissez-faire capitalism defines the government’s role not as a ruler but as a servant. Crucially, it also defines that there must be a separation of state and economics.
+
+# Essential critiques of capitalism
+## Concentration of economic power
+The separation of state and economics means that, apart from the protection of individual rights (including property rights, free-trade rights and contract laws), the government plays no role in the economy. But here, we have the first critique: capitalism does not prevent the concentration of economic power. This is a problem because the critique has these premises: (1) people have very unequal opportunities and abilities, which makes it possible or even probable that a minority of the population gains the majority of the economic power, and (2) enough concentration of economic power leads to political power, i.e. the power to change the state's laws or their enforcement so that the law unjustly favours some over others in one or more respects.
+
+Let us validate the above premises. Premise 1 is undoubtedly true. Firstly, a variety of non-volitional factors can affect the opportunities people have, e.g. geography, cultural and societal background, economic means, accidental factors, etc. Secondly, people have varying degrees of various abilities for various reasons, e.g. upbringing and education, the allocation of time and energy, health and fitness, genetics, etc. Hence, the view that the concentration of economic power is dangerous, rests on the premise 2. Premise 2 is supported by many actions of private businesses around the world, such as:
+
+- Lobbying for certain laws
+- Financing the campaigns of certain politicians
+- Bribing to gain the favour of key political players
+- Paying off law enforcement to avoid legal actions
+
+However, it is key to ask what private businesses have to gain from such political engagement. If we assume the profit motive to be at least one important motive for the actions of private businesses, we can extend the same motive to their political engagement. Now, note that we are assuming that there is a separation of state and economics, since our critique is against such a separation. If there is a separation of state and economics, then the government has no power over economic opportunities, e.g. through regulation, licensing, selective taxation (e.g. tariffs, tax-cuts, product-based indirect taxes, etc.), trade-based bans (e.g. banning exports of a certain product, banning the trade of certain goods and/or services), and subsidies. In such a case, for the most part, political engagement is not in line with the profit motive.
+
+Of course, there is still the possibility that economic favours could be used to gain favours from the law enforcement, and the concentration of economic power could give some people a far greater power to exert such influence over law enforcement. However, here we notice two things: (1) such actions would still be illegal, which means every party involved in them would be at risk of discovery and much greater long-term loss, and (2) a government which has no economic powers depends more than any other government on the trust and support of its citizens, giving it a far lesser incentive to let open or clear affronts to the law go unanswered and a far greater incentive to prove that justice has been and will be served. Furthermore, note that giving the government regulatory powers is an ineffective solution, since the same incentives within the government that allowed the corruption of law enforcement would exist even now but to a greater extent.
