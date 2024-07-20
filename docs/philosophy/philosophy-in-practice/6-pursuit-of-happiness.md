@@ -185,7 +185,11 @@ Thus, a rational being needs to not only be able to sense its environment but al
 
 Since a being's values are rooted in the being's form of life, and since a sense of self-value is an internal factor for a self-driven being's self-driven existence, a sense of self-value is essentially the being's recognition of the potential of its own self with respect to its existence. In other words, a sense of self-value is one's sense of efficacy in sustaining one's volitional, conscious and physical existence. Hence, we see that a rational being must achieve and maintain virtues (i.e. qualities of long-range efficacy in living) to be able to sustain itself.
 
-**NOTE**: _If a being is reduced permanently to a lower form of life, then the being ceases to exist, since the essence of its identity is lost. Hence, as a rational being, you cannot survive as a purely sensitive or nutritive being; "you" would cease to exist and in your place would be either a beast or a vegetable._
+---
+
+**NOTE 1**: If a being is reduced permanently to a lower form of life, then the being ceases to exist, since the essence of its identity is lost. Hence, as a rational being, you cannot survive as a purely sensitive or nutritive being; "you" would cease to exist and in your place would be either a beast or a vegetable.
+
+**NOTE 2**: What "life" means to a being depends on the kind of being it is, i.e. on the essential nature of the being. Hence, for a volitional, i.e. rational being, life means life as a volitional being, i.e. as a being capable of a conscious and physical existence that is essentially self-driven.
 
 ## Applying the principles in practice
 Here, we see a clear relationship in the case of a rational being: the greater the integration of potential, the greater the capacity for self-sustenance. We also see that the needs of a rational being build upon on the needs of sensitive and nutritive beings, i.e. the needs unique to a rational being cannot contradict nor be contradicted by its sensitive and nutritive needs.
