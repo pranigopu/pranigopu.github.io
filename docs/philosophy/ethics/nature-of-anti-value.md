@@ -63,7 +63,7 @@ Firstly, the job is not yours by right, so no one has a moral claim over it to b
 
 Secondly, the essential source of one's capacity for gaining and keeping a job is, in general, competence and a clear alignment with the business-related interests of the employer. Furthermore, honesty in trade is the basis of long-range economic potential, which means using fraud as a means to overcome competition serves to degrade and/or destroy reliability of both yourself and the demands of the job market. It is akin to stealing to "save money"; in both cases, you act to degrade and/or destroy the basis of the system that creates the value you seek to begin with. The principle of non-contradiction in values (see: ["Non-contradiction in values" from _The Nature of Values_](https://pranigopu.github.io/philosophy/ethics/nature-of-value.html#non-contradiction-in-values)) means that contradictions in one's pursuit of values degrade and ultimately destroy all values without exception, unless and until one acts to right one's wrongs.
 
-_In short, job market competition in a free or at least semi-free economy must be seen as a part of a value-oriented system and not as a potential ant-value (though in a narrow, delimited context, it may be seen as a threat of sorts)._
+_In short, job market competition in a free or at least semi-free economy must be seen as a part of a value-oriented system and not as a potential anti-value (though in a narrow, delimited context, it may be seen as a threat of sorts)._
 
 ---
 
