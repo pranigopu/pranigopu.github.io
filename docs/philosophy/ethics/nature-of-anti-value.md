@@ -53,7 +53,7 @@ In the pursuit of values, we must consider potential harm to the pursuit of our 
 
 ---
 
-As with anti-values in general, evaluating something as a potential anti-value requires contextual clarity. For example, consider: is competition for a job a potential anti-value, given at least a free or at least semi-free economy? Consider: what values are being contradicted or put in danger by the competition? Let us examine.
+As with anti-values in general, evaluating something as a potential anti-value requires contextual clarity. For example, consider: is competition for a job a potential anti-value, given a free or at least semi-free economy? Consider: what values are being contradicted or put in danger by the competition? Let us examine.
 
 ---
 
