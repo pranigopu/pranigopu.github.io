@@ -55,11 +55,11 @@ One way is to recognise and validate or invalidate the premises underlying the e
 
 **NOTE: Emotion is not the primary target**:
 
-It is not primarily emotions we must deal with or overcome, but rather their causes, i.e. the internalised premises that guide our intellectual and psyhological mechanisms. Emotions are important effects of these, but they are ultimately effects and not the driving causes of one's well-being.
+It is not primarily emotions we must deal with or overcome, but rather their causes, i.e. the internalised premises that guide our intellectual and psyhological mechanisms. Emotions are important effects of these, but they are ultimately effects and not the fundamental causes of one's well-being.
 
 **NOTE: Reiterating a key point**:
 
-Invalid emotions are not to be overcome by sheer force of will but through one's clarity of focus and one's use of reason.
+Invalid emotions are not to be overcome by sheer force of will but through one's clarity of focus and one's use of reason. You cannot make yourself feel differently just by willing it; that is not how emotions work.
 
 ## Despair and shame
 **_A false view of one's basic efficacy_**
