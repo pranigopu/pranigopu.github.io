@@ -1,18 +1,17 @@
 * {font-family: "Times New Roman"}
 p, ol, ul, th, td {font-size: 24px}
 
-table, th, td {border: 1px solid; border-collapse: collapse}
-th {font-weight: bold}
+table, th, td {border:1px solid; border-collapse:collapse}
+th {font-weight:bold}
 
-a:link {color: dodgerblue; text-decoration: none}
-a:visited {color: dodgerblue; text-decoration: none}
-a:hover {color: midnightblue; text-decoration: underline}
-a:active {color: dodgerblue; text-decoration: none}
+a:link {color:blue; text-decoration:none}
+a:visited {color:blue; text-decoration:none}
+a:hover {color:midnightblue; text-decoration:underline}
+a:active {color:blue; text-decoration:none}
 
-h6 {font-size: 24px; color: maroon}
-h5 {font-size: 28px; color: green}
-h4 {font-size: 32px; color: darkmagenta}
-h4 {font-size: 36px; color: darkslategrey }
-h3 {font-size: 40px; color: darkgreen}
-h2 {font-size: 44px; color: darkviolet}
-h1 {font-size: 48px; color: black}
+h6 {font-size:24px; color:black; text-decoration: underline}
+h5 {font-size:28px; color:black}
+h4 {font-size:32px; color:darkslategrey}
+h3 {font-size:40px; color:darkgreen}
+h2 {font-size:48px; color:darkviolet}
+h1 {font-size:56px; color:black}
