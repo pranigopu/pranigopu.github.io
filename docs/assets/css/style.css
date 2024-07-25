@@ -1,6 +1,9 @@
 * {font-family: "Times New Roman"}
 p, ol, ul, th, td {font-size: 24px}
 
+table, th, td {border: 1px solid}
+th {font-weight: bold}
+
 a:link {color: dodgerblue; text-decoration: none}
 a:visited {color: dodgerblue; text-decoration: none}
 a:hover {color: midnightblue; text-decoration: underline}
