@@ -1,9 +1,9 @@
 * {font-family: "Times New Roman"}
 p, ol, ul, th, td {font-size: 24px}
-h6 {font-size: 24px}
-h5 {font-size: 28px}
-h4 {font-size: 32px}
-h4 {font-size: 36px}
-h3 {font-size: 40px}
-h2 {font-size: 44px}
-h1 {font-size: 48px}
+h6 {font-size: 24px; color: darkslategrey}
+h5 {font-size: 28px; color: darkgreen}
+h4 {font-size: 32px; color: darkblue}
+h4 {font-size: 36px; color: black }
+h3 {font-size: 40px; color: darkgreen}
+h2 {font-size: 44px; color: darkblue}
+h1 {font-size: 48px; color: black}
