@@ -10,9 +10,9 @@ a:visited {color:blue; text-decoration:none}
 a:hover {color:midnightblue; text-decoration:underline}
 a:active {color:blue; text-decoration:none}
 
-h6 {font-size:24px; color:black; text-decoration: underline}
-h5 {font-size:28px; color:black}
-h4 {font-size:32px; color:darkslategrey}
-h3 {font-size:40px; color:darkgreen}
-h2 {font-size:48px; color:darkviolet}
-h1 {font-size:56px; color:black}
+h6 {font-size:20px; color:darkviolet; text-decoration: underline}
+h5 {font-size:20px; color:darkgreen}
+h4 {font-size:24px; color:darkslategrey}
+h3 {font-size:28px; color:black}
+h2 {font-size:36px; color:black}
+h1 {font-size:44px; color:black}
