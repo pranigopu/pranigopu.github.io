@@ -1,4 +1,4 @@
-@import "{{ site.theme }}";
+@import "jekyll-theme-leap-merlot";
 
 * {font-family: "Times New Roman"}
 p, ol, ul, th, td {font-size: 24px}

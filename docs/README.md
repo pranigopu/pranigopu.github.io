@@ -1,7 +1,6 @@
 <style>
     * {font-family: "Times New Roman"}
     p, ol, ul, th, td {font-size: 24px}
-    h1 {font: italic}
 </style>
 
 # Personal Writing and Art Collection
