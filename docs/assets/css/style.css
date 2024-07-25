@@ -9,10 +9,10 @@ a:visited {color: dodgerblue; text-decoration: none}
 a:hover {color: midnightblue; text-decoration: underline}
 a:active {color: dodgerblue; text-decoration: none}
 
-h6 {font-size: 24px; color: darkslategrey}
-h5 {font-size: 28px; color: darkgreen}
-h4 {font-size: 32px; color: darkblue}
-h4 {font-size: 36px; color: black }
+h6 {font-size: 24px; color: maroon}
+h5 {font-size: 28px; color: green}
+h4 {font-size: 32px; color: darkmagenta}
+h4 {font-size: 36px; color: darkslategrey }
 h3 {font-size: 40px; color: darkgreen}
-h2 {font-size: 44px; color: darkblue}
+h2 {font-size: 44px; color: darkviolet}
 h1 {font-size: 48px; color: black}
