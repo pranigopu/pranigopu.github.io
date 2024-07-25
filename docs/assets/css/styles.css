@@ -1,0 +1,11 @@
+@import "{{ site.theme }}";
+
+* {font-family: "Times New Roman"}
+p, ol, ul, th, td {font-size: 24px}
+h6 {font-size: 24}
+h5 {font-size: 28}
+h4 {font-size: 32}
+h4 {font-size: 36}
+h3 {font-size: 40}
+h2 {font-size: 44}
+h2 {font-size: 48}
