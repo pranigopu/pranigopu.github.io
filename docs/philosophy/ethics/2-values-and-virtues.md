@@ -83,7 +83,7 @@ Life is the standard of value, and achieving the value of life requires pursuing
 
 - A teacher dedicated to clarity in a subject of value to him
 - A nurse devoted to improving the lives of her patients
-- A parent striving to raising his/her children well
+- A parent striving to raise his/her children well
 - A charity committed to helping the needy and deserving
 - An industrialist keen to produce wealth with good products
 - A scientist focused on discovering new knowledge
