@@ -1,6 +1,8 @@
 <style>
     * {font-family: "Times New Roman"}
     p, ol, ul, th, td {font-size: 24px}
+    h1 {font-size: 86}
+    h2 P{color: "blue"}
 </style>
 
 # Personal Writing and Art Collection
