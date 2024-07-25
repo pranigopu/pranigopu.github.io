@@ -102,7 +102,6 @@ To conclude, the right approach to dealing with reality is not to go over and ke
 
 An arbitrary concern is not the same as a non-essential concern (although it is a kind of non-essential concern). A non-essential concern in a given context may be an area of focus that is not entirely irrelevant in the given context, in the sense that it may (in your knowledge) become relevant once the essentials of the given context are addressed sufficiently. An example of a non-arbitrary non-essential concern: buying a tasty treat is not irrelevant to your values, but it is non-essential when grocery shopping and must only be addressed after addressing the essential shopping-list.  On the other hand, an arbitrary concern in a given context is an area of focus that has no relevance in the given context. An example of an arbitrary concern: worrying about how a specific phrasing of an idea would affect the reception of your idea, when you have neither the means nor the reason to take such effects into account (if they can be identified at all).
 
-
 ## Principle of knowledge-orientation
 **_Considerations in knowledge over considerations in ignorance_**
 
