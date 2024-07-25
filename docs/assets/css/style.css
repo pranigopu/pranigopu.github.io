@@ -1,6 +1,7 @@
 * {font-family: "Times New Roman"}
-p, ol, ul, th, td {font-size: 24px}
+html {margin:5%}
 
+p, ol, ul, th, td {font-size: 24px}
 table, th, td {border:1px solid; border-collapse:collapse}
 th {font-weight:bold}
 
