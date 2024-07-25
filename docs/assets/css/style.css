@@ -1,7 +1,5 @@
 @import "jekyll-theme-merlot";
 
-html {margin:5%}
-
 p, ol, ul, th, td, h1, h2, h3, h4, h5, h6 {font-family: "Times New Roman"}
 p, ol, ul, th, td {font-size: 24px}
 
