@@ -37,7 +37,7 @@ Hence, as with life as whole, dealing with emotions effectively requires a ratio
 # Emotions can reflect the validity of internalised premises
 If emotions are based on one's internalised premises, and if such premises can be flawed, then it stands to reason that there exist emotions that reflect such flawed premises and belief systems. Such emotions may be a sure sign of invalid premises (invalid emotions) or may be a sign of invalid premises if experienced out of context (out-of-context emotions).
 
-_Hence, we move on to th first key point, i.e. invalid emotions_...
+_Hence, we move on to the first key point, i.e. invalid emotions_...
 
 # Invalid emotions
 Emotions by their nature reflect our premises but do not reflect their validity; hence, an emotion may be invalid in the sense that it is a response based on invalid premises. How to take such emotions into account? Firstly, it is key to note that an invalid premise does not by itself reveal a moral failure; a perfectly moral person can make honest mistakes and thus reach mistaken premises. Secondly, invalid emotions are often important in revealing invalid premises (as we shall see); since we are not infallible, the ability to experience such emotions is a valuable ability.
