@@ -1,8 +1,3 @@
-<style>
-    * {font-family: "Times New Roman"}
-    p, ol, ul, th, td {font-size: 24px}
-</style>
-
 [<< Back to **Literature**](https://pranigopu.github.io/art/literature)
 
 **THE DEAREST GIFT**

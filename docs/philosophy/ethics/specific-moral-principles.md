@@ -1,8 +1,3 @@
-<style>
-    * {font-family: "Times New Roman"}
-    p, ol, ul, th, td {font-size: 24px}
-</style>
-
 [<< Back to _Moral Principles_](https://pranigopu.github.io/philosophy/ethics/3-moral-principles.html)
 
 **SPECIFIC MORAL PRINCIPLES**

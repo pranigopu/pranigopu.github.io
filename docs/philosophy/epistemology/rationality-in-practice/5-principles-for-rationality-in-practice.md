@@ -1,8 +1,3 @@
-<style>
-    * {font-family: "Times New Roman"}
-    p, ol, ul, th, td {font-size: 24px}
-</style>
-
 [<< Back to **Rationality in Practice**](https://pranigopu.github.io/philosophy/epistemology/rationality-in-practice)
 
 **PRINCIPLES FOR RATIONALITY IN PRACTICE**

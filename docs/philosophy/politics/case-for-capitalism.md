@@ -1,8 +1,3 @@
-<style>
-    * {font-family: "Times New Roman"}
-    p, ol, ul, th, td {font-size: 24px}
-</style>
-
 [<< Back to **Politics**](https://pranigopu.github.io/philosophy/politics)
 
 **A CASE FOR CAPITALISM**

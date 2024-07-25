@@ -1,8 +1,3 @@
-<style>
-    * {font-family: "Times New Roman"}
-    p, ol, ul, th, td {font-size: 24px}
-</style>
-
 [<< Back to **Statistics**](https://pranigopu.github.io/statistics)
 
 **THE ESSENCE OF STATISTICS**

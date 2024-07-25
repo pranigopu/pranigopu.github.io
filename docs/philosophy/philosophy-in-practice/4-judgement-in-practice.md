@@ -1,8 +1,3 @@
-<style>
-    * {font-family: "Times New Roman"}
-    p, ol, ul, th, td {font-size: 24px}
-</style>
-
 [<< Back to **Philosophy in Practice**](https://pranigopu.github.io/philosophy/philosophy-in-practice)
 
 **JUDGEMENT IN PRACTICE**

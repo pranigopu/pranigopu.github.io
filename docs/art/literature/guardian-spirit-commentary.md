@@ -1,8 +1,3 @@
-<style>
-    * {font-family: "Times New Roman"}
-    p, ol, ul, th, td {font-size: 24px}
-</style>
-
 [<< Back to _The Guardian Spirit_](https://pranigopu.github.io/art/literature/guardian-spirit.html)
 
 **THE GUARDIAN SPIRIT** - _Commentary_
