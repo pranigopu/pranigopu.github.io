@@ -3,6 +3,7 @@
     p, ol, ul, th, td {font-size: 24px}
     h1 {font-size: 86}
     h2 P{color: "blue"}
+    p {color: "red"}
 </style>
 
 # Personal Writing and Art Collection
