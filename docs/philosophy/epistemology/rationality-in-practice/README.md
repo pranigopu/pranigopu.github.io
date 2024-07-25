@@ -18,4 +18,4 @@ Here, we see a false and — in my view — dangerous dichotomy: consistent rati
 2. [Efficiency in Rationality](https://pranigopu.github.io/philosophy/epistemology/rationality-in-practice/2-efficiency-and-rationality.html)
 3. [Rational Expectation](https://pranigopu.github.io/philosophy/epistemology/rationality-in-practice/3-rational-expectation.html)
 4. [Rational Application of Volition](https://pranigopu.github.io/philosophy/epistemology/rationality-in-practice/4-rational-application-of-volition.html)
-5. [Principles of Rationality in Practice](https://pranigopu.github.io/philosophy/epistemology/5-principles-for-rationality-in-practice.html)
+5. [Principles of Rationality in Practice](https://pranigopu.github.io/philosophy/epistemology/rationality-in-practice/5-principles-for-rationality-in-practice.html)
