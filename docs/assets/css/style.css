@@ -1,5 +1,11 @@
 * {font-family: "Times New Roman"}
 p, ol, ul, th, td {font-size: 24px}
+
+a:link {color: dodgerblue; text-decoration: none}
+a:visited {color: dodgerblue; text-decoration: none}
+a:hover {color: midnightblue; text-decoration: underline}
+a:active {color: dodgerblue; text-decoration: none}
+
 h6 {font-size: 24px; color: darkslategrey}
 h5 {font-size: 28px; color: darkgreen}
 h4 {font-size: 32px; color: darkblue}
