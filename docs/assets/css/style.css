@@ -1,7 +1,7 @@
 * {font-family: "Times New Roman"}
 p, ol, ul, th, td {font-size: 24px}
 
-table, th, td {border: 1px solid}
+table, th, td {border: 1px solid; border-collapse: collapse}
 th {font-weight: bold}
 
 a:link {color: dodgerblue; text-decoration: none}
