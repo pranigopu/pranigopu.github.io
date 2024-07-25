@@ -1,16 +1,9 @@
 @import "jekyll-theme-slate";
 
-* {font-family: "Times New Roman"}
 html {margin:5%}
 
+p, ol, ul, th, td, h1, h2, h3, h4, h5, h6 {font-family: "Times New Roman"}
 p, ol, ul, th, td {font-size: 24px}
-table, th, td {border:1px solid; border-collapse:collapse}
-th {font-weight:bold}
-
-a:link {color:rgb(0, 64, 255); text-decoration:none}
-a:visited {color:rgb(0, 64, 255); text-decoration:none}
-a:hover {color:midnightblue; text-decoration:underline}
-a:active {color:rgb(0, 64, 255); text-decoration:none}
 
 h6 {font-size:20px; color:darkviolet; text-decoration: underline}
 h5 {font-size:20px; color:darkgreen}
@@ -18,3 +11,11 @@ h4 {font-size:24px; color:darkblue; text-decoration: underline}
 h3 {font-size:28px; color:darkslategrey}
 h2 {font-size:36px; color:black}
 h1 {font-size:44px; color:black}
+
+table, th, td {border:1px solid; border-collapse:collapse}
+th {font-weight:bold}
+
+a:link {color:rgb(0, 64, 255); text-decoration:none}
+a:visited {color:rgb(0, 64, 255); text-decoration:none}
+a:hover {color:midnightblue; text-decoration:underline}
+a:active {color:rgb(0, 64, 255); text-decoration:none}
