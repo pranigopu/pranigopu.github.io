@@ -177,7 +177,7 @@ In essence, integrating one's view of reality over time in essentials helps inte
 
 ---
 
-**KEY POINT**:
+**KEY POINT 1**:
 
 Usually, the internalisation of the broader contexts is the memories of the essence of the broader context; the memory is retained due to a conscious and rational approach to shifting contexts. Hence, when you ask whether something is relevant in the current context, you also ask whether it is relevant in the broader contexts you are coming from (and that you can hold in your awareness).
 
@@ -188,6 +188,16 @@ Hence, the principle can be more clearly stated as follows:
 "The basis of rationality is your grasp of reality in the here and now, within your current relevant cognitive context, which also implies the relevant broader cognitive contexts that subsume the current context."
 
 **NOTE**: _I emphasise that the current cognitive context implies the relevant broader cognitive contexts so as to emphasise that contexts must shift rationally, and that one must never lose sight of the essence of the relevant broader contexts, since the broader contexts condition the full, long-range meaning of the current context._
+
+---
+
+**KEY POINT 2**:
+
+All contexts are ultimately integrated, both vertically (i.e. hierarchically) and horizontally (i.e. contextually). This applies to any cognitive and purposeful context. In particular, all value-orientation is integrated by the value for life, and all cognitive contexts are integrated by metaphysics and epistemology. How do we learn the hierarchy of contexts? I posit that we can often identify the broader context under which two seemingly separate contexts are subsumed, based on our grasp of their essential similarities.
+
+Given these conclusions, I reiterate that we must shift contexts based on our current relevant context, whether the shift is from a narrower to a broader context, a broader to a narrower context, or from one context to a separate context. Even in the last case, there is some broader purposeful context (i.e. value-orientation, e.g. desire for knowledge) and cognitive context (e.g. study of an overarching area) that guides the shift, either implicitly or explicitly.
+
+**NOTE**: _I distinguish between purposeful and cognitive context for emphasis only; both kinds are ultimately the same, since a purposeful context relies on facts and reason while a cognitive context relies on purpose and values._
 
 ## Essential further reading
 While the above principles show the method of essentialisation, they do not show what to essentialise, i.e. they show the method, not the content. Of course, method without content is useless. Hence, an essential topic to the method of essentialisation is the topic of the essentials of life-affirmation, since life is the ultimate value and the ultimate purpose, which means life-affirmation must be the essential object of focus. In essence, just as all values are aspects of the value for life in the moment, so is all rational focus rooted in the focus on concrete life-affirmation; all specific acts of focus are aspects of the focus on concrete life-affirmation. Read more about life-affirmation here: ["Essentialising and integrating life-affirmation" from _The Pursuit of Happiness_ from **Philosophy in Practice**](https://pranigopu.github.io/philosophy/philosophy-in-practice/6-pursuit-of-happiness.html#essentialising-and-integrating-life-affirmation)
