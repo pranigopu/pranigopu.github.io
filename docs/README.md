@@ -2,7 +2,7 @@
     * {font-family: "Times New Roman"}
     p, ol, ul, th, td {font-size: 24px}
     h1 {font-size: 86}
-    h2 P{color: "blue"}
+    h2 {color: "blue"}
     p {color: "red"}
 </style>
 
