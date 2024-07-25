@@ -97,7 +97,7 @@ Hence, if something in your life becomes a blow to your sense of personal effica
 
 It is key to note that a blow to your pride only happens when you either cease to be objective or when your personal efficacy is contradicted in some way. There are two ways such a contradiction can happen: (1) due to a volitional fault, and (2) due to a non-volitional fault. A volitional fault is the failure to realise a valuable potential that was in your knowledge and capacity, which means it must be dealt with by being aware of your fault and correcting for it.
 
-A non-volitional fault, on the other hand, is due to the lack of knowledge and/or capacity. A non-volitional fault itself can be of two kinds: (a) subjectable to change, and (2) unsubjectable to change. If you can change it and if it is valuable to do so, you must. But if you cannot change it, then, though it can only be a blow to your sense of personal efficacy if you had a false view of what you were capable of. In case (b), you must realise that the fault must not be a source of shame, and that pride demands its acceptance, in the name of objectivity.
+A non-volitional fault, on the other hand, is due to the lack of knowledge and/or capacity. A non-volitional fault itself can be of two kinds: (a) subjectable to change, and (2) unsubjectable to change. If you can change it and if it is valuable to do so, you must. But if you cannot change it, then, it can only be a blow to your sense of personal efficacy if you had a false view of what you were capable of. In case (b), you must realise that the fault must not be a source of shame, and that pride demands its acceptance, in the name of objectivity.
 
 Hence, a truly proud person would (among other things):
 
