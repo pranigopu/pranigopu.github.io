@@ -87,6 +87,14 @@ Here, the role of willpower is even clearer. Motivation is the fuel that sustain
 
 ---
 
+**NOTE 1**: Motivation fuels, willpower initiates and steers. Without motivation, volitional action cannot be sustained, while without willpower, volitional action may not be initiated and cannot be volitionally directed.
+
+**NOTE 2**: Motivation fuels volition, since motivation is the recognition of concrete potential, and the recognition of concrete potential is essential to sustaining volitional action. Note that concrete potential is the recognition of achievable and valuable concretes (concretes being things that can be realised and experienced in the moment).
+
+**NOTE 3**: We observe that no matter our motivation, we still have to make the choice to stay in focus and act; hence, willpower is always operative in volition. The question, then, is not whether to apply willpower or not, but whether to apply willpower in a self-sustaining and life-affirming way or not.
+
+---
+
 **Observations**:
 
 1.<br>
