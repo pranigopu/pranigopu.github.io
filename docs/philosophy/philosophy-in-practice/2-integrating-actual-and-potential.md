@@ -75,7 +75,7 @@ When I strain myself beyond my motivations, I tend to get drained in one or more
 
 ---
 
-**AMENDMENT TO THE PRINCIPLE**:
+**AMENDMENT TO THE TIP**:
 
 Since the recognition and experience of concrete value is the basis for self-sustaining goal-driven action, it stands to reason that if we intellectually recognise something to be of greater concrete value, pursuing it would result in greater life-affirmation that would be both self-sustaining and the basis for further self-sustaining and goal-driven action. Here, it is key to note that concrete value is about the experience of value, which means it is recognised based on what you can project about the experience of value in the moment and cannot based on abstract conclusions and convictions alone.
 
