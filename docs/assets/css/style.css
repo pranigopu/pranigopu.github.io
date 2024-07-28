@@ -2,6 +2,8 @@ html {margin:5%}
 
 p, ol, ul, th, td, h1, h2, h3, h4, h5, h6 {font-family: "Times New Roman"}
 p, ol, ul, th, td {font-size: 24px}
+pre {font-family: monospace; white-space: pre}
+code {font-family: monospace}
 
 h6 {font-size:20px; color:darkviolet; text-decoration: underline}
 h5 {font-size:20px; color:darkgreen}
