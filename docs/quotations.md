@@ -35,8 +35,7 @@ The only true denial of the self-evident is self-annihilation. <br> — PG
 
 Experience never errs; it is only your judgments that err by promising themselves effects such as are not caused by your experiments. <br> — Leonardo da Vinci
 
-Every will at variance with reason, whether right or erring, is always evil.
-— St. Thomas Aquinas
+Every will at variance with reason, whether right or erring, is always evil. <br> — St. Thomas Aquinas
 
 Cognition is necessarily contextual and purposeful, and thus, the products of cognition must necessarily also be contextual and purposeful. <br> — PG
 
