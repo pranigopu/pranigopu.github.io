@@ -73,6 +73,30 @@ In the face of a deadline that was not too close but important to address (i.e. 
 
 When I strain myself beyond my motivations, I tend to get drained in one or more respects; cognitively, emotionally or physically. Cognitive and physical drain are easier to overcome through rest, but emotional drain indicates a psychological experience of loss in values. Even though the values involved are worth pursuing in the long-run, since the psychological aspect of motivation is what drives you, such a loss in fact drains you (at least temporarily) of the will to pursue your goals further (a good analogy would be the training of muscles). The psychological aspect can be shaped over time but often not immediately, and draining it in the short-run makes losing the context of and thus value for the long-run almost inevitable (e.g. (a) initial and intermediate stages of doing the final assignments of semester 2 in 2024, (b) December-January examination preparation in 2023-2024, wherein I lost the motivation for both job applications and studying, etc.).
 
+---
+
+**AMENDMENT TO THE PRINCIPLE**:
+
+Since the recognition and experience of concrete value is the basis for self-sustaining goal-driven action, it stands to reason that if we intellectually recognise something to be of greater concrete value, pursuing it would result in greater life-affirmation that would be both self-sustaining and the basis for further self-sustaining and goal-driven action. Here, it is key to note that concrete value is about the experience of value, which means it is recognised based on what you can project about the experience of value in the moment and cannot based on abstract conclusions and convictions alone.
+
+**To reiterate the previous tip**: Keep your focus on reality, do not practise self-abnegation but rather engage with your motivations with full awareness and full intent, check your core premises and ultimately let your premises and your focus on reality shape your motivations and thereby fuel and sustain your capacity to pursue a certain potential (be it short-range or long-range).
+
+**To add to the aforementioned tip**: Motivation need not be internalised yet, since we know that not all conclusions and convictions are immediately and automatically internalised; after all, internalisation requires repetition, concretisation and practice. Hence, a motivation may still be only an intellectual recognition of concrete value, but as long as it is of clear concrete value (in your knowledge), it is wise to pursue it, knowing it will result in self-sustaining and goal-driven action, and thus, it will reinforce and potentially expand your willpower, life-affirmation in the moment and hence your sense of self-value, rather than draining them.
+
+Here, the role of willpower is even clearer. Motivation is the fuel that sustains life-affirming action, but willpower is spark that initiates it and the wheel that steers it. Without willpower, motivation cannot be consistently actualised and would often remain mere potential. If motivation for some pursuit is internalised, the need for willpower for initiating that pursuit is reduced, but you still need willpower to stay in focus and guide your pursuit with respect to reality. Hence, motivation and willpower are both necessary, and neither alone is sufficient.
+
+---
+
+**Observations**:
+
+1.<br>
+
+With the approaching deadline for my master's project, I followed my previous tip (the tip before the amendment) and saw its value, since it enabled me to sustain a sense of self-value and value-orientation over time, despite the often gruelling and unrewarding nature of the project work. However, I noticed that, due to the difficulty of the project work, it was hard to internalise the value of pursuing it, compared to, say, pursuing other pleasures in the moment. As a result, the progress was slow and not consistent, even though I often saw the concrete value of pursuing my project work at times, with respect to the clarity, sense of purpose and peace of mind it would give me in the moment. This is not to say that pleasures in the moment should be left aside; on the contrary, I strongly think I should indulge in them sufficiently, both before, during (in breaks) and after my project work for the day. But it would be valuable to actualise my intellectual recognition of the concrete value of project work, even if this recognition has not yet been internalised yet.
+
+2.<br>
+
+At night, I often feel a resistance against showering and going to bed, instead feeling like staying up and indulging in some activity or pleasure in the moment, despite the fact that often, I can recognise the concrete value (in terms of mental relaxation and a greater ability to enjoy in the moment) in at least getting ready for bed. Yet, this recognition has not been internalised yet, I think due to the lack of practice, leading to poor habits that I do not desire to sustain. Here, again, I see the value in simply pushing myself through will toward this concrete value I recognise, knowing that it would serve to affirm and strengthen my value-orientation and willpower rather than drain them.
+
 # Further points on motivation
 1.<br>
 
