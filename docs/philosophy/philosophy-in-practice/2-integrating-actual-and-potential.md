@@ -8,6 +8,7 @@
 
 - [Introduction](#introduction)
 - [The basis of motivation and willpower](#the-basis-of-motivation-and-willpower)
+  - [Amendment to the above tip](#amendment-to-the-above-tip)
 - [Further points on motivation](#further-points-on-motivation)
 - [Key additional points](#key-additional-points)
   - [The hierarchical and contextual organisation of values](#the-hierarchical-and-contextual-organisation-of-values)
@@ -73,10 +74,7 @@ In the face of a deadline that was not too close but important to address (i.e. 
 
 When I strain myself beyond my motivations, I tend to get drained in one or more respects; cognitively, emotionally or physically. Cognitive and physical drain are easier to overcome through rest, but emotional drain indicates a psychological experience of loss in values. Even though the values involved are worth pursuing in the long-run, since the psychological aspect of motivation is what drives you, such a loss in fact drains you (at least temporarily) of the will to pursue your goals further (a good analogy would be the training of muscles). The psychological aspect can be shaped over time but often not immediately, and draining it in the short-run makes losing the context of and thus value for the long-run almost inevitable (e.g. (a) initial and intermediate stages of doing the final assignments of semester 2 in 2024, (b) December-January examination preparation in 2023-2024, wherein I lost the motivation for both job applications and studying, etc.).
 
----
-
-**AMENDMENT TO THE TIP**:
-
+## Amendment to the above tip
 Since the recognition and experience of concrete value is the basis for self-sustaining goal-driven action, it stands to reason that if we intellectually recognise something to be of greater concrete value, pursuing it would result in greater life-affirmation that would be both self-sustaining and the basis for further self-sustaining and goal-driven action. Here, it is key to note that concrete value is about the experience of value, which means it is recognised based on what you can project about the experience of value in the moment and cannot based on abstract conclusions and convictions alone.
 
 **To reiterate the previous tip**: Keep your focus on reality, do not practise self-abnegation but rather engage with your motivations with full awareness and full intent, check your core premises and ultimately let your premises and your focus on reality shape your motivations and thereby fuel and sustain your capacity to pursue a certain potential (be it short-range or long-range).
