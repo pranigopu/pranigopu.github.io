@@ -12,7 +12,7 @@ Ethics is the study of the code of values and principles by which we guide our l
 
 _Link between epistemology and ethics_...
 
-Epistemology gives us the means to seek knowledge. Ethics gives us the means to guide our actions on the basis of knowledge. The link between these sciences is the knowledge of the nature of human (i.e. volitional) consciousness, enabling us to learn the kinds of actions that are right and most effective with respect to our fundamental nature.
+Epistemology gives us the means to seek knowledge. Ethics gives us the means to guide our actions on the basis of knowledge. The link between these sciences is the knowledge of the nature of human (i.e. volitional) consciousness (discussed here: [_Human Consciousness and Free Will_ from **Philosophy**](https://pranigopu.github.io/philosophy/human-consciousness-and-free-will.html)), enabling us to learn the kinds of actions that are right and most effective with respect to our fundamental nature.
 
 ## Reading
 _Fundamentals_...
