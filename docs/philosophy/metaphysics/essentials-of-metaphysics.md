@@ -190,7 +190,7 @@ The concept of causality can be applied to entities as such (rather than just ac
 
 ---
 
-**NOTE 1**: Given that everything that exists is a part of reality that exists in a certain context (i.e. with respect to certain facts), a cause is not merely the actions of a set of entities, but the actions of a set of entities in a certain context (i.e. with respect to certain facts, e.g. conditions, relationships, etc.).
+**NOTE 1**: Given that everything that exists is a part of reality that exists in a certain context (i.e. with respect to certain facts), a cause is not merely the actions of a set of entities, but the actions of a set of entities in a certain context (i.e. with respect to certain facts, e.g. conditions, relationships, etc.). Since causality applies to any part of reality and hence to any context, the actions of a set if entities are or can be conditioned by their context. Likewise, actions in a narrower context are or can be conditioned by a broader context.
 
 **NOTE 2**: The principle of causality is a necessary, inseparable implication of the law of identity; the principle of causality is the law of identity applied to change. To go even further, causality is inherent in the very fact of existence; no part of existence exists nor can exist apart from causality. More precisely, no change or lack of change (i.e. zero difference between the past and the present of an entity) exists apart from causality.
 
