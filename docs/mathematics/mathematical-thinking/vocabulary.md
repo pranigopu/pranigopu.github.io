@@ -66,7 +66,7 @@ The negation of a statement $X$, denoted by $\lnot X$, is a contradiction of $X$
 - If $X$ is true, $\lnot X$ is false
 - If $X$ is false, $\lnot X$ is true
 
-Hence, a negation as defined in logic is a special kind of contradiction; for a statement to be a negation of $X$, it is not sufficient that it merely contradicts $X$, but rather, it must be a statement such that if false, its falsehood is logically contained in the truth of $X$, and if true, its truth is logically contained in the falsehood of $X$. For example, the negation of "I am eating an apple" cannot be "I am eating a banana", since the latter, though contradicting the former, is not a statement whose falsehood is contained in the truth of the former; in other words, the fact that I am not eating an apple does not mean I am eating a banana.
+Hence, a negation as defined in logic is a special kind of contradiction; for a statement to be a negation of $X$, it is not sufficient that it merely contradicts $X$, but rather, it must be a statement such that if false, its falsehood is logically contained in the truth of $X$, and if true, its truth is logically contained in the falsehood of $X$. For example, the negation of "I am eating an apple" cannot be "I am eating a banana", since the latter, though contradicting the former, is not a statement whose truth is contained in the falsehood of the former; in other words, the fact that I am not eating an apple does not mean I am eating a banana.
 
 ---
 
