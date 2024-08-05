@@ -6,6 +6,7 @@ I am Prani Gopu, a.k.a. Pranav Gopalkrishna. I enjoy writing works of various ki
 - [Philosophy](https://pranigopu.github.io/philosophy)
 - [Art](https://pranigopu.github.io/art)
 - [Statistics](https://pranigopu.github.io/statistics)
+- [Mathematics](https://pranigopu.github.io/mathematics)
 - [Quotations](https://pranigopu.github.io/quotations)
 
 ## My other links

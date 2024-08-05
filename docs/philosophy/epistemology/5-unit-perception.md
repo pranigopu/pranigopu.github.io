@@ -17,6 +17,7 @@
   - [Objectivity of essentials and fundamentals](#objectivity-of-essentials-and-fundamentals)
 - [Measurement](#measurement)
   - [Purpose of measurement](#purpose-of-measurement)
+  - [Measurement without defining the standard unit](#measurement-without-defining-the-standard-unit)
   - [Hierarchy of measurements](#hierarchy-of-measurements)
   - [Commensurable attributes as the basis of comparison between entities](#commensurable-attributes-as-the-basis-of-comparison-between-entities)
 
@@ -113,7 +114,8 @@ To measure the length of a stretch of road — length being the occupied one-dim
 
 ## Purpose of measurement
 Since measurement consists of relating easily perceivable or conceivable units to the attributes observed in things, through measurement, we can potentially identify quantities that are not directly perceivable by a human — or even by any conscious being. For example, we may not be able to directly perceive a distance of 1000 kilometres, but we can define it using kilometres, which can be reduced to metres, which are directly perceivable by a human. Thus, we see that the primary purpose of measurement is to expand the range of a human's consciousness beyond the perceptual level.
-Measurement without defining the standard unit
+
+## Measurement without defining the standard unit
 Note that, by the definition of measurement, it is not necessary either to define the unit of measurement or to know the exact numerical relationship between two instances of the same attribute in order to identify differences in measurement. This is because a quantitative relationship is essentially the identification of the perceptual comparison between two instances of the same attribute, which can be achieved through non-numerical unit-perception as well (although through numbers, this perceptual difference can be abstracted and thus extended beyond our usual range of perception and conception; but even so, a quantitative relationship is always reducible to a perceptual comparison). Hence, we can identify different measures of the same attribute, such as different colours, without needing to grasp either the unit of measurement — the wavelength of light, in this case — or the exact numerical relationship between two different colours. In general, if we can identify a set of attributes as instances of a broader attribute, we can identify them as measurements of the same attribute.
 
 ## Hierarchy of measurements
