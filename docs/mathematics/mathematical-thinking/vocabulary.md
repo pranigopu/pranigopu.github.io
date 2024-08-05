@@ -43,8 +43,8 @@ In other words, $X \land Y$ is true iff both $X$ and Y$ are true.
 
 A variety of words can be reduced in logic to a conjunction, such as:
 
-- "but": A conjunction that points to some kind of exception
-- "despite": A conjunction that points to some kind of unmet expectation
+- **"but"**, a conjunction that points to some kind of exception
+- **"despite"**, a conjunction that points to some kind of exceeded/unmet expectation
 
 # Disjunction
 The disjunction of two statements $X, Y$ is to join them using "or" in the inclusive sense and not the exlusive sense. A statement that uses an inclusive "or" to join $X$ and $Y$ allows for either one of $X$ and $Y$ to be true or both to be true, whereas a statement that uses an exclusive "or" to join $X$ and $Y$ allows for one of $X$ and $Y$ to be true but not both; hence an exclusive "or" is an inclusive "or" (as in "one of $X$ and $Y$) along with a conjunction (as in "but not both").
