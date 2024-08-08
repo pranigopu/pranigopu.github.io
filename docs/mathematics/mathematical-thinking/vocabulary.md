@@ -175,16 +175,12 @@ If $\alpha$ is true, then the implication can only be true of $\beta$ is also tr
 | 1 | 0 | 0 |
 | 1 | 0 | 1, if the necessity of $\beta$ given $\alpha$ can be established |
 
----
-
 If $\alpha$ is false, however, then it does not correspond to reality, and thus, its implication can only be as a temporary assumption, i.e. in the form "$\alpha$ is false, but assuming $\alpha$ were true, then $\beta$ would be true", like how we assume a statement to be true in order to disprove it in a proof by contradiction. Evidently, since $\alpha$ is false, its implications need not be true. For example, "$\sqrt{2}$ is rational" implies that $\frac{1}{\sqrt{2}}$ is rational, but both are in fact false. However, the implications of a false $\alpha$ need not be false. For example, let $\alpha$ be the statement $\pi = 3$, and let $\beta$ be the statement $\pi + 1 > 3$. Evidently, while $\alpha$ is false, $\beta$ is true and would be necessarily true assuming $\alpha$ were true. In other words, here, "$\alpha$ implies $\beta$" is a true implication of the false antecedent $\alpha$. Thus, we have the following rows of the truth table:
 
 | $\alpha$ | $\beta$ | $\alpha$ implies $\beta$ |
 | --- | --- | --- |
 | 0 | 0 | 1, if the necessity of $\beta$ given $\alpha$ can be established |
 | 0 | 1 | 1, if the necessity of $\beta$ given $\alpha$ can be established |
-
----
 
 Thus, we see that in every case except where the antecedent is true while the consequent is false, the implication can be true, with its truth depending on whether the necessity of the consequent given the antecedent can be established. Only in the case where the antecedent is true while the consequent is false, we have that no implication is possible, which means an implication in such a case is always false.
 
