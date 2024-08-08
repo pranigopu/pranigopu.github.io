@@ -118,7 +118,7 @@ An implication from statement $\alpha$ to statement $\beta$ means:
 1. If $\alpha$ is true, $\beta$ is true
 2. If $\beta$ is false, $\alpha$ is false
 
-In other words, $\alpha$ implies $\beta$ means:
+In other words, "$\alpha$ implies $\beta$" means:
 
 1. $\alpha$ is a sufficient condition for $\beta$
 2. $\beta$ is a necessary condition for $\alpha$
@@ -177,7 +177,7 @@ If $\alpha$ is true, then the implication can only be true of $\beta$ is also tr
 
 ---
 
-If $\alpha$ is false, however, then it does not correspond to reality, and thus, its implication can only be as a temporary assumption, i.e. in the form "$\alpha$ is false, but assuming $\alpha$ were true, then $\beta$ would be true", like how we assume a statement to be true in order to disprove it in a proof by contradiction. Evidently, since $\alpha$ is false, its implications need not be true. For example, "$\sqrt{2}$ is rational" implies that $\frac{1}{\sqrt{2}}$ is rational, but both are in fact false. However, the implications of a false $\alpha$ need not be false. For example, let $\alpha$ be the statement $\pi = 3$, and let $\beta$ be the statement $\pi + 1 > 3$. Evidently, while $\alpha$ is false, $\beta$ is true and would be necessarily true assuming $\alpha$ were true. In other words, here, $\alpha$ implies $\beta$ is a true implication of the false antecedent $\alpha$. Thus, we have the following rows of the truth table:
+If $\alpha$ is false, however, then it does not correspond to reality, and thus, its implication can only be as a temporary assumption, i.e. in the form "$\alpha$ is false, but assuming $\alpha$ were true, then $\beta$ would be true", like how we assume a statement to be true in order to disprove it in a proof by contradiction. Evidently, since $\alpha$ is false, its implications need not be true. For example, "$\sqrt{2}$ is rational" implies that $\frac{1}{\sqrt{2}}$ is rational, but both are in fact false. However, the implications of a false $\alpha$ need not be false. For example, let $\alpha$ be the statement $\pi = 3$, and let $\beta$ be the statement $\pi + 1 > 3$. Evidently, while $\alpha$ is false, $\beta$ is true and would be necessarily true assuming $\alpha$ were true. In other words, here, "$\alpha$ implies $\beta$" is a true implication of the false antecedent $\alpha$. Thus, we have the following rows of the truth table:
 
 | $\alpha$ | $\beta$ | $\alpha$ implies $\beta$ |
 | --- | --- | --- |
