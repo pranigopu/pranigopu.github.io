@@ -13,7 +13,7 @@
 
 [<< Back to **Mathematical Thinking**](https://pranigopu.github.io/mathematics/mathematical-thinking)
 
-**VOCABULAR\beta**
+**VOCABULARY**
 
 ---
 
@@ -198,6 +198,6 @@ Hence, in essence, the conditional $\alpha \implies \beta$ poses the following q
 
 ---
 
-**SIDE NOTE 1**: Knowledge about the possibility of any relationship between $\alpha$ and $\beta$ could change the truth value of the implication "$\alpha$ implies $\beta$", regardless of the truth value of the conditional $\alpha \implies \beta$. For example, if $\alpha$ is "some birds fly" and $\beta$ is "some humans walk", we know there is no implication between $\alpha$ and $\beta$; hence, "$\alpha$ implies $\beta$" is false even though $\alpha \implies \beta$ is true.
+**SIDE NOTE 1**: Knowledge about the possibility of any relationship between $\alpha$ and $\beta$ could change the truth value of the implication "$\alpha$ implies $\beta$", regardless of the truth value of the conditional $\alpha \implies \beta$. For example, if $\alpha$ is "some birds fly" and $\beta$ is "some humans walk", then, though both $\alpha$ and $\beta$ are true, we know there is no implication between $\alpha$ and $\beta$; thus, "$\alpha$ implies $\beta$" is false even though $\alpha \implies \beta$ is true.
 
 **SIDE NOTE 2**: In mathematical practice, the conditional is used for implication, but formally, it is always a conditional, and the implication can be inferred by the context. For example, when we say $x + 1 < 1 \implies x < 0$, we are in fact using the conditional as an implication, and we even read it out as "implies". Hence, in practice, the formal definition is often more of a technicality than a practical consideration.
