@@ -102,6 +102,12 @@ Hence, a negation as defined in logic is a special kind of contradiction; for a 
 
 ---
 
+Some examples of negation:
+
+- $a \not = b$ means $\lnot (a = b)$
+
+---
+
 **Elaborating on the nature of negation for practical clarity**:
 
 Hence, we can precisely describe negation as follows: a negation of $\alpha$ is the only statement or the only set of statements (ignoring logically [implied](#implication) or [equivalent](#equivalence) statements) that contradicts $\alpha$ or any of its necessary implications (note that contradicting any of $\alpha$'s necessary implications is the same as contradicting $\alpha$; I have given the "necessary implications" part only for practical clarity). For example, let $\alpha$ be the statement "I buy eggs and I come home". What is its negation? Consider: what statement or set of statements contradict $\alpha$ or any of its necessary implications? We have the following:
@@ -112,12 +118,6 @@ Hence, we can precisely describe negation as follows: a negation of $\alpha$ is 
 - Neither of the above contradictions are logically equivalent to each other
 - Hence, neither one by itself is the only statement that contradicts $\alpha$
 - Hence, "I do not buy eggs or I do not come home or both" is the negation of $\alpha$
-
----
-
-Some examples:
-
-- $a \not = b$ means $\lnot (a = b)$
 
 ---
 
