@@ -146,6 +146,8 @@ Three vital facts about any living being is that (1) the time and energy availab
 
 These facts imply that if one aims to live as a volitional being, then one must apply one's time and effort judiciously, which means one must be rigorously rational in one's pursuit of values, never losing sight of the essentials and the relevant facts. Invalid wishfulness degrades and ultimately destroys such a pursuit of values. Furthermore, since invalid wishfulness equates the "valuable" to either the "impossible" or the "ineffective" (in the case of non-values) or the actively "detrimental" (in the case of anti-values), one's pursuit of potential is met with a sense of inefficacy and a reduction, degradation or even destruction of one's concrete experience of values (which is the fuel for one's value-orientation). Hence, invalid wishfulness eventually leads to the loss of self-motivation, the loss of self-value and the loss of value for one's life as a whole.
 
+_Hence, wish only for what is and can be, never for what could have been._
+
 <!--
 Careful to contextualise the following:
 
