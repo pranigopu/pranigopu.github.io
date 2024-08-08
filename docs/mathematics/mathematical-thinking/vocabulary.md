@@ -145,7 +145,7 @@ To be necessitated by $\alpha$ within a given context is to be contained in the 
 
 For example, let $\alpha$ be "pushing the ball on a smooth surface" and let $\beta$ be "the ball rolling". Within a context involving gravity and not involving any interfering forces, $\alpha$ implies $\beta$, due to (1) causality, which states that nothing acts apart from its nature and its context, (2) the direct observation of contact and change, i.e. the direct observation of interaction, and (3) the absence of other factors within the given context.
 
-As another example, let $\alpha$ be the statement $x > 5$ and let $\beta$ be the statement $x^2 > 20$. We see that within the context of real numbers, $\beta$ relates a well-defined function of $\alpha$ to a well-defined quantity, and within this context, the truth of this relationship is an aspect of the truth of $\alpha$, i.e. if $\alpha$ is true, $\beta$ is contained in $\alpha$ as a selective focus of some facts about $\alpha$ (specifically, some facts about the size of its square).
+As another example, let $\alpha$ be the statement $x > 5$ and let $\beta$ be the statement $x^2 > 20$. We see that within the context of real numbers, $\beta$ relates a well-defined function of $\alpha$ to a well-defined quantity, and within this context, the truth of this relationship is an aspect of the truth of $\alpha$, i.e. if $\alpha$ is true, $\beta$ is contained in $\alpha$ as a selective focus of some facts about $\alpha$ (specifically, some facts about the size of the square of $x$).
 
 ## The validity of an implication
 _First, some definitions for convenience_...
