@@ -28,6 +28,10 @@
   - [Analysing implication](#analysing-implication)
   - [The validity of an implication](#the-validity-of-an-implication)
   - [Extending from implication to conditional](#extending-from-implication-to-conditional)
+- [Equivalence](#equivalence)
+  - [Introduction](#introduction-1)
+  - [Alternative formulations of equivalence](#alternative-formulations-of-equivalence)
+  - [Extending from equivalence to biconditional](#extending-from-equivalence-to-biconditional)
 
 ---
 
@@ -201,3 +205,34 @@ Hence, in essence, the conditional $\alpha \implies \beta$ poses the following q
 **SIDE NOTE 1**: Knowledge about the possibility of any relationship between $\alpha$ and $\beta$ could change the truth value of the implication "$\alpha$ implies $\beta$", regardless of the truth value of the conditional $\alpha \implies \beta$. For example, if $\alpha$ is "some birds fly" and $\beta$ is "some humans walk", then, though both $\alpha$ and $\beta$ are true, we know there is no implication between $\alpha$ and $\beta$; thus, "$\alpha$ implies $\beta$" is false even though $\alpha \implies \beta$ is true.
 
 **SIDE NOTE 2**: In mathematical practice, the conditional is used for implication, but formally, it is always a conditional, and the implication can be inferred by the context. For example, when we say $x + 1 < 1 \implies x < 0$, we are in fact using the conditional as an implication, and we even read it out as "implies". Hence, in practice, the formal definition is often more of a technicality than a practical consideration.
+
+# Equivalence
+## Introduction
+In logic, equivalence within a given context between two statements means that, in the given context, the truth value of any one is always the same as the truth value of the other. In other words, two statements are equivalent if (1) imply each other, and thus (2) they are necessary and sufficient conditions for each other. Hence, the equivalence between two statements means that they are both fundamental aspects of the same truth or falsehood. As examples:
+
+- The law of identity is equivalent to the law of non-contradiction
+- Perceiving reality is equivalent to being conscious
+- $-2 < x < 2$ is equivalent to $x^2 < 4$
+- $x \geq 0 \land x \leq 0$ is equivalent to $x = 0$
+
+## Alternative formulations of equivalence
+"$\alpha$ is equivalent to $\beta$" means any and all of the following:
+
+- "$\alpha$ implies $\beta$" $\land$ "$\beta$ implies $\alpha$"
+- $\beta$ is necessary and sufficient for $\alpha$
+- $\alpha$ is necessary and sufficient for $\beta$
+- $\alpha$ and $\beta$ necessarily have the same truth values
+- " If $\alpha$, then $\beta$" $\land$ "If $\beta$, then $\alpha$"
+- $\alpha$ if and only if $\beta$
+
+**NOTE**: "If and only if" is a common phrase for equivalence, and is commonly abbreviated as "iff".
+
+## Extending from equivalence to biconditional
+Just as we extended from implication to conditional (see: ["Extending from implication to conditional"](#extending-from-implication-to-conditional)), we extend from equivalence to biconditional, denoted by $\iff$, for the same reasons. Note that, as with a conditional, we want a biconditional since we want a relationship between two statements such that (1) its truth value is the same as the equivalence between the statements if the equivalence exists, but (2) its truth value is also defined for when there the equivalence does not exist. Now, note that just as an equivalence is a conjunction of two different implications between the same statements, a biconditional is a conjunction of two difference conditionals between the same statements. Hence, $\alpha \iff \beta$ is the same as $(\alpha \implies \beta) \land (\beta \implies \alpha)$. Hence, we can derive the truth table of the biconditional as follows:
+
+| $\alpha$ | $\beta$ | $X = \alpha \implies \beta$ | $Y = \beta \implies \alpha$ | $X \land Y = \alpha \iff \beta$ |
+| --- | --- | --- | --- | --- |
+| 0 | 0 | 1 | 1 | 1 |
+| 0 | 1 | 1 | 0 | 0 |
+| 1 | 0 | 0 | 1 | 0 |
+| 1 | 1 | 1 | 1 | 1 |
