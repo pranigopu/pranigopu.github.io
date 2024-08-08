@@ -115,7 +115,7 @@ Hence, we can precisely describe negation as follows: a negation of $\alpha$ is 
 - "I do not buy eggs"; contradicts $\alpha$'s necessary implication that "I buy eggs"
 - "I do not come home"; contradicts $\alpha$'s necessary implication that " I come home"
 - Both of the above contradict $\alpha$ both separately and together
-- Neither of the above contradictions are logically equivalent to each other
+- Neither of the above contradictions are logically implied or equivalent to each other
 - Hence, neither one by itself is the only statement that contradicts $\alpha$
 - Hence, "I do not buy eggs or I do not come home or both" is the negation of $\alpha$
 
