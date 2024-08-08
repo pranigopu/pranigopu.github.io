@@ -194,7 +194,7 @@ Establishing the sufficiency or necessity between two statements is not always e
 | 1 | 0 | 0 |
 | 1 | 1 | 1 |
 
-Hence, the conditional $\alpha \implies \beta$ can be interpreted as follows: assuming you had no knowledge about the possibility of any relationship between $\alpha$ or $\beta$, and given the truth values of $\alpha$ and $\beta$, can $\alpha$ imply $\beta$? Hence, in defining a conditional, we abstract any knowledge we have have about the possibility of any relationship between $\alpha$ or $\beta$. Why do abstract such knowledge because in formal logic and mathematics, we want the vocabulary to be as abstracted from any given context as possible, so that we can apply the vocabulary both precisely and generally to any context.
+Hence, in essence, the conditional $\alpha \implies \beta$ poses the following question: assuming you had no knowledge about the possibility of any relationship between $\alpha$ or $\beta$, and given the truth values of $\alpha$ and $\beta$, can $\alpha$ imply $\beta$? Hence, in defining a conditional, we abstract any knowledge we have have about the possibility of any relationship between $\alpha$ or $\beta$. Why do abstract such knowledge because in formal logic and mathematics, we want the vocabulary to be as abstracted from any given context as possible, so that we can apply the vocabulary both precisely and generally to any context.
 
 ---
 
