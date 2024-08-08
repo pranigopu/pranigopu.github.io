@@ -54,7 +54,7 @@ A variety of words can be reduced in logic to a conjunction, such as:
 
 ---
 
-**Truth table**:
+**Truth table of conjunction**:
 
 | $\alpha$ | $\beta$ | $\alpha \land \beta$ |
 | --- | --- | --- |
@@ -79,7 +79,7 @@ In other words, $\alpha \lor \beta$ is true iff at least one of $\alpha$ and \be
 
 ---
 
-**Truth table**:
+**Truth table of disjunction**:
 
 | $\alpha$ | $\beta$ | $\alpha \lor \beta$ |
 | --- | --- | --- |
@@ -104,7 +104,7 @@ Some examples:
 
 ---
 
-**Truth table**:
+**Truth table of negation**:
 
 | $\alpha$ | $\lnot \alpha$ |
 | --- | --- |
