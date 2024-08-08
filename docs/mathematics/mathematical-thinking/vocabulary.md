@@ -38,7 +38,7 @@
 Here, we shall see the basic language of mathematical thinking.
 
 # Conjunction
-The conjuction of two statements $\alpha, \beta$ is to join them using "and" in the sense that does not imply order. Hence, we do not use "and" here in any sense that implies order, e.g. we do not use it as used in the statement "I went to the shop and bought some food"; here, the reverse order, i.e. "I bought some food and went to the shop", does not have the same meaning. A conjunction is denoted by $\land$, i.e. $\alpha \land \beta$ means "$\alpha$ and $\beta$" (wherein the order is irrelevant). Since we order is irrelevavnt in a conjunction, we have that $\alpha \land \beta = \beta \land \alpha$, i.e. we have that conjunction is commutative.
+The conjuction of two statements $\alpha, \beta$ is to join them using "and" in the sense that does not imply order. Hence, we do not use "and" here in any sense that implies order, e.g. we do not use it as used in the statement "I went to the shop and bought some food"; here, the reverse order, i.e. "I bought some food and went to the shop", does not have the same meaning. A conjunction is denoted by $\land$, i.e. $\alpha \land \beta$ means "$\alpha$ and $\beta$" (wherein the order is irrelevant). Since we order is irrelevant in a conjunction, we have that $\alpha \land \beta = \beta \land \alpha$, i.e. we have that conjunction is commutative.
 
 ---
 
