@@ -123,7 +123,7 @@ In other words, "$\alpha$ implies $\beta$" means:
 1. $\alpha$ is a sufficient condition for $\beta$
 2. $\beta$ is a necessary condition for $\alpha$
 
-In other words, "$\alpha$ implies $\beta$" means "$\beta$ is necessarily true if $\alpha$" is true.
+In other words, "$\alpha$ implies $\beta$" means "$\beta$ is necessarily true if $\alpha$ is true".
 
 **KEY POINT**: _A necessary condition is not necessarily a sufficient condition. For example, being able to run is a necessary condition for being able to complete a marathon, but it is by no means a sufficient condition for being able to complete a marathon. On the other hand, being able to complete a marathon is a sufficient condition for being able to run, because the ability to run is contained in the ability to complete a marathon._
 
