@@ -102,12 +102,12 @@ Hence, a negation as defined in logic is a special kind of contradiction; for a 
 
 ---
 
-Hence, we can precisely describe negation as follows: a negation of $\alpha$ is the only statement or the only set of statements that contradict $\alpha$ or any of its necessary implications (note that contradicting any of $\alpha$'s necessary implications is the same as contradicting $\alpha$; I have given the "necessary implications" part only for practical clarity). For example, let $\alpha$ be the statement "I buy eggs and I come home". What is its negation? Consider: what statement or set of statements contradict $\alpha$ or any of its necessary implications? We have the following:
+Hence, we can precisely describe negation as follows: a negation of $\alpha$ is the only statement or the only set of statements (ignoring logically implied or equivalent statements) that contradicts $\alpha$ or any of its necessary implications (note that contradicting any of $\alpha$'s necessary implications is the same as contradicting $\alpha$; I have given the "necessary implications" part only for practical clarity). For example, let $\alpha$ be the statement "I buy eggs and I come home". What is its negation? Consider: what statement or set of statements contradict $\alpha$ or any of its necessary implications? We have the following:
 
 - "I do not buy eggs"; contradicts $\alpha$'s necessary implication that "I buy eggs"
 - "I do not come home"; contradicts $\alpha$'s necessary implication that " I come home"
 - Both of the above contradict $\alpha$ both separately and together
-- Neither of the above contradictions contains the other; both are mutually independent
+- Neither of the above contradictions are logically equivalent to each other
 - Hence, neither one by itself is the only statement that contradicts $\alpha$
 - Hence, "I do not buy eggs or I do not come home or both" is the negation of $\alpha$
 
