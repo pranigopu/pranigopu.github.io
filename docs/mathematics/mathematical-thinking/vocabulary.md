@@ -100,6 +100,8 @@ The negation of a statement $\alpha$, denoted by $\lnot \alpha$, is a contradict
 
 Hence, a negation as defined in logic is a special kind of contradiction; for a statement to be a negation of $\alpha$, it is not sufficient that it merely contradicts $\alpha$, but rather, it must be a statement such that if false, its falsehood is logically contained in the truth of $\alpha$, and if true, its truth is logically contained in the falsehood of $\alpha$. For example, the negation of "I am eating an apple" cannot be "I am eating a banana", since the latter, though contradicting the former, is not a statement whose truth is contained in the falsehood of the former; in other words, the fact that I am not eating an apple does not mean I am eating a banana.
 
+---
+
 Hence, we can precisely describe negation as follows: a negation of $\alpha$ is the only statement or the only set of statements that contradict $\alpha$ or any of its necessary implications (note that contradicting any of $\alpha$'s necessary implications is the same as contradicting $\alpha$; I have given the "necessary implications" part only for clarity when applying negations in practice). For example, let $\alpha$ be the statement "I buy eggs and I come home". What is its negation? Consider: what statement or set of statements contradict $\alpha$ or any of its necessary implications? We have the following:
 
 - "I do not buy eggs"; contradicts $\alpha$'s necessary implication that "I buy eggs"
