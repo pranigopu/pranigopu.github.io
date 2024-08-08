@@ -555,7 +555,7 @@ To achieve values in reality, act according to what you know and do not merely w
 ### 1.4.3. Reality as the only basis of expectation
 The right effects require the right causes, and only the right causes lead to the right effects.
 
-**NOTE**: _This is an extension of the principle of causality._
+**NOTE**: _This is an extension of the law of causality._
 
 <u>Expansion</u>:
 

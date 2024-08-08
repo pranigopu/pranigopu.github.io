@@ -72,7 +72,7 @@ A factor is a fact that is a cause for one or more results.
 
 **Fundamental feature**:
 
-A fundamental feature is the feature of an existent X that unites all of X's features in the given context. Hence, the fundamental feature of X in a given context is the fundamental factor in the nature and behaviour of X in the given context (because by the principle of causality, what a thing does is an extension of what it is).
+A fundamental feature is the feature of an existent X that unites all of X's features in the given context. Hence, the fundamental feature of X in a given context is the fundamental factor in the nature and behaviour of X in the given context (because by the law of causality, what a thing does is an extension of what it is).
 
 _Finding the fundamental feature_...
 
@@ -191,7 +191,7 @@ Focus is a self-imposed selectivity in the direction and scope of one's awarenes
 ---
 
 ## Free will is an extension of causality
-In ["The principle of causality" from _Metaphysics_](https://pranigopu.github.io/philosophy/metaphysics/#the-principle-of-causality), the principle of causality is given as follows:
+In ["The law of causality" from _Metaphysics_](https://pranigopu.github.io/philosophy/metaphysics/#the-law-of-causality), the law of causality is given as follows:
 
 _Causality is the law of identity applied to actions, and by extension, events (which are the result of the actions and interactions of two or more entities). An entity's action can exist neither apart from its identity nor in contradiction to its identity, which is to say that an entity can only act according to its identity. By extension, a subset of existence can only change according to the identities of the entities acting and interacting within it._
 
