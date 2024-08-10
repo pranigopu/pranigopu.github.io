@@ -166,7 +166,7 @@ Now, note that to survive, a sensitive being needs to not only tend to its physi
 
 From here, we move into the rational aspect of life, i.e. the sustenance of a volitional existence. By the non-contradictory nature of values, the nutritive and sensitive aspects of life serve to fuel volitional existence, while the rational aspect of life can expand the scope of one's perceptiveness (through abstraction and mental integration) and thereby the scope of one's physical sustenance.
 
-**NOTE**: _"Rational" refers to the capacity for reason rather than the use of reason._
+**NOTE**: _"Rational" here refers to the capacity for reason rather than the use of reason._
 
 As an example, consider the difference in the capacity of an animal and a human to secure a stable supply of food. By recognising the potential of various entities and events in nature (e.g. the tool-related potential of rocks, the potential of a seed to grow into edible crop, etc.), a human can harness nature to achieve a surplus of food, whereas an animal can only act on instincts and range-of-the-moment awareness. Of course, we see empirically that at least some animals can be more capable of surviving in various cases and conditions than humans, but the existence of volition adds a new range of possibilities for seeking means of survival.
 
