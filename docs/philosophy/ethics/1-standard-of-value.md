@@ -154,7 +154,7 @@ As defined previously, life is the self-generated, self-sustaining action of an 
 
 **CLARIFICATION**:
 
-- Self-generated ⇒ Primary cause of interaction is its own action
+- Self-generated ⇒ Primary cause of interaction is its own action, i.e. within a set of constraints that allow for a variety of potentials, the realisation of a particular potential is fundamentally due to the entity's own nature independent (on some level) of its environment
 - Self-sustaining ⇒ Effect of action is the sustenance of the capacity for the action
 
 ---
