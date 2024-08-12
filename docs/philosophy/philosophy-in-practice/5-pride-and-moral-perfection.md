@@ -164,7 +164,9 @@ _Whatever is anti-reason is anti-mind, and thus, anti-life and thereby immoral._
 ## Reality-based standard of perfection
 "_The perfect person does not demand of himself the impossible, but he does demand of himself every ounce of the possible._" <br> — Leonard Peikoff
 
+I would add: every ounce of the possible, with respect to his hierarchy of values.
+
 ## Purpose of moral perfection
 "_Moral perfection is not about genuflecting to some deity or to pursue morality as an end in itself. It's not about keeping a good record in some official bookkeeping. Being perfectly moral is the only path to your values and your happiness._" <br> — Tara Smith
 
-Hence, note that to be morally perfect is not the goal, but rather, it is the means to the goal of living life. Hence, do not obsess with moral perfection as such (as an end in itself), but rather, focus on life and your ability to live it. Moral imperfection is not a reason by itself to give up hope or value for yourself or your life, but rather, it is evidence of some spiritual need or lacking that must be addressed (and it is morally necessary to do so).
+Hence, note that to be morally perfect is not the goal, but rather, it is the means to the goal of living life. Hence, do not obsess with moral perfection as such (as an end in itself), but rather, focus on life and your ability to live it. Moral imperfection is not a reason by itself to give up hope or value for yourself or your life, but rather, it is evidence of some spiritual need or lacking that must be addressed, and it is morally necessary to do so (note that "spiritual" here refers to consciousness and character).
