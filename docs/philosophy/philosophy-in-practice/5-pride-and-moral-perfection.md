@@ -164,7 +164,7 @@ _Whatever is anti-reason is anti-mind, and thus, anti-life and thereby immoral._
 ## Reality-based standard of perfection
 "_The perfect person does not demand of himself the impossible, but he does demand of himself every ounce of the possible._" <br> — Leonard Peikoff
 
-I would add: every ounce of the possible, with respect to his hierarchy of values.
+I would add: every ounce of the possible as per his hierarchy of values.
 
 ## Purpose of moral perfection
 "_Moral perfection is not about genuflecting to some deity or to pursue morality as an end in itself. It's not about keeping a good record in some official bookkeeping. Being perfectly moral is the only path to your values and your happiness._" <br> — Tara Smith
