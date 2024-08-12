@@ -95,7 +95,7 @@ The primary means to realise my potential for life is to internalise the virtues
 
 ---
 
-**NOTE 1**: Self-esteem and pride are based on the volitional aspects of myself, i.e. on my choices and the internalised means and results of making my choices (e.g. my character, my self-earned attributes, including self-earned strengths, skills, abilities, etc.). Also note that self-maintenance and self-advancement of my valuable aspects that were not initially self-earned is also a cause for pride and self-esteem.
+**NOTE 1**: Self-esteem and pride are based on the volitional aspects of myself, i.e. on my choices and the internalised means and results of making my choices (e.g. my character, my self-earned attributes, including self-earned strengths, skills, abilities, etc.). Consequently, self-maintenance and self-advancement of my valuable aspects that were not initially self-earned is also a cause for pride and self-esteem.
 
 **NOTE 2**: One of the basic forms of self-esteem is the recognition of one's own efficacy (cognitive and physical) in reality. Here, it is not the level of efficacy that is morally significant, but rather, the fact that efficacy exists at all, which it does if you are alive and capable of doing at least something for your life.
 
