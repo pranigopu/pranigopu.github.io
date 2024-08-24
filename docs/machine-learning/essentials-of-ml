@@ -13,7 +13,7 @@
 ---
 
 # Introduction
-An essential element of ML is recognising the mapping between observations and actions. ML focuses on three broad kinds of problems based on such mapping: (1) mapping between two variables or sets of variables, (2) mapping a set of things (e.g. entities, events, etc.) to each other or to emergent categories, based on their similarities and differences, and (3) mapping actions to facts that follow (e.g. reactions, responses or effects). Hence, ML is of three broad kinds respectively: (1) supervised learning, (2) unsupervised learning and (3) reinforcement learning.
+An essential element of ML is recognising the mapping between observations and decisions. ML focuses on three broad kinds of problems based on such mapping: (1) mapping between two variables or sets of variables, (2) mapping a set of things (e.g. entities, events, etc.) to each other or to emergent categories, based on their similarities and differences, and (3) mapping actions to facts that follow (e.g. reactions, responses or effects). Hence, ML is of three broad kinds respectively: (1) supervised learning, (2) unsupervised learning and (3) reinforcement learning.
 
 # Supervised learning (SL)
 The goal is to learn the mapping between independent and dependent variables, also called input and output variables respectively (note that ML does not validate the dependence between the variables but takes it for granted). Evidently, the mapping is such that one input value maps to one output value, or one set of inputs values maps to one set of outputs values; hence, the mapping represents a function between inputs and outputs. Examples of such problems are:
