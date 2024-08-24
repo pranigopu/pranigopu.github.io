@@ -1,16 +1,3 @@
-<head>
-  <script>
-    MathJax = {
-      tex: {
-        inlineMath: [['$', '$']]
-      }
-    };
-  </script>
-  <script id="MathJax-script" async
-    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
-  </script>
-</head>
-
 [<< Back to **Machine Learning**](https://pranigopu.github.io/machine-learning)
 
 **ESSENTIALS OF ML**
