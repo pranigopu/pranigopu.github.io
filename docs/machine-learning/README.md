@@ -17,6 +17,7 @@ Machine learning (ML) is the study of automating a system's use of observations 
         - Learning model
         - Objective function
         - How to choose the above
+        - Optimisation using gradient descent
     - Neural network (NN) for SL
         - Theoretical basis
         - Implementation
