@@ -5,6 +5,10 @@ Machine learning (ML) is the study of automating a system's use of observations 
 ## Reading
 - [Essentials of ML](https://pranigopu.github.io/machine-learning/essentials-of-ml.html)
 
+**Supervised learning (SL)**:
+
+- [Regression](https://pranigopu.github.io/machine-learning/regression.html)
+
 ## Conceptual Map
 - Supervised learning (SL)
     - Regression

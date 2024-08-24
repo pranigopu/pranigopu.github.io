@@ -30,7 +30,7 @@ In general, a model us used to estimate the function mapping inputs to outputs, 
 
 **NOTE**:
 
-- Inputs are also called features, attributes, predictors or covariates
+- Inputs are also called features, attributes, predictors or [covariates](https://www.statology.org/covariate/)
 - Outputs are also called response variables or target variables
 - If output is quantitative, problem is of regression
 - If output is categorical, problem is of classification
