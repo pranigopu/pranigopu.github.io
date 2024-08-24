@@ -1,8 +1,29 @@
 # Machine Learning
 ## Introduction
-Machine learning (ML) is the study of automating observation-based improvement of performance in a given task, i.e. it is the study of systems that use observations to improve their performance in a given task. In particular, ML is the set of methods that can automatically detect patters in data, then use the uncovered patterns to predict future data or perform other kinds of decision-making under uncertainty, e.g. planning how to collect more data (Murphy, 2012). Given that inference from observation without rigorous inductive reasoning comes with inherent uncertainty, the theoretical basis of ML is the study of uncertainty, its measurement and (if possible) its minimisation; hence, probability theory is an appropriate theoretical basis for ML.
+Machine learning (ML) is the study of automating a system's use of observations to improve its _ability_ to deal with a given task; hence, note that it is not merely the improvement of the system's performance but its ability to perform, which implies improvement of its _long-range_ performance. Hence, ML is not about adapting to observations in the moment but using observations to make persistent apaptations for the future. This long-range orientation differentiates ML from areas such as interactive agents (which can but do not necessarily involve ML). To elaborate, ML is the study of methods that can automatically detect patterns in data and then use the uncovered patterns to predict future data or perform other kinds of decision-making under uncertainty (which can also be planning how to collect more data) (Murphy, 2012). Given that there is inherent uncertainty in making inferences from observation without rigorous inductive reasoning, the theoretical basis of ML is the study of uncertainty, which involves the measurement and (if possible) minimisation of uncertainty; hence, probability theory is a theoretical basis for ML.
 
 ## Reading
+- [Essentials of ML](https://pranigopu.github.io/machine-learning/essentials-of-ml.html)
+
+## Conceptual Map
+- Supervised learning (SL)
+    - Regression
+    - Classification
+    - Key topics that pervade SL as a whole
+        - Learning model
+        - Objective function
+        - How to choose the above
+    - Neural network (NN) for SL
+        - Theoretical basis
+        - Implementation
+        - Training and training hyperparameters
+        - Pre-training considerations
+- Bayesian inference (BI) <br> ... _related to SL_
+    - Bayesian modelling
+    - Components of BI
+    - Approximate/computational BI
+- Unsupervised learning (UL)
+- Reinforcement learning (RL)
 
 ## Citations
 - Murphy, K. P. (2012). '3. Generative models for discrete data'. _Machine Learning: A Probabilistic Perspective_. London, England: The MIT Press. pp. 65-87.
