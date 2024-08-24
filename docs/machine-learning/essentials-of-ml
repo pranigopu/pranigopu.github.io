@@ -39,7 +39,7 @@ The goal is to learn the mapping between independent and dependent variables, al
 | Email | Spam/Not-Spam Tag |
 | Song | Genre |
 
-In general, a model us used to estimate the function mapping inputs to outputs, i.e. the target function; the choice of model deserves a discussion of its own. Given the model, the target function is estimated by optimising the model's parameters based on some metric of distance between observed and predicted outputs; the choice of metric also deserves a discussion of its own.
+In general, a model us used to estimate the function mapping inputs to outputs, i.e. the target function; the **choice of model** deserves a discussion of its own. Given the model, the target function is estimated by optimising the model's parameters based on some metric of distance between observed and predicted outputs; the **choice of metric** also deserves a discussion of its own.
 
 **NOTE**:
 
@@ -49,6 +49,7 @@ In general, a model us used to estimate the function mapping inputs to outputs, 
 - If output is categorical, problem is of classification
 - If output is nominal, problem is of pattern recognition
 - If output is ordinal, problem is of ordinal regression
+- Metric used to optimise performance is called "objective function"
 
 # Unsupervised learning (UL)
 The goal is to relate data points to each other based on observed similarities and differences. Relationships between data points may be implicit or explicit in the ML's output, i.e. the ML has to make decisions based on the observed similarities and differences, and these decisions would at least presuppose, if not posit, the relationships between the data points. Such problems may be of the following broad kinds, which shall be further explored later:
