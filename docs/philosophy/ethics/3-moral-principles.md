@@ -18,6 +18,7 @@
   - [Morality and practicality](#morality-and-practicality)
   - [Morality is an integrated framework](#morality-is-an-integrated-framework)
   - [Morality must translate to concrete goals](#morality-must-translate-to-concrete-goals)
+  - [Pursuit of the good as moral](#pursuit-of-the-good-as-moral)
 - [Key constraints in moral decision-making](#key-constraints-in-moral-decision-making)
   - [Finite time, energy and resources](#finite-time-energy-and-resources)
   - [Finite capacity for mental integration](#finite-capacity-for-mental-integration)
