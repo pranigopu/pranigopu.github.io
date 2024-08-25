@@ -24,6 +24,7 @@
   - [Step-size for gradient descent](#step-size-for-gradient-descent)
   - [Convergence, divergence and oscillation of the loss function](#convergence-divergence-and-oscillation-of-the-loss-function)
   - [Issues with gradient descent](#issues-with-gradient-descent)
+  - [Training epochs and batch-size](#training-epochs-and-batch-size)
 
 ---
 
@@ -92,4 +93,12 @@ If the gradient descent overshoots the minimum, then gradient descent is so desi
 Evidently, then, if the overshoot is such that the magnitude of the new position's gradient is greater than that of the old position, the "swings" of the gradient descent tend to get ever larger, thus tending diverging to infinity. Lastly, if overshoot is such that the magnitude of the new position's gradient is equal than that of the old position, the "swings" tend to oscillate, thus tending never to converge or diverge.
 
 ## Issues with gradient descent
-In its basic form, gradient descent has the following issues: (1) there is no rigorous way to choose a good learning rate (let alone the optimal learning rate), and (2) even with the optimal learning rate, gradient descent can at most ensure convergence to a local minimum and has no way of ensuring convergence to the absolute minimum. Issue (2) implies that the results of gradient descent can be sensitive to the gradient descent's initial point (i.e. initial value of $W$). Hence, a way to mitigate issue (2) is to re-run gradient descent for many unique re-initialisations of $W$ and then choose the all-time best value of $W$.
+In its basic form, gradient descent has the following issues: (1) there is no rigorous way to choose a good learning rate (let alone the optimal learning rate), and (2) even with the optimal learning rate, gradient descent can at most ensure convergence to a local minimum and has no way of ensuring convergence to the absolute minimum. Issue (2) implies that the results of gradient descent can be sensitive to the gradient descent's initial point (i.e. initial value of $W$). Hence, a way to mitigate issue (2) is to re-run gradient descent for many unique re-initialisations of $W$ and then choose the all-time best value of $W$. However, there are modifications to the basic idea of gradient descent that help mitigate one or more of gradient descent's issues:
+
+- Momemtum-based gradient descent (helps overcome local minima)
+- Adapative gradient descent (adapts learning rate automatically)
+
+## Training epochs and batch-size
+Given a dataset $D = {(x_1, y_1), (x_2, y_2) ... (x_n, y_n)}$ of inputs $x = (x_1, x_2 ... x_n)$ and outputs $y = (y_1, y_2 ... y_n)$, an epoch is the step that consists of updating the learning model's parameter for each input-output pair exactly once; in other words, optimising for an epoch is learning from each data point exactly once. Thus, an epoch is a unit of measurement for the amount of learning updates. The batch-size is the number of data points whose gradients are averaged before updating the learning model's parameter using the average gradient. A batch-size of one means the learning model updates its parameter for each data point separately, whereas a batch-size of $b>1$ means the learning model updates its parameter for $b$ data points together.
+
+Averaging the gradients of a number of data points means that noise or insignificant crests and troughs in the loss function are glossed over, thereby making the gradient descent more stable and less prone to unnecessary or unhelpful updates. However, if the batch-size is too large, then gradient descent is likely to average over gradients of disparate data points such that the contribution of the data points on learning is glossed over, leading to poor (if any) convergence to minimum loss. Hence, smaller batch-sizes can lead to faster but noisier updates, while larger batch sizes provide smoother updates but may slow down convergence. Thus, batch size must be wisely chosen so as to avoid unnecessary updates and, at the same time, consider the contribution of disparate data points on learning. In practice, mini-batch gradient descent is often used, where the batch-size is set to a value larger than one but smaller than the total number of data points; this balances the trade-offs between noisy updates and computational efficiency.
