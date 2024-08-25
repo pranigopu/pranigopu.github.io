@@ -30,15 +30,19 @@
 # Loss function
 **_Also called "cost function"_**
 
-**LEXICAL NOTE: Loss, cost and error**:
+_First, some definitions_...
+
+**Loss, cost and error**:
 
 The terms "loss", "cost" and "error" are closely related, each referring to inaccuracy. However, each term also emphasises a particular aspect of inaccuracy. "Loss" refers to the loss of accuracy (with respect to an ideal model) when using the given model. Also, naturally, "loss" is used to refer to a value returned by a loss function. "Cost" refers to the penalty the model received due to inaccuracy. "Error" refers to inaccuracy in a more direct sense. For the sake of clarity, I shall use the term "inaccuracy", and I shall use "loss", "cost" and "error" where emphasis is needed on a particular aspect of the model's inaccuracy. However, note that the term "error" may be more widely used in other literature.
 
-**LEXICAL NOTE: Absolute and local minimum of a function**:
+**Absolute and local minimum of a function**:
 
 The absolute minimum of a function is its minimum value; the absolute minimum is also called the global minimum. A local minimum of a function $f$ of a variable $x$ is the minimum value of $f$ within some neighbourhood of $x$-values. Note also that $f$ may hit its absolute and/or local minima at more than one $x$-value. Furthermore, note that $f$ may have only one absolute minimum, or it may have one or more local minima but no absolute minimum, or it may have no minima at all. Finally, note that by definition, an absolute minimum is also a local minimum for any neighbourhood of $x$-values.
 
 ---
+
+_Back to the discussion_...
 
 An objective function is a metric that measures the performance of a learning model. A loss function is an objective function that measures the deviation of the learning model's outputs — also called predicted outputs — from the expected outputs; in other words, it measures the level of inaccuracy in the learning model's outputs. Importantly, note that "inaccuracy" does not mean "distance" (although they are synonymous in some contexts). To elaborate, the loss function is a measure of inaccuracy and not necessarily a measure of distance (though it can be in some contexts), since unlike a measure of distance, a loss function may be asymmetric, where the direction of deviation from the expectation is relevant. Furthermore, a symmetric loss function is also not necessarily a measure of distance (though it can be in some contexts), since it may not satisfy the triangle inequality (which must be satisfied by a measure of distance, as shown here: [_Distance Functions, Metrics_ from **mathresearch.utsa.edu**](https://mathresearch.utsa.edu/wiki/index.php?title=Distance_Functions,_Metrics)).
 
@@ -65,7 +69,7 @@ $$
 
 ---
 
-_Back to the main discussion_...
+_Back to the discussion_...
 
 The observed input and output data are constant with respect to the learning model; after all, they are reference points to which the learning model must adapt its parameters. Thus, in the context of optimising a learning model, the observed data is constant and the learning model's parameter is a variable, which means the predicted output, being a function of the learning model's parameter, is also a variable.
 
