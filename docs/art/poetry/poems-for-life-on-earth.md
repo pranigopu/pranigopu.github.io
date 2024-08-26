@@ -1,5 +1,5 @@
 <style>
-  ul.no-bullets {
+  ul {
     list-style-type: none; /* Remove bullets */
     padding: 0;
     margin: 0}
