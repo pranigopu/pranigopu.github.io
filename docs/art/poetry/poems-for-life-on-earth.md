@@ -28,75 +28,75 @@ _A collection of my poems that essentialise my views on key aspects of truth, se
 ## Truth and Pride
 **(4 beats per line; first line starts in the last beat)**
 
-My mis- <br>
--takes shall not shame me, for <br>
-They are steps to the light — the <br>
-Truth, the source of my strength, its pur- <br>
--suit, the source of my pride. I
+- My mis-
+- -takes shall not shame me, for
+- They are steps to the light — the
+- Truth, the source of my strength, its pur-
+- -suit, the source of my pride. I <br>
 
-Relish not in my rightness, but in my <br>
-Hunger for that which is right; <br>
-When my acts nourish me, I’ll know <br>
-Then it’s on my side.
+- Relish not in my rightness, but in my
+- Hunger for that which is right;
+- When my acts nourish me, I’ll know
+- Then it’s on my side.
 
 ## Philosophia
 **(2 beats per line)**
 
-I shall hate the hateful, <br>
-And shall love the good, but <br>
-Always shall be grateful for <br>
-Having understood, for the
-
-Fact that the world is, and that <br>
-I can grasp it all, <br>
-Not to ace a quiz, but to <br>
-Stand proud and tall, to
-
-Look fate in the eye, ac- <br>
--cept what is and can be, <br>
-Never to pray unto the sky; the <br>
-Truth is not my enemy.
+- I shall hate the hateful,
+- And shall love the good, but
+- Always shall be grateful for
+- Having understood, for the
+- 
+- Fact that the world is, and that
+- I can grasp it all,
+- Not to ace a quiz, but to
+- Stand proud and tall, to
+- 
+- Look fate in the eye, ac-
+- -cept what is and can be,
+- Never to pray unto the sky; the
+- Truth is not my enemy.
 
 ## Non-evasion
 **(2 beats per line)**
 
-I fear no glimpse, no <br>
-Thought, no reminder; <br>
-If they bring unease, they'll <br>
-Serve as my pathfinder, my
-
-Map to what I've missed or lost or <br>
-Wrongly put behind me; no <br>
-Ghosts will haunt my closet, no <br>
-Delphic dread shall find me.
-
-I fear no glimpse, no <br>
-Thought, no desire; <br>
-Ghastly or benign, they'll <br>
-Serve to fuel my fire, <br>
-
-The fire kept alive by the <br>
-Breaths of a clear mind; no <br>
-Beast will seize my soul, no <br>
-Shame shall ever bind.
+- I fear no glimpse, no
+- Thought, no reminder;
+- If they bring unease, they'll
+- Serve as my pathfinder, my
+- 
+- Map to what I've missed or lost or
+- Wrongly put behind me; no
+- Ghosts will haunt my closet, no
+- Delphic dread shall find me.
+- 
+- I fear no glimpse, no
+- Thought, no desire;
+- Ghastly or benign, they'll
+- Serve to fuel my fire,
+- 
+- The fire kept alive by the
+- Breaths of a clear mind; no
+- Beast will seize my soul, no
+- Shame shall ever bind.
 
 # On life
 ## Heart of the Heart
 **(2 beats per line; first line starts in the last beat)**
 
-I care <br>
-Not for what one sees in me, I <br>
-Only care to see, <br>
-Not for tales in posterity, I <br>
-Only care to be, to
-
-Be and to breathe, to <br>
-Savour or to weep. My <br>
-Life holds no hero’s arc, for <br>
-It is mine to reap.
-
+- I care
+- Not for what one sees in me, I
+- Only care to see,
+- Not for tales in posterity, I
+- Only care to be, to
+- 
+- Be and to breathe, to
+- Savour or to weep. My
+- Life holds no hero’s arc, for
+- It is mine to reap.
+- 
 ## An Ode to the Fact of Existence
-**(4 beats per line; first line starts in the last beat)**
+**(2 beats per line; first line is empty)**
 
 - ...
     - The pro-
@@ -130,31 +130,31 @@ It is mine to reap.
 ## The Peerless Value
 **(4 beats per line)**
 
-I can be no one else and none can be me; <br>
-All that was and is are open to no plea, no <br>
-Wish, no whim, no whimsical dream, for <br>
-Such dreams are but a dried up stream, tied up <br>
-In the null, in the sheer lifeless beyond, for <br>
-They shun and spurn all of which to be fond. <br>
-What is, is, and what is not, is not; <br>
-Such is all I need, and such is all I’ve got. I'll <br>
-Seek the desirable, the parts I want as mine, but <br>
-All that’s aspirable can never outshine the <br>
-Whole that is me, that I am and could be. No <br>
-Other’s life is mine, nor can be, nor should be.
+- I can be no one else and none can be me;
+- All that was and is are open to no plea, no
+- Wish, no whim, no whimsical dream, for
+- Such dreams are but a dried up stream, tied up
+- In the null, in the sheer lifeless beyond, for
+- They shun and spurn all of which to be fond.
+- What is, is, and what is not, is not;
+- Such is all I need, and such is all I’ve got. I'll
+- Seek the desirable, the parts I want as mine, but
+- All that’s aspirable can never outshine the
+- Whole that is me, that I am and could be. No
+- Other’s life is mine, nor can be, nor should be.
 
 ## Wishes and Dreams
 **(4 beats per line; first line starts in the last beat)**
 
-The <br>
-Things my heart beats for, are <br>
-Of and from this world, this <br>
-One, the one and only, where I <br>
-Stand, not forlornly, but
-
-Glad, in flesh and blood, no <br>
-Phantoms in my veins. But <br>
-If I let them in my skull, my <br>
-Heart would beat for... null.
+- The
+- Things my heart beats for, are
+- Of and from this world, this
+- One, the one and only, where I
+- Stand, not forlornly, but
+- 
+- Glad, in flesh and blood, no
+- Phantoms in my veins. But
+- If I let them in my skull, my
+- Heart would beat for... null.
 
 **NOTE**: _"Null" and "skull" line up rhythmically._
