@@ -16,4 +16,4 @@ I am Prani Gopu, a.k.a. Pranav Gopalkrishna. I enjoy writing works of various ki
 - [My Instagram Profile](https://www.instagram.com/pranigopu)
 - [My YouTube Channel](https://www.youtube.com/channel/UCcDIAVsQ2kmQLy2Dcnyd_ig)
 
-[∎](https://pranigopu.github.io/handbook)
+[*](https://pranigopu.github.io/handbook)
