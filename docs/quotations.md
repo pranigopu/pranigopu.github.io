@@ -72,11 +72,11 @@ Why should I fear death? If I am, death is not. If death is, I am not. Why shoul
 
 ---
 
-**NOTE**: _Death cannot concern the living because they are alive, nor can it concern the dead because they are not._
+**NOTE**: _Death cannot concern the living because they are alive, and it cannot concern the dead because they are not._
 
 ---
 
-To hold that there is a self beyond life is treason to your own self. <br> — ΠΓ, edited from  The Nature of Life, Value & Morality
+To hold that there is a self beyond life is treason to your own self. <br> — ΠΓ, edited from The Nature of Life, Value & Morality
 
 ## On the pursuit of values
 Values can exist only if one acts to concretise them. <br> — ΠΓ, edited from Moral & Practical Efficacy
