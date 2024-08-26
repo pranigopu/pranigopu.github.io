@@ -89,6 +89,8 @@ Hypocrisy destroys efficacy. <br> — PG, edited from The Nature of Life, Value 
 
 To value life, you must value yourself. To value yourself, you must practise pride and achieve self-esteem. To practise pride and achieve self-esteem, you must know what is virtuous, you must do what is virtuous and you must know that what you do is virtuous indeed. A compromise in any part of all this destroys the rest. <br> — PG
 
+God said, "Take what you want and pay for it." <br> — Anonymous
+
 ## On moral perfection
 Moral perfection is not about genuflecting to some deity or to pursue morality as an end in itself. It’s not about keeping a good record in some official bookkeeping. Being perfectly moral is the only path to your values and your happiness. <br> —Tara Smith
 
