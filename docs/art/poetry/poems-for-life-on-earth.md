@@ -32,7 +32,9 @@ _A collection of my poems that essentialise my views on key aspects of truth, se
 - -takes shall not shame me, for
 - They are steps to the light — the
 - Truth, the source of my strength, its pur-
-- -suit, the source of my pride. I <br>
+- -suit, the source of my pride. I
+
+<br>
 
 - Relish not in my rightness, but in my
 - Hunger for that which is right;
@@ -46,12 +48,16 @@ _A collection of my poems that essentialise my views on key aspects of truth, se
 - And shall love the good, but
 - Always shall be grateful for
 - Having understood, for the
-- 
+
+<br>
+
 - Fact that the world is, and that
 - I can grasp it all,
 - Not to ace a quiz, but to
 - Stand proud and tall, to
-- 
+
+<br>
+
 - Look fate in the eye, ac-
 - -cept what is and can be,
 - Never to pray unto the sky; the
@@ -64,17 +70,23 @@ _A collection of my poems that essentialise my views on key aspects of truth, se
 - Thought, no reminder;
 - If they bring unease, they'll
 - Serve as my pathfinder, my
-- 
+
+<br>
+
 - Map to what I've missed or lost or
 - Wrongly put behind me; no
 - Ghosts will haunt my closet, no
 - Delphic dread shall find me.
-- 
+
+<br>
+
 - I fear no glimpse, no
 - Thought, no desire;
 - Ghastly or benign, they'll
 - Serve to fuel my fire,
-- 
+
+<br>
+
 - The fire kept alive by the
 - Breaths of a clear mind; no
 - Beast will seize my soul, no
@@ -89,7 +101,9 @@ _A collection of my poems that essentialise my views on key aspects of truth, se
 - Only care to see,
 - Not for tales in posterity, I
 - Only care to be, to
-- 
+
+<br>
+
 - Be and to breathe, to
 - Savour or to weep. My
 - Life holds no hero’s arc, for
@@ -151,7 +165,9 @@ _A collection of my poems that essentialise my views on key aspects of truth, se
 - Of and from this world, this
 - One, the one and only, where I
 - Stand, not forlornly, but
-- 
+
+<br>
+
 - Glad, in flesh and blood, no
 - Phantoms in my veins. But
 - If I let them in my skull, my
