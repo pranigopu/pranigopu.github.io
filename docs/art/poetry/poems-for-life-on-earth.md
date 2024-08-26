@@ -1,8 +1,5 @@
 <style>
-  ul {
-    list-style-type: none; /* Remove bullets */
-    padding: 0;
-    margin: 0}
+  ul {list-style-type: none; /* Remove bullets */}
 </style>
 
 [<< Back to **Poetry**](https://pranigopu.github.io/art/poetry)
