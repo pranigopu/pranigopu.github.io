@@ -32,9 +32,7 @@ _A collection of my poems that essentialise my views on key aspects of truth, se
 - -takes shall not shame me, for
 - They are steps to the light — the
 - Truth, the source of my strength, its pur-
-- -suit, the source of my pride. I
-
-<br>
+- -suit, the source of my pride. I <br><br>
 
 - Relish not in my rightness, but in my
 - Hunger for that which is right;
@@ -47,16 +45,12 @@ _A collection of my poems that essentialise my views on key aspects of truth, se
 - I shall hate the hateful,
 - And shall love the good, but
 - Always shall be grateful for
-- Having understood, for the
-
-<br>
+- Having understood, for the <br><br>
 
 - Fact that the world is, and that
 - I can grasp it all,
 - Not to ace a quiz, but to
-- Stand proud and tall, to
-
-<br>
+- Stand proud and tall, to <br><br>
 
 - Look fate in the eye, ac-
 - -cept what is and can be,
@@ -69,23 +63,17 @@ _A collection of my poems that essentialise my views on key aspects of truth, se
 - I fear no glimpse, no
 - Thought, no reminder;
 - If they bring unease, they'll
-- Serve as my pathfinder, my
-
-<br>
+- Serve as my pathfinder, my <br><br>
 
 - Map to what I've missed or lost or
 - Wrongly put behind me; no
 - Ghosts will haunt my closet, no
-- Delphic dread shall find me.
-
-<br>
+- Delphic dread shall find me. <br><br>
 
 - I fear no glimpse, no
 - Thought, no desire;
 - Ghastly or benign, they'll
-- Serve to fuel my fire,
-
-<br>
+- Serve to fuel my fire, <br><br>
 
 - The fire kept alive by the
 - Breaths of a clear mind; no
@@ -100,9 +88,7 @@ _A collection of my poems that essentialise my views on key aspects of truth, se
 - Not for what one sees in me, I
 - Only care to see,
 - Not for tales in posterity, I
-- Only care to be, to
-
-<br>
+- Only care to be, to <br><br>
 
 - Be and to breathe, to
 - Savour or to weep. My
@@ -121,7 +107,7 @@ _A collection of my poems that essentialise my views on key aspects of truth, se
 - Feelings are many, in
     - many measures, but for
 - You? Only fire in my
-    - soul. I <br>
+    - soul. I <br><br>
 
 - Strive against plight and de-
     - -light in vigour. I
@@ -130,7 +116,7 @@ _A collection of my poems that essentialise my views on key aspects of truth, se
 - Verdict is stark when
     - held with rigour, and for
 - You? My love is un-
-    - -swerving. <br>
+    - -swerving. <br><br>
 
 - You owe me nothing,
     - nor I you,
@@ -164,9 +150,7 @@ _A collection of my poems that essentialise my views on key aspects of truth, se
 - Things my heart beats for, are
 - Of and from this world, this
 - One, the one and only, where I
-- Stand, not forlornly, but
-
-<br>
+- Stand, not forlornly, but <br><br>
 
 - Glad, in flesh and blood, no
 - Phantoms in my veins. But
