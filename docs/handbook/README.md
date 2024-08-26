@@ -1,6 +1,7 @@
 <style>
     img {width: 100%;}
     a {width: 100%; align: "center";}
+    p {font-size: 18px}
 </style>
 
 [**Truth and Pride**](https://pranigopu.github.io/art/poetry/poems-for-life-on-earth.html)
