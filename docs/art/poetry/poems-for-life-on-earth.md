@@ -1,3 +1,10 @@
+<style>
+  ul.no-bullets {
+    list-style-type: none; /* Remove bullets */
+    padding: 0;
+    margin: 0}
+</style>
+
 [<< Back to **Poetry**](https://pranigopu.github.io/art/poetry)
 
 **POEMS FOR LIFE ON EARTH**
@@ -94,21 +101,34 @@ It is mine to reap.
 ## An Ode to the Fact of Existence
 **(4 beats per line; first line starts in the last beat)**
 
-The pro- <br>
--faned and treasured, the pains and pleasures, <br>
-All parts of the whole. My <br>
-Feelings are many, in many measures, but for <br>
-You? Only fire in my soul. I
+- ...
+    - The pro-
+- -faned and treasured, the
+    - pains and pleasures,
+- All parts of the
+    - whole. My
+- Feelings are many, in
+    - many measures, but for
+- You? Only fire in my
+    - soul. I
 
-Strive against plight and delight in vigour. I <br>
-Curse or bless the deserving. My <br>
-Verdict is stark when held with rigour, and for <br>
-You? My love is unswerving.
+- Strive against plight and de-
+    - -light in vigour. I
+- Curse or bless the de-
+    - -serving. My
+- Verdict is stark when
+    - held with rigour, and for
+- You? My love is un-
+    - -swerving.
 
-You owe me nothing, nor I you, <br>
-All I say is, “Yes, <br>
-Yes, all that’s good and true is <br>
-Twined in your impress.”
+- You owe me nothing,
+    - nor I you,
+- All I say is,
+    - “Yes,
+- Yes, all that’s
+    - good and true is
+- Twined in your im-
+    - -press.”
 
 ## The Peerless Value
 **(4 beats per line)**

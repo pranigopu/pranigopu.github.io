@@ -8,10 +8,12 @@ I am Prani Gopu, a.k.a. Pranav Gopalkrishna. I enjoy writing works of various ki
 - [Statistics](https://pranigopu.github.io/statistics)
 - [Mathematics](https://pranigopu.github.io/mathematics)
 - [Machine Learning](https://pranigopu.github.io/machine-learning)
-- [Quotations](https://pranigopu.github.io/quotations)
+- [Quotations](https://pranigopu.github.io/quotations.html)
 
 ## My other links
 - [My GitHub Profile](https://github.com/pranigopu)
 - [My WordPress Writing Showcase](https://pranigopu.wordpress.com)
 - [My Instagram Profile](https://www.instagram.com/pranigopu)
 - [My YouTube Channel](https://www.youtube.com/channel/UCcDIAVsQ2kmQLy2Dcnyd_ig)
+
+[∎](https://pranigopu.github.io/handbook)
