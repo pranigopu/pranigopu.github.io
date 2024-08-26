@@ -112,6 +112,8 @@ It is mine to reap.
 - You? Only fire in my
     - soul. I
 
+<br>
+
 - Strive against plight and de-
     - -light in vigour. I
 - Curse or bless the de-
@@ -120,6 +122,8 @@ It is mine to reap.
     - held with rigour, and for
 - You? My love is un-
     - -swerving.
+
+<br>
 
 - You owe me nothing,
     - nor I you,
