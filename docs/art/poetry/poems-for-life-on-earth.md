@@ -107,9 +107,7 @@ It is mine to reap.
 - Feelings are many, in
     - many measures, but for
 - You? Only fire in my
-    - soul. I
-
-<br>
+    - soul. I <br>
 
 - Strive against plight and de-
     - -light in vigour. I
@@ -118,9 +116,7 @@ It is mine to reap.
 - Verdict is stark when
     - held with rigour, and for
 - You? My love is un-
-    - -swerving.
-
-<br>
+    - -swerving. <br>
 
 - You owe me nothing,
     - nor I you,
