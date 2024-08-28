@@ -105,7 +105,7 @@ _To reframe the above point in more essential terms_...
 Motivation is based on one’s internalised premises; shaky premises lead to shaky motivations that would be too weak to withstand challenges and adversity beyond a certain point. Hence, certainty is the basis for persevering motivation and thereby confidence, courage and one’s ultimately one’s pursuit of values.
 
 ## The danger of irrational absolutism
-Whatever you profess, if you internalise a notion to the point of it being automatic, you — in practice — accept it as an absolute. Hence, the question is not whether to accept absolute but what absolutes to accept. Note that if what you call “confidence” or “courage” are irrational, i.e. not based on one’s rational judgement of the facts, then they are dangerous to oneself and others in principle, possibly to the point of being suicidal; in such a case, “confidence” is in fact presumptuousness or arrogance, while “courage” is in fact recklessness or foolhardiness.
+Whatever you profess, if you internalise a notion to the point of it being automatic, you — in practice — accept it as an absolute. Hence, the question is not whether to accept absolutes but what absolutes to accept. Note that if what you call “confidence” or “courage” are irrational, i.e. not based on one’s rational judgement of the facts, then they are dangerous to oneself and others in principle, possibly to the point of being suicidal; in such a case, “confidence” is in fact presumptuousness or arrogance, while “courage” is in fact recklessness or foolhardiness.
 
 ---
 
