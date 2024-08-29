@@ -54,7 +54,7 @@ Hence, we see that pride is not just evaluative of our actions and our self but 
 
 **What pride is not**:
 
-- Pride is not obstinacy, i.e refusing to change one's mind or course of action either (1) without good reasons for it, or (2) despite good reasons against it. <br> _Here, pride is not the cause of the issue, but rather, it is the lack of self-honesty and rationality._
+- Pride is not obstinacy, i.e refusing to change one's mind or course of action either (1) without good reasons for it, or (2) despite good reasons against it. <br> _Here, it is not pride that is the issue but rather the lack of self-honesty and rationality._
 - Pride is not derived from others' opinions of us. <br> _To say it is, is second-handed. Such a view of pride does not result in the achievement of self-esteem. This view of pride is not pride, since pride concerns with:_
   - _One's own objective evaluation of oneself._
   - _One's adherence or actively pursued aspiration to one's own moral standards._
