@@ -21,7 +21,7 @@ The medium through which a user communicates with a software application.
 A game that involves the player assuming a fictional role in an in-game story.
 
 ## Roguelike
-An umbrella term that encompasses games that use specific mechanics modeled after _Rogue_, a game which became famous in the 1980s. In essence, a roguelike is a game structured around failing and restarting, in which no two play-throughs are exactly alike due to a design that randomizes various aspects of the experience, according to Greg Kasavin, the creative director of Supergiant Games, the studio behind the award-winning roguelike Hades (Perry, 2023). More precisely, according to the Berlin Interpretation (which is the definition that was settled on by at the 2008 International Roguelike Development Conference), a roguelike must have the following (Lee, 2021):
+An umbrella term that encompasses games that use specific mechanics modeled after _Rogue_, a game which became famous in the 1980s. In essence, a roguelike is a game structured around failing and restarting, in which no two play-throughs are exactly alike due to a design that randomizes various aspects of the experience, according to Greg Kasavin, the creative director of Supergiant Games, the studio behind the award-winning roguelike Hades [(Perry, 2023)](#perry-2023). More precisely, according to the Berlin Interpretation (which is the definition that was settled on by at the 2008 International Roguelike Development Conference), a roguelike must have the following [(Lee, 2021)](#lee-2021):
 
 - Permadeath (i.e. in-game death restarts the whole run)
 - Random environment generation
@@ -35,7 +35,7 @@ An umbrella term that encompasses games that use specific mechanics modeled afte
 
 **NOTE 1**: Random environment generation does not necessarily mean randomised; it can be another form of procedural generation that is practically random for the player. Furthermore, "environment generation" does not necessarily mean that the map of the game is generated anew; the environment also involves encounters, NPC interactions, loot, etc., and if one or more of these are randomised in some way, it still counts as "random environment generation".
 
-**NOTE 2**: Non-modal gameplay is when the rules remain consistent throughout the game, with no separate “modes” for different activities. In other words, all actions and scenes take place in the same UI, which means there are no cutscenes or separate gamemodes; for example, there are no separate UIs for battles and exploration. (Bellow, 2024).
+**NOTE 2**: Non-modal gameplay is when the rules remain consistent throughout the game, with no separate “modes” for different activities. In other words, all actions and scenes take place in the same UI, which means there are no cutscenes or separate gamemodes; for example, there are no separate UIs for battles and exploration. [(Bellow, 2024)](#bellow-2024).
 
 # Occidental Heroes
 _Occidental Heroes_ is a roguelike RPG with exploration, quests and turn-based tactical combat but without non-modal gameplay (i.e. battles, exploration and city/town stops have separate UIs).
