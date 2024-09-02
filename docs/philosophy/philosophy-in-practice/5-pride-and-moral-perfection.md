@@ -54,7 +54,7 @@ Hence, we see that pride is not just evaluative of our actions and our self but 
 
 **What pride is not**:
 
-- Pride is not obstinacy, i.e refusing to change one's mind or course of action either (1) without good reasons for it, or (2) despite good reasons against it. <br> _Here, pride is not the cause of the issue, but rather, it is the lack of self-honesty and rationality._
+- Pride is not obstinacy, i.e refusing to change one's mind or course of action either (1) without good reasons for it, or (2) despite good reasons against it. <br> _Here, it is not pride that is the issue but rather the lack of self-honesty and rationality._
 - Pride is not derived from others' opinions of us. <br> _To say it is, is second-handed. Such a view of pride does not result in the achievement of self-esteem. This view of pride is not pride, since pride concerns with:_
   - _One's own objective evaluation of oneself._
   - _One's adherence or actively pursued aspiration to one's own moral standards._
@@ -104,7 +104,7 @@ Hence, a truly proud person would (among other things):
 - Recognise the primacy of the virtue of pride
 - Recognise that objectivity is essential to pride
 
-**KEY POINT**: _It is invalid to consider pride as something to be "tempered" by humility or objectivity. Setting aside humility (which I regard as a vice), pride is not tempered by objectivity but caused (at least in large part) by it, i.e. a conscientious objective approach to life is one of the pillars of pride itself. Hence, in accepting well-warranted or deserved blows to pride, a proud person is not being humble but as proud has he can be. In fact, if a person tries to cover up such blows or protest against them, then he would truly degrade his pride, because while accepting a blow to your pride involves accepting a reduction in the the feeling of pride, the virtue of pride (which is the fundamental aspect of pride) is intact, whereas rejecting a well-warranted or deserved blow to your feeling of pride involves a reduction in the virtue of pride, i.e. the core of pride itself._
+**KEY POINT**: _It is invalid to consider pride as something to be "tempered" by humility or objectivity. Setting aside humility (which I regard as a vice), pride is not tempered by objectivity but caused (at least in large part) by it, i.e. a conscientiously objective approach to life is one of the pillars of pride itself. Hence, in accepting blows to pride that he knows to be well-warranted or deserved, a proud person is not being humble but as proud as he can be. In fact, if a person tries to cover up such blows or protest against them, then he would truly degrade his pride, because while accepting a blow to your pride involves accepting a reduction in the the feeling of pride, the virtue of pride (which is the fundamental aspect of pride) is intact, whereas rejecting what you know to be a well-warranted or deserved blow to your feeling of pride involves a reduction in the virtue of pride, i.e. the core of pride itself._
 
 ---
 
