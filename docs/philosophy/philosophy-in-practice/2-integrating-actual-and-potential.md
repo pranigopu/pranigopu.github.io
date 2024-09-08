@@ -10,6 +10,7 @@
 - [The basis of motivation and willpower](#the-basis-of-motivation-and-willpower)
   - [Amendment to the above tip](#amendment-to-the-above-tip)
 - [Further points on motivation](#further-points-on-motivation)
+- [Budgeting willpower](#budgeting-willpower)
 - [Key additional points](#key-additional-points)
   - [The hierarchical and contextual organisation of values](#the-hierarchical-and-contextual-organisation-of-values)
   - [Integrating the value of the process with the goal](#integrating-the-value-of-the-process-with-the-goal)
@@ -113,6 +114,23 @@ Motivation has both an intellectual (abstract) and a psychological (concrete) as
 2.<br>
 
 If you lack the motivation or capacity to do something in a given context, then beyond a certain point, you literally — in fact — cannot sustain its pursuit of your own volition in that context. However, this need not incapacitate you; while you may lack the motivation or capacity to do something in the given context, you can shift your focus to improve your ability (e.g. by addressing more basic existential needs, mental or physical) or pursue something else (according to what you judge to be the most important or valuable in a broader context). Note that motivation can persevere in the hardest, most severe of conditions, and it can falter even in relative comfort; in general, it is not primarily a question of "what is going on outside" but "what is going on inside" (although, of course, both questions are important and potentially relevant to each other). Why is the motivation present or absent? Ask to understand its roots: what are its essential causes, what are the relevant factors in dealing with it, etc.? Understanding this is a part of understanding reality objectively so you can deal with it effectively. It is ineffective to try to brute-force your way through your lack of motivation because the facts about your consciousness (e.g. the nature of volition, finiteness of willpower, etc.) and its relationship to reality (e.g. how emotions and motives arise, what is the nature and role of values, how can and must a mind grasp the facts effectively, etc.) will not sustain it.
+
+# Budgeting willpower
+Willpower is the self-driven capacity of the volitional faculty to exert effort in a particular direction of focus, which means willpower is fundamental to the conscious pursuit of values. However, as already discussed, willpower is finite, though renewable. Furthermore, willpower relies on motivation in order to sustain effort in a given direction, which means building motivation builds both the efficiency and the effectiveness of willpower.
+
+Thus, to live to one's fullest potential, it is vital to realise that for any given period of time, there is only a finite amount of willpower that must be budgeted across one or more pursuits (e.g. needs, wants, goals, etc.). Hence, it is vital to be scrupulous not only in the potential value of the pursuit when considered in isolation but also its effect on one's willpower and one's ability to pursue one's values as an integrated whole.
+
+In other words, we have the following: (1) just because there are good reasons to do something does not mean it is worth pursuing in our context, (2) it is important to consider the cost as well as the benefit of doing something, since the value of the pursuit does not rest on the benefit alone, and (3) to take up a pursuit is to not at the same time take up and/or be able to take up one or more other pursuits, and this is part of the cost of the pursuit in question.
+
+---
+
+**Observations**:
+
+Point (3) in the above paragraph is especially poignant to me, beacuse I have observed that a key point of failure in my pursuit of values has often been the failure to effectively allocate my willpower across a variety of pursuits. For example, being convinced of the importance of going to the gym to exercise, I failed to consider the impact of the whole process on my willpower, which in turn affected my ability to pursue other key values, e.g. project work, further studies and job applications. An alternative to going to the gym would be to work out at home, which, while lacking in some of the benefits of going to the gym, was more effective within my context as a method to maintain my fitness due to its lower physical and psychological cost ("psychological cost" implies cost in terms of motivation).
+
+As another example, I observed that when applying for jobs, it was more effective in the long-term to apply for one job per day than it was to apply for a variety of jobs per day; the latter was often tempting in the short-term due to the attractiveness of the jobs and the fear of missing out, but as it turns out, I ended up missing out a lot more in the long-term with latter approach due to the much greater psychological cost, which in turn led me to devalue job applications in favour of more psychologically rewarding pursuits.
+
+It is key to note that psychological cost is a real cost on one's energy and not just "in the mind". In other words, energy of any kind is finite, and the change in the amount of motivation and thus in one's ability to exert willpower is causal and not just a matter of whim. In particular, motivation is based on a variety of factors such as: philosophical convictions, physical and mental energy, efficacy in a pursuit, a sense of efficacy, a grasp of one's potential, etc.
 
 # Key additional points
 ## The hierarchical and contextual organisation of values
