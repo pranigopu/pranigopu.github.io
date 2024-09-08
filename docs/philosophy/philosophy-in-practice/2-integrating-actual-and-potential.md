@@ -130,7 +130,7 @@ Point (3) in the above paragraph is especially poignant to me, beacuse I have ob
 
 As another example, I observed that when applying for jobs, it was more effective in the long-term to apply for one job per day than it was to apply for a variety of jobs per day; the latter was often tempting in the short-term due to the attractiveness of the jobs and the fear of missing out, but as it turns out, I ended up missing out a lot more in the long-term with latter approach due to the much greater psychological cost, which in turn led me to devalue job applications in favour of more psychologically rewarding pursuits.
 
-It is key to note that psychological cost is a real cost on one's energy and not just "in the mind". In other words, energy of any kind is finite, and the change in the amount of motivation and thus in one's ability to exert willpower is causal and not just a matter of whim. In particular, motivation is based on a variety of factors such as: philosophical convictions, physical and mental energy, efficacy in a pursuit, a sense of efficacy, a grasp of one's potential, etc.
+It is key to note that psychological cost is a real cost on one's energy and not just "in the mind". In other words, energy of any kind is finite, and the change in the amount of willpower one can exert is causal and not just a matter of whim. In particular, motivation is based on a variety of factors such as: philosophical convictions, physical and mental energy, efficacy in a pursuit, a sense of efficacy, a grasp of one's potential, etc.
 
 # Key additional points
 ## The hierarchical and contextual organisation of values
