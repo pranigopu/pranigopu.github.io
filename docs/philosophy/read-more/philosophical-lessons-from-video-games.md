@@ -1,4 +1,6 @@
-**WHAT I LEARNED**
+[<< Back to **Read More**](https://pranigopu.github.io/philosophy/read-more)
+
+**PHILOSOPHICAL LESSONS FROM VIDEO GAMES**
 
 ---
 

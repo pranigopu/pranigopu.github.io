@@ -9,7 +9,7 @@ My predominant philosophical inspiration is the philosophy of Ayn Rand (which is
 
 The other philosopher whose works I have studied to some extent is Aristotle. I have only studied his work on logic and definitions (through the lecture series [Introduction to Logic by Leonard Peikoff](https://youtube.com/playlist?list=PLqsoWxJ-qmMtr7i6D_yvSpPC-hTOzdWas&si=5iQLVqffroMAsPRw)) as well as the part of his work called "Categories", which I read first-hand. Whenever I refer to other philosophies or thinkers (apart from Ayn Rand), know that my knowledge of them is not based on first-hand study but either lectures or reading of summaries or second-hand references. I aim to expand my knowledge of other philosophers and thinkers eventually, but for now, such is the case.
 
-## Reading
+## Explore
 - [Introduction to Philosophy](https://pranigopu.github.io/philosophy/intro-to-philosophy.html)
 - [Metaphysics](https://pranigopu.github.io/philosophy/metaphysics)
 - [Human Consciousness and Free Will](https://pranigopu.github.io/philosophy/human-consciousness-and-free-will.html)
@@ -18,3 +18,4 @@ The other philosopher whose works I have studied to some extent is Aristotle. I 
 - [Politics](https://pranigopu.github.io/philosophy/politics)
 - [Philosophy in Practice](https://pranigopu.github.io/philosophy/philosophy-in-practice)
 - [Summary](https://pranigopu.github.io/philosophy/summary)
+- [Read More](https://pranigopu.github.io/philosophy/read-more)

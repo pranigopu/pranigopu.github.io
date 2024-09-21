@@ -16,5 +16,5 @@ In essence, mathematical thinking is to ensure precision and clarity in measurem
 
 **Key reference**: [Introduction to mathematical thinking complete course](https://www.youtube.com/watch?v=LN7cCW1rSsI)
 
-## Reading
+## Explore
 - [Vocabulary](https://pranigopu.github.io/mathematics/mathematical-thinking/vocabulary.html)

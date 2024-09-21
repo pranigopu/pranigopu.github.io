@@ -7,7 +7,7 @@ Logic is the method of non-contradictory identification; in other words, it is t
 - [Introduction to Logic by Leonard Peikoff](https://www.google.com/url?q=https://www.youtube.com/playlist?list%3DPLqsoWxJ-qmMtr7i6D_yvSpPC-hTOzdWas&sa=D&source=editors&ust=1719669354663441&usg=AOvVaw3FJcSXykA2ogsleOpH3Sv-)
 - [Induction in Physics and Philosophy by Leonard Peikoff](https://www.google.com/url?q=https://youtube.com/playlist?list%3DPLqsoWxJ-qmMvgyTXdOjsdszOZ3ppFJAnp%26si%3DCBp8LQ3ca_5p-4q9&sa=D&source=editors&ust=1719669354663941&usg=AOvVaw20S43fBwMi8uA0O0ParHDl)
 
-## Reading
+## Explore
 - [Introduction to Logic](https://pranigopu.github.io/philosophy/epistemology/logic/introduction-to-logic.html)
 - [Deductive Reasoning](https://pranigopu.github.io/philosophy/epistemology/logic/deductive-reasoning.html)
 - [Definition](https://pranigopu.github.io/philosophy/epistemology/logic/definition.html)
