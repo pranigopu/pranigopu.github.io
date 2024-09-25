@@ -18,10 +18,10 @@
 - [Nude Man Beside Lotus Pond by Hongtao Huang](#nude-man-beside-lotus-pond-by-hongtao-huang)
 - [Monna Vanna by Andrea Salaì](#monna-vanna-by-andrea-salaì)
 - [David by Michelangelo](#david-by-michelangelo)
-- [Indian Lady by Vishal Gurjar](#indian-lady-by-vishal-gurjar)
-- [Michelangelo's David by Vicki Pritchard](#michelangelos-david-by-vicki-pritchard)
 - [Venus Anadyomene by Theodore Chasseriau](#venus-anadyomene-by-theodore-chasseriau)
 - [The Shepherd Paris by Jean-Baptiste Frédéric Desmarais](#the-shepherd-paris-by-jean-baptiste-frédéric-desmarais)
+- [Indian Lady by Vishal Gurjar](#indian-lady-by-vishal-gurjar)
+- [Michelangelo's David by Vicki Pritchard](#michelangelos-david-by-vicki-pritchard)
 - [Memories of Olive by Alberto Vargas](#memories-of-olive-by-alberto-vargas)
 - [Self-Made Man](#self-made-man)
 - [Nude on the Beach by John William Godward](#nude-on-the-beach-by-john-william-godward)
@@ -60,16 +60,6 @@
 <img src="https://pranigopu.github.io/art/visual-art/David by Michelangelo.jpg">
 </a>
 
-# Indian Lady by Vishal Gurjar
-<a href="https://pranigopu.github.io/art/visual-art/Indian Lady by Vishal Gurjar.jpg">
-<img src="https://pranigopu.github.io/art/visual-art/Indian Lady by Vishal Gurjar.jpg">
-</a>
-
-# Michelangelo's David by Vicki Pritchard
-<a href="https://pranigopu.github.io/art/visual-art/Michelangelo_s David by Vicki Pritchard.jpg">
-<img src="https://pranigopu.github.io/art/visual-art/Michelangelo_s David by Vicki Pritchard.jpg">
-</a>
-
 # Venus Anadyomene by Theodore Chasseriau
 <a href="https://pranigopu.github.io/art/visual-art/Venus Anadyomene by Theodore Chasseriau.jpg">
 <img src="https://pranigopu.github.io/art/visual-art/Venus Anadyomene by Theodore Chasseriau.jpg">
@@ -78,6 +68,16 @@
 # The Shepherd Paris by Jean-Baptiste Frédéric Desmarais
 <a href="https://pranigopu.github.io/art/visual-art/The Shepherd Paris by Jean-Baptiste Frédéric Desmarais.jpg">
 <img src="https://pranigopu.github.io/art/visual-art/The Shepherd Paris by Jean-Baptiste Frédéric Desmarais.jpg">
+</a>
+
+# Indian Lady by Vishal Gurjar
+<a href="https://pranigopu.github.io/art/visual-art/Indian Lady by Vishal Gurjar.jpg">
+<img src="https://pranigopu.github.io/art/visual-art/Indian Lady by Vishal Gurjar.jpg">
+</a>
+
+# Michelangelo's David by Vicki Pritchard
+<a href="https://pranigopu.github.io/art/visual-art/Michelangelo_s David by Vicki Pritchard.jpg">
+<img src="https://pranigopu.github.io/art/visual-art/Michelangelo_s David by Vicki Pritchard.jpg">
 </a>
 
 # Memories of Olive by Alberto Vargas
