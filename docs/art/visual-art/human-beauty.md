@@ -1,6 +1,7 @@
 <style>
     img {width: 100%;}
     a {width: 100%; align: "center";}
+    table, tr, td {border-collapse: collapse; padding:0; margin:0;}
 </style>
 
 [<< Back to **Visual Art**](https://pranigopu.github.io/art/visual-art)
@@ -14,7 +15,7 @@
 - [Woman Fishing by Vishal Gurjar](#woman-fishing-by-vishal-gurjar)
 - [Detail of Michelangelo's Fresco of Ignudi](#detail-of-michelangelos-fresco-of-ignudi)
 - [The Wave by Guillaume Seignac](#the-wave-by-guillaume-seignac)
-- [Nude Man Beside Lotus Pond on Canvas by Hongtao Huang](#nude-man-beside-lotus-pond-on-canvas-by-hongtao-huang)
+- [Nude Man Beside Lotus Pond by Hongtao Huang](#nude-man-beside-lotus-pond-by-hongtao-huang)
 - [Monna Vanna by Andrea Salaì](#monna-vanna-by-andrea-salaì)
 - [David by Michelangelo](#david-by-michelangelo)
 - [Indian Lady by Vishal Gurjar](#indian-lady-by-vishal-gurjar)
@@ -44,9 +45,9 @@
 <img src="https://pranigopu.github.io/art/visual-art/The Wave by Guillaume Seignac.jpg">
 </a>
 
-# Nude Man Beside Lotus Pond on Canvas by Hongtao Huang
-<a href="https://pranigopu.github.io/art/visual-art/Nude Man Beside Lotus Pond on Canvas by Hongtao Huang.jpg">
-<img src="https://pranigopu.github.io/art/visual-art/Nude Man Beside Lotus Pond on Canvas by Hongtao Huang.jpg">
+# Nude Man Beside Lotus Pond by Hongtao Huang
+<a href="https://pranigopu.github.io/art/visual-art/Nude Man Beside Lotus Pond by Hongtao Huang.jpg">
+<img src="https://pranigopu.github.io/art/visual-art/Nude Man Beside Lotus Pond by Hongtao Huang.jpg">
 </a>
 
 # Monna Vanna by Andrea Salaì

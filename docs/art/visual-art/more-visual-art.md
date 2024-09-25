@@ -1,7 +1,6 @@
 <style>
     img {width: 100%;}
     a {width: 100%; align: "center";}
-    table, tr, td {border-collapse: collapse; padding:0; margin:0;}
 </style>
 
 [<< Back to **Visual Art**](https://pranigopu.github.io/art/visual-art)
