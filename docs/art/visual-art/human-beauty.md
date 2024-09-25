@@ -28,8 +28,8 @@
 
 # Detail of Michelangelo's Fresco of Ignudi
 **_Painted on the ceiling of the Sistine Chapel in Vatican City_**
-<a href="https://pranigopu.github.io/art/visual-art/Detail of Michelangelo's Fresco of Ignudi.jpg">
-<img src="https://pranigopu.github.io/art/visual-art/Detail of Michelangelo's Fresco of Ignudi.jpg">
+<a href="https://pranigopu.github.io/art/visual-art/Detail of Michelangelo_s Fresco of Ignudi.jpg">
+<img src="https://pranigopu.github.io/art/visual-art/Detail of Michelangelo_s Fresco of Ignudi.jpg">
 </a>
 
 # Indian Lady by Vishal Gurjar
