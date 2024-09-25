@@ -19,13 +19,22 @@
 ---
 
 # Clio’s Dream by Codech and Malavia
+
+<table>
+<tr>
+<td>
 <a href="https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia-1.png">
 <img src="https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia-1.png">
 </a>
+</td>
 
+<td>
 <a href="https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia-2.png">
 <img src="https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia-2.png">
 </a>
+</td>
+</tr>
+</table>
 
 # Camina Drummer by NKN (@frecuenciankn on Twitter)
 <a href="https://pranigopu.github.io/art/visual-art/Camina Drummer by NKN (@frecuenciankn on Twitter).png">
