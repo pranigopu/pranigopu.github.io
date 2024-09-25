@@ -3,7 +3,7 @@
     a {width: 100%; align: "center";}
 </style>
 
-[<< Back to **Visual Art**](https://pranigopu.github.io/visual-art)
+[<< Back to **Visual Art**](https://pranigopu.github.io/art/visual-art)
 
 **HUMAN BEAUTY**
 
