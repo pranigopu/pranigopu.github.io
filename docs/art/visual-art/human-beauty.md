@@ -15,7 +15,7 @@
 - [Detail of Michelangelo's Fresco of Ignudi](#detail-of-michelangelos-fresco-of-ignudi)
 - [The Wave by Guillaume Seignac](#the-wave-by-guillaume-seignac)
 - [Nude Man Beside Lotus Pond on Canvas by Hongtao Huang](#nude-man-beside-lotus-pond-on-canvas-by-hongtao-huang)
-- [Venus Anadyomene by Theodore Chasseriau](#venus-anadyomene-by-theodore-chasseriau)
+- [Monna Vanna by Andrea Salaì](#monna-vanna-by-andrea-salaì)
 - [David by Michelangelo](#david-by-michelangelo)
 - [Indian Lady by Vishal Gurjar](#indian-lady-by-vishal-gurjar)
 - [Michelangelo's David by Vicki Pritchard](#michelangelos-david-by-vicki-pritchard)
@@ -23,7 +23,7 @@
 - [The Shepherd Paris by Jean-Baptiste Frédéric Desmarais](#the-shepherd-paris-by-jean-baptiste-frédéric-desmarais)
 - [Memories of Olive by Alberto Vargas](#memories-of-olive-by-alberto-vargas)
 - [Self-Made Man](#self-made-man)
-- [Monna Vanna by Andrea Salaì](#monna-vanna-by-andrea-salaì)
+- [Venus Anadyomene by Theodore Chasseriau](#venus-anadyomene-by-theodore-chasseriau)
 
 ---
 
@@ -48,9 +48,9 @@
 <img src="https://pranigopu.github.io/art/visual-art/Nude Man Beside Lotus Pond on Canvas by Hongtao Huang.jpg">
 </a>
 
-# Venus Anadyomene by Theodore Chasseriau
-<a href="https://pranigopu.github.io/art/visual-art/Venus Anadyomene by Theodore Chasseriau.jpg">
-<img src="https://pranigopu.github.io/art/visual-art/Venus Anadyomene by Theodore Chasseriau.jpg">
+# Monna Vanna by Andrea Salaì
+<a href="https://pranigopu.github.io/art/visual-art/Monna Vanna by Andrea Salaì.jpg">
+<img src="https://pranigopu.github.io/art/visual-art/Monna Vanna by Andrea Salaì.jpg">
 </a>
 
 # David by Michelangelo
@@ -88,7 +88,7 @@
 <img src="https://pranigopu.github.io/art/visual-art/Self-Made Man.jpg">
 </a>
 
-# Monna Vanna by Andrea Salaì
-<a href="https://pranigopu.github.io/art/visual-art/Monna Vanna by Andrea Salaì.jpg">
-<img src="https://pranigopu.github.io/art/visual-art/Monna Vanna by Andrea Salaì.jpg">
+# Venus Anadyomene by Theodore Chasseriau
+<a href="https://pranigopu.github.io/art/visual-art/Venus Anadyomene by Theodore Chasseriau.jpg">
+<img src="https://pranigopu.github.io/art/visual-art/Venus Anadyomene by Theodore Chasseriau.jpg">
 </a>
