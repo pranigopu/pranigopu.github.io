@@ -19,12 +19,12 @@
 - [David by Michelangelo](#david-by-michelangelo)
 - [Indian Lady by Vishal Gurjar](#indian-lady-by-vishal-gurjar)
 - [Michelangelo's David by Vicki Pritchard](#michelangelos-david-by-vicki-pritchard)
-- [Nude on the Beach by John William Godward](#nude-on-the-beach-by-john-william-godward)
+- [Venus Anadyomene by Theodore Chasseriau](#venus-anadyomene-by-theodore-chasseriau)
 - [The Shepherd Paris by Jean-Baptiste Frédéric Desmarais](#the-shepherd-paris-by-jean-baptiste-frédéric-desmarais)
 - [Memories of Olive by Alberto Vargas](#memories-of-olive-by-alberto-vargas)
 - [Self-Made Man](#self-made-man)
+- [Nude on the Beach by John William Godward](#nude-on-the-beach-by-john-william-godward)
 - [Clio’s Dream by Codech and Malavia](#clios-dream-by-codech-and-malavia)
-- [Venus Anadyomene by Theodore Chasseriau](#venus-anadyomene-by-theodore-chasseriau)
 
 ---
 
@@ -69,9 +69,9 @@
 <img src="https://pranigopu.github.io/art/visual-art/Michelangelo_s David by Vicki Pritchard.jpg">
 </a>
 
-# Nude on the Beach by John William Godward
-<a href="https://pranigopu.github.io/art/visual-art/Nude on the Beach by John William Godward.jpg">
-<img src="https://pranigopu.github.io/art/visual-art/Nude on the Beach by John William Godward.jpg">
+# Venus Anadyomene by Theodore Chasseriau
+<a href="https://pranigopu.github.io/art/visual-art/Venus Anadyomene by Theodore Chasseriau.jpg">
+<img src="https://pranigopu.github.io/art/visual-art/Venus Anadyomene by Theodore Chasseriau.jpg">
 </a>
 
 # The Shepherd Paris by Jean-Baptiste Frédéric Desmarais
@@ -87,6 +87,11 @@
 # Self-Made Man
 <a href="https://pranigopu.github.io/art/visual-art/Self-Made Man.jpg">
 <img src="https://pranigopu.github.io/art/visual-art/Self-Made Man.jpg">
+</a>
+
+# Nude on the Beach by John William Godward
+<a href="https://pranigopu.github.io/art/visual-art/Nude on the Beach by John William Godward.jpg">
+<img src="https://pranigopu.github.io/art/visual-art/Nude on the Beach by John William Godward.jpg">
 </a>
 
 # Clio’s Dream by Codech and Malavia
@@ -106,8 +111,3 @@
 </td>
 </tr>
 </table>
-
-# Venus Anadyomene by Theodore Chasseriau
-<a href="https://pranigopu.github.io/art/visual-art/Venus Anadyomene by Theodore Chasseriau.jpg">
-<img src="https://pranigopu.github.io/art/visual-art/Venus Anadyomene by Theodore Chasseriau.jpg">
-</a>
