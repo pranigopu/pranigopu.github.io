@@ -23,6 +23,7 @@
 - [The Shepherd Paris by Jean-Baptiste Frédéric Desmarais](#the-shepherd-paris-by-jean-baptiste-frédéric-desmarais)
 - [Memories of Olive by Alberto Vargas](#memories-of-olive-by-alberto-vargas)
 - [Self-Made Man](#self-made-man)
+- [Clio’s Dream by Codech and Malavia](#clios-dream-by-codech-and-malavia)
 - [Venus Anadyomene by Theodore Chasseriau](#venus-anadyomene-by-theodore-chasseriau)
 
 ---
@@ -87,6 +88,24 @@
 <a href="https://pranigopu.github.io/art/visual-art/Self-Made Man.jpg">
 <img src="https://pranigopu.github.io/art/visual-art/Self-Made Man.jpg">
 </a>
+
+# Clio’s Dream by Codech and Malavia
+
+<table>
+<tr>
+<td>
+<a href="https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia-1.png">
+<img src="https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia-1.png">
+</a>
+</td>
+
+<td>
+<a href="https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia-2.png">
+<img src="https://pranigopu.github.io/art/visual-art/Clio_s Dream by Codech and Malavia-2.png">
+</a>
+</td>
+</tr>
+</table>
 
 # Venus Anadyomene by Theodore Chasseriau
 <a href="https://pranigopu.github.io/art/visual-art/Venus Anadyomene by Theodore Chasseriau.jpg">
