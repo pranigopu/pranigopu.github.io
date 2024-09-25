@@ -5,7 +5,7 @@
 
 [<< Back to **Art**](https://pranigopu.github.io/art)
 
-**VISUAL ART**
+**HUMAN BEAUTY**
 
 ---
 
@@ -20,6 +20,7 @@
 - [Michelangelo's David by Vicki Pritchard](#michelangelos-david-by-vicki-pritchard)
 - [David by Michelangelo](#david-by-michelangelo)
 - [Monna Vanna by Andrea Salaì](#monna-vanna-by-andrea-salaì)
+- [Self-Made Man](#self-made-man)
 
 ---
 
@@ -66,4 +67,9 @@
 # Monna Vanna by Andrea Salaì
 <a href="https://pranigopu.github.io/art/visual-art/Monna Vanna by Andrea Salaì.jpg">
 <img src="https://pranigopu.github.io/art/visual-art/Monna Vanna by Andrea Salaì.jpg">
+</a>
+
+# Self-Made Man
+<a href="https://pranigopu.github.io/art/visual-art/Self-Made Man.jpg">
+<img src="https://pranigopu.github.io/art/visual-art/Self-Made Man.jpg">
 </a>

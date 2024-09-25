@@ -5,7 +5,7 @@
 
 [<< Back to **Visual Art**](https://pranigopu.github.io/art/visual-art)
 
-**EXTRA VISUAL ART**
+**MORE VISUAL ART**
 
 ---
 
@@ -15,7 +15,6 @@
 - [Camina Drummer by NKN (@frecuenciankn on Twitter)](#camina-drummer-by-nkn-frecuenciankn-on-twitter)
 - [The New Colossus](#the-new-colossus)
 - [Suicide of Queen Dido by Claude-Augustin Cayot](#suicide-of-queen-dido-by-claude-augustin-cayot)
-- [Self-Made Man](#self-made-man)
 
 ---
 
@@ -41,9 +40,4 @@
 # Suicide of Queen Dido by Claude-Augustin Cayot
 <a href="https://pranigopu.github.io/art/visual-art/Suicide of Queen Dido by Claude-Augustin Cayot.jpg">
 <img src="https://pranigopu.github.io/art/visual-art/Suicide of Queen Dido by Claude-Augustin Cayot.jpg">
-</a>
-
-# Self-Made Man
-<a href="https://pranigopu.github.io/art/visual-art/Self-Made Man.jpg">
-<img src="https://pranigopu.github.io/art/visual-art/Self-Made Man.jpg">
 </a>

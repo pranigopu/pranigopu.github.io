@@ -7,4 +7,4 @@ None of the presented artworks are mine. I just wanted to gather and present my 
 ## Explore
 - [Top Favourite Visual Art](https://pranigopu.github.io/art/visual-art/top-favourites.html)
 - [Human Beauty](https://pranigopu.github.io/art/visual-art/human-beauty.html)
-- [More Visual Art](https://pranigopu.github.io/art/visual-art/more-art.html)
+- [More Visual Art](https://pranigopu.github.io/art/visual-art/more-visual-art.html)
