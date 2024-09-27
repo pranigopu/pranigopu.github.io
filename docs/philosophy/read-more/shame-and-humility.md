@@ -17,3 +17,10 @@ Humility is the quality of having low self-value, such that the one or more of t
 **NOTE**: _Learning from others is not a matter of humility but of a desire for knowledge, which is an extension of of objectivity and self-interest; after all, it is one's own interest to learn what one can and not limit one's potential for knowledge._
 
 In conclusion, prolonged shame and adopted humility have no place in a rational life. In the place of shame, there must be a committment to morality, and in the place of humility, there must be a committment to objectivity. Speaking of shame, the capacity to feel shame is valuable, but shame on its own is a detriment to oneself. Speaking of humility, the capacity to accept one's faults and errors, to defer to others if necessary and to learn from others is valuable, but must never come at the cost of one's own values and judgement.
+
+---
+
+Related writings:
+
+- [_Sources of Inefficacy_ from **Philosophy in Practice**](https://pranigopu.github.io/philosophy/philosophy-in-practice/3-sources-of-inefficacy.html)
+- [_Pride and Moral Perfection_ from **Philosophy in Practice**](https://pranigopu.github.io/philosophy/philosophy-in-practice/5-pride-and-moral-perfection.html)
