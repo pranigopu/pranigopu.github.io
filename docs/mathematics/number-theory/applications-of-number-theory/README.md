@@ -11,10 +11,6 @@
   </script>
 </head>
 
-<style>
-    img {width: 100%;}
-</style>
-
 [<< Back to **Number Theory**](https://pranigopu.github.io/mathematics/number-theory)
 
 **APPLICATIONS OF NUMBER THEORY**
