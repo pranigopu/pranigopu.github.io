@@ -384,14 +384,14 @@ However, sometimes, the message string is too large. More specifically, using a 
 
 # Barcode scanning
 ## Barcode definition and purpose
-A barcode is the representation of numerals using strictly vertical solid-coloured stripes (usually black) of varying widths and spaces (usually white). A barcode is scanned by shining on the barcode, capturing the reflected light, and replacing the detected stripes and spaces with binary digit signals (generally symbolised as 0 (low/weak signal) and 1 (high/strong signal). The length of a strip or space determines the number of 0s or 1s that the scanner must interpret. Hence, the barcode is read as a binary number by a scanner, after which the binary number can be converted to any other base, such as base 10 (i.e. decimal number).
+A barcode is the representation of numerals using strictly vertical solid-coloured stripes (usually black) of varying widths and spaces (usually white). A barcode is scanned by shining on the barcode, capturing the reflected light, and replacing the detected stripes and spaces with binary digit signals (generally symbolised as 0 (low/weak signal) and 1 (high/strong signal)). The length of a strip or space determines the number of 0s or 1s that the scanner must interpret. Hence, the barcode is read as a binary number by a scanner, after which the binary number can be converted to any other base, such as base 10 (i.e. decimal number).
 
 
 A barcode can contain various useful information in a compact manner. A common usage of barcodes is in identifying retail items. Here, barcodes often encode an item's origin, price, type, and location.
 
 ## Barcode components
 
-![Barcode components](https://github.com/pranigopu/mathematics/blob/main/numberTheory/applicationsOfNumberTheory/barcodeComponents.png)
+<img src="https://github.com/pranigopu/mathematics/blob/main/numberTheory/applicationsOfNumberTheory/barcodeComponents.png">
 
 A quiet zone is blank margin located at both ends of the barcode. The minimum margin space is 2.5 mm. The quiet zone adds a constant reflection at either end of the barcode, allowing the scanner to clearly identify the start and end of a barcode. If the width of a quiet zone is insufficient, barcodes can be hard for a scanner to read. 
 
@@ -503,7 +503,7 @@ $\alpha(c)+k > \alpha($ "z" $)$
 
 Hence, from the encoding implementation for this case i.e. equation $(2)$, we get:
 
-$\alpha(d) = (\alpha(c)+k - \alpha($ "z" $) + \alpha($ "a" $) - 1$
+$\alpha(d) = (\alpha(c)+k) - \alpha($ "z" $) + \alpha($ "a" $) - 1$
 $\implies \alpha(c) = \alpha(d) - \alpha($ "a" $) + 1 - k + \alpha($ "z" $)$
 
 ---
@@ -522,7 +522,7 @@ Hence, $\alpha(d) - k$ needs to satisfy the above condition for the above decodi
 ## Randomised or arbitrary one-to-one coding
 Here, a symbol is mapped to another symbol without using a generalised rule, such that the mapping is one-to-one. Hence, the to code and decode using this method, we need to define and refer to a specified mapping table. However, when it comes to coding a natural language (ex. English), decoding can be done by analysing the frequencies of the symbols in the message. This works, because many languages tend to use certain letters more than others, in general. For example, in English, the most commonly used letter is 'e', followed by 't'. Given below is a relative usage frequency distribution of the occurrence of alphabets in the words listed in the main entries of the Concise Oxford Dictionary  (9th edition, 1995) (_relative frequency of letter means the the proportion of the usage of the letter, rather than the total count_).
 
-![EnglishLetterFrequencies](https://github.com/pranigopu/mathematics/blob/main/numberTheory/applicationsOfNumberTheory/englishLetterFrequencies.png)
+<img src="https://github.com/pranigopu/mathematics/blob/main/numberTheory/applicationsOfNumberTheory/englishLetterFrequencies.png">
 
 Using such information about a language's usage, and knowing the source language of a cipher, an arbitrary one-to-one coding can be cracked relatively easily.
 
