@@ -64,18 +64,18 @@
 ## Theorem 1: Division algorithm
 Given integers $a$ and $b$, there exist unique integers $q$ and $r$ such that:
 
-$a = qb + r$, where $0 \leq r < \midb\mid$
+$a = qb + r$, where $0 \leq r < \mid b \mid $
 
 ## Theorem 2
 For integers $a$, $b$ and $c$, the following hold true:
 
-- $a\mid0$, $1\mida$ and $a\mida$
-- $a\mid1$ iff $a = \plusmn 1$
-- If $a\midb$ and $c\midd$, then $ac\midbd$
-- If $a\midb$ and $b\midc$, then $a\midc$
-- $a\midb$ and $b\mida$ iff $a = \plusmn b$
-- If $a\midb$ and $b \neq 0$, then $\mida\mid \leq \midb\mid$
-- If $a\midb$ and $a\midc$, then $a\mid(bx+cy)$, for any integers $x$ and $y$
+- $a \mid 0$, $1 \mid a$ and $a \mid a$
+- $a \mid 1$ iff $a = \plusmn 1$
+- If $a \mid b$ and $c \mid d$, then $ac \mid bd$
+- If $a \mid b$ and $b \mid c$, then $a \mid c$
+- $a \mid b$ and $b \mid a$ iff $a = \plusmn b$
+- If $a \mid b$ and $b \neq 0$, then $ \mid a \mid \leq \mid b \mid $
+- If $a \mid b$ and $a \mid c$, then $a \mid (bx+cy)$, for any integers $x$ and $y$
 
 # Greatest common divisor (GCD)
 ## Theorem 1
@@ -92,8 +92,8 @@ $T = \set{ax + by : ax + by > 0, x,y \in \mathbb{Z}}$
 By well-ordering property, T must have a minimum element. Hence,
 denote d = min(T). The proof involves two parts:
 
-- Show that $d\mida$ and $d\midb$
-- Show that if $c\mida$ and $c\midb$, $c \leq d$, for any $c$
+- Show that $d \mid a$ and $d \mid b$
+- Show that if $c \mid a$ and $c \mid b$, $c \leq d$, for any $c$
 
 ---
 
@@ -112,21 +112,21 @@ Hence, obtain:
 For $r_1$, expand $d = ax_0 + by_0$, and eventually obtain:
 
 - $r_1 = am + bn$, for some $m,n \in \mathbb{Z}$
-- $r_1 = a\midm\mid + b\midn\mid$
+- $r_1 = a \mid m \mid + b \mid n \mid $
 
-Hence, if $r_1 > 0$, we have that $\midr_1 - r_2\mid \in \mathbb{Z}$.
+Hence, if $r_1 > 0$, we have that $ \mid r_1 - r_2 \mid \in \mathbb{Z}$.
 
-But $r_1 < d \implies r_1 = 0 \implies a = q_1d \implies d\mida$
+But $r_1<d \implies r_1 = 0 \implies a = q_1d \implies d \mid a$
 
-Similarly, show $d\midb$.
+Similarly, show $d \mid b$.
 
 ---
 
-To show the second part, take $c\mida$ and $c\midb$
+To show the second part, take $c \mid a$ and $c \mid b$
 
-$\implies c\midax + by, \forall \text{ } x,y \in \mathbb{Z}$
+$\implies c \mid ax + by, \forall \text{ } x,y \in \mathbb{Z}$
 
-$\implies c\midax_0 + by_0$ i.e. $c\midd$
+$\implies c \mid ax_0 + by_0$ i.e. $c \mid d$
 
 $\implies c \leq d$
 
@@ -140,8 +140,8 @@ $T = \set{ax + by : x,y \in \mathbb{Z}}$ (_set of all integer linear combination
 ## Theorem 3
 Let $a$ and $b$ be two integers, at least one of which is non-zero. A positive integer d is the GCD of $a$ and $b$ iff the following conditions are met:
 
-- $d\mida$ and $d\midb$
-- For any positive integer $c$, $c\mida$ and $c\midb$ $\implies c\midd$
+- $d \mid a$ and $d \mid b$
+- For any positive integer $c$, $c \mid a$ and $c \mid b$ $\implies c \mid d$
 
 ## Euclidean algorithm
 This is an iterative process to obtain the GCD of two integers.
@@ -156,7 +156,7 @@ Given two integers a and b, by division algorithm repeatedly, we obtain the foll
 In simple terms, previous divisor becomes next dividend, previous remainder becomes next divisor. The process will terminate when the remainder in the current step is zero. The last non-zero remainder i.e. the current divisor is the GCD of a and $b$.
 
 ## Theorem 4
-For any integer $k \neq 0$, $\gcd(ka, kb) = \midk\mid \gcd(a, b)$.
+For any integer $k \neq 0$, $\gcd(ka, kb) = \mid k \mid \gcd(a, b)$.
 
 **NOTE**: _Euclidean algorithm is used for the proof._
 
@@ -166,9 +166,9 @@ For $n > 0$, $\gcd(a, a+n) \mid n$
 ## Proof approach
 Let $d = \gcd(a, a+n)$
 
-$d\mida \implies a = pd$
+$d \mid a \implies a = pd$
 
-$d\mida+n \implies a + n = qd \implies a = qd - n$
+$d \mid a+n \implies a + n = qd \implies a = qd - n$
 
 Hence, we get:
 
@@ -183,8 +183,8 @@ Let $d = \gcd(qn+r, n)$.
 
 Hence, we must prove the following two statements
 
-- $d\midr$ and $d\midn$
-- For any $c\midr$ and $c\midn$, $d \leq c$
+- $d \mid r$ and $d \mid n$
+- For any $c \mid r$ and $c \mid n$, $d \leq c$
 
 This will show that $d$ is also the GCD of $r$ and $n$.
 
@@ -195,7 +195,7 @@ This will show that $d$ is also the GCD of $r$ and $n$.
 Let a and b be non-zero integers. Then, $a$ and $b$ are coprime iff there exist some integers $x,y \in \mathbb{Z}$ such that $ax + by = 1$.
 
 ### Proof approach
-Proof of sufficient part uses the facts that, given $d = \gcd(a, b)$, we have that $ax + by = 1$ for some integers $x$ and $y$, and that $d\mida$ and $d\midb \implies d\mid(ax + by)$.
+Proof of sufficient part uses the facts that, given $d = \gcd(a, b)$, we have that $ax + by = 1$ for some integers $x$ and $y$, and that $d \mid a$ and $d \mid b \implies d \mid (ax + by)$.
 
 ## Theorem 2
 If $d = \gcd(a,b)$, then $\frac{a}{d}$ and $\frac{b}{d}$ are coprime i.e. $\gcd(a/d, b/d) = 1$.
@@ -211,23 +211,23 @@ Then, $q_1$ and $q_2$ are relatively prime.
 **NOTE**: _This is because_ $q_1 = \frac{a}{d}$ _and_ $q_2 = \frac{b}{d}$.
 
 ## Theorem 3
-If $a\midc$, $b\midc$, and $\gcd(a, b) = 1$, then $ab\midc$.
+If $a \mid c$, $b \mid c$, and $\gcd(a, b) = 1$, then $ab \mid c$.
 
 ### Proof approach
 Proof uses the facts that:
 
 - $ax + by = 1$ for some integers $x$ and $y$
-- $a\midc \implies c = q_1a$
-- $b\midc \implies c = q_2b$
+- $a \mid c \implies c = q_1a$
+- $b \mid c \implies c = q_2b$
 - $c = c \cdot 1 = c(ax + by) = cax + cby$
 
 The idea is to substitute $c$ with its expressions with respect to $a$ and $b$ such that $ab$ becomes a common factor among the terms whose sum equals $c$.
 
 ## Euclid's lemma
-If $a\midbc$ and $\gcd(a,b) = 1$, then $a\midc$.
+If $a \mid bc$ and $\gcd(a,b) = 1$, then $a \mid c$.
 
 ### Proof approach
-Assume $a$ does not divide $b$. Now, consider $a\midbc$.
+Assume $a$ does not divide $b$. Now, consider $a \mid bc$.
 
 $\implies bc = qa$, for some $q \in \mathbb{Z}$
 
@@ -235,7 +235,7 @@ $\implies q = \frac{bc}{a} \in \mathbb{Z}$
 
 But $a$ does not divide $b$, hence:
 
-$\frac{b}{a} \not \in \mathbb{Z} \implies \frac{c}{a} \not \in \mathbb{Z} \implies a\midc$
+$\frac{b}{a} \not \in \mathbb{Z} \implies \frac{c}{a} \not \in \mathbb{Z} \implies a \mid c$
 
 ## Result
 
@@ -246,7 +246,7 @@ If $\gcd(a,c) = 1$ and $\gcd(b,c) = 1$, then $\gcd(ab,c) = 1$.
 For positive integers $a$ and $b$, $gcd(a,b) lcd(a,b) = ab$.
 
 ## Proof approach
-Let $d = \gcd(a, b)$. Show that $m = \frac{ab}{d}$ is a common multiple of $a$ and $b$. Then, show that for any positive common multiple $c$ of $a$ and $b$, $m \leq c$. To show that $m \leq c$, show that $m\midc$. To show that $m\midc$, show that $\frac{c}{m} = \frac{c}{\frac{ab}{d}} = \frac{cd}{ab}$ is an integer. To do this, use the facts that:
+Let $d = \gcd(a, b)$. Show that $m = \frac{ab}{d}$ is a common multiple of $a$ and $b$. Then, show that for any positive common multiple $c$ of $a$ and $b$, $m \leq c$. To show that $m \leq c$, show that $m \mid c$. To show that $m \mid c$, show that $\frac{c}{m} = \frac{c}{\frac{ab}{d}} = \frac{cd}{ab}$ is an integer. To do this, use the facts that:
 
 - $c = q_1a$ and $c = q_2b$, where $q_1,q_2 \in \mathbb{Z}$
 - $d = ax + by$ for some $x,y \in \mathbb{Z}$
@@ -259,16 +259,16 @@ By definition, if p is a prime number, we have the following:
 - $p$ has exactly two positive factors i.e. $1$ and $p$.
 
 ## Theorem 1
-If $p$ is a prime number and $p\midab$, then either:
+If $p$ is a prime number and $p \mid ab$, then either:
 
-- $p\mida$
-- $p\midb$
-- $p\mida$ and $p\midb$
+- $p \mid a$
+- $p \mid b$
+- $p \mid a$ and $p \mid b$
 
 **NOTE**: _This is a special case of Euclid's lemma._
 
 ### Corollary 1
-If $p$ is a prime and $p \mid a_1a_2 ... a_n$, then $p\mida_i$ for some $i \in \set{1, 2... n}$.
+If $p$ is a prime and $p \mid a_1a_2 ... a_n$, then $p \mid a_i$ for some $i \in \set{1, 2... n}$.
 
 ### Corollary 2
 If $p, q_1, q_2 ... q_n$ are all prime, and $p \mid q_1q_2 ... q_n$, then $p = q_i$ for some $i \in \set{1, 2... n}$
