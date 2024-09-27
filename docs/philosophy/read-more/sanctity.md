@@ -62,9 +62,9 @@ An objective morality as such is absolute, although, like any system of ideas, i
 Evidently, something sacred is that which is the core of morality or a logical extension of this core. Thus, the source of sanctity, objectively, is the standard of value, i.e. one's own life as a volitional being (see: [_The Standard of Value_ from **Ethics**](https://pranigopu.github.io/philosophy/ethics/1-standard-of-value.html)) and all that it implies. Concretely, this translates to the affirmation of life in the moment, which, for a volitional being, needs an orientation not just toward survival  in the moment but toward one's potential for life long-range. Poetically, the following may be said:
 
 Most treasured is the next breath, <br>
-Null without that of now, <br>
-And we the living can avow: <br>
-Never shall we see its death.
+Null without the breath of now. <br>
+Never shall we see its death; <br>
+That, we the living can avow.
 
 In other words, life is sacred not in the sense that death must be feared above all, but in the sense that death means nothing to the living, and what life means for a volitional being is the enjoyment of actual while striving for the potential, no matter when one's life ends. To conclude: I care not about how I die, only about how I live, keeping in mind that my life is finite and of irreplaceable value to me.
 
