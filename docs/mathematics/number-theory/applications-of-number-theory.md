@@ -15,7 +15,7 @@
 
 **APPLICATIONS OF NUMBER THEORY**
 
-**NOTE**: To see the implementations for each topic, see [`implementations`](https://github.com/pranigopu/mathematics/tree/main/numberTheory/applicationsOfNumberTheory/implementations).
+**NOTE**: _To see the implementations for each topic, click_ [_here_](https://github.com/pranigopu/mathematics/tree/main/numberTheory/applicationsOfNumberTheory/implementations).
 
 ---
 
@@ -447,7 +447,7 @@ For our implementation of Caesar cipher in Python, we make the following conside
 Our very first assumption in this implementation is that the message to be coded is in regular English, with special characters or alphabets not being considered as part of the alphabet. Note that Caesar cipher can be designed to suit different languages and use cases.
 
 
-Note that we assume that the offset, which we shall denote as $k$, is such that $k \in \mathbb{Z}_+, k < n$ (assuming we have $n$ possible letters), since due to the circular nature of Caesar cipher, any offset $k \geq n$ can be converted into a functionally identical offset $k \in \mathbb{Z}_+, k < n$ using modulo $n$ i.e. doing $k_{new}=k_{old} \bmod n$.
+Note that we assume that the offset, which we shall denote as $k$, is such that $k \in \mathbb{Z}_+$, $k < n$ (assuming we have $n$ possible letters), since due to the circular nature of Caesar cipher, any offset $k \geq n$ can be converted into a functionally identical offset $k \in \mathbb{Z}_+, k < n$ using modulo $n$ i.e. doing $k_{new}=k_{old} \bmod n$.
 
 
 Note that due to the very definition of Caesar cipher, we map the letters to be coded and decoded to a fixed set of numerical indices (i.e. natural numbers separated by 1). For example, in regular English alphabets, we may give "a" = 1, "b = 2... "z" = 26. The ASCII values of English alphabets also form a mapping between letters and a fixed set of indices, if we consider uppercase and lowercase alphabets separately. The ASCII values of alphabets are what we will be using in our Python implementation. Non-English alphabets will remain untouched in our algorithm.
