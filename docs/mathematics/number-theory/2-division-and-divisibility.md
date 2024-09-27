@@ -55,7 +55,7 @@
     - [Proof approach](#proof-approach-7)
       - [Iteration 1](#iteration-1)
       - [Iteration 2](#iteration-2)
-- [Theorem 3](#theorem-3-2)
+  - [Theorem 3](#theorem-3-2)
 
 ---
 
@@ -311,5 +311,5 @@ Hence, $d_1 = a_2b_2d_2 = a_2(b_2d_2)$, where $b_2d_2 > d_2$. Note that $b_2d_2$
 
 Hence, continue in this manner. Also note that this process must be finite, since $d_k$ will keep reducing for larger $k$ values, and $p_k$ cannot be $1$.
 
-# Theorem 3
+## Theorem 3
 There are infinitely many primes.
