@@ -322,12 +322,12 @@ $m^{\lambda(n)+1} \equiv m \pmod p$ $\dots (5)$
 
 $m^{\lambda(n)+1} \equiv m \pmod q$ $\dots (6)$
 
-$(5), (6) \implies p | (m^{\lambda(n)+1} - m)$ where $q | (m^{\lambda(n)+1} - m) $
+$(5), (6) \implies p \mid (m^{\lambda(n)+1} - m)$ where $q \mid (m^{\lambda(n)+1} - m) $
 
 
 But $p$ and $q$ are distinct primes, hence are coprime to each other:
 
-$\implies pq | (m^{\lambda(n)+1} - m)$
+$\implies pq \mid (m^{\lambda(n)+1} - m)$
 
 $\implies m^{k\lambda(n)+1} \equiv m \pmod {pq}$
 
@@ -346,7 +346,7 @@ Note that (7) $\implies e$ and $d$ are coprime to $\lambda(n)$. Hence, we could 
 ### Obtaining the ciphertext
 The encryption will be based made on $e$, but what should the encryption function be? We will now obtain the required encryption function, based on the established facts. Last subsection, have obtained $e$ and $d$ such that $(m^e)^d \equiv m \pmod n$.
 
-$\implies n | (m^e)^d - m$
+$\implies n \mid (m^e)^d - m$
 
 $\implies (m^e)^d - m = kn, k \in \mathbb{Z}_+$
 
