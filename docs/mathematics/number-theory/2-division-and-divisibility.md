@@ -30,7 +30,7 @@
   - [Euclidean algorithm](#euclidean-algorithm)
   - [Theorem 4](#theorem-4)
   - [Result 1](#result-1)
-  - [Proof approach](#proof-approach-1)
+    - [Proof approach](#proof-approach-1)
   - [Result 2](#result-2)
     - [Proof approach](#proof-approach-2)
 - [Relatively prime numbers](#relatively-prime-numbers)
@@ -163,7 +163,7 @@ For any integer $k \neq 0$, $\gcd(ka, kb) = \mid k \mid \gcd(a, b)$.
 ## Result 1
 For $n > 0$, $\gcd(a, a+n) \mid n$
 
-## Proof approach
+### Proof approach
 Let $d = \gcd(a, a+n)$
 
 $d \mid a \implies a = pd$
