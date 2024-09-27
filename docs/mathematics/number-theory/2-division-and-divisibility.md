@@ -70,10 +70,10 @@ $a = qb + r$, where $0 \leq r < \mid b \mid $
 For integers $a$, $b$ and $c$, the following hold true:
 
 - $a \mid 0$, $1 \mid a$ and $a \mid a$
-- $a \mid 1$ iff $a = \plusmn 1$
+- $a \mid 1$ iff $a = ± 1$
 - If $a \mid b$ and $c \mid d$, then $ac \mid bd$
 - If $a \mid b$ and $b \mid c$, then $a \mid c$
-- $a \mid b$ and $b \mid a$ iff $a = \plusmn b$
+- $a \mid b$ and $b \mid a$ iff $a = ± b$
 - If $a \mid b$ and $b \neq 0$, then $ \mid a \mid \leq \mid b \mid $
 - If $a \mid b$ and $a \mid c$, then $a \mid (bx+cy)$, for any integers $x$ and $y$
 
