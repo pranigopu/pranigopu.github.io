@@ -4,3 +4,4 @@ Mathematics is the science of measurement. Measurement is the basic form of abst
 
 ## Explore
 - [Mathematical Thinking](https://pranigopu.github.io/mathematics/mathematical-thinking)
+- [Number Theory](https://pranigopu.github.io/mathematics/number-theory)
