@@ -284,11 +284,11 @@ Note that $p$ is positive.
 #### Iteration 1
 If $n$ is prime, the proof is complete. Hence, assume $n$ is not prime, which means it has non-trivial factors. Consider the largest possible non-trivial factor of $n$, say $d_1$.
 
-$\therefore n = p_1d$, where $p_1 \in \mathbb{Z}_+$
+$\therefore n = p_1d$, where $p_1 \in \mathbb{Z}^+$
 
 To show must $p_1$ be prime, suppose $p$ is not prime. Then, we can have $p_1 = a_1b_1$, where:
 
-- $a_1,b_1 \in \mathbb{Z}_+$
+- $a_1,b_1 \in \mathbb{Z}^+$
 - $a_1 \neq 1$ and $a_1 \neq p_1$
 - $b_1 \neq 1$ and $b_1 \neq p_1$
 
@@ -297,11 +297,11 @@ Hence, $n = a_1b_1d_1 = a_1(b_1d_1)$, where $b_1d_1 > d_1$. Note that $b_1d_1$ m
 #### Iteration 2
 If $d$ is prime, the proof is complete. Hence, assume $d$ is not prime, which means it has non-trivial factors. Consider the largest possible non-trivial factor of $n$, say $d_2$.
 
-$\therefore d_1 = p_1 d$, where $p_1 \in \mathbb{Z}_+$
+$\therefore d_1 = p_1 d$, where $p_1 \in \mathbb{Z}^+$
 
 To show must $p_2$ be prime, suppose $p$ is not prime. Then, we can have $p_1 = a_2b_2$, where:
 
-- $a_2,b_1 \in \mathbb{Z}_+$
+- $a_2,b_1 \in \mathbb{Z}^+$
 - $a_2 \neq 1$ and $a_2 \neq p_2$
 - $b_2 \neq 1$ and $b_2 \neq p_2$
 
