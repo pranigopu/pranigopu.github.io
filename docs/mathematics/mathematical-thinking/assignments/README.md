@@ -9,3 +9,5 @@ Taken from ["assignments"](https://drive.google.com/drive/folders/1ItYXBOJFwPRkG
 ## Explore
 - [Assignment 1 Questions](https://pranigopu.github.io/mathematics/mathematical-thinking/assignments/assignment-1.pdf)
 - [Assignment 1 Answers](https://pranigopu.github.io/mathematics/mathematical-thinking/assignments/assignment-1.html)
+- [Assignment 2 Questions](https://pranigopu.github.io/mathematics/mathematical-thinking/assignments/assignment-2.pdf)
+- [Assignment 2 Answers](https://pranigopu.github.io/mathematics/mathematical-thinking/assignments/assignment-2.html)
