@@ -11,6 +11,8 @@
   </script>
 </head>
 
+[<< Back to **Assignments**](https://pranigopu.github.io/mathematics/mathematical-thinking/assignments)
+
 **ASSIGNMENT 1**
 
 See questions [here](https://pranigopu.github.io/mathematics/mathematical-thinking/assignments/assignment-1.pdf).
