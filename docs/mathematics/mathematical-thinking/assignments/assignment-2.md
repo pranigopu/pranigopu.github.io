@@ -48,7 +48,8 @@ See questions [here](https://pranigopu.github.io/mathematics/mathematical-thinki
   - [d](#d-2)
   - [e](#e-2)
   - [f](#f)
-  - [](#)
+  - [g](#g)
+  - [h](#h)
 
 ---
 
@@ -274,4 +275,12 @@ $T \land \lnot Y \land D$
 
 $(D \land \lnot Y) \lor (\lnot D \land Y)$
 
-## 
+## g
+"If new trade agreement is signed, Dollar and Yuan can't both remain strong."
+
+$T \implies \lnot (D \land Y)$
+
+## h
+"New trade agreement does not prevent fall in Dollar and Yuan."
+
+$T \not \implies \lnot (D \land Y)$

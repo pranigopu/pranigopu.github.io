@@ -25,6 +25,18 @@ Nature, to be commanded, must be obeyed, for existence is identity, consciousnes
 
 ---
 
+[**Rational Effort**](https://pranigopu.github.io/philosophy/epistemology/rationality-in-practice)
+
+Before further thought, ask: (1) Is there a reason I am putting the effort to think about this, and if so, does that reason imply a finite purpose as opposed to an infinite proliferation of the arbibrary? (2) Is putting the time and effort to think about this taking time and effort away from thinking about something that, in my knowledge, is more relevant and more essential? If the answer to these questions is "yes, yes and no", then and only then, proceed.
+
+---
+
+[**The Pillars of Life**](https://pranigopu.github.io/philosophy/ethics/nature-of-life.html)
+
+[**Moral integrity**](https://pranigopu.github.io/philosophy/ethics/nature-of-value.html), [**productive purpose**](https://pranigopu.github.io/philosophy/ethics/2-values-and-virtues.html) and [**life-affirmation**](https://pranigopu.github.io/philosophy/philosophy-in-practice/6-pursuit-of-happiness.html). Life-affirmation is the concretisation of value, productive purpose is the effort to concretise valuable potential, and moral integrity is the precondition of a productive, life-affirming existence. Their justification lies in the following facts: (1) All values are ultimately of and from concrete and can only exist if one acts to concretise them. (2) A volitional being can only exist as itself if it recognises and stives toward valuable potential. (3) He who does not concern himself with principles is helpless to the broader implications of his decisions, and he who does not concern himself with values is helpless to the broader needs of his life.
+
+---
+
 <a href="https://pranigopu.github.io/art/visual-art/Aristotle by Raphael.jpeg">
 <img src="https://pranigopu.github.io/art/visual-art/Aristotle by Raphael.jpeg">
 </a>
