@@ -172,7 +172,7 @@ Causality is the law of identity applied to actions, and by extension, events (w
 
 Hence, we get the law of causality: actions and events have identities that are metaphysically inseparable from and derived from the identities of the entities that act. Hence, given an entity with a particular identity, its action (in a certain relation to other entities and their actions) can have only a particular corresponding identity and nothing else.
 
-To extend the idea further, note that the identity of the change in any part of reality is inseparable from and derived from the identity of that part of reality. Thus, the law of causality means that given the same set of facts, no other kind of change can happen. In other words, the same entities in the same conditions can act only in a certain way and no other (i.e. their actions can have only a certain identity with respect to their own identities and no other).
+To extend the idea further, note that the identity of the change in any part of reality is inseparable from and derived from the identity of that part of reality. Thus, the law of causality means that given the same set of facts, no other change or kind of change can happen. In other words, the same entities in the same conditions can act only in a certain way and no other (i.e. their actions can have only a certain identity with respect to their own identities and no other).
 
 _The interactive nature of causality_...
 
