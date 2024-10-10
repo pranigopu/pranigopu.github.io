@@ -118,7 +118,7 @@ Existence exists and I am aware of it. In other words, there exists a faculty of
 Consciousness is necessarily the consciousness of something. To say that consciousness need not be conscious of anything is to say that consciousness can be aware of absolutely nothing while still being "conscious". This destroys the very meaning of consciousness, because it makes no distinction between the conscious, the unconscious, and the non-conscious. If this leads you to conclude that there is no consciousness, then you are contradicting the irreducible fact of your own existence. How are you identifying "consciousness" when there is no such thing? How are you identifying "unconsciousness" without being aware of anything, i.e. without having the capacity to identify anything?
 
 # Axiom 2: The law of identity
-A thing is what it is, and this is the law of identity. If a thing is not what it is, it would both exist and not exist at the same time. But what is, is and what is not, is not. Moreover, as a part of existence, it must only exist. Hence, the law of identity is absolute.
+A thing is what it is, and this is the law of identity. If a thing is not what it is, it would both exist (i.e. be itself) and not exist (i.e. not be itself) at the same time. But what is, is and what is not, is not. Moreover, as a part of existence, it must only exist. Hence, the law of identity is absolute.
 
 ---
 
