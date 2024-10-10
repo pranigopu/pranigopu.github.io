@@ -90,6 +90,12 @@ As previously said, to affirm is to affirm that "what is, is", and to accept tha
 
 **NOTE**: _Existence can never be truly denied, since even to deny, you must stay in existence, and beyond existence, no capacity for denial exists._
 
+---
+
+Indeed, one must hold as inescapable and sacrosanct that what is, is, and what is not, is not. Is the contradiction of this principle is possible? To say something is possible is to say that it has some basis in reality, i.e. on something that exists. On what basis could one say that it is possible for a thing to be itself and not itself, to exist (i.e. be real) and not exist (i.e. be unreal) at the same time? Certainly, the unreal has no basis in reality, and the non-existent has no place in existence. Then, on what basis can one deny that what is, is, and what is not, is not? None whatsover in reality.
+
+---
+
 # Axiom 1: Existence exists
 Existence exists. More precisely, only existence exists, and existence only exists. (1) If not only existence exists, then something outside existence exists. But this must be a part of existence. Therefore, only existence exists. (2) If existence does not only exist, then existence also does not exist. But then, there would be nothing. Now, note that "nothing" is merely that which does not exist, i.e. that which is not. But what is, is, and what is not, is not. Hence, there cannot "be" nothing, since to be is to be something that exists. Therefore, existence only exists.
 
