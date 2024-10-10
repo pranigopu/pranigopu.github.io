@@ -25,6 +25,12 @@ Nature, to be commanded, must be obeyed, for existence is identity, consciousnes
 
 ---
 
+[**The Deepest Truth**](https://pranigopu.github.io/philosophy/metaphysics/essentials-of-metaphysics.html)
+
+One must hold as inescapable and sacrosanct that what is, is, and what is not, is not. Is the contradiction of this principle is possible? To say something is possible is to say that it has some basis in reality, i.e. on something that exists. On what basis could one say that it is possible for a thing to be itself and not itself, to exist (i.e. be real) and not exist (i.e. be unreal) at the same time? Certainly, the unreal has no basis in reality, and the non-existent has no place in existence. Then, on what basis can one deny that what is, is, and what is not, is not? None whatsover in reality.
+
+---
+
 [**Rational Effort**](https://pranigopu.github.io/philosophy/epistemology/rationality-in-practice)
 
 Before further thought, ask: (1) Is there a reason I am putting the effort to think about this, and if so, does that reason imply a finite purpose as opposed to an infinite proliferation of the arbibrary? (2) Is putting the time and effort to think about this taking time and effort away from thinking about something that, in my knowledge, is more relevant and more essential? If the answer to these questions is "yes, yes and no", then and only then, proceed.
