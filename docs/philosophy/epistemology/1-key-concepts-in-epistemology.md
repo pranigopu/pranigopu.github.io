@@ -36,7 +36,7 @@ The faculty of active awareness, i.e. the faculty of perceiving that which exist
 
 # Basic concepts in cognition
 ## Irreducible
-If a thing X is irreducible in terms of another thing Y, then X does not contain or cannot be broken down to Y. X and Y here can be similar or the same thing, ex. the same concept, category, etc. For example, if an idea is irreducible in terms of ideas, it means the idea cannot be broken into further ideas, i.e. it is a basis of ideas. In general, when I say X is irreducible, I only mean irreducible in terms of the genus that X falls under.
+If a thing X is irreducible in terms of another thing Y, then X does not contain or cannot be broken down to Y. X and Y here can be similar or the same thing, e.g. the same concept, category, etc. For example, if an idea is irreducible in terms of ideas, it means the idea cannot be broken into further ideas, i.e. it is a basis of ideas. In general, when I say X is irreducible, I only mean irreducible in terms of the genus that X falls under.
 
 ## Conscious unit
 Any part of active consciousness, such as a sensation, perception, concept, thought, emotion, etc.
@@ -48,7 +48,7 @@ A conscious unit that pertains to cognition, i.e. to knowledge and knowledge-for
 Abstraction is a process that involves a selective mental focus that mentally separates and isolates a certain aspect of reality from the rest of reality.  For example, identifying an entity involves abstracting it from its surroundings. Similarly, identifying a certain type of entity involves abstracting the shared characteristics of a set of entities while omitting the differences between them, implying that the differences do exist but may exist in any form. If X is abstract, then it is a result of abstraction. Note that abstract does not mean "not real"; if done with respect to our grasp of reality, an abstraction is an identified part of reality.
 
 ## Concreteness
-Concreteness is the measure of how close a conscious unit (ex. a concept, thought, assumption, belief, etc.) is to perceptual reality, i.e. to the level of direct observation. If something is concrete, then it is directly observable. If X is more concrete than Y, then the levels of abstraction in X are lesser than they are in Y. Hence, note that something being concrete on one level does not imply that it is not abstract on another level. Note that here, the terms "more concrete" and "more abstract" are both relative measures of the level of abstraction.
+Concreteness is the measure of how close a conscious unit (e.g. a concept, thought, assumption, belief, etc.) is to perceptual reality, i.e. to the level of direct observation. If something is concrete, then it is directly observable. If X is more concrete than Y, then the levels of abstraction in X are lesser than they are in Y. Hence, note that something being concrete on one level does not imply that it is not abstract on another level. Note that here, the terms "more concrete" and "more abstract" are both relative measures of the level of abstraction.
 
 ## Integration and differentiation
 ### Integration
@@ -66,7 +66,7 @@ Integration and differentiation are not two isolated processes, but work with re
 
 **Entity (as defined in metaphysics)**:
 
-An entity is a subset of existence whose identity is independent of one’s consciousness; it is a concrete, or a concrete referent of an abstraction. It can be composed of one or more entities—components—each with its own identity, or it can be irreducible, but it exists and is what it is independent of consciousness. Note that an entity can be a specific arrangement (i.e. interconnections) of other entities (all entities are either irreducible entities or arrangements of irreducible entities) to which different non-identifying facts may apply at different times (ex. position, movement, change in shape — given that the arrangement is not tied to the shape).
+An entity is a subset of existence whose identity is independent of one’s consciousness; it is a concrete, or a concrete referent of an abstraction. It can be composed of one or more entities—components—each with its own identity, or it can be irreducible, but it exists and is what it is independent of consciousness. Note that an entity can be a specific arrangement (i.e. interconnections) of other entities (all entities are either irreducible entities or arrangements of irreducible entities) to which different non-identifying facts may apply at different times (e.g. position, movement, change in shape — given that the arrangement is not tied to the shape).
 
 **NOTE**: _Given the above concept of entity, facts are thus facts of entities (i.e. facts metaphysically inseparable from and derived from entities) ultimately (i.e. maybe indirectly, but certainly)._
 
