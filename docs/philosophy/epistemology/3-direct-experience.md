@@ -64,7 +64,7 @@ _First, a definition_...
 
 **Sense-perception**:
 
-The irreducible form of direct experience (irreducible in terms of other experiences or conscious units) drawn from the senses.
+The irreducible form of direct experience (irreducible in terms of other experiences or conscious units) drawn from the senses. A sense is a point of direct contact between reality and consciousness (direct contact means contact unmediated by one's consciousness; such a contact has to exist because consciousness has a starting point).
 
 ---
 
@@ -87,7 +87,7 @@ Note that the concept of "sense" refers to any means of a consciousness of acqui
 
 Note that we can extend the range of our senses by observing the direct or indirect effects derived from our object of study on something that we can observe. For examples: (1) Chemicals can be detected by their reaction with other known chemicals. For instance, invisible oxygen gas may be detected by visible oxidation of metals. (2) A microscope uses lens to refract light in a way that enables us to detect the miniscule quantity of light reflected from miniscule things. (3) Radio waves are detected using the oscillating currents produced in the receiving antenna struck by the radio waves. These currents are in turn detected by the receiver that converts it into a form of information we can directly observe.
 
-What about "extrasensory" entities? Let us say an entity X is extrasensory, i.e. it cannot be detected with any kind of senses whatsoever. Hence, it does not interact with any entity that we can interact with. If we do learn about it, then this notion is contradicted and X would not be, in fact, extrasensory. If we do not learn about it, then what are we referring to? Hence, to make any claims about such an entity is to make claims about nothing, in essence.
+What about "extrasensory" entities? Let us say an entity X is extrasensory, i.e. it cannot be detected with any kind of senses whatsoever. Hence, it does not interact with any entity that we can interact with. If we do learn about it, then this notion is contradicted and X would not be, in fact, extrasensory. If we do not learn about it, then what are we referring to? Hence, to make any claims about such an entity is to make claims about nothing, in essence. Furthermore, if an entity is truly extrasensory, then it does not and cannot interact with any entities we can interact with, which means it is absolutely irrelevant to us both practically and cognitively.
 
 # Validating perception
 
