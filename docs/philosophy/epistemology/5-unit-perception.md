@@ -67,11 +67,11 @@ If X is necessary, it means not-X contradicts reality. If X is necessary for Y, 
 
 **Essential**:
 
-That which is necessary for a thing to be what it is, i.e. necessary for its identity, and thus, its existence. In other terms, if a feature P is essential to a being S, then the existence of S presupposes P.
+That which is necessary for a thing to be what it is, i.e. necessary for its identity, and thus, its existence. In other terms, if a feature P is essential to a thing S, then the existence of S presupposes P.
 
 **Fundamental**:
 
-That which is necessary and sufficient for a thing to be what it is for a thing to be what it is, i.e. necessary and sufficient for its identity, and thus, its existence. In other terms, if a feature P is fundamental to a being S in a given context, then (in the given context) P leads to S, and the existence of S presupposes P.
+That which is necessary and sufficient for a thing to be what it is for a thing to be what it is, i.e. necessary and sufficient for its identity, and thus, its existence. In other terms, if a feature P is fundamental to a thing S in a given context, then (in the given context) P leads to S, and the existence of S presupposes P.
 
 ---
 
