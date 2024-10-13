@@ -58,7 +58,7 @@ Since a concept is the mental integration of a fixed — albeit unlimited — se
 
 **SIDE NOTE**:
 
-Our grasp of a concept includes the grasp of further shared characteristics of its referents, the fundamentality of the characteristics, and the similarities and differences of its referents from yet unknown things.
+Our grasp of a concept includes the grasp of further shared characteristics of its referents, the fundamentality of the characteristics, and the similarities and differences of its referents from other things in a given context.
 
 **FINAL NOTE**:
 
