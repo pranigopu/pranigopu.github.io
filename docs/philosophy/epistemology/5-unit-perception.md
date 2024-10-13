@@ -41,9 +41,11 @@ Units are things viewed by a consciousness in a certain existing relationship. T
 # Examples of units
 1.<br>
 The number '1' is a unit of pure quantity. It denotes the occurrence of a defined type of thing. Every occurrence of that type of thing is distinct in some way, but is denoted by 1. The number of 1s denotes the repeated occurrences of that type of thing.
-A person is a unit of the human population; the word by itself denotes any human being. Each human is individually unique, but due to the similarities that distinguish them from other living things and things in general, each human can be denoted by the term "person", and is a unit of the human population.
 
 2.<br>
+A person is a unit of the human population; the word by itself denotes any human being. Each human is individually unique, but due to the similarities that distinguish them from other living things and things in general, each human can be denoted by the term "person", and is a unit of the human population.
+
+3.<br>
 Metre is a unit of distance. It denotes a one-dimensional stretch of space that is physically specified and constant. A general stretch of one-dimensional space may contain many such one-dimensional stretches of space, each of which can be differentiated according to its position and direction. Yet each such stretch is a metre of distance and is thus a unit of distance.
 
 # Entities, components and attributes
