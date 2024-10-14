@@ -88,4 +88,4 @@ _To expand on the last point_...
 
 To be rational is not to only use reason in favour of every other mental faculty, but rather, to use reason as the ultimate and overarching means of cognition that is integrated in a non-contradictory (i.e. rational) way with the use of the other mental faculties. Other faculties can and do have uses, both within cognition (in a certain context) and apart from cognition (i.e. in other areas of life, such as direct or recreated experience or extremely time-bound action). Note again, however, that all areas of life — cognitive or otherwise — must be integrated in a non-contradictory way if life in reality is to be the standard (this standard shall be proved in ethics).
 
-NOTE: _Cognition means knowing reality and, by extension, making choices in reality, since efficacious conscious action presupposes efficacious cognition._
+**NOTE**: _Cognition means knowing reality and, by extension, making choices in reality, since efficacious conscious action presupposes efficacious cognition._
