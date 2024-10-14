@@ -40,14 +40,14 @@ We must be careful not to disregard the value of other mental faculties, such as
 
 The aforementioned faculties may, in certain circumstances, substitute more extensive and intensive (i.e. broader and deeper) kinds of reasoning as a means to act with limited information, time or resources, provided that such a substitution is itself rational. For instance, if a split second decision must be made, it is irrational to try to form a complex chain of logical inferences if doing so will prevent you from acting at all. In such cases, instinct and intuition, especially if well-developed, i.e. if developed through the practice of rational principles, are invaluable cognitive capacities.
 
-Furthermore, if our instincts, intuition and emotions are well-developed through the practice of rational principles and we know that they are indeed so, it is irrational to re-evaluate our thoughts, feelings and decisions for every well-understood case (unless we see a reason to re-evaluate), ex. familiar tasks, situations, problems, etc.
+Furthermore, if our instincts, intuition and emotions are well-developed through the practice of rational principles and we know that they are indeed so, it is irrational to re-evaluate our thoughts, feelings and decisions for every well-understood case (unless we see a reason to re-evaluate), e.g. familiar tasks, situations, problems, etc.
 
 Lastly, the depth and breadth of your application of reason depends on the context. For example, when indulging in certain types of enjoyable activities, thinking more deeply than your feelings would defeat the purpose of the activity, as it would take you away from the pleasure of the moment and into a needlessly strenuous exercise. Here, rational evaluation would come before and not during the activity.
 
 Hence, the pursuit of rational principles does not imply the rejection of other mental faculties, but demands that we use them in accordance with rational judgement.
 
 ## Intuition
-Intuition consists of subconsciously formed and/or retained mental associations between conscious units (ex. perceptions, conceptions, memories, emotions etc.). The elements of the association (ex. the relationships between two conscious units) could be defined consciously or subconsciously. These mental associations can be done using practised reasoning (which may or may not be valid), reflex judgement based on memory, or it can perhaps be derived from instincts, evolutionary or otherwise.
+Intuition consists of subconsciously formed and/or retained mental associations between conscious units (e.g. perceptions, conceptions, memories, emotions etc.). The elements of the association (e.g. the relationships between two conscious units) could be defined consciously or subconsciously. These mental associations can be done using practised reasoning (which may or may not be valid), reflex judgement based on memory, or it can perhaps be derived from instincts, evolutionary or otherwise.
 
 **NOTE**: _An instinct is an automatic motive for action._
 
