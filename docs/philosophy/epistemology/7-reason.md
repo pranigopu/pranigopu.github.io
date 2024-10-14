@@ -45,7 +45,6 @@ Furthermore, if our instincts, intuition and emotions are well-developed through
 Lastly, the depth and breadth of your application of reason depends on the context. For example, when indulging in certain types of enjoyable activities, thinking more deeply than your feelings would defeat the purpose of the activity, as it would take you away from the pleasure of the moment and into a needlessly strenuous exercise. Here, rational evaluation would come before and not during the activity.
 
 Hence, the pursuit of rational principles does not imply the rejection of other mental faculties, but demands that we use them in accordance with rational judgement.
-Notes on Other Mental Faculties
 
 ## Intuition
 Intuition consists of subconsciously formed and/or retained mental associations between conscious units (ex. perceptions, conceptions, memories, emotions etc.). The elements of the association (ex. the relationships between two conscious units) could be defined consciously or subconsciously. These mental associations can be done using practised reasoning (which may or may not be valid), reflex judgement based on memory, or it can perhaps be derived from instincts, evolutionary or otherwise.
