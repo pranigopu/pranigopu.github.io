@@ -70,9 +70,7 @@ Note that “trust” and “faith” are not synonymous, although they are ofte
 Similarly, note that “conviction” (including “absolute conviction”) and “faith” are not synonymous, although they may have similar effects on the subconscious. Conviction can and must draw from self-evident truths and rigorous reason, while faith requires acceptance beyond reason.
 
 ## Imagination
-Imagination is the ability to consciously rearrange the contents of our mind. Without regard to evidence and reasoning, it does not necessarily correspond to reality. Hence, it is a valid way of knowing reality only if (1) the contents used are defined and refer or correspond to reality in some form, and (2) the rules by which the contents are combined are grounded in reason. If imagination meets these conditions, then it can be considered an extension of a reasoning process.
-
-This is not to say that imagination has no value beyond being a tool for reasoning. On the contrary, imagination is a vital part of enhancing our experience of life and the vitality of our mind. Imagination can help:
+Imagination is the ability to consciously rearrange the contents of our mind. Without regard to evidence and reasoning, it does not necessarily correspond to reality. Hence, it is a valid way of knowing reality only if (1) the contents used are defined and refer or correspond to reality in some form, and (2) the rules by which the contents are combined are grounded in reason. If imagination meets these conditions, then it can be considered an extension of a reasoning process. This is not to say that imagination has no value beyond being a tool for reasoning. On the contrary, imagination is a vital part of enhancing our experience of life and the vitality of our mind. Imagination can help:
 
 - Enjoy ourselves and expand our experience of life through fantasy.
 - Explore different perspectives.
