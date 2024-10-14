@@ -60,10 +60,7 @@ Hence, it is not irrational to follow your instinct and intuition provided (1) y
 **NOTE**: _You need not deliberate if you have objective certainty within the given context; how certainty can be achieved is a separate topic discussed in_ ["Certainty" from _Knowledge and Certainty_](https://pranigopu.github.io/philosophy/epistemology/knowledge-and-certainty.html#certainty).
 
 ## Emotion
-Emotion, from what I understand, is an immediate end result of a subconscious evaluation of a situation, wherein the evaluation is based on internalised values. Hence, emotions may lead to knowledge as observable end results, but they cannot form knowledge. Note that while emotions are not means of cognition, I am not saying they are not valuable to us. On the contrary, they have immense, indispensable value as:
-
-The feedback we receive, either reinforcing and enabling the pursuit of our values, or indicating an issue in said values.
-The reward and affirmation for life itself, wherein we experience life as an end in itself through emotions, both positive and negative (each with its own uses).
+Emotion, from what I understand, is an immediate end result of a subconscious evaluation of a situation, wherein the evaluation is based on internalised values. Hence, emotions may lead to knowledge as observable end results, but they cannot form knowledge. Note that while emotions are not means of cognition, I am not saying they are not valuable to us. On the contrary, they have immense, indispensable value as (1) the feedback we receive, either reinforcing and enabling the pursuit of our values, or indicating an issue in said values, and (2) the reward and affirmation for life itself, wherein we experience life as an end in itself through emotions, both positive and negative (each with its own uses).
 
 ## Faith
 Faith is not a way of knowing, but a way of asserting assumptions as truth. Hence, as a way of knowing, it is invalid. If evidence and reasoning is provided to an assertion that either validates it as a fact or presents it as an assumption and not a known fact, the assertion is no longer in the domain of faith.
