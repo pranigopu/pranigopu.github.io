@@ -8,3 +8,4 @@ None of the presented artworks are mine. I just wanted to gather and present my 
 - [Top Favourite Visual Art](https://pranigopu.github.io/art/visual-art/top-favourite-visual-art.html)
 - [Human Beauty](https://pranigopu.github.io/art/visual-art/human-beauty.html)
 - [More Visual Art](https://pranigopu.github.io/art/visual-art/more-visual-art.html)
+- [AI Generated](https://pranigopu.github.io/art/visual-art/ai-generated)
