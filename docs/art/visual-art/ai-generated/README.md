@@ -42,7 +42,7 @@ A portrait of a man named Kaspar with expressive brown eyes and a determined yet
 
 # Zamnaput
 ## Version 1
-<a href="https://pranigopu.github.io/art/visual-art/ai-generated/Zamnaput - Version 1.jpg">
+<a href="https://pranigopu.github.io/art/visual-art/ai-generated/Zamnaput - Version 1.webp">
 <img src="https://pranigopu.github.io/art/visual-art/ai-generated/Zamnaput - Version 1.webp">
 </a>
 
