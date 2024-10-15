@@ -21,7 +21,7 @@ All generated using [OpenArt](https://openart.ai/home), **Model**: [InkStyle](ht
 <img src="https://pranigopu.github.io/art/visual-art/ai-generated/Savitri - Version 4.jpeg">
 </a>
 
-<a href="https://pranigopu.github.io/art/visual-art/ai-generated/Savitri - Version 4.jpeg">*</a>
+<a href="https://pranigopu.github.io/art/visual-art/ai-generated/Savitri - Version 4 - With Cloth.jpeg">*</a>
 
 # Version 5
 <a href="https://pranigopu.github.io/art/visual-art/ai-generated/Savitri - Version 5.jpeg">
