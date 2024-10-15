@@ -3,7 +3,7 @@
     a {width: 100%; align: "center";}
 </style>
 
-**ZAMNAPUT - VERSION 2 - VARIATIONS AND GENERATION HISTORY**
+**ZAMNAPUT - VERSION 2 - VARIATIONS**
 
 ---
 

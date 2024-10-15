@@ -12,10 +12,13 @@
 **Contents**:
 
 - [Savitri](#savitri)
-- [Kaspar](#kaspar)
-- [Zamnaput](#zamnaput)
   - [Version 1](#version-1)
   - [Version 2](#version-2)
+  - [Versions 3 - 6](#versions-3---6)
+- [Kaspar](#kaspar)
+- [Zamnaput](#zamnaput)
+  - [Version 1](#version-1-1)
+  - [Version 2](#version-2-1)
 - [Revna](#revna)
 - ["Lakshmi"](#lakshmi)
 
@@ -23,13 +26,26 @@
 ---
 
 # Savitri
-<a href="https://pranigopu.github.io/art/visual-art/ai-generated/Savitri.webp">
-<img src="https://pranigopu.github.io/art/visual-art/ai-generated/Savitri.webp">
+## Version 1
+<a href="https://pranigopu.github.io/art/visual-art/ai-generated/Savitri - Version 1.jpg">
+<img src="https://pranigopu.github.io/art/visual-art/ai-generated/Savitri - Version 1.jpg">
 </a>
 
 **Prompt** ([ChatGPT](https://openai.com/chatgpt/overview)):
 
 A portrait of a woman named Savitri with dark, deep eyes and a serene expression. She has long, flowing hair and is wearing a pearl necklace. Her skin tone is warm and rich, and her features are soft and elegant, embodying a sense of quiet grace and beauty. The background is a blend of warm colors, reminiscent of dawn or dusk, with soft, impressionistic strokes that create a timeless, artistic atmosphere. Her gaze is calm yet intense, capturing an essence of wisdom and inner strength.
+
+## Version 2
+<a href="https://pranigopu.github.io/art/visual-art/ai-generated/Savitri - Version 2.jpg">
+<img src="https://pranigopu.github.io/art/visual-art/ai-generated/Savitri - Version 2.jpg">
+</a>
+
+**Prompt** ([OpenArt](https://openart.ai/home), **Model**: [InkStyle](https://civitai.com/models/549045/sdxl-ink-style)):
+
+A portrait of a woman named Savitri with dark, deep eyes and a serene expression. She has long, flowing hair and is wearing a pearl necklace. Her skin tone is warm and rich, and her features are soft and elegant, embodying a sense of quiet grace and beauty. Her gaze is calm yet intense, capturing an essence of wisdom and inner strength.
+
+## Versions 3 - 6
+[**>> See here**](https://pranigopu.github.io/art/visual-art/ai-generated/savitri-more-versions.html)
 
 # Kaspar
 <a href="https://pranigopu.github.io/art/visual-art/ai-generated/Kaspar.webp">
@@ -63,7 +79,7 @@ Create an image of Zamnaput, a thirty-six year old woman in a coarse, pale grey 
 
 Jewellery, blush.
 
-[**>> Variations and generation history**](https://pranigopu.github.io/art/visual-art/ai-generated/zamnaput-version2-variations-and-generation-history.html)
+[**>> Variations**](https://pranigopu.github.io/art/visual-art/ai-generated/zamnaput-version2-variations.html)
 
 # Revna
 <a href="https://pranigopu.github.io/art/visual-art/ai-generated/Revna.webp">
