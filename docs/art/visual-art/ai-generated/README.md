@@ -63,7 +63,7 @@ Create an image of Zamnaput, a thirty-six year old woman in a coarse, pale grey 
 
 Jewellery, blush.
 
-[**>> Variations and generation history**](https://pranigopu.github.io/art/visual-art/zamnaput-version2-variations-and-generation-history.html)
+[**>> Variations and generation history**](https://pranigopu.github.io/art/visual-art/ai-generated/zamnaput-version2-variations-and-generation-history.html)
 
 # Revna
 <a href="https://pranigopu.github.io/art/visual-art/ai-generated/Revna.webp">
