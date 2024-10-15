@@ -10,25 +10,25 @@
 All generated using [OpenArt](https://openart.ai/home), **Model**: [InkStyle](https://civitai.com/models/549045/sdxl-ink-style).
 
 # Version 3
-<a href="https://pranigopu.github.io/art/visual-art/ai-generated/Savitri - Version 3.jpg">
-<img src="https://pranigopu.github.io/art/visual-art/ai-generated/Savitri - Version 3.jpg">
+<a href="https://pranigopu.github.io/art/visual-art/ai-generated/Savitri - Version 3.jpeg">
+<img src="https://pranigopu.github.io/art/visual-art/ai-generated/Savitri - Version 3.jpeg">
 </a>
 
-<a href="https://pranigopu.github.io/art/visual-art/ai-generated/Savitri - Version 3 - With Cloth.jpg">*</a>
+<a href="https://pranigopu.github.io/art/visual-art/ai-generated/Savitri - Version 3 - With Cloth.jpeg">*</a>
 
 # Version 4
-<a href="https://pranigopu.github.io/art/visual-art/ai-generated/Savitri - Version 4.jpg">
-<img src="https://pranigopu.github.io/art/visual-art/ai-generated/Savitri - Version 4.jpg">
+<a href="https://pranigopu.github.io/art/visual-art/ai-generated/Savitri - Version 4.jpeg">
+<img src="https://pranigopu.github.io/art/visual-art/ai-generated/Savitri - Version 4.jpeg">
 </a>
 
-<a href="https://pranigopu.github.io/art/visual-art/ai-generated/Savitri - Version 4.jpg">*</a>
+<a href="https://pranigopu.github.io/art/visual-art/ai-generated/Savitri - Version 4.jpeg">*</a>
 
 # Version 5
-<a href="https://pranigopu.github.io/art/visual-art/ai-generated/Savitri - Version 5.jpg">
-<img src="https://pranigopu.github.io/art/visual-art/ai-generated/Savitri - Version 5.jpg">
+<a href="https://pranigopu.github.io/art/visual-art/ai-generated/Savitri - Version 5.jpeg">
+<img src="https://pranigopu.github.io/art/visual-art/ai-generated/Savitri - Version 5.jpeg">
 </a>
 
 # Version 6
-<a href="https://pranigopu.github.io/art/visual-art/ai-generated/Savitri - Version 6.jpg">
-<img src="https://pranigopu.github.io/art/visual-art/ai-generated/Savitri - Version 6.jpg">
+<a href="https://pranigopu.github.io/art/visual-art/ai-generated/Savitri - Version 6.jpeg">
+<img src="https://pranigopu.github.io/art/visual-art/ai-generated/Savitri - Version 6.jpeg">
 </a>

@@ -27,8 +27,8 @@
 
 # Savitri
 ## Version 1
-<a href="https://pranigopu.github.io/art/visual-art/ai-generated/Savitri - Version 1.jpg">
-<img src="https://pranigopu.github.io/art/visual-art/ai-generated/Savitri - Version 1.jpg">
+<a href="https://pranigopu.github.io/art/visual-art/ai-generated/Savitri - Version 1.jpeg">
+<img src="https://pranigopu.github.io/art/visual-art/ai-generated/Savitri - Version 1.jpeg">
 </a>
 
 **Prompt** ([ChatGPT](https://openai.com/chatgpt/overview)):
@@ -36,8 +36,8 @@
 A portrait of a woman named Savitri with dark, deep eyes and a serene expression. She has long, flowing hair and is wearing a pearl necklace. Her skin tone is warm and rich, and her features are soft and elegant, embodying a sense of quiet grace and beauty. The background is a blend of warm colors, reminiscent of dawn or dusk, with soft, impressionistic strokes that create a timeless, artistic atmosphere. Her gaze is calm yet intense, capturing an essence of wisdom and inner strength.
 
 ## Version 2
-<a href="https://pranigopu.github.io/art/visual-art/ai-generated/Savitri - Version 2.jpg">
-<img src="https://pranigopu.github.io/art/visual-art/ai-generated/Savitri - Version 2.jpg">
+<a href="https://pranigopu.github.io/art/visual-art/ai-generated/Savitri - Version 2.jpeg">
+<img src="https://pranigopu.github.io/art/visual-art/ai-generated/Savitri - Version 2.jpeg">
 </a>
 
 **Prompt** ([OpenArt](https://openart.ai/home), **Model**: [InkStyle](https://civitai.com/models/549045/sdxl-ink-style)):
