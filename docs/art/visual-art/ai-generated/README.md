@@ -100,7 +100,7 @@ A young man named Revna with striking, raven-black hair that flows naturally, hi
 
 **Prompt** ([ChatGPT](https://openai.com/chatgpt/overview)):
 
-A portrait of a man named Nabhyamira, inspired by the style of Michelangelo's paintings. He is in his late 50s with a strong, weathered face and wise, deep-set eyes that reflect his life experiences. His hair is gray and slightly unkempt, suggesting a rugged character. He wears a simple, flowing robe with intricate patterns that hint at his status and connection to artistry. The background is a softly lit, atmospheric scene resembling a Renaissance setting, with light casting dramatic shadows across his face, highlighting his features. The overall tone is one of strength and introspection, capturing the essence of a thoughtful, passionate individual.![alt text](openart_2u3RIK5b_upscaled.jpg)
+A portrait of a man named Nabhyamira, inspired by the style of Michelangelo's paintings. He is in his late 50s with a strong, weathered face and wise, deep-set eyes that reflect his life experiences. His hair is gray and slightly unkempt, suggesting a rugged character. He wears a simple, flowing robe with intricate patterns that hint at his status and connection to artistry. The background is a softly lit, atmospheric scene resembling a Renaissance setting, with light casting dramatic shadows across his face, highlighting his features. The overall tone is one of strength and introspection, capturing the essence of a thoughtful, passionate individual.
 
 # "Lakshmi"
 <a href="https://pranigopu.github.io/art/visual-art/ai-generated/Lakshmi.jpg">
