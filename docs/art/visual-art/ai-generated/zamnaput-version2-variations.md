@@ -23,9 +23,14 @@ This was used as the image reference for further generations.
 <img src="https://pranigopu.github.io/art/visual-art/ai-generated/Zamnaput - Version 2 - Older Variation.jpg">
 </a>
 
-The final image was edited from the above.
+The final image was based on the above.
 
 **Model**: [InkStyle](https://civitai.com/models/549045/sdxl-ink-style)
+
+# Newer Variation
+<a href="https://pranigopu.github.io/art/visual-art/ai-generated/Zamnaput - Version 2 - Newer Variation.jpg">
+<img src="https://pranigopu.github.io/art/visual-art/ai-generated/Zamnaput - Version 2 - Newer Variation.jpg">
+</a>
 
 # Strong Variation
 <a href="https://pranigopu.github.io/art/visual-art/ai-generated/Zamnaput - Version 2 - Strong Variation.jpg">
