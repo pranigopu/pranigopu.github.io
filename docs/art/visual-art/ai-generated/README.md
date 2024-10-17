@@ -93,6 +93,7 @@ Create an image of Zamnaput, a thirty-six year old woman in a coarse, pale grey 
 <b>Negative prompt</b>: (edited punctuation and capitalisation):
 <br>
 Jewellery, blush.
+</details>
 
 [**>> Variations**](https://pranigopu.github.io/art/visual-art/ai-generated/zamnaput-version2-variations.html)
 
