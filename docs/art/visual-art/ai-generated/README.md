@@ -115,4 +115,4 @@ Serene dawn scene, woman, bejeweled attire, picking up mud, mud transforming int
 
 Disfigured face, merged limbs, clothing.
 
-<a href="https://pranigopu.github.io/art/visual-art/ai-generated/Lakshmi - Secret Version.jpg">*</a>
+<a href="https://pranigopu.github.io/art/visual-art/ai-generated/Lakshmi - Secret Version.jpeg">*</a>
