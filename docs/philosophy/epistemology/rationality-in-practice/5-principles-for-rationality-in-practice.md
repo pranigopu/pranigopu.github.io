@@ -113,7 +113,7 @@ Hence, it is clear that considerations in ignorance must never be prioritised ov
 
 **NOTE**: _The level of ignorance or unaccounted factors you can allow for depends on the demands of the context, but even these demands are based primarily on knowledge; in particular, they are based on knowledge about the purpose, the requirements to achieve it and the extent to which you know certain values to be at stake. For example, there is a lot less tolerance for error or ignorance in a space mission or an airplane's operation than a walk to the park or a drive down the street._
 
-Consider the case where considerations in ignorance are given primacy. Stark examples of the dysfunctional results are: paranoia, obsessive compulsive disorder, indecisive overthinking, unmanageable anxiety and/or panic, etc. Considerations primarily rooted in ignorance lead to dysfunction precisely because they are rooted in the lack of awareness, i.e. they are detached from reality and may only turn out to be valid on sheer accident.
+Consider the case where considerations in ignorance are given primacy. Stark examples of the dysfunctional results are: paranoia, obsessive compulsive disorder, indecisive overthinking, unmanageable anxiety and/or panic, etc. Considerations primarily rooted in ignorance lead to dysfunction precisely because they are rooted in the rejection of awareness, i.e. they are detached from reality and may only turn out to be valid on sheer accident.
 
 _To summarise_...
 
