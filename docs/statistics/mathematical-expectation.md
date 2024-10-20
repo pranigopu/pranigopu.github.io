@@ -42,7 +42,7 @@ A random variate is a possible value of a random variable, and hence represents 
 # Mathematical form
 The expected value of a random variable $X$ is denoted by $\mathbb{E}(X)$. Let $p$ denote the [probability density function (PDF)](https://pranigopu.github.io/statistics/quantifying-probability.html#probability-density-function) of $X$ (thereby indirectly denoting the probability distribution of $X$). Then, $\mathbb{E}(X) = \int_{-\infty}^{\infty} x p(x) dx$, where $x$ denotes any random variate of $X$. While this formulation has the integration bounds as $(-\infty, \infty)$, in practice, these bounds may be finite on one or both ends based on the [support of the distribution](https://pranigopu.github.io/statistics/approximating-distributions.html#21-support-of-a-distribution).
 
-Note that if $f$ is a function of $X$:
+Note that if $f$ is a function of $X$, then:
 
 $\mathbb{E}(f(X)) = \int_{-\infty}^{\infty} f(x) p(x) dx$
 
