@@ -42,6 +42,10 @@ A random variate is a possible value of a random variable, and hence represents 
 # Mathematical form
 The expected value of a random variable $X$ is denoted by $\mathbb{E}(X)$. Let $p$ denote the [probability density function (PDF)](https://pranigopu.github.io/statistics/quantifying-probability.html#probability-density-function) of $X$ (thereby indirectly denoting the probability distribution of $X$). Then, $\mathbb{E}(X) = \int_{-\infty}^{\infty} x p(x) dx$, where $x$ denotes any random variate of $X$. While this formulation has the integration bounds as $(-\infty, \infty)$, in practice, these bounds may be finite on one or both ends based on the [support of the distribution](https://pranigopu.github.io/statistics/approximating-distributions.html#21-support-of-a-distribution).
 
+Note that if $f$ is a function of $X$:
+
+$\mathbb{E}(f(X)) = \int_{-\infty}^{\infty} f(x) p(x) dx$
+
 # Properties of mathematical expectation
 > **Reference**:
 > 
@@ -104,22 +108,36 @@ $= E(X) \int_{-\infty}^{\infty} y p_Y(y) dy$ (since $E(X)$ is a constant)
 $= E(X)E(Y)$
 
 ## 3
-$\mathbb{E}(a + f(X)) = a + \mathbb{E}(f(X))$ ($a$ is a constant)
+$\mathbb{E}(a + X) = a + \mathbb{E}(X)$ ($a$ is a constant)
 
 ---
 
 **Proof**:
 
-$\mathbb{E}(a + f(X))$
+$\mathbb{E}(a + X)$
 
-$= \int_{-\infty}^{\infty} (a + f(x)) p_X(x) dx$
+$= \int_{-\infty}^{\infty} (a + X) p_X(x) dx$
 
-$= \int_{-\infty}^{\infty} a p_X(x) + f(x) p_X(x) dx$
+$= \int_{-\infty}^{\infty} a p_X(x) + X p_X(x) dx$
 
-$= \int_{-\infty}^{\infty} a p_X(x) dx + \int_{-\infty}^{\infty} f(x) p_X(x) dx$
+$= \int_{-\infty}^{\infty} a p_X(x) dx + \int_{-\infty}^{\infty} X p_X(x) dx$
 
-$= a \int_{-\infty}^{\infty} p_X(x) dx + \int_{-\infty}^{\infty} f(x) p_X(x) dx$
+$= a \int_{-\infty}^{\infty} p_X(x) dx + \int_{-\infty}^{\infty} X p_X(x) dx$
 
-$= a \cdot 1 + \int_{-\infty}^{\infty} f(x) p_X(x) dx$ (since any PDF integrates to 1 over an infinite range)
+$= a \cdot 1 + \int_{-\infty}^{\infty} X p_X(x) dx$ (since any PDF integrates to 1 over an infinite range)
 
-$= a + \mathbb{E}(f(X))$
+$= a + \mathbb{E}(X)$
+
+## 4
+$\mathbb{E}(aX) = a \mathbb{E}(X)$ ($a$ is a constant)
+
+---
+
+**Proof**:
+$\mathbb{E}(aX)$
+
+$= \int_{-\infty}^{\infty} ax p_X(x) dx$
+
+$= a \int_{-\infty}^{\infty} x p_X(x) dx$
+
+$= a \mathbb{E}(X)$
