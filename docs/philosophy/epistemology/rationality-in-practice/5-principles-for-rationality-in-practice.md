@@ -94,7 +94,7 @@ To conclude, the right approach to dealing with reality is not to go over and ke
 
 **NOTE 3**: To entertain arbitrary concerns as valid concerns is to abandon reason, because on what basis would you start or stop taking such concerns into account? Since they are arbitrary, such a basis cannot exist in your grasp of reality. Hence, such a basis is necessarily irrational, e.g. out-of-context compulsion, whim, etc.
 
-**NOTE 4**: If you want to maximise your ability to recognise hidden concerns and possibilities, entertaining arbitrary and non-essential concerns achieves the exact opposite, i.e. it undermines your focus on reality and your ability to recognise valid concerns and possibilities in reality. An essentials-first approach is the only way to maximise your ability to keep your focus on reality clear and alert is to focus on the essentials.
+**NOTE 4**: If you want to maximise your ability to recognise hidden concerns and possibilities, entertaining arbitrary and non-essential concerns achieves the exact opposite, i.e. it undermines your focus on reality and your ability to recognise valid concerns and possibilities in reality. An essentials-first approach is the only way to maximise your ability to keep your focus on reality clear and alert.
 
 ---
 
