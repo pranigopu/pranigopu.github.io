@@ -84,7 +84,9 @@ $\displaystyle = \int_{-\infty}^{\infty} \int_{-\infty}^{\infty} x p_X(x)p_Y(y) 
 
 $\displaystyle = \int_{-\infty}^{\infty} x p_X(x) (\int_{-\infty}^{\infty} p_Y(y) dy)dx + \int_{-\infty}^{\infty} \int_{-\infty}^{\infty} y p_Y(y)(\int_{-\infty}^{\infty} p_X(x) dx)dy$
 
-$\displaystyle = \int_{-\infty}^{\infty} x p_X(x) (1)dx + \int_{-\infty}^{\infty} \int_{-\infty}^{\infty} y p_Y(y)(1)dy$ (since any PDF integrates to 1 over an infinite range)
+$\displaystyle = \int_{-\infty}^{\infty} x p_X(x) (1)dx + \int_{-\infty}^{\infty} \int_{-\infty}^{\infty} y p_Y(y)(1)dy$
+
+(since any PDF integrates to 1 over an infinite range)
 
 $\displaystyle = \int_{-\infty}^{\infty} x p_X(x)dx + \int_{-\infty}^{\infty} \int_{-\infty}^{\infty} y p_Y(y)dy$
 
@@ -107,7 +109,9 @@ $\displaystyle = \int_{-\infty}^{\infty} y p_Y(y) (\int_{-\infty}^{\infty} x p_X
 
 $\displaystyle = \int_{-\infty}^{\infty} y p_Y(y) E(X) dy$
 
-$\displaystyle = E(X) \int_{-\infty}^{\infty} y p_Y(y) dy$ (since $E(X)$ is a constant)
+$\displaystyle = E(X) \int_{-\infty}^{\infty} y p_Y(y) dy$
+
+(since $E(X)$ is a constant)
 
 $\displaystyle = E(X)E(Y)$
 
@@ -128,7 +132,9 @@ $\displaystyle = \int_{-\infty}^{\infty} a p_X(x) dx + \int_{-\infty}^{\infty} X
 
 $\displaystyle = a \int_{-\infty}^{\infty} p_X(x) dx + \int_{-\infty}^{\infty} X p_X(x) dx$
 
-$\displaystyle = a \cdot 1 + \int_{-\infty}^{\infty} X p_X(x) dx$ (since any PDF integrates to 1 over an infinite range)
+$\displaystyle = a \cdot 1 + \int_{-\infty}^{\infty} X p_X(x) dx$
+
+(since any PDF integrates to 1 over an infinite range)
 
 $= a + \mathbb{E}(X)$
 
