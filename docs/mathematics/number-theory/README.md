@@ -10,6 +10,7 @@ _Essentials_...
 1. [Basic and Miscellaneous Results](https://pranigopu.github.io/mathematics/number-theory/1-basic-and-miscellaneous-results.html)
 2. [Division and Divisibility](https://pranigopu.github.io/mathematics/number-theory/2-division-and-divisibility.html)
 3. [Diophantine Equations](https://pranigopu.github.io/mathematics/number-theory/3-diophantine-equations.html)
+4. [Congruence and Modular Arithmetic](https://pranigopu.github.io/mathematics/number-theory/4-congruence-and-modular-arithmetic.html)
 
 _Expansion_...
 
