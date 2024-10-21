@@ -42,9 +42,13 @@ A random variate is a possible value of a random variable, and hence represents 
 # Mathematical form
 The expected value of a random variable $X$ is denoted by $\mathbb{E}(X)$. Let $p$ denote the [probability density function (PDF)](https://pranigopu.github.io/statistics/quantifying-probability.html#probability-density-function) of $X$ (thereby indirectly denoting the probability distribution of $X$). Then, $\mathbb{E}(X) = \int_{-\infty}^{\infty} x p(x) dx$, where $x$ denotes any random variate of $X$. While this formulation has the integration bounds as $(-\infty, \infty)$, in practice, these bounds may be finite on one or both ends based on the [support of the distribution](https://pranigopu.github.io/statistics/approximating-distributions.html#21-support-of-a-distribution).
 
-Note that if $f$ is a function of $X$, then:
+---
 
-$\mathbb{E}(f(X)) = \int_{-\infty}^{\infty} f(x) p(x) dx$
+**NOTE**: If $f$ is a function defined on $X$, then:
+
+$\displaystyle \mathbb{E}(f(X)) = \int_{-\infty}^{\infty} f(x) p(x) dx$
+
+The reason is that the probability of observing $x$ from a random process is the same as the probability of observing $f(x)$ after having transformed the outcome of the random process via $f$. Here, $f$ can be seen as a deterministic process applied to the outcomes of the random process, changing not the probability distribution but the [sample space](https://pranigopu.github.io/statistics/quantifying-probability.html#terminology-checkpoint). Note also that $f(X)$ is also a random variable by definition, since it is the outcome of a deterministic process applied to a random variable, thus also acting as a random variable.
 
 # Properties of mathematical expectation
 > **Reference**:
@@ -70,19 +74,19 @@ $\mathbb{E}(X + Y) = \mathbb{E}(X) + \mathbb{E}(Y)$
 
 $\mathbb{E}(X + Y)$
 
-$= \int_{-\infty}^{\infty} \int_{-\infty}^{\infty} (x + y) p_{X,Y}(x, y) dxdy$
+$\displaystyle = \int_{-\infty}^{\infty} \int_{-\infty}^{\infty} (x + y) p_{X,Y}(x, y) dxdy$
 
-$= \int_{-\infty}^{\infty} \int_{-\infty}^{\infty} (x + y) p_X(x)p_Y(y) dxdy$
+$\displaystyle = \int_{-\infty}^{\infty} \int_{-\infty}^{\infty} (x + y) p_X(x)p_Y(y) dxdy$
 
-$= \int_{-\infty}^{\infty} \int_{-\infty}^{\infty} x p_X(x)p_Y(y) + y p_X(x)p_Y(y) dxdy$
+$\displaystyle = \int_{-\infty}^{\infty} \int_{-\infty}^{\infty} x p_X(x)p_Y(y) + y p_X(x)p_Y(y) dxdy$
 
-$= \int_{-\infty}^{\infty} \int_{-\infty}^{\infty} x p_X(x)p_Y(y) dxdy + \int_{-\infty}^{\infty} \int_{-\infty}^{\infty} y p_X(x)p_Y(y) dxdy$
+$\displaystyle = \int_{-\infty}^{\infty} \int_{-\infty}^{\infty} x p_X(x)p_Y(y) dxdy + \int_{-\infty}^{\infty} \int_{-\infty}^{\infty} y p_X(x)p_Y(y) dxdy$
 
-$= \int_{-\infty}^{\infty} x p_X(x) (\int_{-\infty}^{\infty} p_Y(y) dy)dx + \int_{-\infty}^{\infty} \int_{-\infty}^{\infty} y p_Y(y)(\int_{-\infty}^{\infty} p_X(x) dx)dy$
+$\displaystyle = \int_{-\infty}^{\infty} x p_X(x) (\int_{-\infty}^{\infty} p_Y(y) dy)dx + \int_{-\infty}^{\infty} \int_{-\infty}^{\infty} y p_Y(y)(\int_{-\infty}^{\infty} p_X(x) dx)dy$
 
-$= \int_{-\infty}^{\infty} x p_X(x) (1)dx + \int_{-\infty}^{\infty} \int_{-\infty}^{\infty} y p_Y(y)(1)dy$ (since any PDF integrates to 1 over an infinite range)
+$\displaystyle = \int_{-\infty}^{\infty} x p_X(x) (1)dx + \int_{-\infty}^{\infty} \int_{-\infty}^{\infty} y p_Y(y)(1)dy$ (since any PDF integrates to 1 over an infinite range)
 
-$= \int_{-\infty}^{\infty} x p_X(x)dx + \int_{-\infty}^{\infty} \int_{-\infty}^{\infty} y p_Y(y)dy$
+$\displaystyle = \int_{-\infty}^{\infty} x p_X(x)dx + \int_{-\infty}^{\infty} \int_{-\infty}^{\infty} y p_Y(y)dy$
 
 $= \mathbb{E}(X) + \mathbb{E}(Y)$
 
@@ -95,17 +99,17 @@ $\mathbb{E}(XY) = \mathbb{E}(X)\mathbb{E}(Y)$
 
 $\mathbb{E}(XY)$
 
-$= \int_{-\infty}^{\infty} \int_{-\infty}^{\infty} xy p_{X,Y}(x, y) dxdy$
+$\displaystyle = \int_{-\infty}^{\infty} \int_{-\infty}^{\infty} xy p_{X,Y}(x, y) dxdy$
 
-$= \int_{-\infty}^{\infty} \int_{-\infty}^{\infty} xy p_X(x)p_Y(y) dxdy$
+$\displaystyle = \int_{-\infty}^{\infty} \int_{-\infty}^{\infty} xy p_X(x)p_Y(y) dxdy$
 
-$= \int_{-\infty}^{\infty} y p_Y(y) (\int_{-\infty}^{\infty} x p_X(x) dx)dy$
+$\displaystyle = \int_{-\infty}^{\infty} y p_Y(y) (\int_{-\infty}^{\infty} x p_X(x) dx)dy$
 
-$= \int_{-\infty}^{\infty} y p_Y(y) E(X) dy$
+$\displaystyle = \int_{-\infty}^{\infty} y p_Y(y) E(X) dy$
 
-$= E(X) \int_{-\infty}^{\infty} y p_Y(y) dy$ (since $E(X)$ is a constant)
+$\displaystyle = E(X) \int_{-\infty}^{\infty} y p_Y(y) dy$ (since $E(X)$ is a constant)
 
-$= E(X)E(Y)$
+$\displaystyle = E(X)E(Y)$
 
 ## 3
 $\mathbb{E}(a + X) = a + \mathbb{E}(X)$ ($a$ is a constant)
@@ -116,15 +120,15 @@ $\mathbb{E}(a + X) = a + \mathbb{E}(X)$ ($a$ is a constant)
 
 $\mathbb{E}(a + X)$
 
-$= \int_{-\infty}^{\infty} (a + X) p_X(x) dx$
+$\displaystyle = \int_{-\infty}^{\infty} (a + X) p_X(x) dx$
 
-$= \int_{-\infty}^{\infty} a p_X(x) + X p_X(x) dx$
+$\displaystyle = \int_{-\infty}^{\infty} a p_X(x) + X p_X(x) dx$
 
-$= \int_{-\infty}^{\infty} a p_X(x) dx + \int_{-\infty}^{\infty} X p_X(x) dx$
+$\displaystyle = \int_{-\infty}^{\infty} a p_X(x) dx + \int_{-\infty}^{\infty} X p_X(x) dx$
 
-$= a \int_{-\infty}^{\infty} p_X(x) dx + \int_{-\infty}^{\infty} X p_X(x) dx$
+$\displaystyle = a \int_{-\infty}^{\infty} p_X(x) dx + \int_{-\infty}^{\infty} X p_X(x) dx$
 
-$= a \cdot 1 + \int_{-\infty}^{\infty} X p_X(x) dx$ (since any PDF integrates to 1 over an infinite range)
+$\displaystyle = a \cdot 1 + \int_{-\infty}^{\infty} X p_X(x) dx$ (since any PDF integrates to 1 over an infinite range)
 
 $= a + \mathbb{E}(X)$
 
@@ -136,8 +140,8 @@ $\mathbb{E}(aX) = a \mathbb{E}(X)$ ($a$ is a constant)
 **Proof**:
 $\mathbb{E}(aX)$
 
-$= \int_{-\infty}^{\infty} ax p_X(x) dx$
+$\displaystyle = \int_{-\infty}^{\infty} ax p_X(x) dx$
 
-$= a \int_{-\infty}^{\infty} x p_X(x) dx$
+$\displaystyle = a \int_{-\infty}^{\infty} x p_X(x) dx$
 
 $= a \mathbb{E}(X)$
