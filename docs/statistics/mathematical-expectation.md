@@ -107,13 +107,13 @@ $\displaystyle = \int_{-\infty}^{\infty} \int_{-\infty}^{\infty} xy p_X(x)p_Y(y)
 
 $\displaystyle = \int_{-\infty}^{\infty} y p_Y(y) (\int_{-\infty}^{\infty} x p_X(x) dx)dy$
 
-$\displaystyle = \int_{-\infty}^{\infty} y p_Y(y) E(X) dy$
+$\displaystyle = \int_{-\infty}^{\infty} y p_Y(y) \mathbb{E}(X) dy$
 
-$\displaystyle = E(X) \int_{-\infty}^{\infty} y p_Y(y) dy$
+$\displaystyle = \mathbb{E}(X) \int_{-\infty}^{\infty} y p_Y(y) dy$
 
-(since $E(X)$ is a constant)
+(since $\mathbb{E}(X)$ is a constant)
 
-$\displaystyle = E(X)E(Y)$
+$= \mathbb{E}(X) \mathbb{E}(Y)$
 
 ## 3
 $\mathbb{E}(a + X) = a + \mathbb{E}(X)$ ($a$ is a constant)
