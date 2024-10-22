@@ -124,15 +124,15 @@ $\mathbb{E}(a + X) = a + \mathbb{E}(X)$ ($a$ is a constant)
 
 $\mathbb{E}(a + X)$
 
-$\displaystyle = \int_{-\infty}^{\infty} (a + X) p_X(x) dx$
+$\displaystyle = \int_{-\infty}^{\infty} (a + x) p_X(x) dx$
 
-$\displaystyle = \int_{-\infty}^{\infty} a p_X(x) + X p_X(x) dx$
+$\displaystyle = \int_{-\infty}^{\infty} a p_X(x) + x p_X(x) dx$
 
-$\displaystyle = \int_{-\infty}^{\infty} a p_X(x) dx + \int_{-\infty}^{\infty} X p_X(x) dx$
+$\displaystyle = \int_{-\infty}^{\infty} a p_X(x) dx + \int_{-\infty}^{\infty} x p_X(x) dx$
 
-$\displaystyle = a \int_{-\infty}^{\infty} p_X(x) dx + \int_{-\infty}^{\infty} X p_X(x) dx$
+$\displaystyle = a \int_{-\infty}^{\infty} p_X(x) dx + \int_{-\infty}^{\infty} x p_X(x) dx$
 
-$\displaystyle = a \cdot 1 + \int_{-\infty}^{\infty} X p_X(x) dx$
+$\displaystyle = a \cdot 1 + \int_{-\infty}^{\infty} x p_X(x) dx$
 
 (since any PDF integrates to 1 over an infinite range)
 
