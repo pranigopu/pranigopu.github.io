@@ -21,6 +21,13 @@
 
 **Contents**:
 
+- [Introduction](#introduction)
+- [Mathematical form](#mathematical-form)
+- [Properties of mathematical expectation](#properties-of-mathematical-expectation)
+  - [1](#1)
+  - [2](#2)
+  - [3](#3)
+  - [4](#4)
 
 ---
 

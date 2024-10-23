@@ -8,3 +8,4 @@ My writings on certain topics in statistics, mostly basic topics that I wanted t
 - [Approximating Distributions](https://pranigopu.github.io/statistics/approximating-distributions.html)
 - [Hypothesis Testing](https://pranigopu.github.io/statistics/hypothesis-testing.html)
 - [Mathematical Expectation](https://pranigopu.github.io/statistics/mathematical-expectation.html)
+- [Order Statistics](https://pranigopu.github.io/statistics/order-statistics.html)
