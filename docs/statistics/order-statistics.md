@@ -36,4 +36,7 @@ $X_{(3)}$ = 3rd smallest value in $S$
 
 $X_{(n)}$ = Largest value of $S$
 
-https://en.wikipedia.org/wiki/Order_statistic
+> **References:
+> 
+> - [_Order statistic_ from **Wikipedia**](https://en.wikipedia.org/wiki/Order_statistic)
+> - [_What are order statistics?_ by Equitable Equations from **YouTube**](https://www.youtube.com/watch?v=gDtkGqLD1R0)
