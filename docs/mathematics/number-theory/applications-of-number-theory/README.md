@@ -70,7 +70,7 @@
       - [CASE 1](#case-1-1)
       - [CASE 2](#case-2-1)
   - [Randomised or arbitrary one-to-one coding](#randomised-or-arbitrary-one-to-one-coding)
-  - [REFERENCES](#references)
+  - [References](#references)
 
 ---
 
@@ -526,28 +526,30 @@ Here, a symbol is mapped to another symbol without using a generalised rule, suc
 
 Using such information about a language's usage, and knowing the source language of a cipher, an arbitrary one-to-one coding can be cracked relatively easily.
 
-## REFERENCES
+---
 
-1. Barcode components diagram:<br>https://www.denso-wave.com/en/adcd/fundamental/barcode/barcode/index.html
-2. English letter frequencies:<br>https://www3.nd.edu/~busiforc/handouts/cryptography/letterfrequencies.html
-3. Properties of random numbers:<br>https://www.eg.bucknell.edu/~xmeng/Course/CS6337/Note/master/node37.html
-4. Pseudorandom numbers:<br>https://www.computerhope.com/jargon/p/pseudo-random.htm
-5. Pseudorandom number generator basics:<br>https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/random-vs-pseudorandom-number-generators
-6. Pseudorandom number generators using modulus operator:<br>https://nap.nationalacademies.org/read/2026/chapter/7#66
-7. End-to-end encryption:<br>https://support.google.com/messages/answer/10262381?hl=en
-8. Hash function definition:<br>https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm
-9. Hash function implementation:<br>https://www.cs.hmc.edu/~geoff/classes/hmc.cs070.200101/homework10/hashfuncs.html
-10. Hash and Python dictionaries:<br>https://www.laurentluce.com/posts/python-dictionary-implementation/
-11. Parity bit method:<br>https://www.techtarget.com/searchstorage/definition/parity
-12. Hamming code (parity bit):<br>https://www.geeksforgeeks.org/hamming-code-in-computer-network/
-13. Defining cryptography:<br>https://www.kaspersky.com/resource-center/definitions/what-is-cryptography
-14. Defining cryptosystem:<br>https://www.tutorialspoint.com/cryptography/cryptosystems.htm
-15. Introduction to RSA:<br>https://en.wikipedia.org/wiki/RSA_(cryptosystem)
-16. Converting message to integer:<br>https://github.com/Sazzad-Saju/RSA_Algorithm
-17. Why we use Carmichael function in RSA:<br>https://crypto.stackexchange.com/questions/33676/why-do-we-need-eulers-totient-function-varphin-in-rsa/
-18. Barcode definition:<br>https://www.denso-wave.com/en/adcd/fundamental/barcode/
-19. Barcode scanning basics:<br>https://www.denso-wave.com/en/adcd/fundamental/barcode/scan/index.html
-20. Barcode check digit calculation:<br>https://azaleabarcodes.com/white-papers/
-21. Coding & decoding basic definition:<br>https://www.geeksforgeeks.org/coding-decoding
-22. Coding & decoding in mathematics:<br>https://encyclopediaofmath.org/wiki/Coding_and_decoding
-23. Coding theory:<br>https://en.wikipedia.org/wiki/Coding_theory
+## References
+
+1. Barcode components diagram:<br>[https://www.denso-wave.com/en/adcd/fundamental/barcode/barcode/index.html](https://www.denso-wave.com/en/adcd/fundamental/barcode/barcode/index.html)
+2. English letter frequencies:<br>[https://www3.nd.edu/~busiforc/handouts/cryptography/letterfrequencies.html](https://www3.nd.edu/~busiforc/handouts/cryptography/letterfrequencies.html)
+3. Properties of random numbers:<br>[https://www.eg.bucknell.edu/~xmeng/Course/CS6337/Note/master/node37.html](https://www.eg.bucknell.edu/~xmeng/Course/CS6337/Note/master/node37.html)
+4. Pseudorandom numbers:<br>[https://www.computerhope.com/jargon/p/pseudo-random.htm](https://www.computerhope.com/jargon/p/pseudo-random.htm)
+5. Pseudorandom number generator basics:<br>[https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/random-vs-pseudorandom-number-generators](https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/random-vs-pseudorandom-number-generators)
+6. Pseudorandom number generators using modulus operator:<br>[https://nap.nationalacademies.org/read/2026/chapter/7#66](https://nap.nationalacademies.org/read/2026/chapter/7#66)
+7. End-to-end encryption:<br>[https://support.google.com/messages/answer/10262381?hl=en](https://support.google.com/messages/answer/10262381?hl=en)
+8. Hash function definition:<br>[https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm](https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm)
+9. Hash function implementation:<br>[https://www.cs.hmc.edu/~geoff/classes/hmc.cs070.200101/homework10/hashfuncs.html](https://www.cs.hmc.edu/~geoff/classes/hmc.cs070.200101/homework10/hashfuncs.html)
+10. Hash and Python dictionaries:<br>[https://www.laurentluce.com/posts/python-dictionary-implementation/](https://www.laurentluce.com/posts/python-dictionary-implementation/)
+11. Parity bit method:<br>[https://www.techtarget.com/searchstorage/definition/parity](https://www.techtarget.com/searchstorage/definition/parity)
+12. Hamming code (parity bit):<br>[https://www.geeksforgeeks.org/hamming-code-in-computer-network/](https://www.geeksforgeeks.org/hamming-code-in-computer-network/)
+13. Defining cryptography:<br>[https://www.kaspersky.com/resource-center/definitions/what-is-cryptography](https://www.kaspersky.com/resource-center/definitions/what-is-cryptography)
+14. Defining cryptosystem:<br>[https://www.tutorialspoint.com/cryptography/cryptosystems.htm](https://www.tutorialspoint.com/cryptography/cryptosystems.htm)
+15. Introduction to RSA:<br>[https://en.wikipedia.org/wiki/RSA_(cryptosystem)](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
+16. Converting message to integer:<br>[https://github.com/Sazzad-Saju/RSA_Algorithm](https://github.com/Sazzad-Saju/RSA_Algorithm)
+17. Why we use Carmichael function in RSA:<br>[https://crypto.stackexchange.com/questions/33676/why-do-we-need-eulers-totient-function-varphin-in-rsa/](https://crypto.stackexchange.com/questions/33676/why-do-we-need-eulers-totient-function-varphin-in-rsa/)
+18. Barcode definition:<br>[https://www.denso-wave.com/en/adcd/fundamental/barcode/](https://www.denso-wave.com/en/adcd/fundamental/barcode/)
+19. Barcode scanning basics:<br>[https://www.denso-wave.com/en/adcd/fundamental/barcode/scan/index.html](https://www.denso-wave.com/en/adcd/fundamental/barcode/scan/index.html)
+20. Barcode check digit calculation:<br>[https://azaleabarcodes.com/white-papers/](https://azaleabarcodes.com/white-papers/)
+21. Coding & decoding basic definition:<br>[https://www.geeksforgeeks.org/coding-decoding](https://www.geeksforgeeks.org/coding-decoding)
+22. Coding & decoding in mathematics:<br>[https://encyclopediaofmath.org/wiki/Coding_and_decoding](https://encyclopediaofmath.org/wiki/Coding_and_decoding)
+23. Coding theory:<br>[https://en.wikipedia.org/wiki/Coding_theory](https://en.wikipedia.org/wiki/Coding_theory)
