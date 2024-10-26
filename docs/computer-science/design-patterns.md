@@ -37,7 +37,7 @@ Design patterns (or more precisely, software design patterns) are reusable solut
 
 <details><summary>Structural</summary>Patterns for object implementation (i.e. use of class features and functions).</details>
 
-<details><summary>Behavioural</sumamry>Patterns for object interaction (e.g. communication, management, etc.).</details>
+<details><summary>Behavioural</summary>Patterns for object interaction (e.g. communication, management, etc.).</details>
 
 > **References**:
 >
