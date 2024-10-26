@@ -22,7 +22,7 @@
 # Introduction
 Design patterns (or more precisely, software design patterns) are reusable solutions to recurring challenges in software design. These solutions are reusable because they are generalised, i.e. they are abstract solutions that serve as templates or conceptual frameworks rather than exact solutions (hence the use of term "pattern"). Design patterns offer the following values:
 
-<details><summary>Reusability</summary>Design patterns are reusable solutions to common problems, reducing the need to rediscover solutions/solution components and promoting code reuse.<details>
+<details><summary>Reusability</summary>Design patterns are reusable solutions to common problems, reducing the need to rediscover solutions/solution components and promoting code reuse.</details>
 
 <details><summary>Flexibility</summary>Being generalised, design patterns are adaptable and can be tailored to specific requirements.</details>
 
