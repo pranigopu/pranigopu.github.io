@@ -106,4 +106,4 @@ It is helpful to think of this as a binomial distribution, where the probability
 
 ---
 
-**NOTE**: The probability density function for each order statistic can be obtained by differentiating the $CDF$.
+**NOTE**: _The probability density function for each order statistic can be obtained by differentiating the CDF._
