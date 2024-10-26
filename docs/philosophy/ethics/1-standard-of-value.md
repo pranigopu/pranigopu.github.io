@@ -1,3 +1,5 @@
+[<< Back to **Ethics**](https://pranigopu.github.io/philosophy/ethics)
+
 **THE STANDARD OF VALUE**
 
 ---
@@ -6,6 +8,10 @@
 
 - [Setting the context](#setting-the-context)
 - [The source of purpose](#the-source-of-purpose)
+
+---
+
+<details><summary><b>Key additional reference</b>: <a href="https://pranigopu.github.io/philosophy/ethics/epistemological-mistakes-in-proving-life-as-the-standard-of-value.html"><i>Epistemological Notes</i></a></summary>This is an important epistemological discussion on the potential conceptual and logical mistakes that must be avoided in any proof, with the proof of life as the standard of value taken as the case study.</details>
 
 ---
 
