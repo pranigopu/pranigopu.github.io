@@ -8,6 +8,7 @@
 
 - [Setting the context](#setting-the-context)
 - [The source of purpose](#the-source-of-purpose)
+- [Life as the only self-sustaining purpose](#life-as-the-only-self-sustaining-purpose)
 
 ---
 
@@ -18,7 +19,7 @@
 # Setting the context
 What is, is, and what is not, is not. Thus, existence exists, and that which is, is what it is. Existence is the truth of all truths, and thus, the truth underlying existence must underlie all truths, namely that which is, is what it is, i.e. the law of identity, which can also be stated as "A is A". From this law, we derive the law of non-contradiction (i.e. "A cannot be non-A at the same time and in the same respect") and the law of causality (i.e. what an entity does is an extension of what it is).
 
-<details><summary><i>More on the aforementioned derivations</i></summary><p style="color:blue">If A is A, then A cannot be its negation at the same time and in the same respect, for then, it would not be A. Thus, we get the first corollary of the law of identity, namely the law of non-contradiction. Now, note that an action is always an action of an entity. Thus, an action can never exist apart from the entity, and since nothing exists apart from its identity, an action can also never exist apart from the entity's identity. Lastly, by the law of non-contradiction, an action can also never exist in contradiction to the entity's identity. Thus, we have the law of action, namely that what an entity does is an extension of what it is, i.e. the law of causality.</p></details>
+<details><summary style="color:blue">More on the aforementioned derivations</summary><p style="color:blue">If A is A, then A cannot be its negation at the same time and in the same respect, for then, it would not be A. Thus, we get the first corollary of the law of identity, namely the law of non-contradiction. Now, note that an action is always an action of an entity. Thus, an action can never exist apart from the entity, and since nothing exists apart from its identity, an action can also never exist apart from the entity's identity. Lastly, by the law of non-contradiction, an action can also never exist in contradiction to the entity's identity. Thus, we have the law of action, namely that what an entity does is an extension of what it is, i.e. the law of causality.</p></details>
 
 Now, the senses give us what is of and from existence, and by their nature, they can give us nothing else. But the senses grasp only _that_ something is, not _what_ it is; what it is, is up to our mind to grasp. Evidently, to put our mind to the task of grasping the truth, we cannot but start with the law of identity, and we can never deviate from it lest we deviate from the pursuit of truth. Thus, we have the law underlying the pursuit of truth, namely that reason — the faculty of identifying and integrating the material given by our senses — is our only means of pursuing the truth, and logic — the art of non-contradictory identification — is the only means of pursuing the use of reason.
 
@@ -36,7 +37,25 @@ Thus, the context is as follows:
 **NOTE**: _Logically, reason and free will are inseparable, since the ability to pursue the truth presupposes the ability to focus consistently and thus consciously on the truth as opposed to the false or the arbitrary. In other words, there can be no reason without free will, and since the basis of free will is the ability to direct one's focus, the fullest exercise of free will is the exercise of reason._
 
 # The source of purpose
-This is our context so far. With this context in mind, let us look upon ourselves. Do we act only as acted upon? No, we also act in a way that orients us toward a consciously identified potential, perhaps adapting to how we are acted upon but always orienting ourselves toward something in particular. Furthermore, we also push ourselves to act toward the consciously identified potential without needing to be acted upon at every step. In other words, we are not only reactive but also consciously proactive.
+_First, some definitions_...
+
+<details><summary><b>Thing</b></summary>That which exists. This could be an entity (i.e. that which exists as it is independent of consciousness), or an aspect of an entity (i.e. a part of the entity that is inseparable from its identity; this can be grasped by a consciousness' selective focus on the entity).</details>
+
+<details><summary><b>Context</b></summary>A context of a thing is a set of things that are related to it logically (e.g. based on similaries and differences), causally (e.g. based on actions, reactions and interactions), or both. Since any part of reality has identity and changes according to its identity, and since [multiplicity and interactivity are inherent in reality](https://pranigopu.github.io/philosophy/metaphysics/key-metaphysical-implications.html#multiplicity-and-interactivity), every part of reality is related to one or more things both logically and causally. Furthermore, by causality, any entity acts according to its own identity and the identity of its context. For example, water boils at different temperatures based on different pressure conditions; these conditions are the context of water's boiling point. As another example, a creature tends to behave one way toward benevolent creatures (e.g. in a friendly or at least non-hostile way) and another way toward malevolent creatures (e.g. in a threatened or hostile way); here, the nature of the creatures it is interacting with is the context of its behaviour.</details>
+
+<details><summary><b>Potential</b></summary>By causality, each change is derived from the identity of the entities that change or cause the change. Thus, an entity with a certain identity in a certain context is tied to a range of changes, both present (i.e. existent) and absent (i.e. non-existent). A potential is an absent change tied to a certain entity in a certain context.<br><br><b>NOTE</b>: <i>To say something will happen or can happen is to identify the relationship between a certain kind of change and a certain kind of entity within a certain kind of context. Hence, we see that potential can only be identified with respect to history, i.e. what can happen can only be identified with respect to what has happened.</i></details>
+
+---
+
+_To summarise the above (credits to ChatGPT)_...
+
+A "thing" is anything that exists, either as an independent entity or a part of one, and its context consists of related things that influence its identity and behavior; potential refers to the presently absent changes tied to an entity's identity within some context, and it can be grasped through knowledge of the past actions of the entity within this context.
+
+---
+
+_Back to the main discussion_...
+
+With the [established context](#setting-the-context) in mind, let us look upon ourselves. Do we act only as acted upon? No, we also act in a way that orients us toward a consciously identified potential, perhaps adapting to how we are acted upon but always orienting ourselves toward something in particular. Furthermore, we also push ourselves to act toward the consciously identified potential without needing to be acted upon at every step. In other words, we are not only reactive but also consciously proactive.
 
 What if there were no consciously identified potential to act toward? Then, we can have no conscious orientation, since there is nothing to consciously orient ourselves toward. Even if we push ourselves to act, it would be toward nothing in particular, which means it would be toward nothing; this also means our focus would be toward nothing. In other words, we would exist without the exerise of focus, and hence, without the exercise of consciousness, and hence, without the exercise of anything that can sustain our existence as conscious beings. If we have not already become a vegetable or a corpse, we would soon become one, unless, of course, we turn toward some potential and act.
 
@@ -49,3 +68,22 @@ Now, what if such an entity strove to be conscious only in order to achieve some
 Hence, the end pursued by such an entity cannot be based on any regard for truth, which means it is arbitrary. This also means it is unchosen, since it is detached from the entity's conscious grasp of existence and hence detached from the entity's self-driven focus, i.e. detached from the entity's reason and choice. Hence, the entity either is an automaton or has abandoned reason and reality, in which case its pursuit is for nothing (i.e. nothing of real effect to itself).
 
 To conclude, only if an entity strives to sustain its own existence can it be alive, and an entity that is alive and conscious has only one potential that is aligned with reason and reality: its own conscious existence. Thus, we see that life, whatever its form, is an end in itself, i.e. it is its own justification. The question, "What is the meaning of life?" is as senseless as it is vague; life is its own meaning. Similarly, the assertion that, "Life is meaningless," is meaningless; life is the source of meaning as it is the only possible affirmation of reality and all its potential, and there can be no meaning apart from or "beyond" life. Having said this, we must raise a valuable question: what does it mean to strive to sustain one's conscious existence? What does this pursuit consist of, and what does it demand? These questions shall now be explored.
+
+# Life as the only self-sustaining purpose
+_First some definitions_...
+
+<details><summary><b>Self-generated action</b></summary>A self-generated action of an entity is its action whose first cause (excluding the causes that formed the entity) is internal, i.e. the entity's own characteristics and components. As an example, once formed, a living being seeks nutrition out of its own internal needs and motives, as opposed to a acting as a reaction to external factors. Similarly, once formed, a self-propelling machine moves according to its own mechanism and fuel (until it runs out), as opposed to being pushed or pulled by an external force. As a counterexample, a volcano's eruption is not self-generated, since it is the effect of factors external to the body of the volcano, e.g. the build-up of magma from the lower levels of earth, with the rising pressure within the volcano being a reaction to this build-up. Similarly, the action of water under gravity to seek its level is not self-generated, because its level-seeking is first and foremost a reaction to the force of gravity. Note that almost all entities have both internal and external causes driving their actions; the purpose of the concept of "self-generated action" is to identify the source of a certain action, so as to know more about the nature of the entity and the context it is in.</details>
+
+<details><summary><b>Goal</b></summary>A goal of an entity is a potential toward which it orients itself consistently (i.e. across time and with respect to a range of external factors) by self-generated action. Consistency is essential, since an inconsistent orientation is essentially a lack of orientation. The self-generated nature of the action is also essential, since an action that is first and foremost a reaction is not <i>driven</i> by the entity and thus reveals the orientation not of the entity but of a whole context in which the entity exists.</details>
+
+<details>
+<summary style="color:blue">Epistemological note on the concept of "goal":<summary><p style="color:blue">
+<i>The purpose of the concept of "goal" is to distinguish between a cause in a broader sense from a cause that is derived from an entity that acts on its own toward a potential it grasps or orients itself toward in some way. Where does the need for such a distinction come from? I posit that it first comes from the distinction between "coincidental" and "intentional" actions or occurrences. To clarify, consider these observations: (1) Our conscious actions are always with respect to a potential that we already identify in some form and already orient ourselves toward before we pursue it. (2) We also see such actions in other conscious beings. Furthermore, (3) we observe that the pursuit of such potential is ongoing and interrelated with other such pursuits, i.e. we pursue some things for the sake of other things and ultimately for the sake of a goal that is its own goal (i.e. an end in itself). Lastly, (4) we observe that certain characteristics that separate conscious actions from natural causes, i.e. the characteristics of being self-generated, potential-oriented, interrelated and continuous until failure, are present in the characteristic actions of all living beings, not just conscious beings. These observations point to the existence of a fundamentally distinct kind of causation, i.e. final causation or goal-orientation.</i>
+</p></details>
+
+<details><summary><b>Value</b>Value is that which one acts to gain and/or keep. It is, in essence, the achievable object of a goal (achievability is key, since objectively, one cannot act to gain and/or keep anything if the facts of reality make it impossible as such).</details>
+
+---
+
+_Back to the main discussion_...
+
