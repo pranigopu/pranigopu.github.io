@@ -78,6 +78,8 @@ _First, some definitions_...
 
 <details><summary><b>Self-generated action</b></summary>A self-generated action of an entity is its action whose first cause (excluding the causes that formed the entity) is internal, i.e. the entity's own characteristics and components. As an example, once formed, a living being seeks nutrition out of its own internal needs and motives, as opposed to a acting as a reaction to external factors. Similarly, once formed, a self-propelling machine moves according to its own mechanism and fuel (until it runs out), as opposed to being pushed or pulled by an external force. As a counterexample, a volcano's eruption is not self-generated, since it is the effect of factors external to the body of the volcano, e.g. the build-up of magma from the lower levels of earth, with the rising pressure within the volcano being a reaction to this build-up. Similarly, the action of water under gravity to seek its level is not self-generated, because its level-seeking is first and foremost a reaction to the force of gravity. Note that almost all entities have both internal and external causes driving their actions; the purpose of the concept of "self-generated action" is to identify the source of a certain action, so as to know more about the nature of the entity and the context it is in.</details>
 
+<br>
+
 <details><summary><b>Goal</b></summary>A goal of an entity is a potential toward which it orients itself consistently (i.e. across time and with respect to a range of external factors) by self-generated action. Consistency is essential, since an inconsistent orientation is essentially a lack of orientation. The self-generated nature of the action is also essential, since an action that is first and foremost a reaction is not <i>driven</i> by the entity and thus reveals the orientation not of the entity but of a whole context in which the entity exists.</details>
 
 <details>
@@ -85,7 +87,11 @@ _First, some definitions_...
 <i>The purpose of the concept of "goal" is to distinguish between a cause in a broader sense from a cause that is derived from an entity that acts on its own toward a potential it grasps or orients itself toward in some way. Where does the need for such a distinction come from? I posit that it first comes from the distinction between "coincidental" and "intentional" actions or occurrences. To clarify, consider these observations: (1) Our conscious actions are always with respect to a potential that we already identify in some form and already orient ourselves toward before we pursue it. (2) We also see such actions in other conscious beings. Furthermore, (3) we observe that the pursuit of such potential is ongoing and interrelated with other such pursuits, i.e. we pursue some things for the sake of other things and ultimately for the sake of a goal that is its own goal (i.e. an end in itself). Lastly, (4) we observe that certain characteristics that separate conscious actions from natural causes, i.e. the characteristics of being self-generated, potential-oriented, interrelated and continuous until failure, are present in the characteristic actions of all living beings, not just conscious beings. These observations point to the existence of a fundamentally distinct kind of causation, i.e. final causation or goal-orientation.</i>
 </p></details>
 
+<br>
+
 <details><summary><b>Necessary condition</b></summary>A necessary condition for a fact X is an actual or potential fact whose absence contradicts X, i.e. X can only be true if its necessary conditions are present.</details>
+
+<br>
 
 <details><summary><b>Life</b></summary>Life is self-generated, self-sustaining action. No action can exist out of context, i.e. apart from its necessary conditions, hence life also exists with respect to necessary conditions. In other words, life is possible within a set of constraints. Furthermore, within these constraints, life is the self-generated action of a living entity that necessarily results in sustaining its own existence.</details>
 
