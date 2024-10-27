@@ -108,5 +108,5 @@ We see that life is an end in itself, but is life the only end in itself? Consid
 # Expanding on the nature of life
 _First, some definitions_...
 
-<details><summary><b>Value</b>Value is that which one acts to gain and/or keep. It is, in essence, the achievable object of a goal (achievability is key, since objectively, one cannot act to gain and/or keep anything if the facts of reality make it impossible as such).</details>
+<details><summary><b>Value</b></summary>Value is that which one acts to gain and/or keep. It is, in essence, the achievable object of a goal (achievability is key, since objectively, one cannot act to gain and/or keep anything if the facts of reality make it impossible as such).</details>
 
