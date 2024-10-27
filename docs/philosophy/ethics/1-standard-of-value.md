@@ -9,6 +9,10 @@
 - [Setting the context](#setting-the-context)
 - [The source of purpose](#the-source-of-purpose)
 - [Life as the only self-sustaining purpose](#life-as-the-only-self-sustaining-purpose)
+  - [The hierarchical nature of goals for a living being](#the-hierarchical-nature-of-goals-for-a-living-being)
+  - [The nature of a goal that is an end in itself](#the-nature-of-a-goal-that-is-an-end-in-itself)
+  - [Life as the only end in itself](#life-as-the-only-end-in-itself)
+- [Expanding on the nature of life](#expanding-on-the-nature-of-life)
 
 ---
 
@@ -70,7 +74,7 @@ Hence, the end pursued by such an entity cannot be based on any regard for truth
 To conclude, only if an entity strives to sustain its own existence can it be alive, and an entity that is alive and conscious has only one potential that is aligned with reason and reality: its own conscious existence. Thus, we see that life, whatever its form, is an end in itself, i.e. it is its own justification. The question, "What is the meaning of life?" is as senseless as it is vague; life is its own meaning. Similarly, the assertion that, "Life is meaningless," is meaningless; life is the source of meaning as it is the only possible affirmation of reality and all its potential, and there can be no meaning apart from or "beyond" life. Having said this, we must raise a valuable question: what does it mean to strive to sustain one's conscious existence? What does this pursuit consist of, and what does it demand? These questions shall now be explored.
 
 # Life as the only self-sustaining purpose
-_First some definitions_...
+_First, some definitions_...
 
 <details><summary><b>Self-generated action</b></summary>A self-generated action of an entity is its action whose first cause (excluding the causes that formed the entity) is internal, i.e. the entity's own characteristics and components. As an example, once formed, a living being seeks nutrition out of its own internal needs and motives, as opposed to a acting as a reaction to external factors. Similarly, once formed, a self-propelling machine moves according to its own mechanism and fuel (until it runs out), as opposed to being pushed or pulled by an external force. As a counterexample, a volcano's eruption is not self-generated, since it is the effect of factors external to the body of the volcano, e.g. the build-up of magma from the lower levels of earth, with the rising pressure within the volcano being a reaction to this build-up. Similarly, the action of water under gravity to seek its level is not self-generated, because its level-seeking is first and foremost a reaction to the force of gravity. Note that almost all entities have both internal and external causes driving their actions; the purpose of the concept of "self-generated action" is to identify the source of a certain action, so as to know more about the nature of the entity and the context it is in.</details>
 
@@ -81,9 +85,28 @@ _First some definitions_...
 <i>The purpose of the concept of "goal" is to distinguish between a cause in a broader sense from a cause that is derived from an entity that acts on its own toward a potential it grasps or orients itself toward in some way. Where does the need for such a distinction come from? I posit that it first comes from the distinction between "coincidental" and "intentional" actions or occurrences. To clarify, consider these observations: (1) Our conscious actions are always with respect to a potential that we already identify in some form and already orient ourselves toward before we pursue it. (2) We also see such actions in other conscious beings. Furthermore, (3) we observe that the pursuit of such potential is ongoing and interrelated with other such pursuits, i.e. we pursue some things for the sake of other things and ultimately for the sake of a goal that is its own goal (i.e. an end in itself). Lastly, (4) we observe that certain characteristics that separate conscious actions from natural causes, i.e. the characteristics of being self-generated, potential-oriented, interrelated and continuous until failure, are present in the characteristic actions of all living beings, not just conscious beings. These observations point to the existence of a fundamentally distinct kind of causation, i.e. final causation or goal-orientation.</i>
 </p></details>
 
-<details><summary><b>Value</b>Value is that which one acts to gain and/or keep. It is, in essence, the achievable object of a goal (achievability is key, since objectively, one cannot act to gain and/or keep anything if the facts of reality make it impossible as such).</details>
+<details><summary><b>Necessary condition</b></summary>A necessary condition for a fact X is an actual or potential fact whose absence contradicts X, i.e. X can only be true if its necessary conditions are present.</details>
+
+<details><summary><b>Life</b></summary>Life is self-generated, self-sustaining action. No action can exist out of context, i.e. apart from its necessary conditions, hence life also exists with respect to necessary conditions. In other words, life is possible within a set of constraints. Furthermore, within these constraints, life is the self-generated action of a living entity that necessarily results in sustaining its own existence.</details>
+
 
 ---
 
 _Back to the main discussion_...
+
+There are three kinds of goals: (1) an intermediate goal, which is a goal that is a means to another goal, (2) a self-sustaining goal, which is a goal that is an end in itself, i.e. a means to its own further achievement, and (3) a deadend goal, which is a goal that is neither a means to another goal nor an end in itself. If a goal is an end in itself, then logically, it is a means to itself, i.e. its achievement is a necessary condition (though not necessarily a sufficient condition) for its own further achievement.
+
+## The hierarchical nature of goals for a living being
+A goal — like any action, state or potential — is a goal of an entity. If the entity pursues a goal only for the sake of achieving it once and not as a means to pursue further goals, then its actions are not tied to the demands of its existence. If so, it is not alive. If it is alive, however, it cannot be inconsistent in sustaining its own life, nor can it be consistent in its orientation toward a potential apart from its life, since if either of these were true, the sustenance of the entity's life would not be its orientation but a chance result of chance actions. If so, then the entity would not in fact be alive. Hence, anything the living being does is (and by its nature must be) tied to the demands of its existence (barring accidents or chance inconsistencies), which means any other goal it has must be a means to its life, directly or indirectly. Hence, a goal of a living being is always either a means to another goal or an end in itself. Hence, the goals of any living being are hierarchical in nature.
+
+## The nature of a goal that is an end in itself
+Let X be a non-living entity with some goal G that is an end in itself (i.e. self-sustaining). Then, given the other necessary conditions, achieving G is a sufficient condition for further achieving G. Hence, given the other necessary conditions, achieving G sustains the existence of X so that it further achieves G. In other words, since X produces self-generated action to pursue G and since the pursuit of G sustains itself — given the other necessary conditions — we have that X is an entity capable of and oriented toward self-generated, self-sustaining action. In other words, X is alive. Hence, we have that every entity with a self-sustaining goal is a living entity and vice versa.
+
+## Life as the only end in itself
+We see that life is an end in itself, but is life the only end in itself? Consider the nature of a goal that is an end in itself. If any entity has such a goal, then necessarily, the pursuit of the goal sustains the entity's own existence, given the other necessary conditions. In other words, such a goal is necessarily a self-sustaining goal, i.e. a goal that — given the other necessary conditions — sustains the existence of the entity pursuing it. But this is exactly what life is: self-generated, self-sustaining action. In other words, an end in itself is indistinguishable from life, i.e. it has to be life in some form. Hence, life is indeed the only end in itself.
+
+# Expanding on the nature of life
+_First, some definitions_...
+
+<details><summary><b>Value</b>Value is that which one acts to gain and/or keep. It is, in essence, the achievable object of a goal (achievability is key, since objectively, one cannot act to gain and/or keep anything if the facts of reality make it impossible as such).</details>
 
