@@ -22,3 +22,5 @@
 
 # Data warehouse
 A data warehouse is a data storage system that aggregates data from multiple (possibly disparate) sources into a single central and consistent data store. Data warehouses help prepare data for data analytics, business intelligence (BI), data mining, machine learning (ML) and artificial intelligence (AI) initiatives.
+
+> **Reference**: [_What is a data warehouse?_ by Jim Holdsworth and Matthew Kosinski from **IBM.com**](https://www.ibm.com/topics/data-warehouse)
