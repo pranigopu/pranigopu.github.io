@@ -21,7 +21,9 @@ A conceptual model is a sufficiently abstract and useful representation of an en
 Given a context (which involves a purpose and a set of constraints), a parameter of a model is an attribute of the model that is variable in the given context. An attribute of the model that is constant in the given context is not a parameter for the given context. In short, a "parameter" is identified with respect to a given context, and an attribute is a parameter only if it is variable in the given context. For example, when the purpose is to optimise a neural network for the given data, the parameters are the network's weights and biases. However, when the purpose is to optimise the architecture of the neural network for the given domain, the parameters are the number of layers, the number of neurons per layer, the activation functions, etc. (which are taken as constant in the first case). Lastly, for ease of reference, note that a parameter may be simple (i.e. scalar) or composite (i.e. a tuple/vector of simple parameters).
 
 # Function approximation models
-These are learning models whose goal is to approximate the function that describes relationship (omitting the effect of noise) between the independent and dependent attributes of the observed data points. To elaborate, in most cases, there exist practically unaccountable factors that affect the data points probabilistically; the learning model's goal is to omit the effect of such factors and focus on the relationship between the independent and dependent attributes.
+These are supervised learning models whose goal is to approximate the function that describes relationship (omitting the effect of noise) between the independent and dependent attributes of the observed data points. To elaborate, in most cases, there exist practically unaccountable factors that affect the data points probabilistically; the learning model's goal is to omit the effect of such factors and focus on the relationship between the independent and dependent attributes.
+
+---
 
 Some function approximation learning models:
 
@@ -32,7 +34,7 @@ Some function approximation learning models:
 - Neural network
 
 # Decision-making models
-These are learning models whose goal is to optimise decision-making parameters, i.e. parameters that affect condition-based choices of actions or outcomes.
+These are supervised learning models whose goal is to optimise decision-making parameters, i.e. parameters that affect condition-based choices of actions or outcomes.
 
 - Decision tree
 - Random forest

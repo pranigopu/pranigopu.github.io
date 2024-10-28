@@ -3,6 +3,7 @@
 Machine learning (ML) is the study of automating a system's use of observations to improve its _ability_ to deal with a given task; hence, note that it is not merely the improvement of the system's performance but its ability to perform, which implies improvement of its _long-range_ performance. Hence, ML is not about adapting to observations in the moment but using observations to make persistent adaptations for the future. This long-range orientation differentiates ML from areas such as interactive agents (which can but do not necessarily involve ML). To elaborate, ML is the study of methods that can automatically detect patterns in data and then use the uncovered patterns to predict future data or perform other kinds of decision-making under uncertainty (which can also be planning how to collect more data) (Murphy, 2012). Given that there is inherent uncertainty in making inferences from observation without rigorous inductive reasoning, the theoretical basis of ML is the study of uncertainty, which involves the measurement and (if possible) minimisation of uncertainty; hence, probability theory is a theoretical basis for ML.
 
 ## Explore
+- [Definitions](https://pranigopu.github.io/machine-learning/definitions.html)
 - [Essentials of ML](https://pranigopu.github.io/machine-learning/essentials-of-ml.html)
 
 **Supervised learning (SL)**:
