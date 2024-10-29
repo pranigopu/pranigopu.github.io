@@ -7,17 +7,17 @@
 **NOTE**: `A~B` $\implies$ `A` with respect to `B`
 
 - `V`: Vectors
-    - `V.base`: General definition of vector & specific interpretations
+    - `V.base`: General definition of vector and specific interpretations
         - Physics context (_relative change in position_)
-        - Computer science & data science context (_ordered list of values_)
+        - Computer science and data science context (_ordered list of values_)
         - Mathematics, i.e. generalised context (_generalises all other contexts_)
-        - Relation between geometric & numeric interpretations
-    - `V.Op`: Vector operations & their meaning w.r.t. geometric interpretation<br> **NOTE**: _Full clarity of some topics requires understanding linear transformations_
+        - Relation between geometric and numeric interpretations
+    - `V.Op`: Vector operations and their meaning w.r.t. geometric interpretation<br> **NOTE**: _Full clarity of some topics requires understanding linear transformations_
         - Vector addition (_obtaining the resultant vector of a series of vector movements_)
         - Scalar product (_scaling a vector, i.e. changing its magnitude while maintaining direction_)
         - Vector product
-        - Dot product & its meaning (_discussed later_)
-        - Cross product & its meaning (_discussed later_)
+        - Dot product and its meaning (_discussed later_)
+        - Cross product and its meaning (_discussed later_)
     - `V.Sp`: Span of a set of vectors
     - `V.M`: Matrices as vectors of vectors
     - `V.VS`: Vector spaces
@@ -30,8 +30,8 @@
 Matrices are deeply tied to linear transformations, so always consider matrix-related topics in the context of LT...
 
 - `M`: Matrices<br> _... extends from_ `V.M`
-    - `M.base`: General definition of matrix & specific interpretations
-    - `M.Op`: Matrix operations & their meaning w.r.t. vectors
+    - `M.base`: General definition of matrix and specific interpretations
+    - `M.Op`: Matrix operations and their meaning w.r.t. vectors
         - Matrix addition (_ordered sequence of multiple vector additions_)
         - Scalar product (_ordered sequence of the scaling of multiple vectors_)
         - Matrix multiplication (_ordered sequence of linear combinations of multiple vectors_)
@@ -40,19 +40,19 @@ Matrices are deeply tied to linear transformations, so always consider matrix-re
         - Linearly transforming a vector with matrix multiplication
         - Relating composition of functions to composition of LT's to composition of matrices<br> _Note that LT is a kind of function_
     - `M.Det`: Determinant
-        - `M.Det~LT`: Determinant as a number related to a LT<br> _More specifically, it gives the scale & orientation of the LT_ <br> **NOTE**: _Scaling_ $\implies$ _Scaling of any subspace of the original space_
-            - _Validating this representation of scale & orientation_
+        - `M.Det~LT`: Determinant as a number related to a LT<br> _More specifically, it gives the scale and orientation of the LT_ <br> **NOTE**: _Scaling_ $\implies$ _Scaling of any subspace of the original space_
+            - _Validating this representation of scale and orientation_
             - _What does zero determinant mean?_
-        - Calculation & justification of the calculation method
-        - Key results on determinants & their validation
+        - Calculation and justification of the calculation method
+        - Key results on determinants and their validation
             - $\det(A B) = \det(A) \det(B)$
     - `M.Inv`: Inverse of a matrix
         - `M.Det~LT`: Inverse of a matrix as inverse (i.e. reversal) of a LT<br> _LT is a function; think in terms of inverse of functions_
-        - Relation between inverse & identity transformations
-        - Relation between determinant & inverse
+        - Relation between inverse and identity transformations
+        - Relation between determinant and inverse
     - `M.SoE`: Systems of equations as matrices
         - `M.SoE~LT`: SoE as finding the preimage of a vector w.r.t. a LT<br> _Looking for the vector(s) that is mapped by the LT to the given vector_
-        - Zero determinant & possible solutions given coefficient <br> _Connect with LT_
+        - Zero determinant and possible solutions given coefficient <br> _Connect with LT_
         - Specifying zero determinant cases using _rank_ <br> _Connect with LT_
         - Obtaining the solution of a SoE using the inverse of the coefficient matrix
 
