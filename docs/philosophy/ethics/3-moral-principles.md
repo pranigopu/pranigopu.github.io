@@ -96,6 +96,8 @@ Morality defines values and the principles required to achieve them, with the st
 
 Not avoiding the bad undermines the pursuit of values, and the partial pursuit of the good ignores or rejects some values, thereby also undermining the pursuit of values. Hence, it is not merely the avoidance of the bad or the partial pursuit of the good but rather the full pursuit of the good that is moral. In other words, you are not moral for (1) merely not committing an act of evil, or (2) pursuing a value or values in a way that does not pursue the greatest achievement of your integrated system of values to the best of your knowledge or capacity. To emphasise the second point, to pursue your values partially with respect to your knowledge and capacity is immoral (though less immoral than pursuing evil). By extension, not pursuing a value within your knowledge and capacity is immoral.
 
+To understand why, consider: the partial pursuit of values is the partial pursuit of life, in effect. In other words, part of the time, you place either something else or nothing in particular as the highest value and the standard of value. Now, life is continuous, and devaluing it for even a moment serves to undermine it without rational cause. Hence, in partially pursuing values and thus life as a policy, you act to devalue your life, thereby abandoning reason and reality on some level.
+
 It must also be noted that the achievement of a value is not moral in isolation, i.e. you must evaluate an action by what has been gained not merely in a specific context but in the full context of your integrated system of values.
 
 ---
