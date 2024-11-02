@@ -36,9 +36,9 @@ $a_2x + b_2y = c_2$
 
 Note that here, $x$ and $y$ are two separate variables representing two separate attributes, while the rest are constants. Drawing from [_Linear Combinations of Vectors_](https://pranigopu.github.io/mathematics/linear-algebra/linear-combos-of-vectors.html), we can rewrite the given system using vectors such that each vector has two dimensions, one for representing the first equation and the other for representing the second equation (in the same order for all the vectors). This is given below:
 
-$\begin{bmatrix} a_1 \\ a_2 \end{bmatrix} x + \begin{bmatrix} b_1 \\ b_2 \end{bmatrix} y = \begin{bmatrix} c_1 \\ c_2 \end{bmatrix}$
+$\begin{bmatrix} a_1 \newline a_2 \end{bmatrix} x + \begin{bmatrix} b_1 \newline b_2 \end{bmatrix} y = \begin{bmatrix} c_1 \newline c_2 \end{bmatrix}$
 
-Putting $\vec{a} = \begin{bmatrix} a_1 \\ a_2 \end{bmatrix}$, $\vec{b} = \begin{bmatrix} b_1 \\ b_2 \end{bmatrix}$ and $\vec{c} = \begin{bmatrix} c_1 \\ c_2 \end{bmatrix}$:
+Putting $\vec{a} = \begin{bmatrix} a_1 \newline a_2 \end{bmatrix}$, $\vec{b} = \begin{bmatrix} b_1 \newline b_2 \end{bmatrix}$ and $\vec{c} = \begin{bmatrix} c_1 \newline c_2 \end{bmatrix}$:
 
 $\vec{a} x + \vec{b} y = \vec{c}$
 
@@ -75,11 +75,11 @@ $a_{k1}x_1 + a_{k2}x_2 ... + a_{kn}x_n = c_k$
 
 For convenience, put:
 
-$\vec{a_1} = \begin{bmatrix} a_{11} \\ ... \\ a_{k1} \end{bmatrix}$, $\vec{a_2} = \begin{bmatrix} a_{12} \\ ... \\ a_{k2} \end{bmatrix}$ ... $\vec{a_n} = \begin{bmatrix} a_{1n} \\ ... \\ a_{kn} \end{bmatrix}$
+$\vec{a_1} = \begin{bmatrix} a_{11} \newline ... \newline a_{k1} \end{bmatrix}$, $\vec{a_2} = \begin{bmatrix} a_{12} \newline ... \newline a_{k2} \end{bmatrix}$ ... $\vec{a_n} = \begin{bmatrix} a_{1n} \newline ... \newline a_{kn} \end{bmatrix}$
 
 Also for convenience, put:
 
-$\vec{c} = \begin{bmatrix} c_1 \\ ... \\ c_k \end{bmatrix}$
+$\vec{c} = \begin{bmatrix} c_1 \newline ... \newline c_k \end{bmatrix}$
 
 **1. Row Picture**:
 
