@@ -32,6 +32,8 @@
 # Vector representations
 > **Related material**: [_Vectors_](https://pranigopu.github.io/mathematics/linear-algebra/vectors.html)
 
+---
+
 - **Row vector**: A horizontally ordered sequence of values
 - **Column vector**: A vertically ordered sequence of values
 
