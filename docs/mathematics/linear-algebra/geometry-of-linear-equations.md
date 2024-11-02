@@ -34,14 +34,26 @@ Note that here, $x$ and $y$ are two separate variables representing two separate
 
 $\begin{bmatrix} a_1 \\ a_2 \end{bmatrix} x + \begin{bmatrix} b_1 \\ b_2 \end{bmatrix} y = \begin{bmatrix} c_1 \\ c_2 \end{bmatrix}$
 
+Putting $\vec{a} = \begin{bmatrix} a_1 \\ a_2 \end{bmatrix}$, $\vec{b} = \begin{bmatrix} b_1 \\ b_2 \end{bmatrix}$ and $\vec{c} = \begin{bmatrix} c_1 \\ c_2 \end{bmatrix}$:
+
+$\vec{a} x + \vec{b} y = \vec{c}$
+
 ---
 
 Hence, we get two ways of visualising this system:
 
-**Row picture**:
+**1. Row picture**:
 
 - One equation at a time
 - Each equation is a function in a 2D space
 - Intersection of the functions is the system's solution
 
-![]
+![Row Picture](https://pranigopu.github.io/mathematics/linear-algebra/images/geometry-of-linear-equations--row-picture.png)
+
+**2. Column Picture**:
+
+- One vector at a time
+- Each vector is drawn in a 2D space
+- $\vec{c}$ is the resultant vector
+
+![Column Picture](https://pranigopu.github.io/mathematics/linear-algebra/images/geometry-of-linear-equations--column-picture.png)
