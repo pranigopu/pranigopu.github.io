@@ -61,7 +61,7 @@ We can recognise two ways of visualising this system:
 - Each equation is a function in a 2D space
 - Intersection of the functions is the solution
 
-![Row Picture](https://pranigopu.github.io/mathematics/linear-algebra/geometry-of-linear-equations/geometry-of-linear-equations--row-picture.png)
+![Row Picture](https://pranigopu.github.io/mathematics/linear-algebra/geometry-of-linear-equations/row-picture.png)
 
 ## 2. Column Picture
 
@@ -70,7 +70,7 @@ We can recognise two ways of visualising this system:
 - $\vec{c}$ is the resultant vector
 - The solution is the linear combination of $\vec{a}$ and $\vec{b}$ that reaches $\vec{c}$
 
-![Column Picture](https://pranigopu.github.io/mathematics/linear-algebra/geometry-of-linear-equations/geometry-of-linear-equations--column-picture.png)
+![Column Picture](https://pranigopu.github.io/mathematics/linear-algebra/geometry-of-linear-equations/column-picture.png)
 
 ## Generalisation for $n$-dimensional space
 Consider a system of $k$ $n$-dimensional linear equations:
