@@ -26,4 +26,4 @@ _Basics_...
 
 - [Conceptual Map](https://pranigopu.github.io/mathematics/linear-algebra/conceptual-map.html)
 - [Vectors](https://pranigopu.github.io/mathematics/linear-algebra/vectors.html)
-- [Linear Combinations of Vectors](https://pranigopu.github.io/mathematics/linear-algebra/linear-combis-of-vectors.html)
+- [Linear Combinations of Vectors](https://pranigopu.github.io/mathematics/linear-algebra/linear-combos-of-vectors.html)
