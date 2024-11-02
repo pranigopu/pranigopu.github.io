@@ -126,7 +126,7 @@ $\begin{bmatrix} 2 & 3 & 4 \end{bmatrix} M$
 
 $= \begin{bmatrix} 2 & 3 & 4 \end{bmatrix} \begin{bmatrix} 1 & 2 \newline 3 & 4 \newline 5 & 6 \end{bmatrix}$
 
-If we take this further, you we see the equivalence.
+If we take this further, we see the equivalence.
 
 ## Matrix multiplication
 If matrix multiplication of a matrix $M$ with a vector $v$ represents a linear combination of the vectors consolidated by $M$, then naturally, matrix multiplication of a matrix $M$ with a matrix $N$ represents a sequence of linear combinations of the vectors consolidated by $M$, where the sequence of linear combinations is represented by the vectors consolidated by $N$. Hence, just as the first case results in a vector that is a linear combination of the vectors, the second case results in a matrix that consolidates a sequence of vectors that are linear combinations of vectors.

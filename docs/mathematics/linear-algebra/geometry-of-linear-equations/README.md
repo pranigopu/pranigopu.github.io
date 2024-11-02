@@ -91,6 +91,8 @@ Also for convenience, put:
 
 $\vec{c} = \begin{bmatrix} c_1 \newline ... \newline c_k \end{bmatrix}$
 
+---
+
 **1. Row Picture**:
 
 - One equation at a time
