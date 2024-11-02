@@ -22,9 +22,9 @@ if 'row_picture' in arg:
     plt.show()
 
 if 'column_picture' in arg:
-    plt.arrow(0, 0, 2, 1, width=0.005, head_width=0.1, head_length=0.1, length_includes_head=True, color='red', label='[2, 1]')
-    plt.arrow(0, 0, 1, -2, width=0.005, head_width=0.1, head_length=0.1, length_includes_head=True, color='blue', label='[1, -2]')
-    plt.arrow(0, 0, 3, -1, width=0.005, head_width=0.1, head_length=0.1, length_includes_head=True, color='green', label='[3, -1]')
+    plt.arrow(0, 0, 2, 1, width=0.005, head_width=0.1, head_length=0.1, length_includes_head=True, color='red', label='$\\vec a$ = [2, 1]')
+    plt.arrow(0, 0, 1, -2, width=0.005, head_width=0.1, head_length=0.1, length_includes_head=True, color='blue', label='$\\vec b$ = [1, -2]')
+    plt.arrow(0, 0, 3, -1, width=0.005, head_width=0.1, head_length=0.1, length_includes_head=True, color='green', label='$\\vec c$ = [3, -1]')
     plt.tight_layout()
     plt.grid(visible=True)
     plt.axhline(y=0, color='k', ls='dashed')

@@ -38,12 +38,22 @@ Note that here, $x$ and $y$ are two separate variables representing two separate
 
 $\begin{bmatrix} a_1 \newline a_2 \end{bmatrix} x + \begin{bmatrix} b_1 \newline b_2 \end{bmatrix} y = \begin{bmatrix} c_1 \newline c_2 \end{bmatrix}$
 
-Putting $\vec{a} = \begin{bmatrix} a_1 \newline a_2 \end{bmatrix}$, $\vec{b} = \begin{bmatrix} b_1 \newline b_2 \end{bmatrix}$ and $\vec{c} = \begin{bmatrix} c_1 \newline c_2 \end{bmatrix}$:
+Putting $\vec{a} = \begin{bmatrix} a_1 \newline a_2 \end{bmatrix}$, $\vec{b} = \begin{bmatrix} b_1 \newline b_2 \end{bmatrix}$ and $\vec{c} = \begin{bmatrix} c_1 \newline c_2 \end{bmatrix}$, we get:
 
 $\vec{a} x + \vec{b} y = \vec{c}$
 
 # Visualisation
-Hence, we get two ways of visualising this system:
+For visualisation, consider the following system:
+
+$2x + y = 3$
+
+$x - 2y = -1$
+
+Hence, we get $\vec{a} = \begin{bmatrix} 2 \newline 1 \end{bmatrix}$, $\vec{b} = \begin{bmatrix} 1 \newline -2 \end{bmatrix}$ and $\vec{c} = \begin{bmatrix} 3 \newline -1 \end{bmatrix}$.
+
+---
+
+We can recognise two ways of visualising this system:
 
 ## 1. Row picture
 
