@@ -48,45 +48,45 @@ A matrix is a sequence of commensurable vectors (i.e. vectors with the same numb
 ## Scaling multiple vectors at once
 Consider the following vectors:
 
-$v_1 = \begin{bmatrix} 1 \\ 2 \end{bmatrix}$
+$v_1 = \begin{bmatrix} 1 \newline 2 \end{bmatrix}$
 
-$v_2 = \begin{bmatrix} 3 \\ 4 \end{bmatrix}$
+$v_2 = \begin{bmatrix} 3 \newline 4 \end{bmatrix}$
 
-$v_3 = \begin{bmatrix} 5 \\ 6 \end{bmatrix}$
+$v_3 = \begin{bmatrix} 5 \newline 6 \end{bmatrix}$
 
 Consolidating them as a matrix:
 
-$M = \begin{bmatrix} 1 & 3 & 5 \\ 2 & 4 & 6 \end{bmatrix}$
+$M = \begin{bmatrix} 1 & 3 & 5 \newline 2 & 4 & 6 \end{bmatrix}$
 
 To scale them all by a factor of $2$:
 
 $2M$
 
-$= 2 \begin{bmatrix} 1 & 3 & 5 \\ 2 & 4 & 6 \end{bmatrix}$
+$= 2 \begin{bmatrix} 1 & 3 & 5 \newline 2 & 4 & 6 \end{bmatrix}$
 
-$= \begin{bmatrix} 1 \times 2 & 3 \times 2 & 5 \times 2 \\ 2 \times 2 & 4 \times 2 & 6 \times 2 \end{bmatrix}$
+$= \begin{bmatrix} 1 \times 2 & 3 \times 2 & 5 \times 2 \newline 2 \times 2 & 4 \times 2 & 6 \times 2 \end{bmatrix}$
 
-$= \begin{bmatrix} 2 & 6 & 10 \\ 4 & 8 & 12 \end{bmatrix}$
+$= \begin{bmatrix} 2 & 6 & 10 \newline 4 & 8 & 12 \end{bmatrix}$
 
 ## Translating multiple vectors at once
 Consider the same vectors and matrix as above:
 
-$M = \begin{bmatrix} 1 & 3 & 5 \\ 2 & 4 & 6 \end{bmatrix}$
+$M = \begin{bmatrix} 1 & 3 & 5 \newline 2 & 4 & 6 \end{bmatrix}$
 
 To translate them all by $2$:
 
 $M + 2$
 
-$= \begin{bmatrix} 1 & 3 & 5 \\ 2 & 4 & 6 \end{bmatrix} + 2$
+$= \begin{bmatrix} 1 & 3 & 5 \newline 2 & 4 & 6 \end{bmatrix} + 2$
 
-$= \begin{bmatrix} 1 + 2 & 3 + 2 & 5 + 2 \\ 2 + 2 & 4 + 2 & 6 + 2 \end{bmatrix}$
+$= \begin{bmatrix} 1 + 2 & 3 + 2 & 5 + 2 \newline 2 + 2 & 4 + 2 & 6 + 2 \end{bmatrix}$
 
-$= \begin{bmatrix} 3 & 5 & 7 \\ 4 & 6 & 8 \end{bmatrix}$
+$= \begin{bmatrix} 3 & 5 & 7 \newline 4 & 6 & 8 \end{bmatrix}$
 
 ## Linear combination by multiplication with a vector
 Consider the same vectors and matrix as above:
 
-$M = \begin{bmatrix} 1 & 3 & 5 \\ 2 & 4 & 6 \end{bmatrix}$
+$M = \begin{bmatrix} 1 & 3 & 5 \newline 2 & 4 & 6 \end{bmatrix}$
 
 Suppose we want the linear combination:
 
@@ -94,11 +94,11 @@ $2v_1 + 3v_2 + 4v_3$
 
 This can be done as follows:
 
-$M \begin{bmatrix} 2 \\ 3 \\ 4 \end{bmatrix}$
+$M \begin{bmatrix} 2 \newline 3 \newline 4 \end{bmatrix}$
 
-$= \begin{bmatrix} 1 & 3 & 5 \\ 2 & 4 & 6 \end{bmatrix} \begin{bmatrix} 2 \\ 3 \\ 4 \end{bmatrix}$
+$= \begin{bmatrix} 1 & 3 & 5 \newline 2 & 4 & 6 \end{bmatrix} \begin{bmatrix} 2 \newline 3 \newline 4 \end{bmatrix}$
 
-$= 2 \begin{bmatrix} 1 \\ 2 \end{bmatrix} + 3 \begin{bmatrix} 3 \\ 4 \end{bmatrix} + 4 \begin{bmatrix} 5 \\ 6 \end{bmatrix}$
+$= 2 \begin{bmatrix} 1 \newline 2 \end{bmatrix} + 3 \begin{bmatrix} 3 \newline 4 \end{bmatrix} + 4 \begin{bmatrix} 5 \newline 6 \end{bmatrix}$
 
 We see that this is exactly the same as:
 
@@ -116,13 +116,13 @@ $v_3 = \begin{bmatrix} 5 & 6 \end{bmatrix}$
 
 Then, we can represent them as the following matrix:
 
-$M = \begin{bmatrix} 1 & 2 \\ 3 & 4 \\ 5 & 6 \end{bmatrix}$
+$M = \begin{bmatrix} 1 & 2 \newline 3 & 4 \newline 5 & 6 \end{bmatrix}$
 
 The vector multiplication needed would then be:
 
 $\begin{bmatrix} 2 & 3 & 4 \end{bmatrix} M$
 
-$= \begin{bmatrix} 2 & 3 & 4 \end{bmatrix} \begin{bmatrix} 1 & 2 \\ 3 & 4 \\ 5 & 6 \end{bmatrix}$
+$= \begin{bmatrix} 2 & 3 & 4 \end{bmatrix} \begin{bmatrix} 1 & 2 \newline 3 & 4 \newline 5 & 6 \end{bmatrix}$
 
 If we take this further, you we see the equivalence.
 
