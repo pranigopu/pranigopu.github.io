@@ -20,6 +20,10 @@
 **Contents**:
 
 - [Introduction](#introduction)
+- [Visualisation](#visualisation)
+  - [1. Row picture](#1-row-picture)
+  - [2. Column Picture](#2-column-picture)
+  - [Generalisation for $n$-dimensional space](#generalisation-for-n-dimensional-space)
 
 ---
 
@@ -30,7 +34,7 @@ $a_1x + b_1y = c_1$
 
 $a_2x + b_2y = c_2$
 
-Note that here, $x$ and $y$ are two separate variables representing two separate attributes, while the rest are constants. Drawing from [_Linear Combinations of Vectors_](https://pranigopu.github.io/mathematics/linear-algebra/linear-combos-of-vectors.html), we can rewrite the given system using vectors such that each vector has two dimensions, one for representing $x$ and one for representing $y$ (in the same order for all the vectors); here, each constant becomes a magnitudes of the dimension corresponding to the variable for which they are a constant multiple. This is given below:
+Note that here, $x$ and $y$ are two separate variables representing two separate attributes, while the rest are constants. Drawing from [_Linear Combinations of Vectors_](https://pranigopu.github.io/mathematics/linear-algebra/linear-combos-of-vectors.html), we can rewrite the given system using vectors such that each vector has two dimensions, one for representing the first equation and the other for representing the second equation (in the same order for all the vectors). This is given below:
 
 $\begin{bmatrix} a_1 \\ a_2 \end{bmatrix} x + \begin{bmatrix} b_1 \\ b_2 \end{bmatrix} y = \begin{bmatrix} c_1 \\ c_2 \end{bmatrix}$
 
@@ -38,22 +42,54 @@ Putting $\vec{a} = \begin{bmatrix} a_1 \\ a_2 \end{bmatrix}$, $\vec{b} = \begin{
 
 $\vec{a} x + \vec{b} y = \vec{c}$
 
----
-
+# Visualisation
 Hence, we get two ways of visualising this system:
 
-**1. Row picture**:
+## 1. Row picture
 
 - One equation at a time
 - Each equation is a function in a 2D space
-- Intersection of the functions is the system's solution
+- Intersection of the functions is the solution
 
 ![Row Picture](https://pranigopu.github.io/mathematics/linear-algebra/images/geometry-of-linear-equations--row-picture.png)
 
-**2. Column Picture**:
+## 2. Column Picture
 
 - One vector at a time
 - Each vector is drawn in a 2D space
 - $\vec{c}$ is the resultant vector
+- The solution is the linear combination of $\vec{a}$ and $\vec{b}$ that reaches $\vec{c}$
 
 ![Column Picture](https://pranigopu.github.io/mathematics/linear-algebra/images/geometry-of-linear-equations--column-picture.png)
+
+## Generalisation for $n$-dimensional space
+Consider a system of $k$ $n$-dimensional linear equations:
+
+$a_{11}x_1 + a_{12}x_2 ... + a_{1n}x_n = c_1$
+
+$a_{21}x_1 + a_{22}x_2 ... + a_{2n}x_n = c_2$
+
+...
+
+$a_{k1}x_1 + a_{k2}x_2 ... + a_{kn}x_n = c_k$
+
+For convenience, put:
+
+$\vec{a_1} = \begin{bmatrix} a_{11} \\ ... \\ a_{k1} \end{bmatrix}$, $\vec{a_2} = \begin{bmatrix} a_{12} \\ ... \\ a_{k2} \end{bmatrix}$ ... $\vec{a_n} = \begin{bmatrix} a_{1n} \\ ... \\ a_{kn} \end{bmatrix}$
+
+Also for convenience, put:
+
+$\vec{c} = \begin{bmatrix} c_1 \\ ... \\ c_k \end{bmatrix}$
+
+**1. Row Picture**:
+
+- One equation at a time
+- Each equation is a function in an $n$-dimensional space
+- Intersection(s) of the functions is/are the solution(s)
+
+**2. Column Picture**:
+
+- One vector at a time
+- Each vector is drawn in an $n$-dimensional space
+- $\vec{c}$ is the resultant vector
+- Solutions are linear combinations of $\vec{a_1}, \vec{a_2} ... \vec{a_n}$ that reach $\vec{c}$
