@@ -71,7 +71,7 @@ Consider the same vectors and matrix as above:
 
 $M = \begin{bmatrix} 1 & 3 & 5 \newline 2 & 4 & 6 \end{bmatrix}$
 
-To translate them all by $2$:
+To translate them all by $2$ units:
 
 $M + 2$
 
