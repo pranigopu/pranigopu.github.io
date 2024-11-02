@@ -50,11 +50,7 @@ A matrix is a sequence of commensurable vectors (i.e. vectors with the same numb
 ## Scaling multiple vectors at once
 Consider the following vectors:
 
-$v_1 = \begin{bmatrix} 1 \newline 2 \end{bmatrix}$
-
-$v_2 = \begin{bmatrix} 3 \newline 4 \end{bmatrix}$
-
-$v_3 = \begin{bmatrix} 5 \newline 6 \end{bmatrix}$
+$v_1 = \begin{bmatrix} 1 \newline 2 \end{bmatrix}$, $v_2 = \begin{bmatrix} 3 \newline 4 \end{bmatrix}$, $v_3 = \begin{bmatrix} 5 \newline 6 \end{bmatrix}$
 
 Consolidating them as a matrix:
 
@@ -110,11 +106,7 @@ $= 2v_1 + 3v_2 + 4v_3$
 
 Note that if we use row vectors instead, we have:
 
-$v_1 = \begin{bmatrix} 1 & 2 \end{bmatrix}$
-
-$v_2 = \begin{bmatrix} 3 & 4 \end{bmatrix}$
-
-$v_3 = \begin{bmatrix} 5 & 6 \end{bmatrix}$
+$v_1 = \begin{bmatrix} 1 & 2 \end{bmatrix}$, $v_2 = \begin{bmatrix} 3 & 4 \end{bmatrix}$, $v_3 = \begin{bmatrix} 5 & 6 \end{bmatrix}$
 
 Then, we can represent them as the following matrix:
 
