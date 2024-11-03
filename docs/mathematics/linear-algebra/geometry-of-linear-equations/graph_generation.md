@@ -1,3 +1,12 @@
+[<< Back to **Geometry of Linear Equations**](https://pranigopu.github.io/mathematics/linear-algebra/geometry-of-linear-equations)
+
+**GRAPH GENERATION**
+
+**_Python code_**
+
+---
+
+```python
 import matplotlib.pyplot as plt
 import numpy as np
 import sys
@@ -31,3 +40,4 @@ if 'column_picture' in arg:
     plt.axvline(x=0, color='k', ls='dashed')
     plt.legend()
     plt.show()
+```

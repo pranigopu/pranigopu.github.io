@@ -24,3 +24,4 @@ _Basics_...
 - [Vectors](https://pranigopu.github.io/mathematics/linear-algebra/vectors.html)
 - [Linear Combinations of Vectors](https://pranigopu.github.io/mathematics/linear-algebra/linear-combos-of-vectors.html)
 - [Geometry of Linear Equations](https://pranigopu.github.io/mathematics/linear-algebra/geometry-of-linear-equations)
+- [Solving a System of Linear Equations](https://pranigopu.github.io/mathematics/linear-algebra/solving-system-of-linear-equations.html)

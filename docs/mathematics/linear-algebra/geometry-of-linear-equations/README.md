@@ -68,6 +68,12 @@ We can recognise two ways of visualising this system:
 
 ![Column Picture](https://pranigopu.github.io/mathematics/linear-algebra/geometry-of-linear-equations/column-picture.png)
 
+---
+
+[**Code for Graph Generation** >>](https://pranigopu.github.io/mathematics/linear-algebra/geometry-of-linear-equations/graph_generation.html)
+
+---
+
 ## Generalisation for $n$-dimensional space
 Consider a system of $k$ $n$-dimensional linear equations:
 
