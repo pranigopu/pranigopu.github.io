@@ -18,6 +18,8 @@
 - [Introduction](#introduction)
 - [Elimination using matrices](#elimination-using-matrices)
   - [Row reduction](#row-reduction)
+    - [Setting the context](#setting-the-context)
+    - [Row echelon form](#row-echelon-form)
 
 ---
 
@@ -79,3 +81,25 @@ Layout of the topics:
 4. Failure conditions for matrix-based elimination
 
 ## Row reduction
+### Setting the context
+Consider the coefficient matrix $A$ and the vector of constant sums $\vec{c}$, as defined in the [introduction](#introduction). Since $\vec{x}$ is a vector of unknowns, it contains no information about the system of linear of equations that is not already contained in $A$ and $\vec{c}$, assuming we know the sequence in which the variables and their coefficients must be placed (note that each column of $A$ corresponds to a variable, and likewise for each dimension of $\vec{c}$). Hence, we can represent the whole system using only $A$ and $\vec{c}$. To condense such a representation for efficiency, we can combine the coefficient and the vector of constant sums into one _augmented matrix_, as follows:
+
+$[A \mid \vec{c}] =  \begin{bmatrix} a_{11} & a_{12} & ... & a_{1n} & \mid & c_1 \newline ... \newline a_{k1} & a_{k2} & ... & a_{kn} & \mid & c_k \end{bmatrix}$
+
+Notice that the linear combinations of the rows of the above augmented matrix directly correspond to the linear combinations of the equations of the system. To clarify, a linear combination of a set of equations is an equation whose left-hand side is a linear combination of the left-hand sides of the equations, and whose right-hand side is a matching linear combination of the right-hand sides of the equations. For example, let us take the following equations (where each subscripted symbol stands for an expression):
+
+$P_1 = Q_1$ ... (Eq. 1)
+
+$P_2 = Q_2$ ... (Eq. 2)
+
+$P_3 = Q_3$ ... (Eq. 3)
+
+A linear combination of the above is:
+
+$2 \times$ (Eq. 1) $-$ (Eq. 2) $+ 3 \times$ (Eq. 3) $\implies 2P_1 - P_2 + 3P_3 = 2Q_1 - Q_2 + 3Q_3$
+
+---
+
+Now, note that we eliminate particular coefficients in a system of linear equations using a particular linear combination of equations; in other words, making linear combinations of equations is the basis of solving a linear system of equations. Hence, making linear combinations of the rows, i.e. _performing row operations_ for the augmented matrix is the basis of solving a linear system of equations using matrices. Specifically, we want to focus on row reduction, i.e. the process of using row operations to reduce the coefficient matrix within the augmented matrix to a row echelon form; the value of this form shall be seen in the next section.
+
+### Row echelon form
