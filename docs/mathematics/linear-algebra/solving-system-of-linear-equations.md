@@ -81,6 +81,8 @@ Layout of the topics:
 4. Failure conditions for matrix-based elimination
 
 ## Row reduction
+The define before explaining, row reduction is the process of performing row operations (i.e. linear combinations of rows) to reduce a matrix to its row echelon form. To explain this definition, we need to grasp the context that gives purpose to such a process, and then grasp the meaning of "row echelon" form and how it ties the context to the purpose.
+
 ### Setting the context
 Consider the coefficient matrix $A$ and the vector of constant sums $\vec{c}$, as defined in the [introduction](#introduction). Since $\vec{x}$ is a vector of unknowns, it contains no information about the system of linear of equations that is not already contained in $A$ and $\vec{c}$, assuming we know the sequence in which the variables and their coefficients must be placed (note that each column of $A$ corresponds to a variable, and likewise for each dimension of $\vec{c}$). Hence, we can represent the whole system using only $A$ and $\vec{c}$. To condense such a representation for efficiency, we can combine the coefficient and the vector of constant sums into one _augmented matrix_, as follows:
 
@@ -103,3 +105,22 @@ $2 \times$ (Eq. 1) $-$ (Eq. 2) $+ 3 \times$ (Eq. 3) $\implies 2P_1 - P_2 + 3P_3 
 Now, note that we eliminate particular coefficients in a system of linear equations using a particular linear combination of equations; in other words, making linear combinations of equations is the basis of solving a linear system of equations. Hence, making linear combinations of the rows, i.e. _performing row operations_ for the augmented matrix is the basis of solving a linear system of equations using matrices. Specifically, we want to focus on row reduction, i.e. the process of using row operations to reduce the coefficient matrix within the augmented matrix to a row echelon form; the value of this form shall be seen in the next section.
 
 ### Row echelon form
+_First, some definitions_...
+
+<details><summary><b>Pivot (also called "leading entry")</b></summary>The leftmost non-zero entry of a row</details>
+
+<details><summary><b>Zero row</b></summary>A row whose every entry is zero</details>
+
+<details><summary><b>Non-zero row</b></summary>A row with at least one non-zero entry</details>
+
+---
+
+The define before explaining, a matrix in row echelon form is such that:
+
+- All zero rows are below non-zero rows
+- The $(n+1)$th non-zero row's pivot is to the right of the $n$th non-zero row's
+- An optional condition is that the pivot must always be $1$
+
+The last condition is optional because, as we shall see, the last condition is non-essential with respect to the purpose which the row echelon form serves. What is this purpose? Consider a case wherein a system of linear equations is reduced such that: (1) there is one equation, Eq. 1, with the least number of variables, (2) there is another equation, Eq. 2, with all the variables of Eq. 1 plus one or more variables, and the extra variables can be expressed in terms of Eq. 1's variables, (3) there is another equation, Eq. 3, with all the variables of Eq. 2 plus one or more variables, and the extra variables can be expressed in terms of Eq. 2's variables, etc. Now, if the system has a unique solution (wherein only one valid value is obtained for each variable), then the aforementioned reduction would be as follows: (1) Eq. 1 has only one variable equated to a constant, thereby obtaining the variable's value, (2) Eq. 2 has Eq. 1's variable plus one more variable, and the extra variable can be expressed in terms of Eq. 1's variable, (3) Eq. 3 has Eq. 2's variables plus one more variable, and the extra variable can be expressed in terms of Eq. 2's variables, etc
+
+Clearly, if a system has a solution, the way we obtain the solution must in essence be in the form of the aforementioned reduction. Also, if the system has infinite solutions (i.e. wherein one or more variables may have infinite valid values), then we can infer that at least some Eq. (i + 1) has two or more variables than Eq. i, and if a system has no solutions, then we can infer that at least some Eq. i is invalid. Now, we can see that if we take the augmented matrix defined in ["Setting the context"](#setting-the-context) and reduce it such that the coefficient matrix within it is in row echelon form, we are in fact achieving the aforementioned reduction of the system of linear equations, thereby achieving a form of the augmented matrix by which we can obtain the system's solution(s) (if they exist). Hence, we see why the third condition of the row echelon form is optional: whatever the coefficients of the variable(s) of the last equation, we can easily obtain the system's solution(s) (if they exist) since the coefficient of a variable can easily be divided on both sides so as to isolate the variable.
