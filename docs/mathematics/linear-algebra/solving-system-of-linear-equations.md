@@ -107,11 +107,11 @@ Now, note that we eliminate particular coefficients in a system of linear equati
 ### Row echelon form
 _First, some definitions_...
 
-<details><summary><b>Pivot (also called "leading entry")</b></summary>The leftmost non-zero entry of a row</details>
+<details><summary><b>Pivot (also called "leading entry")</b></summary><p>The leftmost non-zero entry of a row.</p></details>
 
-<details><summary><b>Zero row</b></summary>A row whose every entry is zero</details>
+<details><summary><b>Zero row</b></summary><p>A row whose every entry is zero.</p></details>
 
-<details><summary><b>Non-zero row</b></summary>A row with at least one non-zero entry</details>
+<details><summary><b>Non-zero row</b></summary><p>A row with at least one non-zero entry.</p></details>
 
 ---
 
