@@ -17,9 +17,11 @@
 
 - [Introduction](#introduction)
 - [Elimination using matrices](#elimination-using-matrices)
-  - [Row reduction](#row-reduction)
+  - [Row reduction a.k.a. Gaussian elimination](#row-reduction-aka-gaussian-elimination)
     - [Setting the context](#setting-the-context)
     - [Row echelon form](#row-echelon-form)
+    - [Using row reduction to solve a system of linear equations](#using-row-reduction-to-solve-a-system-of-linear-equations)
+  - [Row operations through matrix multiplication](#row-operations-through-matrix-multiplication)
 
 ---
 
@@ -80,8 +82,8 @@ Layout of the topics:
 3. Elimination matrices, i.e. RR as matrix multiplication
 4. Failure conditions for matrix-based elimination
 
-## Row reduction
-The define before explaining, row reduction is the process of performing row operations (i.e. linear combinations of rows) to reduce a matrix to its row echelon form. To explain this definition, we need to grasp the context that gives purpose to such a process, and then grasp the meaning of "row echelon" form and how it ties the context to the purpose.
+## Row reduction a.k.a. Gaussian elimination
+The define before explaining, row reduction (also called Gaussian elimination) is the process of performing row operations (i.e. linear combinations of rows) to reduce a matrix to its row echelon form. To explain this definition, we need to grasp the context that gives purpose to such a process, and then grasp the meaning of "row echelon" form and how it ties the context to the purpose.
 
 ### Setting the context
 Consider the coefficient matrix $A$ and the vector of constant sums $\vec{c}$, as defined in the [introduction](#introduction). Since $\vec{x}$ is a vector of unknowns, it contains no information about the system of linear of equations that is not already contained in $A$ and $\vec{c}$, assuming we know the sequence in which the variables and their coefficients must be placed (note that each column of $A$ corresponds to a variable, and likewise for each dimension of $\vec{c}$). Hence, we can represent the whole system using only $A$ and $\vec{c}$. To condense such a representation for efficiency, we can combine the coefficient and the vector of constant sums into one _augmented matrix_, as follows:
@@ -124,3 +126,12 @@ The define before explaining, a matrix in row echelon form is such that:
 The last condition is optional because, as we shall see, the last condition is non-essential with respect to the purpose which the row echelon form serves. What is this purpose? To grasp it, consider a case wherein a system of linear equations is reduced such that: (1) there is one equation, Eq. 1, with the least number of variables, (2) there is another equation, Eq. 2, with all the variables of Eq. 1 plus one or more variables, and the extra variables can be expressed in terms of Eq. 1's variables, (3) there is another equation, Eq. 3, with all the variables of Eq. 2 plus one or more variables, and the extra variables can be expressed in terms of Eq. 2's variables, etc. Now, if the system has a unique solution (wherein only one valid value is obtained for each variable), then the aforementioned reduction would be as follows: (1) Eq. 1 has only one variable equated to a constant, thereby obtaining the variable's value, (2) Eq. 2 has Eq. 1's variable plus one more variable, and the extra variable can be expressed in terms of Eq. 1's variable, (3) Eq. 3 has Eq. 2's variables plus one more variable, and the extra variable can be expressed in terms of Eq. 2's variables, etc
 
 Clearly, if a system has a solution, the way we obtain the solution must in essence be in the form of the aforementioned reduction. Also, if the system has infinite solutions (i.e. wherein one or more variables may have infinite valid values), then we can infer that at least some Eq. (J + 1) has two or more variables than Eq. J, and if a system has no solutions, then we can infer that at least some Eq. J is invalid. Now, we can see that if we take the augmented matrix defined in ["Setting the context"](#setting-the-context) and reduce it such that the coefficient matrix within it is in row echelon form, we are in fact achieving the aforementioned reduction of the system of linear equations, thereby achieving a form of the augmented matrix by which we can obtain the system's solution(s) (if they exist). Hence, we see why the third condition of the row echelon form is optional: whatever the coefficients of the variable(s) of the last equation, we can easily obtain the system's solution(s) (if they exist) since the coefficient of a variable can easily be divided on both sides so as to isolate the variable.
+
+### Using row reduction to solve a system of linear equations
+There are ample references for this:
+
+> - [_Gaussian elimination_ from **Wikipedia**](https://en.wikipedia.org/wiki/Gaussian_elimination)
+> - [_Gaussian Elimination Method_ from **Byjus.com**](https://byjus.com/maths/gauss-elimination-method/)
+> - [_5.4: Solving Systems with Gaussian Elimination_ from **LibreTexts Mathematics**](https://math.libretexts.org/Courses/Palo_Alto_College/College_Algebra/05%3A_Systems_of_Equations_and_Inequalities/5.04%3A_Solving_Systems_with_Gaussian_Elimination)
+
+## Row operations through matrix multiplication
