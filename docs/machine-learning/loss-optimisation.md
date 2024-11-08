@@ -62,7 +62,7 @@ $$
 (x_1 + \alpha \frac{\delta f}{\delta x_1}, x_2 + \alpha \frac{\delta f}{\delta x_2} ... x_k + \alpha \frac{\delta f}{\delta x_k})
 $$
 
-... which, when plugged into $f$, gives the steepest increase in $f$ for a sufficiently small constant $\alpha$. The phrase "sufficiently small constant" is used because a gradient of a function only gives the direction of steepest ascent at the given point; in practice, this gives the direction of steepest ascent for a small neighbourhood around the given point. Thus, a gradient can reliably inform only about the steepest ascent of the function's value _for a small neighbourhood around a given point, i.e. for a small range of values of the function's variables_.
+... which, when $f$ is plugged into it, gives the steepest increase in $f$ for a sufficiently small constant $\alpha$. The phrase "sufficiently small constant" is used because a gradient of a function only gives the direction of steepest ascent at the given point; in practice, this gives the direction of steepest ascent for a small neighbourhood around the given point. Thus, a gradient can reliably inform only about the steepest ascent of the function's value _for a small neighbourhood around a given point, i.e. for a small range of values of the function's variables_.
 
 ---
 
