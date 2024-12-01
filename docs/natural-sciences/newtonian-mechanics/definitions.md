@@ -15,8 +15,10 @@
   - [Accelerative quantity of centripetal force](#accelerative-quantity-of-centripetal-force)
   - [Motive quantity of centripetal force](#motive-quantity-of-centripetal-force)
   - [Conclusion](#conclusion)
-- [Additional definitions](#additional-definitions)
+- [Additional definitions for time, space and motion](#additional-definitions-for-time-space-and-motion)
   - [Absolute vs. relative distinction](#absolute-vs-relative-distinction)
+  - [Absolute time/duration](#absolute-timeduration)
+  - [Absolute space](#absolute-space)
 
 ---
 
@@ -35,8 +37,9 @@ Also called:
 
 Note that a body, given the inactivity of its matter (i.e. lack of motive force from the matter), is not put out of its state of rest of motion without some effort; hence the body's matter exerts some force against any force impressed upon it. _However, note that the body's matter exerts its force only when another force is impressed upon it_, i.e. the body's matter as such is inactive when it is not acted upon. This innate force, i.e. inertia, has two aspects:
 
-1. <details><summary>Resistance</summary><p>This refers to the aspect of inertia that withstands the force impressed so as to maintain the body's present state.</p></details>
-2. <details><summary>Impulse</summary><p>This refers to the aspect of inertia that, by withstanding the force impressed, acts to change the state of the body that is impressing the force.</p></details>
+<details><summary><b>Resistance</b></summary><p>This refers to the aspect of inertia that withstands the force impressed so as to maintain the body's present state.</p></details>
+
+<details><summary><b>Impulse</b></summary><p>This refers to the aspect of inertia that, by withstanding the force impressed, acts to change the state of the body that is impressing the force.</p></details>
 
 A body that offers resistance also exerts an impulse, a reactive impulse amounts to resistance. Hence, these aspects of inertia are aspects of the same basic force, i.e. the innate force of a body's matter. Also note that resistance and impulse both apply to a body whether it is at rest or in motion, because rest and motion (as usually understood) are relative, and not all bodies taken to be at rest from one point of reference are necessarily so with respect to another point of reference.
 
@@ -84,5 +87,28 @@ _Wherefore the accelerative force will stand in the same relation to the motive,
 
 **NOTE**: _Celerity means velocity._
 
-# Additional definitions
+# Additional definitions for time, space and motion
 ## Absolute vs. relative distinction
+Change in motion is measured with respect to change within space and across time. However, change in motion is also measured in relation to a reference point. Given some reference point, it would not be evident whether the change in the motion of the body is due to a force impressed on the body or due to a force impressed on our reference point. Hence, it is valuable to distinguish between (1) motion observed without care taken about the nature of our own reference point, and (2) motion observed with respect to a fixed, i.e. unchanging reference point, i.e. with respect to a reference point to which no force is impressed, and with respect to which the motion of one or more bodies are observed. Such a distinction can be made using the terms "relative" and "absolute".
+
+However, in my understanding, Newton's distinction of "relative" and "absolute" with respect to time, space and motion relies on the existence of absolute reference points, i.e. reference points that are inherently unchanging and universally applicable. While I agree with value of such a distinction, I do not agree with Newton's view, because there is no empirical basis on which an absolute reference point be identified, and there is no theoretical basis for such a reference point in the first place. Nonetheless, as we shall see further, the distinction of "relative" and "absolute" is valuable, provided each term is validly defined.
+
+**NOTE**: In this context, "absolute" = "true" = "mathematical"
+
+## Absolute time/duration
+**Newton's concept**:
+
+A constant flow (i.e. self-contained change) without regard to anything external.
+
+**Revised concept**:
+
+A common unit of change with respect to which the change in other bodies is measured.
+
+## Absolute space
+**Newton's concept**:
+
+An unchanging and immovable region within which everything in existence resides.
+
+**Revised concept**:
+
+A physical region which is defined by reference points that do not change or move with respect to each other, and which, as a whole, is not subject to forces apart from forces that are impressed in the same direction and with the same magnitude on everything within this region.
