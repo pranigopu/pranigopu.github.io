@@ -1,4 +1,4 @@
-[<< Back to **Newtonian Mechanics**](https://pranigopu.github.io/natural-sciences/newtonian-mechanics.html)
+[<< Back to **Newtonian Mechanics**](https://pranigopu.github.io/natural-sciences/newtonian-mechanics)
 
 **DEFINITIONS**
 
