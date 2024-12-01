@@ -18,7 +18,8 @@
 - [Additional definitions for time, space and motion](#additional-definitions-for-time-space-and-motion)
   - [Absolute vs. relative distinction](#absolute-vs-relative-distinction)
   - [Absolute time/duration](#absolute-timeduration)
-  - [Absolute space](#absolute-space)
+  - [Absolute and relative space](#absolute-and-relative-space)
+  - [Place](#place)
 
 ---
 
@@ -96,19 +97,28 @@ However, in my understanding, Newton's distinction of "relative" and "absolute" 
 **NOTE**: In this context, "absolute" = "true" = "mathematical"
 
 ## Absolute time/duration
-**Newton's concept**:
+**Newton's concepts**:
 
-A constant flow (i.e. self-contained change) without regard to anything external.
+Absolute time is a flow (i.e. constant self-contained change) without regard to anything external. Relative/apparent/common time is some sensible (i.e. self-perception-based) and external measure of duration by the means of motion (e.g. the movement of the sun, the swinging of a pendulum, etc.), which is commonly used instead of absolute/true time; such as an hour, a day, a month and a year.
 
-**Revised concept**:
+**Revised concepts**:
 
-A common unit of change with respect to which the change in other bodies is measured.
+Absolute time is a common unit of change with respect to which the change in other bodies is measured. Relative time is a change as measured by comparison with another change, without regard for a common unit. For Newton, any sensible measure of change is relative time, but there is no empirical or theoretical basis basis for some sort of "universal" time.
 
-## Absolute space
-**Newton's concept**:
+## Absolute and relative space
+**Newton's concepts**:
 
-An unchanging and immovable region within which everything in existence resides.
+Absolute space is an unchanging and immovable region within which everything in existence resides. Relative space is some movable dimension or measure of the absolute spaces, and is empirically identified by its position to bodies. Newton illustrates the distinction between absolute and relative space in a helpful and valuable example:
 
-**Revised concept**:
+_Absolute and relative space, are the same in figure and magnitude; but they do not remain always numerically the same. For if the earth, for instance, moves, a space of our air, which relatively and in respect of the earth remains always the same, will at one time be one part of the absolute space into which the air passes; at another time it will be another part of the same, and so, absolutely understood, it will be perpetually mutable._
 
-A physical region which is defined by reference points that do not change or move with respect to each other, and which, as a whole, is not subject to forces apart from forces that are impressed in the same direction and with the same magnitude on everything within this region.
+**Revised concepts**:
+
+Absolute space is a physical region which is defined by reference points that do not change or move with respect to each other, and which, as a whole, is not subject to any external forces. Relative space is the same, except it may be subject to forces that are impressed in the same direction and with the same magnitude on everything within this region.
+
+## Place
+Place is a part of space which a body takes up, and is, according to the space, either absolute or relative. Newton emphasis that "place" is a part of space and neither the position nor the surface of the body, because the places of equal solids are always equal, but their surfaces are often unequal due to their unequal shapes. _Positions as such have no quantity nor are they places themselves; rather, they are properties of places._ The concept of "place" is key to defining "motion", and helps clarify discussions regarding bodies, their spaces, their movements and their interactions.
+
+**What exactly constitutes a body's "place"?**
+
+The motion of the whole is the same as the sum of the motions of the parts, i.e. the translation of the whole, out of its place, is the same as the sum of the translations of the parts out of their places. Therefore, the place of the whole is the same thing with the sum of the places of the parts, and for that reason, it is internal, and in the whole body.
