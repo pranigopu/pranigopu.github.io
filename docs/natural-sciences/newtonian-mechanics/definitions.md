@@ -33,7 +33,7 @@ Also called:
 - Innate force of matter
 - Vis inertiae
 
-Note that a body, given the inactivity of its matter (i.e. lack of motive force from the matter), is not put out of its state of rest of motion without some effort; hence the body exerts some force against any force impressed upon it. _However, note that the body exerts its force only when another force is impressed upon it_, i.e. the body is inactive when it is not acted upon. This innate force, i.e. inertia, has two aspects:
+Note that a body, given the inactivity of its matter (i.e. lack of motive force from the matter), is not put out of its state of rest of motion without some effort; hence the body's matter exerts some force against any force impressed upon it. _However, note that the body's matter exerts its force only when another force is impressed upon it_, i.e. the body's matter as such is inactive when it is not acted upon. This innate force, i.e. inertia, has two aspects:
 
 1. <details><summary>Resistance</summary><p>This refers to the aspect of inertia that withstands the force impressed so as to maintain the body's present state.</p></details>
 2. <details><summary>Impulse</summary><p>This refers to the aspect of inertia that, by withstanding the force impressed, acts to change the state of the body that is impressing the force.</p></details>
