@@ -1,8 +1,3 @@
-<style>
-    * {font-family: "Times New Roman"}
-    p, ol, ul, th, td {font-size: 24px}
-</style>
-
 # Philosophy
 ## Introduction
 My predominant philosophical inspiration is the philosophy of Ayn Rand (which is called "Objectivism"), whose fundamentals I accept wholeheartedly (after having validated it myself, i.e. first-hand). I have not read nor validated all of Ayn Rand's works in every area, so my acceptance of her work and her words is limited to her philosophical groundwork and whatever other ideas of hers I have validated myself. However, my philosophy-related work is not primarily meant to explain her ideas but to use her ideas (after validating them) to expand on and clarify certain key topics of my choice, mostly in ethics and epistemology. Even when the ideas and arguments I use are essentially hers, the works in this website represent my own views. Hence, do not take my work to be necessarily representative of Ayn Rand's philosophy as she has presented it.
