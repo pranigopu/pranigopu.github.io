@@ -8,6 +8,7 @@ I am Prani Gopu, a.k.a. Pranav Gopalkrishna. I enjoy writing works of various ki
 - [Statistics](https://pranigopu.github.io/statistics)
 - [Mathematics](https://pranigopu.github.io/mathematics)
 - [Computer Science](https://pranigopu.github.io/computer-science)
+- [Natural Sciences](https://pranigopu.github.io/natural-sciences)
 - [Machine Learning](https://pranigopu.github.io/machine-learning)
 - [Personal](https://pranigopu.github.io/personal)
 - [Quotations](https://pranigopu.github.io/quotations.html)
