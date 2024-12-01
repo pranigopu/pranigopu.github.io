@@ -37,11 +37,7 @@ Also called:
 - Innate force of matter
 - Vis inertiae
 
-Note that a body, given the inactivity of its matter (i.e. lack of motive force from the matter), is not put out of its state of rest of motion without some effort; hence the body's matter exerts some force against any force impressed upon it. _However, note that the body's matter exerts its force only when another force is impressed upon it_, i.e. the body's matter as such is inactive when it is not acted upon. This innate force, i.e. inertia, has two aspects:
-
-<details><summary><b>Resistance</b></summary><p>This refers to the aspect of inertia that withstands the force impressed so as to maintain the body's present state.</p></details>
-
-<details><summary><b>Impulse</b></summary><p>This refers to the aspect of inertia that, by withstanding the force impressed, acts to change the state of the body that is impressing the force.</p></details>
+Note that a body, given the inactivity of its matter (i.e. lack of motive force from the matter), is not put out of its state of rest of motion without some effort; hence the body's matter exerts some force against any force impressed upon it. _However, note that the body's matter exerts its force only when another force is impressed upon it_, i.e. the body's matter as such is inactive when it is not acted upon. This innate force, i.e. inertia, has two aspects: (1) resistance, which refers to the aspect of inertia that withstands the force impressed so as to maintain the body's present state, and (2) impulse, which refers to the aspect of inertia that, by withstanding the force impressed, acts to change the state of the body that is impressing the force.
 
 A body that offers resistance also exerts an impulse, a reactive impulse amounts to resistance. Hence, these aspects of inertia are aspects of the same basic force, i.e. the innate force of a body's matter. Also note that resistance and impulse both apply to a body whether it is at rest or in motion, because rest and motion (as usually understood) are relative, and not all bodies taken to be at rest from one point of reference are necessarily so with respect to another point of reference.
 
