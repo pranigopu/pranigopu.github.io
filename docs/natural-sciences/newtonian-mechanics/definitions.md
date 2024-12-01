@@ -20,6 +20,7 @@
   - [Absolute time/duration](#absolute-timeduration)
   - [Absolute and relative space](#absolute-and-relative-space)
   - [Place](#place)
+  - [Absolute and relative motion and rest](#absolute-and-relative-motion-and-rest)
 
 ---
 
@@ -122,3 +123,8 @@ Place is a part of space which a body takes up, and is, according to the space, 
 **What exactly constitutes a body's "place"?**
 
 The motion of the whole is the same as the sum of the motions of the parts, i.e. the translation of the whole, out of its place, is the same as the sum of the translations of the parts out of their places. Therefore, the place of the whole is the same thing with the sum of the places of the parts, and for that reason, it is internal, and in the whole body.
+
+## Absolute and relative motion and rest
+Simply put, absolute motion is the translation of a body from one absolute place into another, and relative motion is the translation from one relative place into another. "Translation" refers to a kind of change wherein a body's shape and matter are unchanged but the position of the body as a whole is changed. Tied to motion is the concept of rest. Absolute rest is the existence of a body within the same absolute place, and relative rest is the existence of a body within the same relative place. Newton gives a helpful illustration of these concepts:
+
+_Thus in a ship under sail, the relative place of a body is that part of the ship which the body possesses; or that part of its cavity which the body fills, and which therefore moves together with the ship: and relative rest is the continuance of the body in the same part of the ship, or of its cavity. But real, absolute rest, is the continuance of the body in the same part of that immovable space, in which the ship itself, its cavity, and all that it contains, is moved. Wherefore, if the earth is really at rest, the body, which relatively rests in the ship, will really and absolutely move with the same velocity which the ship has on the earth. But if the earth also moves, the true and absolute motion of the body will arise, partly from the true motion of the earth, in immovable space; partly from the relative motion of the ship on the earth; and if the body moves also relatively in the ship; its true motion will arise, partly from the true motion of the earth, in immovable space, and partly from the relative motions as well of the ship on the earth, as of the body in the ship; and from these relative motions will arise the relative motion of the body on the earth. As if that part of the earth, where the ship is, was truly moved toward the east, with a velocity of 10010 parts; while the ship itself, with a fresh gale, and full sails, is carried towards the west, with a velocity expressed by 10 of those parts; but a sailor walks in the ship towards the east, with 1 part of the said velocity; then the sailor will be moved truly in immovable space towards the east, with a velocity of 10001 parts, and relatively on the earth towards the west, with a velocity of 9 of those parts._
