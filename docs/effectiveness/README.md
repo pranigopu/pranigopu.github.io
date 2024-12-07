@@ -4,3 +4,4 @@
 
 ## Explore
 - [Essentialisation, Simplification, Organisation](https://pranigopu.github.io/effectiveness/eso.html)
+- [Taking Breaks](https://pranigopu.github.io/effectiveness/taking-breaks.html)
