@@ -11,6 +11,7 @@ I am Prani Gopu, a.k.a. Pranav Gopalkrishna. I enjoy writing works of various ki
 - [Natural Sciences](https://pranigopu.github.io/natural-sciences)
 - [Machine Learning](https://pranigopu.github.io/machine-learning)
 - [Personal](https://pranigopu.github.io/personal)
+- [Effectiveness](https://pranigopu.github.io/effectiveness)
 - [Quotations](https://pranigopu.github.io/quotations.html)
 
 ## My other links
