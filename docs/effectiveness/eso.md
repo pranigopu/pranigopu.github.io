@@ -20,7 +20,7 @@ Essentialisation is the process of identifying the essential characteristics in 
 
 ---
 
-**NOTE: Arbitrary claims and irrelevant considetations**:
+**NOTE: Arbitrary claims and irrelevant considerations**:
 
 Note that to claim that something can potentially affect your pursuit, there must be evidence for it, not merely a lack of evidence against it; if only the latter holds and not the former, then the claim is an arbitrary claim. Note also that if the effect of something on the pursuit of your purposes does not change your ability to pursue them, as per your knowledge and within your context, then it is an irrelevant consideration. By contrast, the essentials, being the causal and/or logical basis of the purposeful context, are the most relevant considerations.
 
