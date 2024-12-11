@@ -5,3 +5,4 @@
 ## Explore
 - [Essentialisation, Simplification, Organisation](https://pranigopu.github.io/effectiveness/eso.html)
 - [Taking Breaks](https://pranigopu.github.io/effectiveness/taking-breaks.html)
+- [Extreme Ownership](https://pranigopu.github.io/effectiveness/extreme-ownership.html)
