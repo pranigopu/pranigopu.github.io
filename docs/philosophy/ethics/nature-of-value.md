@@ -7,7 +7,7 @@
 **Contents**:
 
 - [Why read further?](#why-read-further)
-- [Concretisation as essential to value](#concretisation-as-essential-to-value)
+- [Concretisation is essential to value](#concretisation-is-essential-to-value)
 - [Non-contradiction in values](#non-contradiction-in-values)
   - [Re-integrating contradicted values](#re-integrating-contradicted-values)
   - [Integrity in the pursuit of values](#integrity-in-the-pursuit-of-values)
@@ -22,7 +22,7 @@
 # Why read further?
 If you care to exist at all, you must act toward your own life in some way. A value is something that one acts to gain and/or keep for the sake of something, that something ultimately being one's own life. Hence, understanding what values are and how they work is key to understanding how to exist to the fullest, i.e. how to survive and thrive.
 
-# Concretisation as essential to value
+# Concretisation is essential to value
 **NOTE**: _By its nature, the concretisation of value is and can only be in the moment, i.e. in the present, here and now._
 
 A value is — in broad terms — that which one acts to gain and/or keep. But why must one act toward something for it to be his value? Could one not simply wish for it or want it without acting toward it? Here, we have to identify the purpose behind the concept of value. The distinction between a potential being pursued to be realised and a potential only being considered is that the former denotes active concretisation whereas the latter does not (the importance of this distinction is explained in the note below). This already shows why a value can only exist if it is being concretised in some form.

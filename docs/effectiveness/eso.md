@@ -11,6 +11,7 @@
   - [Simplification](#simplification)
   - [Organisation](#organisation)
 - [Relating the above](#relating-the-above)
+- [The next step](#the-next-step)
 
 ---
 
@@ -40,3 +41,10 @@ A set of items ordered based on some kind of logical relationship lets us consid
 
 # Relating the above
 To pursue a purpose effectively, we must organise both knowledge and objectives based on relevance and complexity. To do so, we must first essentialise the purposeful context to reach the essentials and thus the logical relationships between various parts of the context. Then, we must simplify our considerations in order to apply our focus on each one effectively. Finally, we must organise our considerations so that we can progress with them effectively. Hence, essentialisation, simplification and organisation (ESO) are the three pillars of purpose, especially for long-range purposes or complex goals.
+
+# The next step
+The principles of ESO lay out the essential steps in effective action. However, these principles are conceptual, i.e. they apply to a vast range of specifics while omitting a host of details that would be relevant to deal with specifics, e.g. the domain-specific methods, the time and resources available, the level of simplification needed for the context, etc. But note also that details of method are also omitted by ESO, as ESO gives a framework for only what to do, not how to do it.
+
+Now, method refers to the organisation of tasks and/or sub-goals to achieve a goal. Since any real goal has a real standard for success, i.e. a set of real-world requirements that must be met through tasks and sub-goals, so does the goal of applying ESO in practice, not just to one specific situations but to any situation one may face. In other words, any goal has a method to achieve it, no matter how broad or narrow the goal is. Now, to tie this to the title of this text: the method of essentialising, simplifying and organising (ESO) the elements and aspects of a problem in order to realise a solution is _planning_.
+
+**Read further**: [Planning](https://pranigopu.github.io/effectiveness/planning.html)
