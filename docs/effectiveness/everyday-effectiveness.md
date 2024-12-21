@@ -53,9 +53,9 @@ For a child to grasp the concept of "multiplication", it must be broken down to 
 Consider the concept of "science". We can break it down as:
 
 ```
-                   science
-                      |
-      +---------------+---------------+
+                    science
+                       |
+      +----------------+--------------+
       |                |              |
   evidence <-------> logic <------> method
       |                |              |
