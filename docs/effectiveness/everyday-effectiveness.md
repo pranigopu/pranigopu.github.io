@@ -35,7 +35,9 @@ Life is complex, living is a complex goal. Thus, simplification is vital. To do 
 
 ## Explanation
 
-Something complex is something made of two or more _interrelated units_\*; "complexity" refers to the coexistence of these interrelated units. Now, we grasp things and their relationships through _mental units_\*\*, and too much complexity is when there are more mental units than we can keep within our focus at once. A _unit of complexity_ is a mental unit (e.g. a symbol, a word, a statement) that refers to something complex. A _simple_ unit of complexity is one that can now be easily understood and applied (i.e. that can be tied to a broader context and tied to concretes). 
+Something complex is something made of two or more _interrelated units_\*; "complexity" refers to the coexistence of these interrelated units. Now, we grasp things and their relationships through _mental units_\*\*, and too much complexity is when there are more mental units than we can keep within our focus at once. A _unit of complexity_ is a mental unit (e.g. a symbol, a word, a statement) that refers to something complex. A _simple_ unit of complexity is one that can now be easily understood and applied (i.e. that can be tied to a broader context and tied to concretes).
+
+---
 
 \* **Unit**: A member of a group of similar things.
 
