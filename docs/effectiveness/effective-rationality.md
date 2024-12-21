@@ -63,7 +63,7 @@ If something is not based on truth insofar as it can be grasped by the senses or
 
 ---
 
-The complexity arises when applying observations and logic to areas of uncertainty, e.g. indirect evidence (e.g. from word-of-mouth, articles, specialised research inaccessible to the broader public, etc.). How to judge things we cannot directly observe but must still make decisions about, such as professional advice (which can be hard to validate for someone not in the field), the intentions of a person, the operations of a business supplying you food, etc.?
+The complexity arises when applying observations and logic to areas of uncertainty, particularly with indirect evidence from word-of-mouth, articles, specialised research inaccessible to the broader public, etc. How to judge things we cannot directly observe but must still make decisions about, such as professional advice (which can be hard to validate for someone not in the field), the intentions of a person, the operations of a business supplying you food, etc.?
 
 The answer seems deceptively straighforward: the principles of truth-seeking. Why must this be the answer? Because logically, any rational decision made on any area must be based on rational principles, i.e. the principles of truth-seeking. But how? A thorough exploration on the nature of knowledge, certainty and evidence is presented in [_Knowledge and Certainty_ from **Epistemology** from **Philosophy**](https://pranigopu.github.io/philosophy/epistemology/knowledge-and-certainty.html), but given below is the gist of the answer.
 
