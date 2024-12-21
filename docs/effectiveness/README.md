@@ -13,6 +13,7 @@ _Philosophy_...
 _Others_...
 
 - [Effective Purposefulness](https://pranigopu.github.io/effectiveness/effective-purposefulness.html)
+- [Effective Rationality](https://pranigopu.github.io/effectiveness/effective-rationality.html)
 - [Essentialise, Simplify, Organise](https://pranigopu.github.io/effectiveness/eso.html)
 - [Planning](https://pranigopu.github.io/effectiveness/planning.html)
 - [Taking Breaks](https://pranigopu.github.io/effectiveness/taking-breaks.html)
