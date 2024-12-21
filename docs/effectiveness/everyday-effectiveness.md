@@ -55,13 +55,13 @@ Consider the concept of "science". We can break it down as:
 ```
                    science
                       |
-      +---------------+--------------+
-      |               |              |
-  evidence <------> logic <------> method
-     |                |              |
-* observation     * axioms        * step
-* experimentation * principles    * process
-* information                     * order
+      +---------------+---------------+
+      |                |              |
+  evidence <-------> logic <------> method
+      |                |              |
+  * observation      * axioms       * step
+  * experimentation  * principles   * process
+  * information                     * order
 ```
 
 # Purposeful goals
