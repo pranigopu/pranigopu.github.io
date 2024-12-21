@@ -35,7 +35,7 @@ Break goals down to _simple units of complexity_.
 ## Explanation
 **Abbreviation**: Unit of Complexity = UOC
 
-Something complex is something made of two or more _interrelated units_\*; "complexity" refers to the coexistence of these interrelated units. Now, we grasp things and their relationships through _mental units_\*\*, and too much complexity is when there are more mental units than we can keep within our focus at once. A UOC is a mental unit (e.g. a symbol, a word, a statement) that refers to something complex. A _simple_ UOC is one that can now be easily understood and applied (i.e. that can be tied to a broader context and tied to concretes).
+Something complex is something made of two or more _interrelated units_\*; "complexity" refers to the coexistence of these interrelated units. Now, we grasp things and their relationships through _mental units_\*\*, and too much complexity is when there are more mental units than we can keep within our focus at once. A UOC is a mental unit (e.g. a symbol, a word, a statement) that refers to something complex. A _simple_ UOC is a UOC that was too complex before but now can be easily understood and applied (i.e. that can be tied to a broader context and tied to concretes).
 
 ---
 
