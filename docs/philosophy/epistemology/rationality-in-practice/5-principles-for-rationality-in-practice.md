@@ -179,7 +179,7 @@ In essence, integrating one's view of reality over time in essentials helps inte
 
 **KEY POINT 1**:
 
-Usually, the internalisation of the broader contexts is the memories of the essence of the broader context; the memory is retained due to a conscious and rational approach to shifting contexts. Hence, when you ask whether something is relevant in the current context, you also ask whether it is relevant in the broader contexts you are coming from (and that you can hold in your awareness).
+Usually, the internalisation of the broader contexts is the memory of the essence of the broader context; the memory is retained due to a conscious and rational approach to shifting contexts. Hence, when you ask whether something is relevant in the current context, you also ask whether it is relevant in the broader contexts you are coming from (and that you can hold in your awareness).
 
 Hence, the question becomes: "_Is X relevant in my current context as well as the relevant broader contexts I have consciously retained when reaching my current context._" However, reference to the relevant broader contexts are present in the current context (if context-shifting is done rationally), which means the relevant broader contexts are explicitly referred to just for emphasis and are in fact implied in the current context.
 
