@@ -30,8 +30,7 @@
 
 # Reducing to simplicity
 ## Principle
-
-Life is complex, living is a complex goal. Thus, simplification is vital. To do this task well, break the goals of life down to _simple units of complexity_.
+Break goals down to _simple units of complexity_.
 
 ## Explanation
 
