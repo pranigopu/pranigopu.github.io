@@ -12,7 +12,8 @@ _Philosophy_...
 
 _Others_...
 
-- [Essentialisation, Simplification, Organisation](https://pranigopu.github.io/effectiveness/eso.html)
+- [Everyday Effectiveness](https://pranigopu.github.io/effectiveness/everyday-effectiveness.html)
+- [Essentialise, Simplify, Organise](https://pranigopu.github.io/effectiveness/eso.html)
 - [Planning](https://pranigopu.github.io/effectiveness/planning.html)
 - [Taking Breaks](https://pranigopu.github.io/effectiveness/taking-breaks.html)
 - [Extreme Ownership](https://pranigopu.github.io/effectiveness/extreme-ownership.html)
