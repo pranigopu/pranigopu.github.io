@@ -1,6 +1,6 @@
 [<< Back to **Effectiveness**](https://pranigopu.github.io/effectiveness)
 
-**ESSENTIALISATION, SIMPLIFICATION, ORGANISATION**
+**ESSENTIALISE, SIMPLIFY, ORGANISE**
 
 ---
 
