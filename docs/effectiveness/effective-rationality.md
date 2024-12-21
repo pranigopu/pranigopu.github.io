@@ -83,4 +83,5 @@ What things you do not know first-hand are in fact logical extensions, or at lea
 - Frameworks for reasoning in uncertainty (e.g. Bayesian reasoning)
 - Evaluating expert advice
 - Evaluating sources of information
+- Risk analysis and cost/benefit analysis
 - Picking your battles when it comes to personal experimentation <br> _Not everything is worth trying out, with respect to your hierarchy of values_
