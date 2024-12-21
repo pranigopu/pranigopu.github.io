@@ -1,6 +1,6 @@
 [<< Back to **Effectiveness**](https://pranigopu.github.io/effectiveness)
 
-**EVERYDAY EFFECTIVENESS**
+**EFFECTIVE PURPOSEFULNESS**
 
 ---
 
@@ -30,18 +30,18 @@
 
 # Reducing to simplicity
 ## Principle
-Break goals down to _simple units of complexity_.
+Goals can only be understood through _simple units of complexity_.
 
 ## Explanation
 **Abbreviation**: Unit of Complexity = UOC
 
-Something complex is something made of two or more _interrelated units_\*; "complexity" refers to the coexistence of these interrelated units. Now, we grasp things and their relationships through _mental units_\*\*, and too much complexity is when there are more mental units than we can keep within our focus at once. A UOC is a mental unit (e.g. a symbol, a word, a statement) that refers to something complex. A _simple_ UOC is a UOC that was too complex before but now can be easily understood and applied (i.e. that can be tied to a broader context and tied to concretes).
+Something complex is something made of two or more _interrelated units_\*; "complexity" refers to the coexistence of these interrelated units. Now, we grasp things and their relationships through _conscious units_\*\*, and too much complexity is when there are more conscious units than we can keep within our focus at once. A UOC is a conscious unit (e.g. a symbol, a word, a statement) that refers to something complex. A _simple_ UOC is a UOC that was too complex before but now can be easily understood and applied (i.e. that can be tied to a broader context and tied to concretes).
 
 ---
 
 \* **Unit**: A member of a group of similar things.
 
-\*\* **Mental unit**: A discrete part of the mind (e.g. a thought, feeling, memory, etc.).
+\*\* **Conscious unit**: A discrete part of the consciousness (e.g. a thought, feeling, memory, etc.).
 
 ## Examples
 1.<br>
