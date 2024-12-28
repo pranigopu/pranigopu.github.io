@@ -8,7 +8,7 @@
 
 ---
 
-# Introduction
+## Introduction
 Design patterns (or more precisely, software design patterns) are reusable solutions to recurring challenges in software design. These solutions are reusable because they are generalised, i.e. they are abstract solutions that serve as templates or conceptual frameworks rather than exact solutions (hence the use of term "pattern"). Design patterns offer the following values:
 
 <details><summary>Reusability</summary>Design patterns are reusable solutions to common problems, reducing the need to rediscover solutions/solution components and promoting code reuse.</details>
@@ -24,7 +24,7 @@ Design patterns (or more precisely, software design patterns) are reusable solut
 > - [_Software Design Patterns 101: A Beginner's Guide_ by Digicore from **Medium.com**](https://medium.com/@digicore/software-design-patterns-101-a-beginners-guide-c6860ef8bb63)
 > - [_Gangs of Four (GoF) Design Patterns_ by Pankaj from **DigitalOcean.com**](https://www.digitalocean.com/community/tutorials/gangs-of-four-gof-design-patterns) <br> **NOTE**: _"Gangs of Four" should be "Gang of Four"._
 
-# Explore
+## Explore
 _Ordered reference_...
 
 - [Introduction](https://pranigopu.github.io/computer-science/design-patterns-in-oop/intro.html)
