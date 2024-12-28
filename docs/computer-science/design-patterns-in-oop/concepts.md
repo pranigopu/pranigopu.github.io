@@ -255,7 +255,7 @@ A toolkit is a library, i.e. a set of related and reusable classes designed to p
 > **Reference**: DPG4 (p. 65)
 
 # Type
-A **type** is a name used to denote a particular interface. E.g. an object has the type "Rectangle" if it accepts all requests for the methods defined in the interface named "Rectangle". Often, this name may just be the name of the object's class, but not necessarily, since one object may have many types, and different objects (with very different identities) can share a type. A type is a **subtype** of another type (its **supertype**) if the interface it refers to contains the interface of its supertype. Often, a subtype is said to "inherit" the interface of its supertype.
+A **type** is a name used to denote a particular [interface](#interface). E.g. an object has the type "Rectangle" if it accepts all requests for the methods defined in the interface named "Rectangle". This name may just be the name of the object's class or some ancestor class of its class, but not necessarily, since one object may have many types, and different objects with very different identities and possibly even unrelated class hierarchies can share a type. A type is a **subtype** of another type (its **supertype**) if the interface it refers to contains the interface of its supertype. Often, a subtype is said to "inherit" the interface of its supertype.
 
 ---
 
@@ -263,6 +263,6 @@ A **type** is a name used to denote a particular interface. E.g. an object has t
 
 # Additional conceptual topics
 ## Relating class and interface
-_There is a close relationship between class and interface. Because a class defines the operations an object can perform, it also defines the object's type. When we say that an object is an instance of a class, we imply that the object supports the interface defined by the class._
+There is a close relationship between class and interface. Because a class defines the operations an object can perform, it also defines the object's type. When we say that an object is an instance of a class, we imply that the object supports the interface defined by the class.
 
 > **Reference**: DPG4 (p. 49) 
