@@ -25,4 +25,12 @@ Design patterns (or more precisely, software design patterns) are reusable solut
 > - [_Gangs of Four (GoF) Design Patterns_ by Pankaj from **DigitalOcean.com**](https://www.digitalocean.com/community/tutorials/gangs-of-four-gof-design-patterns) <br> **NOTE**: _"Gangs of Four" should be "Gang of Four"._
 
 # Explore
+_Ordered reference_...
+
 - [Introduction](https://pranigopu.github.io/computer-science/design-patterns-in-oop/intro.html)
+- [Using Design Patterns](https://pranigopu.github.io/computer-science/design-patterns-in-oop/using-design-patterns.html)
+
+_General reference_...
+
+- [Concepts](https://pranigopu.github.io/computer-science/design-patterns-in-oop/concepts.html)
+- [OOP Design Principles](https://pranigopu.github.io/computer-science/design-patterns-in-oop/oop-design-principles.html)
