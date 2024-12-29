@@ -7,11 +7,10 @@
 **Contents**:
 
 - [Overview](#overview)
-- [Reducing to simplicity](#reducing-to-simplicity)
+- [Keep focus simple](#keep-focus-simple)
   - [Principle](#principle)
   - [Explanation](#explanation)
   - [Examples](#examples)
-- [Keep focus simple](#keep-focus-simple)
 - [Purposeful goals](#purposeful-goals)
   - [Principle](#principle-1)
   - [Explanation](#explanation-1)
@@ -21,17 +20,22 @@
   - [Explanation](#explanation-2)
   - [Examples](#examples-2)
 - [Interrelation between the above](#interrelation-between-the-above)
+- [NOTE: Creating tips on specifics](#note-creating-tips-on-specifics)
 
 ---
 
 # Overview
-- Reducing to simplicity
+- Keep focus simple
 - Purposeful goals
 - Full engagement
 
-# Reducing to simplicity
+# Keep focus simple
 ## Principle
-Goals can only be understood through _simple units of complexity_.
+Reality can only be dealt with via _simple units of complexity_.
+
+I.e.:
+
+Only a focus kept simple is effective in dealing with reality.
 
 ## Explanation
 **Abbreviation**: Unit of Complexity = UOC
@@ -62,8 +66,6 @@ Consider the concept of "science". We can break it down as:
   * experimentation  * principles   * process
   * information                     * order
 ```
-
-# Keep focus simple
 
 # Purposeful goals
 ## Principle
@@ -112,3 +114,10 @@ Full engagement leads to:
 
 - Simplicity in focus
 - Efficacy in action
+
+---
+
+Furthermore, note that these principles are not ordered in any way. Each are aspects of an integated whole, this whole being _effective purposefulness_. Purposeful goals may be followed by simplicity, or simplicty may lead to purposeful goals, or full engagement may reveal purposeful goals, or full engagement may lead to simple focus, etc.
+
+# NOTE: Creating tips on specifics
+The goal of these principles is to enable us to deal with the whole range of actual and potential situations that may arise in life. Their effectiveness lies in the generalisability. Now, tips geared toward situations can be valuable in narrower, more focused contexts. But to proliferate tips on specifics without considering whether these tips are valuable in general, or whether it is practical or even possible to hold them or try to hold them in focus when dealing with life — this is irrational and goes against what makes these principles valuable in the first place.

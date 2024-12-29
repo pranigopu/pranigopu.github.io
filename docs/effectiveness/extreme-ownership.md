@@ -101,11 +101,13 @@ Note that this principle also follows extreme ownership:
 _Take ownership of your goals within the broader context._
 
 ## Check the ego
-_Effectiveness is valuable, self-gratification is not._
+_Effectiveness is fundamental, self-gratification is not._
 
 ---
 
-Seeking to gratify one's self-image means to try to make an impression of one's qualities, either for one's own sake or for the approval of others. Now, an impression of good qualities means nothing without their actual practice, i.e. without achieving actual effectiveness through these qualities. An impression of strength does not carry a boulder, only actual strength does. An impression of wisdom does not lead to good decisions, only actual wisdom does. This is not to say that impressions mean nothing, only that impressions mean nothing if they are not grounded in effectiveness. In short, never prioritise self-gratification and making impressions over the effectiveness.
+Seeking to gratify one's self-image means to try to make an impression of one's qualities, either for one's own sake or for the approval of others. Now, an impression of good qualities means nothing without their actual practice, i.e. without achieving actual effectiveness through these qualities.
+
+An impression of strength does not carry a boulder, only actual strength does. An impression of wisdom does not lead to good decisions, only actual wisdom does. This is not to say that impressions mean nothing; even a bluff can have value in some contexts. However, impressions mean nothing if they are not grounded in effectiveness. In short, never prioritise self-gratification and making impressions over effectiveness.
 
 _Effectiveness comes first; impressions are secondary._
 
@@ -123,7 +125,9 @@ _The elements of a team must be mutually supportive._
 
 ---
 
-In a way, this is common sense; if a team does not work together, they are unlikely to organise their efforts in a way that best (1) utlilises their areas of focus, (2) leverages their elements' strengths and (2) covers for their weaknesses. Often, (drawing from Willink and Babin, p. 122), when elements within the team (which could be members or sub-teams) get so focused on their immediate tasks, they forget about what others are doing or how they depend on other teams. They may start to compete with one another, and when there are obstacles, animosity and blame develops. This creates friction that inhibits the overall team’s performance.
+In a way, this is common sense; if a team does not work together, they are unlikely to organise their efforts in a way that best (1) utlilises their areas of focus, (2) leverages their elements' strengths and (2) covers for their weaknesses. Often, (drawing from Willink and Babin, p. 122), when elements within the team (which could be members or teams) get so focused on their immediate tasks, they forget about what others are doing or how they depend on other members or teams.
+
+This harms the ability to coordinate and cooperate. Moreover, it has the potential to create friction through competitiveness or animosity that may arise when other members or teams are not viewed as parts of one mission but as parts of non-mutual, competing or conflicting missions or motivations.
 
 This is where extreme ownership comes in: _It falls on leaders to continually keep perspective on the strategic mission and remind the team that they are part of the greater team and the strategic mission is paramount. As always, the focus must always be on how to best accomplish the mission. Accomplishing the strategic mission is the highest priority. Team members, departments, and supporting assets must always vover and move — help each other, work together, and support each other, since their success or failure is tied to each other._
 
@@ -136,7 +140,11 @@ This is where extreme ownership comes in: _It falls on leaders to continually ke
 
 If something is too complex to deal with as a whole, it means it cannot be dealt with as a whole since it cannot be kept in focus at once. Hence, trying to deal with such complexity without any effort at simplification is going to lead to a poor ability to retain the essentials and thus identify the priorities.
 
-To draw from Willink and Babin (p. 140-141), combat, like anything in life, has inherent layers of complexities. Simplifying as much as possible is crucial to success. When plans and orders are too complicated, people may not understand them. And when things go wrong, and they inevitably do go wrong, complexity compounds issues that can spiral out of control into total disaster. Plans and orders must be communicated in a manner that is simple, clear, and concise. Everyone that is part of the mission must know and understand his or her role in the mission and what to do in the event of likely contingencies.
+To draw from Willink and Babin (p. 140-141), combat, like anything in life, has inherent layers of complexities. Simplifying as much as possible is key to success. When plans and orders are too complex, we or others in our team may not understand them, and when things go wrong, complexity together with the lack of understanding compounds challenges.
+
+Hence: _Plans and orders must be communicated in a manner that is simple, clear and concise. Everyone that is part of the mission must know and understand his or her role in the mission and what to do in the event of likely contingencies._
+
+---
 
 This is where extreme ownership comes in: _As a leader, it does not matter how well you feel you have presented the information or communicated an order, plan, tactic, or strategy. If your team does not get it, you have not kept things simple and you have failed. You must brief to ensure the lowest common denominator on the team understands. It is critical to keep plans and communication simple. Following this rule is crucial to the success of any team in any combat, business or life._
 
@@ -157,17 +165,15 @@ _Do not try to do everything at once or you will not be successful._
 
 To pursue a purpose effectively, we must organise both knowledge and objectives based on relevance and complexity. To be relevant is to be a significant factor (at least in our knowledge) in achieving our purpose; hence, to favour less relevant considerations is to favour less signficant factors, which is sheer irrationality.
 
-Moreoever, at any given time, your focus, ability to act and ability to think are limited; to clog them with a disorganised mess of considerations leads to a complexity-ridden state of focus, violating the principle of "simple". Moreover, it is to waste of one's limited time, energy and resources, inviting failure or even disaster. Drawing from Willink and Babin (p. 157), even the greatest of battlefield leaders cannot handle an array of challenges simultaneously without being overwhelmed. That risks failing at them all.
+Moreoever, at any given time, your focus, ability to act and ability to think are limited; to clog them with a disorganised mess of considerations leads to a complexity-ridden state of focus, violating the principle of "simple". Moreover, it is to waste of one's limited time, energy and resources, inviting failure or even disaster.
 
-_Thus, in line with the broader principle of extreme ownership, a leader must take ownership of identifying priorities and ensuring the execution of these priorities._
+Drawing from Willink and Babin (p. 157), multiple challenges can compound, every challenge complex in its own right, each deserving and demanding attention. Hence, even the most competent of leaders can be overwhelmed if they try to deal with multiple challenges or tasks together at once, which would likely lead to them and their team failing at each of those challenges or tasks. Instead:
 
----
+_We must determine the highest priority task and execute_.
 
-On the battlefield (literal or figurative), countless problems compound in a snowball effect, every challenge complex in its own right, each demanding attention. But, following the broader principle of extreme ownership, a leader must remain calm and make the best decisions possible. To do this, SEAL combat leaders utilize _Prioritize and Execute_. We verbalise this principle with this direction:
+Thus, in line with the broader principle of extreme ownership, a leader must take ownership of identifying priorities and ensuring the execution of these priorities. This principle can be verbalised as:
 
 "Relax, look around, make a call."
-
-Even the most competent of leaders can be overwhelmed if they try to tackle multiple problems or a number of tasks simultaneously. The team will likely fail at each of those tasks. Instead, leaders must determine the highest priority task and execute. When overwhelmed, fall back upon this principle: _Prioritize and Execute_.
 
 ---
 
@@ -177,11 +183,13 @@ This principle is strongly tied to:
 - Planning
 - Communication
 
-How? Firstly, prioritisation is a means to achieve simplicity in focus. Secondly, planning ensures that the mental work needed to resolve potential complexities is handled beforehand, when we have the time, energy and focus to consider these complexities more. Hence, when under the pressure of a real-life situation, when the focus becomes much narrower to deal more effectively with the present moment, we already know what can be done to be effective.
+<details><summary>How? Click to read further.</summary><p>Firstly, prioritisation is a means to achieve simplicity in focus. Secondly, planning ensures that the mental work needed to resolve potential complexities is handled beforehand, when we have the time, energy and focus to consider these complexities more. Hence, when under the pressure of a real-life situation, when the focus becomes much narrower to deal more effectively with the present moment, we already know what can be done to be effective.
+<br><br>
+<i>A good plan enables simpler focus.<i>
+<br><br>
+Finally, communication. This is simple: if a plan, the broader goal or the priorities are not clear, it is the responsibility of each member of the team, and most of all the leader, to facilitate and encourage clarifying communication.</p></details>
 
-_A good plan enables simpler focus._
-
-Finally, communication. This is simple: if a plan, the broader goal or the priorities are not clear, it is the responsibility of each member of the team, and most of all the leader, to facilitate and encourage clarifying communication.
+---
 
 **NOTE**: _Priorities can shift and change, which is why simplicity of the broader goals, good planning and solid communication are vital in maintaining the ability to effectively prioritise and execute despite such shifts and changes. Furthermore, drawing from Willink and Babin (p. 163) do not let the focus on one priority cause target fixation. Maintain the ability to see other problems developing and rapidly shift as needed._
 
