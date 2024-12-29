@@ -11,6 +11,7 @@
   - [Principle](#principle)
   - [Explanation](#explanation)
   - [Examples](#examples)
+- [Keep focus simple](#keep-focus-simple)
 - [Purposeful goals](#purposeful-goals)
   - [Principle](#principle-1)
   - [Explanation](#explanation-1)
@@ -61,6 +62,8 @@ Consider the concept of "science". We can break it down as:
   * experimentation  * principles   * process
   * information                     * order
 ```
+
+# Keep focus simple
 
 # Purposeful goals
 ## Principle

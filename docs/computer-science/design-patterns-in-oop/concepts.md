@@ -255,7 +255,7 @@ A toolkit is a library, i.e. a set of related and reusable classes designed to p
 > **Reference**: DPG4 (p. 65)
 
 # Type
-A **type** is a name used to denote a particular [interface](#interface). E.g. an object has the type "Rectangle" if it accepts all requests for the methods defined in the interface named "Rectangle". This name may just be the name of the object's class or some ancestor class of its class, but not necessarily, since one object may have many types, and different objects with very different identities and possibly even unrelated class hierarchies can share a type. A type is a **subtype** of another type (its **supertype**) if the interface it refers to contains the interface of its supertype. Often, a subtype is said to "inherit" the interface of its supertype.
+A **type** is a name used to denote a particular [interface](#interface). E.g. an object has the type "Rectangle" if it accepts all requests for the methods defined in the interface named "Rectangle". This name may just be the name of the object's class or some ancestor class of its class, but not necessarily, since one object may have more than one type (i.e. it cabe interacted with via more than one interface), and different objects with very different identities (possibly even unrelated class hierarchies) can share a type. A type is a **subtype** of another type (its **supertype**) if the interface it refers to contains the interface of its supertype. Often, a subtype is said to "inherit" the interface of its supertype.
 
 ---
 
