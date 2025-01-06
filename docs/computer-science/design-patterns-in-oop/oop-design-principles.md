@@ -19,7 +19,7 @@ Implementation reuse is only a part of the value of inheritance; the other part 
 Inheritance can be used such that all classes derived from an abstract class share its interface. This implies that a subclass merely adds or overrides methods and does not hide the parent class' methods. Then, all these subclasses can respond to the requests in the interface of this abstract class, making them all [subtypes](https://pranigopu.github.io/computer-science/design-patterns-in-oop/concepts.html#type) of the abstract class. The benefits of manipulating objects only through an interface defined by abstract classes are:
 
 1. Clients stay unaware of the specific types of objects they use <br> ... _as long as the objects adhere to the interface that clients expect_
-2. 2. Clients stay unaware of classes implementing these objects <br> ... _only knowing about the abstract class(es) defining the interface_
+2. Clients stay unaware of classes implementing these objects <br> ... _only knowing about the abstract class(es) defining the interface_
 
 _This reduces implementation dependencies between subsystems._
 
@@ -27,7 +27,7 @@ Hence, the principle.
 
 ---
 
-Hence, in practice, do not declare variables to be instances of particular concrete classes, but rather, deal with them only through an interface defined by an abstract class. This is a common theme of the design patterns in DPG4. In particular, reational patterns ensure that your system is written in terms of interfaces, not implementations (i.e. classes/subclasses).
+Hence, in practice, do not declare variables to be instances of particular concrete classes, but rather, deal with them only through an interface defined by an abstract class. This is a common theme of the design patterns in DPG4. In particular, relational patterns ensure that your system is written in terms of interfaces, not implementations (i.e. classes/subclasses).
 
 ---
 
