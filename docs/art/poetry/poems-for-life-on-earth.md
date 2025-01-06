@@ -19,6 +19,8 @@
   - [An Ode to the Fact of Existence](#an-ode-to-the-fact-of-existence)
   - [The Peerless Value](#the-peerless-value)
   - [Wishes and Dreams](#wishes-and-dreams)
+- [Others](#others)
+  - [Purpose](#purpose)
 
 ---
 
@@ -158,3 +160,25 @@ If I let them in my skull, my <br>
 Heart would beat for... null.
 
 **NOTE**: _"Null" and "skull" line up rhythmically._
+
+# Others
+## Purpose
+He throws the anchor ahead, <br>
+Hitting nought but water, <br>
+Splitting froth and waves, <br>
+Hoping the sea behaves.
+
+But, unmoored and adrift, <br>
+Oh, the shore within sight! <br>
+Yet, he stays in his plight, <br>
+Ever at the mercy of the waves.
+
+The anchor feels such a burden, <br>
+Throwing it, such a pain, <br>
+Yet, here he paddles in vain, <br>
+Hoping the sea behaves.
+
+May some calm not lull his heart, <br>
+Into a soothing peace, <br>
+Bare to fate's caprice. <br>
+May he learn to master the waves.
