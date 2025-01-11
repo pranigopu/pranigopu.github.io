@@ -10,6 +10,7 @@
 
 **Contents**:
 
+- [Prologue](#prologue)
 - [On truth](#on-truth)
   - [Truth and Pride](#truth-and-pride)
   - [Philosophia](#philosophia)
@@ -21,10 +22,20 @@
   - [Wishes and Dreams](#wishes-and-dreams)
 - [Others](#others)
   - [Purpose](#purpose)
+  - [Illumination](#illumination)
+  - [The Heretic](#the-heretic)
+  - [A is A](#a-is-a)
+  - [Eternity](#eternity)
 
 ---
 
 _A collection of my poems that essentialise my views on key aspects of truth, self-value and the affirmation of the facts of reality._
+
+# Prologue
+_Most treasured is the next breath,_ <br>
+_Null without the breath of now._ <br>
+_Never shall we see its death;_ <br>
+_That, we the living can avow._
 
 # On truth
 ## Truth and Pride
@@ -102,32 +113,32 @@ It is mine to reap.
 
 - ...
     - The pro-
-- -faned and treasured, the
-    - pains and pleasures,
+- _-faned and treasured, the_
+    - _pains and pleasures,_
 - All parts of the
     - whole. My
-- Feelings are many, in
-    - many measures, but for
+- _Feelings are many, in_
+    - _many measures, but for_
 - You? Only fire in my
     - soul. I <br><br>
 
-- Strive against plight and de-
-    - -light in vigour. I
+- _Strive against plight and de-_
+    - _-light in vigour. I_
 - Curse or bless the de-
     - -serving. My
-- Verdict is stark when
-    - held with rigour, and for
+- _Verdict is stark when_
+    - _held with rigour, and for_
 - You? My love is un-
     - -swerving. <br><br>
 
-- You owe me nothing,
-    - nor I you,
+- _You owe me nothing,_
+    - _nor I you,_
 - All I say is,
-    - “Yes,
-- Yes, all that’s
-    - good and true is
+    - "Yes,
+- _Yes, all that's_
+    - _good and true is_
 - Twined in your im-
-    - -press.”
+    - -press."
 
 ## The Peerless Value
 **(4 beats per line)**
@@ -154,7 +165,7 @@ Of and from this world, this <br>
 One, the one and only, where I <br>
 Stand, not forlornly, but
 
-- Glad, in flesh and blood, no <br>
+Glad, in flesh and blood, no <br>
 Phantoms in my veins. But <br>
 If I let them in my skull, my <br>
 Heart would beat for... null.
@@ -181,4 +192,59 @@ Hoping the sea behaves.
 May some calm not lull his heart, <br>
 Into a soothing peace, <br>
 Bare to fate's caprice. <br>
-May he learn to master the waves.
+May his anchor harness the waves.
+
+## Illumination
+A mind greater than mine, <br>
+With reason, his instrument: <br>
+A tree that shades my leaves? <br>
+That grows to my detriment?
+
+No, not in this world. <br>
+His might won't make me cower; <br>
+For his might is not of a brute, <br>
+Or a beast, or a tyrant's power.
+
+When I delve into winding caves, <br>
+Shining my own light down the rift, <br>
+Mining for insight into the depths, <br>
+His brightness is a gift.
+
+I am not humbled, nothing is lessened, <br>
+For my project of life is aided. <br>
+Only pride and joy in my heart; <br>
+My own potential is elevated.
+
+## The Heretic
+— The one asked: <br>
+"Why shun the light? <br>
+Why stand forsaken, <br>
+In lonely fright?"
+
+— The other replied: <br>
+"Alone, not lonely. <br>
+The ground below me, <br>
+Is all that's holy."
+
+## A is A
+"Can I truly affirm, <br>
+That this cup is here? <br>
+My senses lie, I fear."
+
+"But, what is, is. <br>
+What touches you is the given, <br>
+All therefrom is self-driven."
+
+"Self-driven? Up to me? <br>
+But, exist many conceptions, <br>
+Among them, many deceptions"
+
+"Self-driven is man's will. <br>
+The choice to see is his, <br>
+To see that what is, is."
+
+## Eternity
+Whatever was before, <br>
+Whatever comes after, <br>
+To be, is at the core, <br>
+Of now and hereafter.
