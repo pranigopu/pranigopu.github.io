@@ -140,6 +140,11 @@ The goal is vital in that it serves to integrate the whole system of one's value
 
 In other words, the process is as valuable — if not more — than the result, because the process is (1) what makes the result possible in the first place, and (2) what helps achieve interrelated results (positive results) that can further one's progress in other key ways as well.
 
+
+_To conclude_...
+
+The long-range is not separate but rather integrated to the present and the short-range. Integrating your pursuit of your value for life in the long-range to your present gives value to the present, leading to greater happiness in the moment. This is in line with the fact that happiness is the state of non-contradictory achievement of your values.
+
 ## Dealing with unsatisfactory results or failure
 If the gain of concrete value depends on the outcome, then motivation is tied much more strongly or even entirely to the outcome, which makes bad outcomes all the more crushing to one's motivation and thereby to one's ability to persevere and make further efforts. However, if the gain of concrete value comes from the process as well, then, as long as there is a rational basis for hope or for the value of engaging in a pursuit (no matter how high the difficulty or how low the chance of success), your motivation has much more fuel and thus a much greater ability to sustain itself.
 
