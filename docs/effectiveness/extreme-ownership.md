@@ -129,7 +129,7 @@ In a way, this is common sense; if a team does not work together, they are unlik
 
 This harms the ability to coordinate and cooperate. Moreover, it has the potential to create friction through competitiveness or animosity that may arise when other members or teams are not viewed as parts of one mission but as parts of non-mutual, competing or conflicting missions or motivations.
 
-This is where extreme ownership comes in: _It falls on leaders to continually keep perspective on the strategic mission and remind the team that they are part of the greater team and the strategic mission is paramount. As always, the focus must always be on how to best accomplish the mission. Accomplishing the strategic mission is the highest priority. Team members, departments, and supporting assets must always vover and move — help each other, work together, and support each other, since their success or failure is tied to each other._
+This is where extreme ownership comes in: _It falls on leaders to continually keep perspective on the strategic mission and remind the team that they are part of the greater team and the strategic mission is paramount. As always, the focus must always be on how to best accomplish the mission. Accomplishing the strategic mission is the highest priority. Team members, departments, and supporting assets must always cover and move — help each other, work together, and support each other, since their success or failure is tied to each other._
 
 > **Reference**: Willink, Jocko; Babin, Leif. Extreme Ownership: How U.S. Navy SEALs Lead and Win. St. Martin's Publishing Group. Kindle Edition.
 

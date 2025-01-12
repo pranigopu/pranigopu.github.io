@@ -4,6 +4,13 @@
 
 **NOTE**: _Philosophy, if practiced rightly, is essentially the study of effective thought and action at the broadest and most fundamental cognitive levels. Hence, I shall include links to the philosophy section of my website as well._
 
+---
+
+In essence, the primary goal of life is to be effective, i.e. to:
+
+- Strive and achieve values
+- Do so consistently and reliably
+
 ## Explore
 _Philosophy_...
 
@@ -14,7 +21,7 @@ _Others_...
 
 - [Effective Purposefulness](https://pranigopu.github.io/effectiveness/effective-purposefulness.html)
 - [Effective Rationality](https://pranigopu.github.io/effectiveness/effective-rationality.html)
-- [Essentialise, Simplify, Organise](https://pranigopu.github.io/effectiveness/eso.html)
+- [Essentialise, Simplify, Organise (ESO)](https://pranigopu.github.io/effectiveness/eso.html) <br> _Also includes the principles of concretising ESO_
 - [Planning](https://pranigopu.github.io/effectiveness/planning.html)
 - [Taking Breaks](https://pranigopu.github.io/effectiveness/taking-breaks.html)
 - [Extreme Ownership](https://pranigopu.github.io/effectiveness/extreme-ownership.html)

@@ -7,29 +7,35 @@
 **Contents**:
 
 - [Overview](#overview)
-- [Keep focus simple](#keep-focus-simple)
+- [1. Keep focus simple](#1-keep-focus-simple)
   - [Principle](#principle)
   - [Explanation](#explanation)
   - [Examples](#examples)
-- [Purposeful goals](#purposeful-goals)
+- [2. Purposeful goals](#2-purposeful-goals)
   - [Principle](#principle-1)
   - [Explanation](#explanation-1)
   - [Examples](#examples-1)
-- [Full engagement](#full-engagement)
+- [3. Steady focus](#3-steady-focus)
   - [Principle](#principle-2)
   - [Explanation](#explanation-2)
   - [Examples](#examples-2)
-- [Interrelation between the above](#interrelation-between-the-above)
+- [Interrelation between 1, 2 and 3](#interrelation-between-1-2-and-3)
+- [4. Value the process](#4-value-the-process)
+  - [Principle](#principle-3)
+  - [Explanation](#explanation-3)
+  - [Dealing with unsatisfactory results or failure](#dealing-with-unsatisfactory-results-or-failure)
+  - [Balance between result-orientation and process-orientation](#balance-between-result-orientation-and-process-orientation)
 - [NOTE: Creating tips on specifics](#note-creating-tips-on-specifics)
 
 ---
 
 # Overview
-- Keep focus simple
-- Purposeful goals
-- Full engagement
+1. Keep focus simple
+2. Purposeful goals
+3. Steady focus
+4. Value the process
 
-# Keep focus simple
+# 1. Keep focus simple
 ## Principle
 Reality can only be dealt with via _simple units of complexity_.
 
@@ -67,7 +73,7 @@ Consider the concept of "science". We can break it down as:
   * information                     * order
 ```
 
-# Purposeful goals
+# 2. Purposeful goals
 ## Principle
 A goal without a goal ends up purposeless, inspiring no will.
 
@@ -79,7 +85,7 @@ What is an end in itself? Can there be more than one? These are deep questions t
 ## Examples
 Consider: why am I writing this? If there is no goal behind it, I am acting purposelessly such action cannot be sustained for long volitionally. No, I write because I want to be clear about how a goal can be sustained volitionally, and by writing, I (1) lay out my ideas where I can see them, without them going out of focus or being forgotten, and (2) make a longer logical chain of arguments easier to build, refer back to and thus validate. Now, why do I want clarity? Sometimes, the desire to gain clarity can feel like an urge, but I see that my urge draws from my grasp of the importance of ideas in my life, and thus the importance of being clear about my ideas. Here, we can see how it ties to my life itself, the end in itself.
 
-# Full engagement
+# 3. Steady focus
 ## Principle
 Focus is limited; to divide it without reason is to waste a precious resource.
 
@@ -105,12 +111,12 @@ Suppose I am listening to someone, and I miss some point they made earlier, whic
 
 Suppose I am preparing for a project. What if I study every topic even tangentially related to my project, just because I think it could be relevant? Most likely, I will (1) cover far fewer topics, (2) cover less relevant topics, and (3) expend much my time and energy with little-to-no effect. What is the likely result? Slow progress, mental and physical overload, and potentially, burnout. Is this an effective way to prepare for a project? No, because it divides focus irrationally.
 
-# Interrelation between the above
+# Interrelation between 1, 2 and 3
 Simplicity clarifies goals.
 
 Goals drive engagement.
 
-Full engagement leads to:
+Steady focus leads to:
 
 - Simplicity in focus
 - Efficacy in action
@@ -118,6 +124,32 @@ Full engagement leads to:
 ---
 
 Furthermore, note that these principles are not ordered in any way. Each are aspects of an integated whole, this whole being _effective purposefulness_. Purposeful goals may be followed by simplicity, or simplicty may lead to purposeful goals, or full engagement may reveal purposeful goals, or full engagement may lead to simple focus, etc.
+
+# 4. Value the process
+## Principle
+Concrete value sustains volition, especially for long-range goals.
+
+_Hence, the process itself must be valuable, not just the result._
+
+## Explanation
+_Lifted from_ ["Integrating the value of the process with the goal" from _Integrating the Actual and the Potential_ from **Philosophy in Practice** from **Philosophy**](https://pranigopu.github.io/philosophy/philosophy-in-practice/2-integrating-actual-and-potential.html#integrating-the-value-of-the-process-with-the-goal).
+
+The goal's object may represent one or few values, but often does not represent all the values relevant within the overall context (overall ⇒ including the process and the result). Furthermore, the probability of success is often less than certain and can even be quite uncertain. Hence, it stands to reason that what makes a goal worth pursuing is not just the values represented by the goal's object but the integrated system of values represented by the steps within the process of the pursuit itself.
+
+The goal is vital in that it serves to integrate the whole system of one's values in a concrete (i.e. particular) context, and thus, serves to achieve moral and practical efficacy (the moral is the practical; distinction is made for emphasis). Hence, a goal must be evaluated with respect to not only its object but also the way it integrates the whole system of one's values in the process of the pursuit.
+
+In other words, the process is as valuable — if not more — than the result, because the process is (1) what makes the result possible in the first place, and (2) what helps achieve interrelated results (positive results) that can further one's progress in other key ways as well.
+
+## Dealing with unsatisfactory results or failure
+If the gain of concrete value depends on the outcome, then motivation is tied much more strongly or even entirely to the outcome, which makes bad outcomes all the more crushing to one's motivation and thereby to one's ability to persevere and make further efforts. However, if the gain of concrete value comes from the process as well, then, as long as there is a rational basis for hope or for the value of engaging in a pursuit (no matter how high the difficulty or how low the chance of success), your motivation has much more fuel and thus a much greater ability to sustain itself.
+
+## Balance between result-orientation and process-orientation
+Based on the principle of [purposeful goals](#2-purposeful-goals), goal-setting and goal-integration are key to effective purposefulness. However, based on the current principle, valuing the process is key to sustaining purposefulness. Evidently, both aspects are important to effective purposefulness. Hence, excessive result-orientation and excessive process-orientation are both ineffective; the key is to balance them. How? My suggested approach:
+
+- Set the goal at the start
+- Understand at least the broad steps to pursue it
+- As you pursue it, value the process
+- Preferrably, value the whole process of goal-setting and completion <br> _This creates a self-reinforcing cycle_ 
 
 # NOTE: Creating tips on specifics
 The goal of these principles is to enable us to deal with the whole range of actual and potential situations that may arise in life. Their effectiveness lies in the generalisability. Now, tips geared toward situations can be valuable in narrower, more focused contexts. But to proliferate tips on specifics without considering whether these tips are valuable in general, or whether it is practical or even possible to hold them or try to hold them in focus when dealing with life — this is irrational and goes against what makes these principles valuable in the first place.

@@ -11,6 +11,10 @@
   - [Simplification](#simplification)
   - [Organisation](#organisation)
 - [Relating the above](#relating-the-above)
+- [Concretising the above](#concretising-the-above)
+  - [Integration needs material (before ESO)](#integration-needs-material-before-eso)
+  - [Ultimately, only particulars exist (after ESO)](#ultimately-only-particulars-exist-after-eso)
+  - [Tying the above principles to ESO](#tying-the-above-principles-to-eso)
 - [The next step](#the-next-step)
 
 ---
@@ -41,6 +45,26 @@ A set of items ordered based on some kind of logical relationship lets us consid
 
 # Relating the above
 To pursue a purpose effectively, we must organise both knowledge and objectives based on relevance and complexity. To do so, we must first essentialise the purposeful context to reach the essentials and thus the logical relationships between various parts of the context. Then, we must simplify our considerations in order to apply our focus on each one effectively. Finally, we must organise our considerations so that we can progress with them effectively. Hence, essentialisation, simplification and organisation (ESO) are the three pillars of purpose, especially for long-range purposes or complex goals.
+
+# Concretising the above
+There are two principles for concretising ESO:
+
+1. Intergration needs material
+2. Ultimately, only particulars (i.e. concretes) exist
+
+## Integration needs material (before ESO)
+Integration is the process of uniting multiple units into a single mental unit by (1) retaining their logical and/or causal relationships, and (2) omitting non-purposeful details (e.g. differences that are irrelevant in the given context). Hence, to integrate, we must have the units first, the most basic units being percepts. Hence, it is key to gather enough material before trying to essentialise, simplify or organise it.
+
+## Ultimately, only particulars exist (after ESO)
+Logically, the basis of reality is the existence of entities whose identities are independent of any consciousness, i.e. particulars or concretes. Abstractions, properly, are the results of selective focus on concretes, i.e. they are a means of integrating, organising and examining concretes. They are objective, but they do not exist indepedent of consciousness. Knowing this is crucial, because it tells us two key things with respect to values and knowledge:
+
+- Values only exist if one acts to concretise them
+- Unconcretisable abstractions cannot constitute knowledge of reality
+
+## Tying the above principles to ESO
+- Gather material to integrate
+- ESO
+- Concretise the results of ESO
 
 # The next step
 The principles of ESO lay out the essential steps in effective action. However, these principles are conceptual, i.e. they apply to a vast range of specifics while omitting a host of details that would be relevant to deal with specifics, e.g. the domain-specific methods, the time and resources available, the level of simplification needed for the context, etc. But note also that details of method are also omitted by ESO, as ESO gives a framework for only what to do, not how to do it.
