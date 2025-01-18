@@ -15,6 +15,7 @@
   - [Truth and Pride](#truth-and-pride)
   - [Philosophia](#philosophia)
   - [Non-evasion](#non-evasion)
+  - [A is A](#a-is-a)
 - [On life](#on-life)
   - [Heart of the Heart](#heart-of-the-heart)
   - [An Ode to the Fact of Existence](#an-ode-to-the-fact-of-existence)
@@ -24,9 +25,9 @@
   - [Purpose](#purpose)
   - [Illumination](#illumination)
   - [The Heretic](#the-heretic)
-  - [A is A](#a-is-a)
   - [Eternity](#eternity)
   - [Aristotle](#aristotle)
+  - [In Practice](#in-practice)
 
 ---
 
@@ -93,6 +94,23 @@ The fire kept alive by the <br>
 Breaths of a clear mind; no <br>
 Beast will seize my soul, no <br>
 Shame shall ever bind.
+
+## A is A
+"Can I truly affirm, <br>
+That this cup is here? <br>
+My senses lie, I fear."
+
+"But, what is, is. <br>
+What touches you is the given, <br>
+All therefrom is self-driven."
+
+"Self-driven? Up to me? <br>
+But, exist many conceptions, <br>
+Among them, many deceptions"
+
+"Self-driven is man's will. <br>
+The choice to see is his, <br>
+To see that what is, is."
 
 # On life
 ## Heart of the Heart
@@ -227,28 +245,11 @@ In lonely fright?"
 The ground below me, <br>
 Is all that's holy."
 
-## A is A
-"Can I truly affirm, <br>
-That this cup is here? <br>
-My senses lie, I fear."
-
-"But, what is, is. <br>
-What touches you is the given, <br>
-All therefrom is self-driven."
-
-"Self-driven? Up to me? <br>
-But, exist many conceptions, <br>
-Among them, many deceptions"
-
-"Self-driven is man's will. <br>
-The choice to see is his, <br>
-To see that what is, is."
-
 ## Eternity
 Whatever was before, <br>
 Whatever comes after, <br>
 To be, is at the core, <br>
-Of now and hereafter.
+Of ere and hereafter.
 
 ## Aristotle
 Some thought to rule with might, <br>
@@ -261,7 +262,13 @@ Some drowned in heaven's hymns. <br>
 Soul and body were torn asunder, as <br>
 Mankind flailed its growing limbs.
 
-Then, fate favoured the human soul: <br>
-Aristotle rose, earthly wisdom his goal, <br>
+Then fate favoured the human soul: the <br>
+Stagirite rose, earthly wisdom his goal, <br>
 "Fair" and "foul" unobscured with study, <br>
-Man's fragments now brought back whole.
+Man's fragments brought back whole.
+
+## In Practice
+Striving to gain and keep, gives life to sense: <br>
+To a sparrow, sowing seeds may seem so very dense; <br>
+Yet, what one strives for, is reason's root hence. <br>
+Sow for what you strive for, all else is pretense.
