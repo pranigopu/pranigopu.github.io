@@ -26,6 +26,7 @@
   - [The Heretic](#the-heretic)
   - [A is A](#a-is-a)
   - [Eternity](#eternity)
+  - [Aristotle](#aristotle)
 
 ---
 
@@ -248,3 +249,19 @@ Whatever was before, <br>
 Whatever comes after, <br>
 To be, is at the core, <br>
 Of now and hereafter.
+
+## Aristotle
+Some thought to rule with might, <br>
+Some sought to know what's right, <br>
+Arguments ran, both fair and foul, as <br>
+Mankind swayed 'tween day and night.
+
+Some crowned their wishes and whims, <br>
+Some drowned in heaven's hymns. <br>
+Soul and body were torn asunder, as <br>
+Mankind flailed its growing limbs.
+
+Then, fate favoured the human soul: <br>
+Aristotle rose, earthly wisdom his goal, <br>
+"Fair" and "foul" unobscured with study, <br>
+Man's fragments now brought back whole.
