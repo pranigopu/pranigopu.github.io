@@ -28,6 +28,7 @@
   - [Eternity](#eternity)
   - [Aristotle](#aristotle)
   - [In Practice](#in-practice)
+  - [The Climb](#the-climb)
 
 ---
 
@@ -235,12 +236,12 @@ Only pride and joy in my heart; <br>
 My own potential is elevated.
 
 ## The Heretic
-— The one asked: <br>
+So the one asked: <br>
 "Why shun the light? <br>
 Why stand forsaken, <br>
 In lonely fright?"
 
-— The other replied: <br>
+So the other replied: <br>
 "Alone, not lonely. <br>
 The ground below me, <br>
 Is all that's holy."
@@ -269,6 +270,27 @@ Man's fragments brought back whole.
 
 ## In Practice
 Striving to gain and keep, gives life to sense: <br>
-To a sparrow, sowing seeds may seem so very dense; <br>
+To a sparrow, sowing seeds may seem quite dense; <br>
 Yet, what one strives for, is reason's root hence. <br>
 Sow for what you strive for, all else is pretense.
+
+## The Climb
+From hold to hold, crack and crevice, <br>
+Straining against the pull of the earth, <br>
+Gaining on the peak of the pinnacle, <br>
+The moment's focus our only premise.
+
+At long last, we survey the space; <br>
+The expanse, both above and below. <br>
+I'm entranced by the steady rays, <br>
+Yes, the sun's, but also of his face,
+
+Rays shining from his balmed being, <br>
+Balmed from rigours that wore him thin, <br>
+Calmed from the stirring in his heart. <br>
+His glow; oh, what a sight I was seeing!
+
+Etched in his face are daily sorrows, <br>
+My heart hurt for his hurtless despair. <br>
+I start to forget those sinking days, <br>
+As he shines with a thousand tomorrows.
