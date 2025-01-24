@@ -288,7 +288,7 @@ Yes, the sun's, but also of his face,
 Rays shining from his balmed being, <br>
 Balmed from rigours that wore him thin, <br>
 Calmed from the stirring in his heart. <br>
-His glow; oh, what a sight I was seeing!
+His glow; oh, what a sight I'm seeing!
 
 Etched in his face are daily sorrows, <br>
 My heart hurt for his hurtless despair. <br>
