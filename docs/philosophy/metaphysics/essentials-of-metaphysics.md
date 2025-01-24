@@ -8,10 +8,7 @@
 
 - [Introduction](#introduction)
 - [Key definitions](#key-definitions)
-- [Self-evidence](#self-evidence)
-  - [Awareness is and knowledge is](#awareness-is-and-knowledge-is)
-  - [Knowledge presupposes that what is, is](#knowledge-presupposes-that-what-is-is)
-  - [What is, is, and what is not, is not](#what-is-is-and-what-is-not-is-not)
+- [The first principle](#the-first-principle)
 - [Axiom 1: Existence exists](#axiom-1-existence-exists)
 - [_The axiomatic fact of consciousness_](#the-axiomatic-fact-of-consciousness)
 - [Axiom 2: The law of identity](#axiom-2-the-law-of-identity)
@@ -19,6 +16,14 @@
   - [Corollary 2: Existence is identity](#corollary-2-existence-is-identity)
   - [_Application of the concept of identity_](#application-of-the-concept-of-identity)
   - [Corollary 3: The law of causality](#corollary-3-the-law-of-causality)
+    - [Definitions](#definitions)
+    - [Argument](#argument)
+    - [Summarisation](#summarisation)
+    - [Key points](#key-points)
+      - [Context in causality](#context-in-causality)
+      - [Absolutism of causality](#absolutism-of-causality)
+      - [Fundamentality of entities](#fundamentality-of-entities)
+      - [Causless change](#causless-change)
 - [The primacy of existence](#the-primacy-of-existence)
 - [Summarising metaphysics](#summarising-metaphysics)
 - [The scope of metaphysics](#the-scope-of-metaphysics)
@@ -62,39 +67,24 @@ _An extra definition for certain discussions_...
 
 Any particular part of active consciousness, such as a particular sensation, perception, concept, thought, emotion, etc.
 
-# Self-evidence
-**LEXICAL NOTE**:
-
-To affirm something is to grasp (either explicitly or implicitly) that it exists, i.e. that it is real. To accept something is to hold that it exists; acceptance can also exist when what is being accepted does not exist. Hence, affirmation is affirmation of what is, whereas acceptance is acceptance of a proposition about something that either is or may be or is not or may not be. Note also that to deny something is to hold that it does not exist (it is the inverse of acceptance); denial can also exist when what is being denied does exist. Hence, note a key point: accepting or denying something is independent of affirming it, since you affirm it as long as you grasp and rely on its existence.
+# The first principle
+One must hold as _inescapable and sacrosanct_ that what is, is, and what is not, is not. Is it possible to deny it, namely to say that what is, is not, or what is not, is? To say something is possible is to say that it has some basis in existence. On what basis could one say that it is possible for a thing to exist and not exist at once, i.e. to be existent and non-existent at once? Any way you try to see it, the non-existent has no place in existence; then, on what basis can one deny that what is, is, and what is not, is not? None whatsover in reality.
 
 ---
 
-_Back to the main topic_...
+**Reaffirmation through denial**:
 
-The self-evident is the direct awareness of reality. It is the opposite of the arbitrary; the self-evident is inherent in the awareness of existence as such and is that which is given to us by reality directly. Hence, the self-evident is also the opposite of faith, which is why it is important to see how we reach the fact that something is self-evident. I shall show that the self-evident is at the core of all awareness and all knowledge. Hence, by its nature, the self-evident is that which one affirms even in trying to deny it, since no act of awareness can validly deny that which awareness presupposes by its very existence (needless to say, the unaware cannot affirm, accept or deny anything).
-
-## Awareness is and knowledge is
-To be aware of something is to perceive and thereby affirm that it is, i.e. that it exists. Note that awareness is always awareness of something; awareness of nothing is unawareness. Now, note that _knowledge is the retained awareness of something_. Hence, to know something is to affirm that it is and retain the affirmation. Now, note that my awareness is, i.e. it exists; if it does not, I can affirm, accept or deny nothing, i.e. I can say nothing. To the extent that I say something, to that extent I affirm that my awareness is, i.e. that I am aware. Hence, since knowledge is the retained awareness of something, and since I am aware and capable of retaining my awareness of things, knowledge is, i.e. knowledge exists. In other words, since I am aware and capable of retaining my awareness of things, I know something and never nothing.
-
-## Knowledge presupposes that what is, is
-If knowing Y depends on knowing X, then I must affirm that X is, before affirming that Y is. However, at some point, we can affirm what is without affirming anything else. Why? Consider: if what I know has infinite priors (i.e. things I must know before knowing what I know), then I know nothing, since I cannot know the prior that comes before all else. But I cannot know nothing. Why? Because to know nothing is to affirm nothing, but anything that meets my awareness is something that I affirm by the very fact of my awareness of it. If nothing meets my awareness, I am not aware of anything and hence am not aware. But I am, since to the extent that something is said, to that extent I affirm that I am aware of something that exists.
-
-What I know begins at the affirmation that what is, is. To the extent that I know anything and to the extent that I am aware of anything, to that extent I affirm and cannot but affirm that what is, is. To deny the affirmation is to say that what is not, is, or that what is, is not. Here, either I affirm nothing or I affirm something. But something that is, is. Hence, to the extent that I affirm anything, to that extent I affirm that what is, is, whatever I say to deny it. To the extent that I accept that "what is not, is" or that "what is, is not", to that extent I accept nothing. Hence, to affirm anything is to affirm that what is, is, which means knowledge presupposes that what is, is.
-
-## What is, is, and what is not, is not
-As previously said, to affirm is to affirm that "what is, is", and to accept that "what is not, is" or that "what is, is not" is to accept nothing. Hence, we know that what is, is, and by extension, what is not, is not and can be nothing. Hence, we get the self-evident basis for all that exists and all that we can know about it.
+In trying to deny it, you must accept that your denial is a denial and not an acceptance; thus, even here, you rely on this principle. If you both accept and deny it, you treat the existent as non-existent, and the non-existent as existent; here, you have given up on reality altogether.
 
 ---
 
-**_To put it briefly, the self-evident is something so inherent in your very awareness of existence that as long as you exist, you cannot but affirm it; denying it is the denial of awareness and existence as such._**
+**Reference**:
 
-**NOTE**: _Existence can never be truly denied, since even to deny, you must stay in existence, and beyond existence, no capacity for denial exists._
+Parmenides:
 
----
+_Come now, I will tell thee—and do thou hearken to my saying and carry it away—the only two ways of search that can be thought of. The first, namely, that It is, and that it is impossible for it not to be, is the way of belief, for truth is its companion. The other, namely, that It is not, and that it must needs not be,—that, I tell thee, is a path that none can learn of at all. For thou canst not know what is not—that is impossible—nor utter it; for it is the same thing that can be thought and that can be._
 
-Indeed, one must hold as inescapable and sacrosanct that what is, is, and what is not, is not. Is the contradiction of this principle is possible? To say something is possible is to say that it has some basis in reality, i.e. on something that exists. On what basis could one say that it is possible for a thing to be itself and not itself, to exist (i.e. be real) and not exist (i.e. be unreal) at the same time? Certainly, the unreal has no basis in reality, and the non-existent has no place in existence. Then, on what basis can one deny that what is, is, and what is not, is not? None whatsover in reality.
-
----
+> **Source**: [_Fragments of Parmenides_ from **Wikisource.org**](https://en.wikisource.org/wiki/Fragments_of_Parmenides)
 
 # Axiom 1: Existence exists
 Existence exists. More precisely, only existence exists, and existence only exists. (1) If not only existence exists, then something outside existence exists. But this must be a part of existence. Therefore, only existence exists. (2) If existence does not only exist, then existence also does not exist. But then, there would be nothing. Now, note that "nothing" is merely that which does not exist, i.e. that which is not. But what is, is, and what is not, is not. Hence, there cannot "be" nothing, since to be is to be something that exists. Therefore, existence only exists.
@@ -115,7 +105,7 @@ Existence exists and I am aware of it. In other words, there exists a faculty of
 
 **NOTE: Consciousness needs an object**:
 
-Consciousness is necessarily the consciousness of something. To say that consciousness need not be conscious of anything is to say that consciousness can be aware of absolutely nothing while still being "conscious". This destroys the very meaning of consciousness, because it makes no distinction between the conscious, the unconscious, and the non-conscious. If this leads you to conclude that there is no consciousness, then you are contradicting the irreducible fact of your own existence. How are you identifying "consciousness" when there is no such thing? How are you identifying "unconsciousness" without being aware of anything, i.e. without having the capacity to identify anything?
+Consciousness is necessarily the consciousness of something. To say that consciousness need not be conscious of anything is to say that consciousness can be aware of nothing at all while still being "conscious". This destroys the very meaning of consciousness, because it makes no distinction between the conscious, the unconscious, and the non-conscious. If this leads you to conclude that there is no consciousness, then you are contradicting the irreducible fact of your own existence. How are you identifying "consciousness" when there is no such thing? How are you identifying "unconsciousness" without being aware of anything, i.e. without having the capacity to identify anything?
 
 # Axiom 2: The law of identity
 A thing is what it is, and this is the law of identity. If a thing is not what it is, it would both exist (i.e. be itself) and not exist (i.e. not be itself) at the same time. But what is, is and what is not, is not. Moreover, as a part of existence, it must only exist. Hence, the law of identity is absolute.
@@ -142,8 +132,7 @@ For example, observing that the presence of a colour negates the presence of oth
 As another example, consider a light bulb. Saying that a light bulb is also an ornament does not contradict its identity, because its use as an ornament involves some subset of its existing attributes, such as solidity, aesthetics, etc., and no contradicting attributes. Now, note that it would be wrong to state that a light bulb is only an ornament, because it would omit a variety of existing attributes demanded by its identity. Similarly, it would be wrong to call every ornament a light bulb, because an ornament may not have all the attributes needed to be a light bulb.
 
 ## Corollary 3: The law of causality
-_First, some definitions_...
-
+### Definitions
 **NOTE**: _Entities and actions must ultimately be defined through ostensive definitions since they are concepts from direct perceptions that are irreducible to other perceptions; on some basic level, an entity is grasped as a whole and an action or a change is a single perception. But I shall indicate some defining aspects that can show where to look._
 
 **Entity**:
@@ -154,7 +143,7 @@ An entity is a subset of existence whose identity is independent of one's consci
 
 **Action**:
 
-An action is a change in an entity, i.e. a difference in the past and the present of an entity ("past" and "present" are defined ostensively by pointing to the relationship between one's awareness and one's memory, i.e. retained awareness). More precisely, an action is a change in the facts about an entity (the facts may be identifying or non-identifying; of course, change in identifying facts would lead to the entity ceasing to exist and becoming something else). An action, thus, is necessarily of the entity, i.e. an action cannot exist apart from the entity, and thus, an action cannot exist apart from the entity's identity; an action is hence an aspect of the entity's identity (just to clarify, an action is inseparable from the entity, the entity is inseparable from its identity, thus the action is inseparable from the entity's identity). Consequently, by the law of non-contradiction, an entity's action cannot be in contradiction to the entity and its identity, i.e. its action cannot be something impossible to its identity. Hence, since an action of an entity can exist neither apart from (i.e. disconnected from) nor in contradiction to the entity and its identity, an action is an expression and extension of the entity's identity.
+An action is a change in an entity, i.e. a difference in the past and the present of an entity ("past" and "present" are defined ostensively by pointing to the relationship between one's awareness and one's memory, memory being retained awareness). More precisely, an action is a change in the facts about an entity (the facts may be identifying or non-identifying; of course, change in identifying facts would lead to the entity ceasing to exist and becoming something else). An action, thus, is necessarily of the entity, i.e. an action cannot exist apart from the entity, and thus, an action cannot exist apart from the entity's identity; an action is hence an aspect of the entity's identity (just to clarify, an action is inseparable from the entity, the entity is inseparable from its identity, thus the action is inseparable from the entity's identity). Consequently, by the law of non-contradiction, an entity's action cannot be in contradiction to the entity and its identity, i.e. its action cannot be something impossible to its identity. Hence, since an action of an entity can exist neither apart from (i.e. disconnected from) nor in contradiction to the entity and its identity, an action is an expression and extension of the entity's identity.
 
 ---
 
@@ -162,10 +151,7 @@ An action is a change in an entity, i.e. a difference in the past and the presen
 
 **NOTE 2**: Needless to say, being a part of reality, a particular change has a particular identity.
 
----
-
-_Back to the discussion on causality_...
-
+### Argument
 Causality is the law of identity applied to actions, and by extension, events (which are the result of the actions and interactions of two or more entities). As a part of existence, an action has an identity. But an entity's action can exist neither apart from nor in contradiction to the entity's identity, which is to say that an entity can act only according to its identity. Hence, by extension, a subset of existence can only change according to the identities of the entities acting and interacting within it.
 
 **NOTE**: _Pointing out that actions cannot exist apart from entities and their identities is key in showing that their identities (i.e. their natures) result in certain actions in a certain context, i.e. their actions are based on their identities. This, of course, is necessary to reach the law of causality._
@@ -180,8 +166,7 @@ Any entity is necessarily within some part of reality. Let us pick some part of 
 
 **NOTE**: _The fact that interactivity is inherent in existence shall be proved later._
 
-_To summarise and add related points_...
-
+### Summarisation
 - Entities cause actions and all actions are caused by entities
 - Entities always exist in a context (i.e. in relation to other facts)
 - By causality, the context of an entity can affect the identity of its actions
@@ -194,11 +179,18 @@ _Extending the idea of causality_...
 
 The concept of causality can be applied to entities as such (rather than just actions) only when the given entities, by their nature, had to be formed through some process at some point. In such cases, the cause of an entity refers to the action or actions of some entity or entities that led to its formation. However, for existence as a whole, there can be no prior cause; by the nature of existence, only it exists and it only exists. It is also invalid to say it was its own cause; saying so implies that it existed before it existed — a contradiction. There can be no cause of existence, since cause presupposes existence.
 
----
+### Key points
+#### Context in causality
+Given that everything that exists is a part of reality that exists in a certain context (i.e. with respect to certain facts), a cause is not merely the actions of a set of entities, but the actions of a set of entities in a certain context (i.e. with respect to certain facts, e.g. conditions, relationships, etc.). Since causality applies to any part of reality and hence to any context, the actions of a set of entities are or can be conditioned by the context that subsumes them. Here, note also that the nature of a narrower context is or can be conditioned by the nature of a broader context that subsumes it.
 
-**NOTE 1**: Given that everything that exists is a part of reality that exists in a certain context (i.e. with respect to certain facts), a cause is not merely the actions of a set of entities, but the actions of a set of entities in a certain context (i.e. with respect to certain facts, e.g. conditions, relationships, etc.). Since causality applies to any part of reality and hence to any context, the actions of a set of entities are or can be conditioned by the context that subsumes them. Here, note also that the nature of a narrower context is or can be conditioned by the nature of a broader context that subsumes it.
+#### Absolutism of causality
+The law of causality is a necessary, inseparable implication of the law of identity; the law of causality is the law of identity applied to change. To go even further, causality is inherent in the very fact of existence; no part of existence exists nor can exist apart from causality. More precisely, no change or lack of change (i.e. zero difference between the past and the present of an entity) exists apart from causality.
 
-**NOTE 2**: The law of causality is a necessary, inseparable implication of the law of identity; the law of causality is the law of identity applied to change. To go even further, causality is inherent in the very fact of existence; no part of existence exists nor can exist apart from causality. More precisely, no change or lack of change (i.e. zero difference between the past and the present of an entity) exists apart from causality.
+#### Fundamentality of entities
+Any way you put it, there must always exist entities at the basis of any phenomenon, since any phenomenon that exists presupposes things that exist in and of themselves, i.e. entities. Note that consciousness is not an entity but an aspect (albeit an essential aspect) of the self, i.e. the integration of mind and body that makes you what you are. Consciousness can only act via its apparatus.
+
+#### Causless change
+A change without a cause, i.e. disconnected from any past or present entities in one or more ways, is a change without an identity, i.e. a non-existent. This is because such a change would be a change that is both of entities (i.e. based on entities, as any change must be) and not of entities (i.e. not based on entities). This is contradiction.
 
 # The primacy of existence
 Metaphysically, existence is not defined in terms of "physical", "mental", etc., only in terms of existence qua existence, i.e. existence as such. The self-evident facts validated as axioms are: (1) Existence is absolute. (2) Everything that exists must be something in particular, i.e. it must exist as what it is; the law of identity. (3) What an entity does is an extension of what the entity is; the law of causality. (4) Consciousness exists and is the faculty that perceives that which exists. Whatever one's worldview is, it is the case that consciousness is indeed the faculty that perceives that which exists, no matter what "that" is, be it the product of one's mind, the external world, etc.
@@ -211,12 +203,25 @@ Let us assume the inverse, i.e. the primacy of consciousness. Then, consciousnes
 
 To reaffirm what has been said, imagine that consciousness is eternal and conscious units are all there is. But the law of identity and the law of causality still apply, since existence still exists. Hence, consciousness has a certain identity and can act only in certain ways that lead to certain results. Hence, reality is still not fundamentally "up to" consciousness, since consciousness has a certain nature that it can act neither apart from or in contradiction to. Hence, consciousness always presupposes existence as such whereas existence does not presuppose consciousness, which means existence can exist apart from consciousness but not vice versa. Now, note that a conscious unit is a part of consciousness that is inseparable from and derived from consciousness, which means that since consciousness always presupposes existence, conscious units also always presuppose existence ultimately (i.e. directly or indirectly). Hence, conscious units always presuppose things in existence apart from consciousness. In other words, a conscious unit is ultimately (i.e. directly or indirectly) the effect on consciousness of things in existence outside consciousness.
 
+---
+
+**Reference**:
+
+Ayn Rand:
+
+_The primacy of existence (of reality) is the axiom that existence exists, i.e., that the universe exists independent of consciousness (of any consciousness), that things are what they are, that they possess a specific nature, an identity. The epistemological corollary is the axiom that consciousness is the faculty of perceiving that which exists—and that man gains knowledge of reality by looking outward. The rejection of these axioms represents a reversal: the primacy of consciousness—the notion that the universe has no independent existence, that it is the product of a consciousness (either human or divine or both). The epistemological corollary is the notion that man gains knowledge of reality by looking inward (either at his own consciousness or at the revelations it receives from another, superior consciousness)._
+
+> **Source**: "The Metaphysical Versus the Man-Made" from
+Philosophy: Who Needs It
+
 # Summarising metaphysics
-Identity and causality are implicit and inherent in the very fact of existence itself; there neither is nor can be existence apart from identity and causality. Hence, since the fact of existence is an absolute, so are the principles of identity and causality and their implications (e.g. the intelligibility of reality, the absolute validity of logic and reason, etc.).
+Identity and causality are implicit and inherent in the very fact of existence itself; there neither is nor can be existence apart from identity and causality. Hence, since the fact of existence is an absolute, so are the laws of identity and causality and their implications (such as the intelligibility of reality, the absolute validity of logic and reason, etc.).
 
 **NOTE**: _The laws of logic are essentially the law of identity and its corollaries. It is self-defeating to "disprove" the absolutism of logic, since to even try to do so, you must show that the law of identity is not an absolute, in which case there is no basis to identify anything as what it is, including the supposed "proof" against the absolutism of logic._
 
 # The scope of metaphysics
+Metaphysics is about the truths arising from the most basic material we can grasp, i.e. the barest essence of the material given to us directly by reality. Hence, metaphysics is the study of existence as such; not of how reality is in particular but of what reality is in general.
+
 Apart from the axioms and their corollaries drawn from the self-evident facts of existence and consciousness, metaphysics does not make any claims about the specific structure and composition of either consciousness or reality itself; the study of these is the rightful domain of the special sciences. However, metaphysics underlies any further pursuit of knowledge and its truths are absolute within any field of study. The same level of absolute truth applies to any knowledge whose sole context (apart from other direct, self-evident observations) is metaphysics itself, which includes epistemology and extends to ethics (whose context includes epistemology as well as metaphysics).
 
 Hence, metaphysics is not astronomy, physics, chemistry, etc., though it underlies these disciplines. Whether the world we know is a simulation, part of a multiverse or anything else that we may find it out to be, the same metaphysics applies, as well as the same epistemology and ethics. Whatever specific structure or composition reality has, the basic nature of reality is what it is. Similarly, metaphysics is not biology, psychology, neuroscience, etc., though — again — it underlies these disciplines. Whatever model of consciousness we may uncover, the basic nature of consciousness and its relationship to the rest of reality is what it is.
