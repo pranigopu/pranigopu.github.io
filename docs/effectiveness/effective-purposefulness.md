@@ -14,6 +14,7 @@
 - [2. Purposeful goals](#2-purposeful-goals)
   - [Principle](#principle-1)
   - [Explanation](#explanation-1)
+  - [Integration is key to purposeful goals](#integration-is-key-to-purposeful-goals)
   - [Examples](#examples-1)
 - [3. Steady focus](#3-steady-focus)
   - [Principle](#principle-2)
@@ -82,6 +83,9 @@ A human is a goal-driven being; to a human, there can be no act without will, an
 
 What is an end in itself? Can there be more than one? These are deep questions that deserve deep, i.e. philosophical reasoning. Drawing from my reasoning in [_The Standard of Value_ from **Ethics** from **Philosophy**](https://pranigopu.github.io/philosophy/ethics/1-standard-of-value.html) (not my original idea, but one I have reasoned first-hand), the only end in itself is life; to a human, this means life lived as a human, i.e. one driven not just by self-sustaining action but by self-sustaining volition. Hence, to revise my earlier point, there can be no goal without a broader goal, and no broader goal without life lived as a volitional being.
 
+## Integration is key to purposeful goals
+A purposeful goal is not merely a goal that ties to the pursuit of a value. Here, it is key to note two key points: (1) values cannot be pursued in isolation and must be pursued as an integrated whole (see: ["Integrity of Values" from _The Nature of Value_ from **Ethics** from **Philosophy**](https://pranigopu.github.io/philosophy/ethics/nature-of-value.html#integrity-of-values)), and (2) goals are pursuit to concretise values. Now, logically, if values cannot be pursued isolation, and if a goal is the pursuit to concretise a value, then pursuing a goal in isolation amounts to pursuing a value in isolation. Therefore, just as values must be pursued as an integrated whole, so must goals. In particular, to pursue goals purposefully, we must not just integrate our values in abstract terms but also integrate our efforts to pursue them in concrete terms, i.e. we must understand whether and how our goals are tied to each other.
+
 ## Examples
 Consider: why am I writing this? If there is no goal behind it, I am acting purposelessly such action cannot be sustained for long volitionally. No, I write because I want to be clear about how a goal can be sustained volitionally, and by writing, I (1) lay out my ideas where I can see them, without them going out of focus or being forgotten, and (2) make a longer logical chain of arguments easier to build, refer back to and thus validate. Now, why do I want clarity? Sometimes, the desire to gain clarity can feel like an urge, but I see that my urge draws from my grasp of the importance of ideas in my life, and thus the importance of being clear about my ideas. Here, we can see how it ties to my life itself, the end in itself.
 
@@ -123,7 +127,7 @@ Steady focus leads to:
 
 ---
 
-Furthermore, note that these principles are not ordered in any way. Each are aspects of an integated whole, this whole being _effective purposefulness_. Purposeful goals may be followed by simplicity, or simplicty may lead to purposeful goals, or full engagement may reveal purposeful goals, or full engagement may lead to simple focus, etc.
+Furthermore, note that these principles are not ordered in any way. Each are aspects of an integrated whole, this whole being _effective purposefulness_. Purposeful goals may be followed by simplicity, or simplicity may lead to purposeful goals, or full engagement may reveal purposeful goals, or full engagement may lead to simple focus, etc.
 
 # 4. Value the process
 ## Principle
@@ -154,7 +158,7 @@ Based on the principle of [purposeful goals](#2-purposeful-goals), goal-setting 
 - Set the goal at the start
 - Understand at least the broad steps to pursue it
 - As you pursue it, value the process
-- Preferrably, value the whole process of goal-setting and completion <br> _This creates a self-reinforcing cycle_ 
+- Preferably, value the whole process of goal-setting and completion <br> _This creates a self-reinforcing cycle_ 
 
 # NOTE: Creating tips on specifics
 The goal of these principles is to enable us to deal with the whole range of actual and potential situations that may arise in life. Their effectiveness lies in the generalisability. Now, tips geared toward situations can be valuable in narrower, more focused contexts. But to proliferate tips on specifics without considering whether these tips are valuable in general, or whether it is practical or even possible to hold them or try to hold them in focus when dealing with life — this is irrational and goes against what makes these principles valuable in the first place.
