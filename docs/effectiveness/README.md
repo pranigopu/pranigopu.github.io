@@ -26,3 +26,4 @@ _Others_...
 - [Taking Breaks](https://pranigopu.github.io/effectiveness/taking-breaks.html)
 - [Extreme Ownership](https://pranigopu.github.io/effectiveness/extreme-ownership.html)
 - [Unmitigated Selfishness](https://pranigopu.github.io/effectiveness/unmitigated-selfishness.html)
+- [Self-Respect](https://pranigopu.github.io/effectiveness/self-respect.html)
