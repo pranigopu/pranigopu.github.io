@@ -51,6 +51,8 @@ I am Prani Gopu, a.k.a. Pranav Gopalkrishna. I enjoy writing works of various ki
 
 ---
 
+## My Other Links...
+
 - [My GitHub Profile](https://github.com/pranigopu)
 - [My WordPress Writing Showcase](https://pranigopu.wordpress.com)
 - [My Instagram Profile](https://www.instagram.com/pranigopu)
