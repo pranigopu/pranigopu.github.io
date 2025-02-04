@@ -18,7 +18,7 @@
 - [Linear Systems](#linear-systems)
 - [Nonlinear Systems](#nonlinear-systems)
 - [Relevance of Relating Linear and Nonlinear Phenomena](#relevance-of-relating-linear-and-nonlinear-phenomena)
-- [Algorithmic Methods of Relating Linear and Nonlinear Phenomena](#algorithmic-methods-of-relating-linear-and-nonlinear-phenomena)
+- [Relating Linear and Nonlinear Phenomena](#relating-linear-and-nonlinear-phenomena)
   - [Approximating Nonlinear Systems as Linear Systems](#approximating-nonlinear-systems-as-linear-systems)
     - [Linearisation](#linearisation)
     - [Piecewise Linear Models](#piecewise-linear-models)
@@ -46,7 +46,7 @@ These facts can make nonlinear systems much harder to model and analyse than lin
 # Relevance of Relating Linear and Nonlinear Phenomena
 As discussed, many real-world systems/phenomena are nonlinear and must be studied as such. However, nonlinear systems pose several practical and theoretical issues, such as instability (due to sensitivity to initial conditions and chaotic outcomes) and local minima in optimisation problems (due to the mathematical complexity of nonlinear models, which can lead to the optimiser getting stuck in suboptimal solutions). On the other hand, due to homogeneity and superposition, a linear model is far more tractable and interpretable. Hence, it would be valuable to be able to either (1) approximately yet adequately model a nonlinear system as a linear system, or (2) map a nonlinear system to a linear system and thereby apply linear methods in nonlinear contexts.
 
-# Algorithmic Methods of Relating Linear and Nonlinear Phenomena
+# Relating Linear and Nonlinear Phenomena
 ## Approximating Nonlinear Systems as Linear Systems
 ### Linearisation
 Linearisation is the method approximating a nonlinear function $f : X \mapsto Y$ using a linear function $L : X \mapsto Y$ for a given set of input values, i.e. for some $S \subseteq X$. Now, consider the task of approximating a function $f$ around a point $a$. Evidently, the best approximation $L$ would be such that: (1) $L(a) = f(a)$ (i.e. the same output for $a$), (2) $L^1(a) = f^1(a)$ (i.e. the same slope at $a$), (3) $L^2(a) = f^2(a)$ (i.e. the same rate of change of the slope at $a$), etc. In practice, the series has to stop after a finite number of terms. The general form of such an approximation is given by the Taylor series:
