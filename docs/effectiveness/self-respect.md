@@ -14,7 +14,7 @@
 # Definition
 Respect toward a thing or person is the moral affirmation of the value(s) and/or virtue(s) embodied by this thing or person (note that "thing" here can refer to anything: organisms, creations, systems, etc.). To morally affirm something is to grasp its positive (i.e. supportive) relationship toward our fundamental values, the most fundamental of which is our volitionally-driven life.
 
-Hence, self-respect is the moral affirmation of the values and virtues embodied by ourself, which means: (1) our character, (2) our achievements, (3) our decisions and deliberate actions, (4) our capabilities, (5) our habits and (6) our other qualities (e.g. appearance, attitude, etc.). However, if we observe the facts of our existence, we see that there exists a morally fundamental aspect of ourselves, i.e. an aspect that, if well-formed, shapes and contextualises other aspects positively, and not, fails to do so or does the opposite. This aspect is our character, i.e. the sum of our internalised premises (which form the basis for automated value-judgements) and practiced approaches.
+Hence, self-respect is the moral affirmation of the values and virtues embodied by ourself, which means: (1) our character, (2) our achievements, (3) our decisions and deliberate actions, (4) our capabilities, (5) our habits and (6) our other qualities (e.g. appearance, attitude, etc.). However, if we observe the facts of our existence, we see that there exists a morally fundamental aspect of ourselves, i.e. an aspect that, if well-formed, shapes and contextualises other aspects positively, and if not well-formed or if ill-formed, fails to do so or does the opposite. This aspect is our character, i.e. the sum of our internalised premises (which form the basis for automated value-judgements) and practiced approaches.
 
 ---
 
@@ -23,7 +23,7 @@ Hence, self-respect is the moral affirmation of the values and virtues embodied 
 
 ---
 
-Hence, self-respect is essentially the value we have for character, which translates to value for our internalisation and consistent pursuit of values and thereby, through practice, our development of the corresponding virtues, which, in essence, translates to value for our volitionally-drive life and our ability to sustain it long-range.
+Hence, self-respect is essentially the value we have for our character, which translates to value for our internalisation and consistent pursuit of values and thereby, through practice, our development of the corresponding virtues, which, in essence, translates to value for our volitionally-drive life and our ability to sustain it long-range.
 
 # The indispensable importance of self-respect
 A volitional being must grasp and pursue a valuable potential in order to sustain itself as a volitional being; such is its nature. Now, potential presupposes evidence of what is possible, and a crucial piece of evidence for the pursuit of valuable potential is the validity of our values and the internalisation of the virtues needed to pursue them. Hence, key to grasping valuable potential is grasping the value of our character.
