@@ -46,7 +46,8 @@ I am Prani Gopu, a.k.a. Pranav Gopalkrishna. I enjoy writing works of various ki
 ---
 
 ### Profile-Related
-- [Effectiveness](https://pranigopu.github.io/effectiveness)
+- [Personal Summary](https://pranigopu.github.io/personal/personal-summary.html)
+- [Study Summary](https://pranigopu.github.io/personal/study-summary.html)
 
 
 ---
