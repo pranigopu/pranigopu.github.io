@@ -45,7 +45,7 @@ The theoretical foundations established in the introduction, combined with a gen
 
 Chou, Y.K. (no date). _The Octalysis Framework for Gamification & Behavioral Design_. \[online\] Available from: [https://yukaichou.com/gamification-examples/octalysis-complete-gamification-framework](https://yukaichou.com/gamification-examples/octalysis-complete-gamification-framework).
 
-Engineer's Planet. (2024). _Gamification for Regional Planning Became Possible by GIS Data and Drone Land Survey Maps_. \[online\] Available from: [https://engineersplanet.com/abstracts/gamification-for-regional-planning-became-possible-by-gis-data-and-drone-land-survey-maps](https://engineersplanet.com/abstracts/gamification-for-regional-planning-became-possible-by-gis-data-and-drone-land-survey-maps)
+Engineer's Planet. (2024). _Gamification for Regional Planning Became Possible by GIS Data and Drone Land Survey Maps_. \[online\] Available from: [https://engineersplanet.com/abstracts/gamification-for-regional-planning-became-possible-by-gis-data-and-drone-land-survey-maps](https://engineersplanet.com/abstracts/gamification-for-regional-planning-became-possible-by-gis-data-and-drone-land-survey-maps).
 
 Douglas, B. D., and Brauer M. (2021). 'Gamification to prevent climate change: a review of games and apps for sustainability', _Current Opinion in Psychology_, 42, pp. 89-94. doi: [https://doi.org/10.1016/j.copsyc.2021.04.008](https://doi.org/10.1016/j.copsyc.2021.04.008).
 

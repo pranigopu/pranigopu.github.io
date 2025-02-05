@@ -7,11 +7,10 @@
     p, ol, ul, th, td {font-size: 24px}
 </style>
 
-# Art
+# Literature
 # Introduction
-Art is the essentialised and stylised concretisation of philosophy.
+Literature is the essentialised and stylised concretisation of philosophy via the use of concepts, i.e. words and language.
 
 ## Explore
 - [Poetry](https://pranigopu.github.io/literature/poetry)
 - [Fiction](https://pranigopu.github.io/literature/fiction)
-- [Visual Art](https://pranigopu.github.literature/art/visual-art)
