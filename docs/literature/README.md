@@ -8,7 +8,7 @@
 </style>
 
 # Literature
-# Introduction
+## Introduction
 Literature is the essentialised and stylised concretisation of philosophy via the use of concepts, i.e. words and language.
 
 ## Explore
