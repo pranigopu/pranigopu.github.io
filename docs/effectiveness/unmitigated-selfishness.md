@@ -9,6 +9,7 @@
 - [Key premises](#key-premises)
 - [Expansion](#expansion)
 - [Credo](#credo)
+- [Practice](#practice)
 
 ---
 
@@ -45,3 +46,11 @@ Subordination of my life to duty, appeasement, whim-worship or evasion, is an ut
 ---
 
 In short, I hold, as the greatest virtue, an unmitigated selfishness that identifies and integrates truth, value and purpose. For this, I accept no compromise, no concession and no contradiction whatsoever.
+
+# Practice
+Unmitigated selfishness has two core aspects in practice:
+
+1. Effectiveness
+2. Concrete value
+
+Effectiveness refers to the quality one's purposeful actions must have, namely that they must (barring accidents, exceptions and errors) achieve values in reality. Concrete value refers to the metaphysical basis of life, namely the concrete (i.e. actual) realisation of values and valuable potential. Ineffective action is one that does not tend to achieve values, and values cannot be achieved unless one acts to concretise them; thus, these two aspects are intimately tied.

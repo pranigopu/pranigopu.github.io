@@ -27,3 +27,4 @@ _Others_...
 - [Extreme Ownership](https://pranigopu.github.io/effectiveness/extreme-ownership.html)
 - [Unmitigated Selfishness](https://pranigopu.github.io/effectiveness/unmitigated-selfishness.html)
 - [Self-Respect](https://pranigopu.github.io/effectiveness/self-respect.html)
+- [Misjudgement and Guilt](https://pranigopu.github.io/effectiveness/misjudgement-and-guilt.md)
