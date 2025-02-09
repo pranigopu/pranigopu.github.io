@@ -11,7 +11,7 @@ This website contains a comprehensive collection of my links and writings. Note 
 - [YouTube Channel](https://www.youtube.com/channel/UCcDIAVsQ2kmQLy2Dcnyd_ig) <br> _I try to upload more than once a decade_
 - [MuseScore Profile](https://musescore.com/user/31737238) <br> _I've made some music I enjoy to this day; hopefully you do to!_
 
-## Explore
+## Explore Writings and Art
 
 ---
 
