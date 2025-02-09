@@ -11,7 +11,7 @@ This website contains a comprehensive collection of my links and writings. Note 
 **Contents**:
 
 [Key Links](#key-links) <br>
-[Academic and Research-Based Writing](#academic-and-research-based-writing) <br>
+[Research-Based Writing](#research-based-writing) <br>
 [Personal Study](#personal-study) <br>
 [Personal Writing](#personal-writing) <br>
 [Gallery](#gallery) <br>
@@ -29,20 +29,20 @@ This website contains a comprehensive collection of my links and writings. Note 
 
 ---
 
-### Academic and Research-Based Writing
+### Research-Based Writing
 **_Academic Submissions_**
 
 - [Ambience-to-Music Neural Style Transfer (AM-NST)](https://app.readytensor.ai/publications/ambiencetomusic-neural-style-transfer-amnst-2CirVDc5nt0b)
-- [Comparative Evaluation of Uncertainty Quantification of BNNs](https://pranigopu.github.io/academic-and-research-based-writing/comparative-evaluation-of-uncertainty-quantification-of-bnns.pdf)
-- [Procedural Generation in _Unexplored_](https://pranigopu.github.io/academic-and-research-based-writing/procedural-generation-in-unexplored.pdf)
-- [Transparency, Explainability and Accountability (TEA) in AI](https://pranigopu.github.io/academic-and-research-based-writing/report-on-transparency-explainability-and-accountability-in-ai.pdf)
-- [Applications of Number Theory](https://pranigopu.github.io/academic-and-research-based-writing/applications-of-number-theory)
+- [Comparative Evaluation of Uncertainty Quantification of BNNs](https://pranigopu.github.io/research-based-writing/comparative-evaluation-of-uncertainty-quantification-of-bnns.pdf)
+- [Procedural Generation in _Unexplored_](https://pranigopu.github.io/research-based-writing/procedural-generation-in-unexplored.pdf)
+- [Transparency, Explainability and Accountability (TEA) in AI](https://pranigopu.github.io/research-based-writing/report-on-transparency-explainability-and-accountability-in-ai.pdf)
+- [Applications of Number Theory](https://pranigopu.github.io/research-based-writing/applications-of-number-theory)
 
 **_Research-Based Essays_**
 
-- [Can Computers Think?](https://pranigopu.github.io/academic-and-research-based-writing/can-computers-think.html)
-- [Gamification](https://pranigopu.github.io/academic-and-research-based-writing/gamification.html) <br> _On the non-game applications of game concepts_
--  [Linear vs. Nonlinear Phenomena](https://pranigopu.github.io/academic-and-research-based-writing/linear-vs-nonlinear-phenomena.html)
+- [Can Computers Think?](https://pranigopu.github.io/research-based-writing/can-computers-think.html)
+- [Gamification](https://pranigopu.github.io/research-based-writing/gamification.html) <br> _On the non-game applications of game concepts_
+-  [Linear vs. Nonlinear Phenomena](https://pranigopu.github.io/research-based-writing/linear-vs-nonlinear-phenomena.html)
 
 ---
 
