@@ -1,7 +1,7 @@
-# Welcome to my personal website
+# Welcome to my Personal Website
 [**See it live!**](https://pranigopu.github.io/)
 
-This is the repository for my personal writing collection website. My writings range from fiction to non-fiction, philosophy to statistics, and more.
+This is the repository for my personal website. It has my links, writings and a personal gallery of artworks. My writings range from fiction to non-fiction, philosophy to statistics, and more.
 
 ## Resources for building and working with GitHub pages
 - [Getting started with GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages)
