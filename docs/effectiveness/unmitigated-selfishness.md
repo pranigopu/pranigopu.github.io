@@ -41,7 +41,7 @@ Concrete values are the basis of life and its pursuit, which means, as in knowle
 # Credo
 I live my life not first for my own sake, but _only_ for my own sake. To this end and only to this end do I value other humans, organisms, entities and systems. My reason: as I am part of this world, and as this world is integrated by the laws of identity and causality, to live in this world for my own sake requires me to grasp how I exist in an integrated context, i.e. with respect to both the natural world and other humans.
 
-Subordination of my life to duty, appeasement, whim-worship or evasion, is an utter sacrilege. I accept no greater good above my good, and no greater purpose above the fullest flourishing of my own life lived as a volitional being. I respect obligation out of the values that align with my long-range interests, which includes interests such as: (1) trust among people, particularly those who are important to me, and (2) value for my own intent and well-meant words, which reinforces my trust in myself and my self-respect.
+Subordination of my life to duty, appeasement, whim-worship or evasion, is an utter sacrilege. I accept no greater good above my good, and no greater purpose above the fullest flourishing of my own life lived as a volitional being. I respect obligation out of the values that align with my long-range interests, which includes interests such as: (1) trust among people, particularly those who are important to me, and (2) value for my own intent and well-meant words, which reinforces my trust in myself and my self-respect (to see the importance of self-respect to a rational, volitional being, see: [_Self-Respect_](https://pranigopu.github.io/effectiveness/self-respect.html)).
 
 ---
 
