@@ -1,4 +1,4 @@
-# Welcome to my Slice of the Internet
+# _Welcome to my slice of the internet_...
 ## Introduction
 I am Prani Gopu, a.k.a. Pranav Gopalkrishna. I am avid programmer, reader and writer, having done a number of projects (research-based and/or application-based) and writings, which range from fiction to poetry to technical essays. Apart from this, I have also composed music (and may do so again in the future), and I occasionally post videos (videos about anything I like, touching areas such as music, Minecraft timelapses, project presentations and essays read aloud).
 
@@ -38,7 +38,7 @@ This website contains a comprehensive collection of my links and writings. Note 
 **_Research-Based Essays_...**
 
 - [Can Computers Think?](https://pranigopu.github.io/research-based-writing/can-computers-think.html)
-- [Gamification](https://pranigopu.github.io/research-based-writing/gamification.html) <br> _On the non-game applications of game concepts_
+- [Gamification](https://pranigopu.github.io/research-based-writing/gamification.html)
 -  [Linear vs. Nonlinear Phenomena](https://pranigopu.github.io/research-based-writing/linear-vs-nonlinear-phenomena.html)
 
 ### Personal Study
