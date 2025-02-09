@@ -8,6 +8,18 @@ This website contains a comprehensive collection of my links and writings. Note 
 
 ---
 
+**Contents**:
+
+[Key Links](#key-links) <br>
+[Academic and Research-Based Writing](#academic-and-research-based-writing) <br>
+[Personal Study](#personal-study) <br>
+[Personal Writing](#personal-writing) <br>
+[Gallery](#gallery) <br>
+[Profile-Related](#profile-related)
+
+
+---
+
 ### Key Links
 - [My GitHub Profile](https://github.com/pranigopu) <br> _Regard my projects, big and small_
 - [My WordPress Writing Showcase](https://pranigopu.wordpress.com) <br> _A subset of my writings in a prettier website_
