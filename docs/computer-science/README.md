@@ -5,3 +5,4 @@ Computer science is the science of automating cognitive tasks, e.g. procedures, 
 ## Explore
 - [Design Patterns in Object-Oriented Programming](https://pranigopu.github.io/computer-science/design-patterns-in-oop)
 - [Data Management](https://pranigopu.github.io/computer-science/data-management.html)
+- [Network Concepts](https://pranigopu.github.io/computer-science/network-concepts.html)
