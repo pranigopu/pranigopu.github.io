@@ -4,13 +4,19 @@ I am Prani Gopu, a.k.a. Pranav Gopalkrishna. I am avid programmer, reader and wr
 
 This website contains a comprehensive collection of my links and writings. Note that this website also contains the works of others (e.g. quotes, passages, poems, artworks, etc.) that I wanted to collect in one place – of course, I shall give due credit and not infringe on any copyright. For convenience, I have divided the content of this website into categories on multiple levels. Lastly, for a more visually appealing showcase of some of my writing, I have created [another website](https://pranigopu.wordpress.com/) using WordPress (which I find easier to make pretty, and where commenting is possible).
 
+## My Broader Web of Works
+- [GitHub Profile](https://github.com/pranigopu) <br> _Regard my projects, big and small_
+- [WordPress Writing Showcase](https://pranigopu.wordpress.com) <br> _A subset of my writings in a prettier website_
+- [Instagram Profile](https://www.instagram.com/pranigopu) <br> _Something's going on for sure; I'm not sure what, though_
+- [YouTube Channel](https://www.youtube.com/channel/UCcDIAVsQ2kmQLy2Dcnyd_ig) <br> _I try to upload more than once a decade_
+- [MuseScore Profile](https://musescore.com/user/31737238) <br> _I've made some music I enjoy to this day; hopefully you do to!_
+
 ## Explore
 
 ---
 
 **Contents**:
 
-[Key Links](#key-links) <br>
 [Research-Based Writing](#research-based-writing) <br>
 [Personal Study](#personal-study) <br>
 [Personal Writing](#personal-writing) <br>
@@ -18,13 +24,6 @@ This website contains a comprehensive collection of my links and writings. Note 
 [Gallery](#gallery)
 
 ---
-
-### Key Links
-- [My GitHub Profile](https://github.com/pranigopu) <br> _Regard my projects, big and small_
-- [My WordPress Writing Showcase](https://pranigopu.wordpress.com) <br> _A subset of my writings in a prettier website_
-- [My Instagram Profile](https://www.instagram.com/pranigopu) <br> _Something's going on for sure; I'm not sure what, though_
-- [My YouTube Channel](https://www.youtube.com/channel/UCcDIAVsQ2kmQLy2Dcnyd_ig) <br> _I try to upload more than once a decade_
-- [My MuseScore Profile](https://musescore.com/user/31737238) <br> _I've made some music I enjoy to this day; hopefully you do to!_
 
 ### Research-Based Writing
 **_Academic Submissions_...**
