@@ -1,8 +1,16 @@
-# _Personal Writing and Art Collection_
+# Welcome to Prani's Corner of the Interweb
 ## Introduction
 I am Prani Gopu, a.k.a. Pranav Gopalkrishna. I enjoy writing works of various kinds, including stories, articles and poems. This website contains a comprehensive collection of my works. Note that this website also contains the works of others (e.g. quotes, passages, poems, artworks, etc.) that I wanted to collect in one place – of course, I shall give due credit and not infringe on any copyright. For convenience, I have divided the content of this website into categories on multiple levels. Lastly, for a more visually appealing showcase of some of my writing, I have created [another website](https://pranigopu.wordpress.com/) using WordPress (which I find easier to make pretty, and where commenting is possible).
 
 ## Explore
+
+---
+
+### Key Links
+- [My GitHub Profile](https://github.com/pranigopu) <br> _Regard my projects, big and small_
+- [My WordPress Writing Showcase](https://pranigopu.wordpress.com) <br> _A subset of my writings in a prettier website_
+- [My Instagram Profile](https://www.instagram.com/pranigopu) <br> _Something's going on for sure; I'm not sure what, though_
+- [My YouTube Channel](https://www.youtube.com/channel/UCcDIAVsQ2kmQLy2Dcnyd_ig) <br> _I try to upload more than once a decade_
 
 ---
 
@@ -18,7 +26,7 @@ I am Prani Gopu, a.k.a. Pranav Gopalkrishna. I enjoy writing works of various ki
 **_Research-Based Essays_**
 
 - [Can Computers Think?](https://pranigopu.github.io/academic-and-research-based-writing/can-computers-think.html)
-- [Gamification: _Non-Game Applications of Video Game Concepts_](https://pranigopu.github.io/academic-and-research-based-writing/gamification.html)
+- [Gamification](https://pranigopu.github.io/academic-and-research-based-writing/gamification.html) <br> _On the non-game applications of game concepts_
 -  [Linear vs. Nonlinear Phenomena](https://pranigopu.github.io/academic-and-research-based-writing/linear-vs-nonlinear-phenomena.html)
 
 ---
@@ -35,7 +43,7 @@ I am Prani Gopu, a.k.a. Pranav Gopalkrishna. I enjoy writing works of various ki
 
 ### Personal Writing
 - [Effectiveness](https://pranigopu.github.io/effectiveness)
-- [Literature (_Poems and Fiction_)](https://pranigopu.github.io/literature)
+- [Literature](https://pranigopu.github.io/literature) <br> _Poems and fiction_
 
 ---
 
@@ -51,12 +59,5 @@ I am Prani Gopu, a.k.a. Pranav Gopalkrishna. I enjoy writing works of various ki
 
 
 ---
-
-## My Other Links...
-
-- [My GitHub Profile](https://github.com/pranigopu)
-- [My WordPress Writing Showcase](https://pranigopu.wordpress.com)
-- [My Instagram Profile](https://www.instagram.com/pranigopu)
-- [My YouTube Channel](https://www.youtube.com/channel/UCcDIAVsQ2kmQLy2Dcnyd_ig)
 
 [*](https://pranigopu.github.io/handbook)
