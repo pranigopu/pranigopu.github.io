@@ -43,6 +43,6 @@ Before further thought, ask: (1) Is there a reason I am putting the effort to th
 
 ---
 
-<a href="https://pranigopu.github.io/art/visual-art/Aristotle by Raphael.jpeg">
-<img src="https://pranigopu.github.io/art/visual-art/Aristotle by Raphael.jpeg">
+<a href="https://pranigopu.github.io/visual-art/Aristotle by Raphael.jpeg">
+<img src="https://pranigopu.github.io/visual-art/Aristotle by Raphael.jpeg">
 </a>
