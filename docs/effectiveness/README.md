@@ -29,3 +29,4 @@ _Others_...
 - [Self-Respect](https://pranigopu.github.io/effectiveness/self-respect.html)
 - [Misjudgement and Guilt](https://pranigopu.github.io/effectiveness/misjudgement-and-guilt.html)
 - [Investing Effort](https://pranigopu.github.io/effectiveness/investing-effort.html)
+- [Sanctity of Senses and Reason](https://pranigopu.github.io/effectiveness/sanctity-of-senses-and-reason.html)
