@@ -61,4 +61,4 @@ Now, we see the logical end-results of the denial of the validity of the senses.
 Furthermore, since values are an integrated whole, lacking value for reality also means lacking value for reason and logic. The choice to be rational becomes a matter of whim, sheer necessity or mere mental exercise. There is no conviction about logic, facts and science; such things become fluid, flexible and negotiable. In practice, this leads either to dogmatic bickering/fighting or pragmatic amorality and cowardice; we have no basis for being rational, so either anything goes or dogma rules.
 
 # So what if we do not value reality?
-Then die, I suppose, or be blind to your ruin.
+Then die, I suppose, or be blind to your ruin. With a self like that, who needs enemies?
