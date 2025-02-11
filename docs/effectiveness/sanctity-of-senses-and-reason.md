@@ -17,7 +17,7 @@
 ---
 
 # KEY POINT 1: Direct contact
-Direct perception (i.e. sense-perception and direct perception of mental states) is our only direct contact with reality. Any irreducible unit that enters our consciousness is a direct contact with reality, i.e. it is of and from some part of reality apart our consciousness. Such a unit, being irreducible, cannot be conceptual, since a consciousness can only reach concepts by integrating its material; such material, thus, has to be direct perception.
+Direct perception (i.e. sense-perception and direct perception of mental states) is our only direct contact with reality. Any irreducible unit that enters our consciousness is a direct contact with reality, i.e. it is of and from some part of reality apart from our consciousness. Such a unit, being irreducible, cannot be conceptual, since a consciousness can only reach concepts by integrating its material; such material, thus, has to be direct perception.
 
 ---
 
