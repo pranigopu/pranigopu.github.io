@@ -12,6 +12,7 @@
 - [KEY POINT 4: Integrity of values](#key-point-4-integrity-of-values)
 - [KEY POINT 5: Value for reality](#key-point-5-value-for-reality)
 - [Extending the consequences](#extending-the-consequences)
+- [So what if we do not value reality?](#so-what-if-we-do-not-value-reality)
 
 ---
 
@@ -58,3 +59,6 @@ If our most basic premises are based on subjective whim, then what would we thin
 Now, we see the logical end-results of the denial of the validity of the senses. But what about the practical and psychological end-results? Evidently, since premises are integrated to value-judgements and emotions, and since our premises make valuing reality impossible, our value-judgements orient us toward either skeptical uncertainty (where we have no convictions and thus no confidence) or whim-worship (where we go by our range-of-the-moment impulses) or dogma (which is a form of systematised whim-worship). Our emotions lead to an indifference toward or even a hatred of reality, since our "values" clash with the rigours of reality. In effect, we cease to value our life on in this world, either bemoaning existence or craving for something "beyond" it.
 
 Furthermore, since values are an integrated whole, lacking value for reality also means lacking value for reason and logic. The choice to be rational becomes a matter of whim, sheer necessity or mere mental exercise. There is no conviction about logic, facts and science; such things become fluid, flexible and negotiable. In practice, this leads either to dogmatic bickering/fighting or pragmatic amorality and cowardice; we have no basis for being rational, so either anything goes or dogma rules.
+
+# So what if we do not value reality?
+Then die, I suppose, or be blind to your ruin.
