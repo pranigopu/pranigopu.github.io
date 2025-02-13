@@ -12,21 +12,25 @@ In essence, the primary goal of life is to be effective, i.e. to:
 - Do so consistently and reliably
 
 ## Explore
-_Philosophy_...
+_Technical philosophy_...
 
 - [Philosophy](https://pranigopu.github.io/philosophy)
 - [Philosophy in Practice](https://pranigopu.github.io/philosophy/philosophy-in-practice)
 
-_Others_...
+_Fundamentals_...
+
+- [Sanctity of Senses and Reason](https://pranigopu.github.io/effectiveness/sanctity-of-senses-and-reason.html)
+- [Axioms of Value](https://pranigopu.github.io/effectiveness/axioms-of-value.html)
+- [Unmitigated Selfishness](https://pranigopu.github.io/effectiveness/unmitigated-selfishness.html)
+- [Self-Respect](https://pranigopu.github.io/effectiveness/self-respect.html)
+- [Misjudgement and Guilt](https://pranigopu.github.io/effectiveness/misjudgement-and-guilt.html)
+
+_Practical principles_...
 
 - [Effective Purposefulness](https://pranigopu.github.io/effectiveness/effective-purposefulness.html)
 - [Effective Rationality](https://pranigopu.github.io/effectiveness/effective-rationality.html)
 - [Essentialise, Simplify, Organise (ESO)](https://pranigopu.github.io/effectiveness/eso.html) <br> _Also includes the principles of concretising ESO_
 - [Planning](https://pranigopu.github.io/effectiveness/planning.html)
 - [Taking Breaks](https://pranigopu.github.io/effectiveness/taking-breaks.html)
-- [Extreme Ownership](https://pranigopu.github.io/effectiveness/extreme-ownership.html)
-- [Unmitigated Selfishness](https://pranigopu.github.io/effectiveness/unmitigated-selfishness.html)
-- [Self-Respect](https://pranigopu.github.io/effectiveness/self-respect.html)
-- [Misjudgement and Guilt](https://pranigopu.github.io/effectiveness/misjudgement-and-guilt.html)
 - [Investing Effort](https://pranigopu.github.io/effectiveness/investing-effort.html)
-- [Sanctity of Senses and Reason](https://pranigopu.github.io/effectiveness/sanctity-of-senses-and-reason.html)
+- [Extreme Ownership](https://pranigopu.github.io/effectiveness/extreme-ownership.html)

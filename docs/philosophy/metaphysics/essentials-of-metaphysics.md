@@ -23,7 +23,7 @@
       - [Context in causality](#context-in-causality)
       - [Absolutism of causality](#absolutism-of-causality)
       - [Fundamentality of entities](#fundamentality-of-entities)
-      - [Causless change](#causless-change)
+      - [Causeless change](#causeless-change)
 - [The primacy of existence](#the-primacy-of-existence)
 - [Summarising metaphysics](#summarising-metaphysics)
 - [The scope of metaphysics](#the-scope-of-metaphysics)
@@ -137,28 +137,38 @@ As another example, consider a light bulb. Saying that a light bulb is also an o
 
 **Entity**:
 
-An entity is a subset of existence whose identity is independent of one's consciousness; it is a concrete, or a concrete referent of an abstraction (hence, everything that exists is either an entity or a metaphysically inseparable aspect of an entity). It can be composed of one or more entities — components — each with its own identity, or it can be irreducible, but it exists and is what it is independent of consciousness. Hence, note that all entities are either irreducible entities or arrangements of irreducible entities. Note that an entity can be a specific arrangement of other entities to which different non-identifying facts may apply at different times (e.g. position, movement, change in shape — given that the arrangement is not tied to the shape).
+An entity is a thing whose identity is independent of one's consciousness; it is a concrete, or a concrete referent of an abstraction (hence, everything that exists is either an entity or a metaphysically inseparable aspect of an entity). It can be composed of one or more entities — components — each with its own identity, or it can be irreducible, but it exists and is what it is independent of consciousness. Hence, note that all entities are either irreducible entities or arrangements of irreducible entities. Note that an entity can be a specific arrangement of other entities to which different non-identifying facts may apply at different times (e.g. position, movement, change in shape — given that the arrangement is not tied to the shape).
 
 **NOTE**: _Given the above concept of entity, facts are thus facts of entities, i.e. facts are metaphysically inseparable from and ultimately derived from entities (i.e. maybe indirectly, but certainly)._
 
+**Change**:
+
+A change is a difference in the past and the present \* of an entity or a set of entities (the terms "difference", "past", "present" are defined ostensively; "past" and "present" in particular are defined by pointing to the relationship between one's awareness in the moment and one’s memory, memory being retained awareness). Hence, change not only applies to intrinsic changes (change in an entity's own features) but also relational changes (e.g. relative spatial movement/repositioning). Needless to say, being a part of reality, a particular change has a particular identity.
+
+\* _Note that time is a concept derived from change, since time is, in essence, a measure of change (i.e. a relationship between a change and a unit of change; a unit of change is a perceptually-grasped change that recurs and whose recurrences are constantly spaced in memory). Hence, by speaking of "past" and "present", I am speaking not of time as such but of the direct awareness of change; the concept of times comes from this awareness. Note here that time is not a perceptually derived construct; like any measurement, it relates things in reality through observations of the facts, and thus, the properties of things in reality reflect on measured time._
+
 **Action**:
 
-An action is a change in an entity, i.e. a difference in the past and the present of an entity ("past" and "present" are defined ostensively by pointing to the relationship between one's awareness and one's memory, memory being retained awareness). More precisely, an action is a change in the facts about an entity (the facts may be identifying or non-identifying; of course, change in identifying facts would lead to the entity ceasing to exist and becoming something else). An action, thus, is necessarily of the entity, i.e. an action cannot exist apart from the entity, and thus, an action cannot exist apart from the entity's identity; an action is hence an aspect of the entity's identity (just to clarify, an action is inseparable from the entity, the entity is inseparable from its identity, thus the action is inseparable from the entity's identity). Consequently, by the law of non-contradiction, an entity's action cannot be in contradiction to the entity and its identity, i.e. its action cannot be something impossible to its identity. Hence, since an action of an entity can exist neither apart from (i.e. disconnected from) nor in contradiction to the entity and its identity, an action is an expression and extension of the entity's identity.
+An action is a change in or by an entity, i.e. an action is a change in the entity's form of existence, or by the entity's contact with some part of reality, either directly or indirectly (i.e. through some medium). Since existence exists independent of consciousness, entities, i.e. things whose identities are independent of consciousness \*\*, are the material of existence, i.e. they are what existence comprises of, at its root.
+
+The argument for this is straightforward; something (call it A) whose identity is dependent on something else (call it B) has no existence apart from B, and thus, the existence of such things depends on something whose identity is independent within existence, i.e. that can exist as it is. Thus, nothing exists apart from entities. Furthermore, by the law of non-contradiction, nothing can exist in contradiction to entities and their identities. Thus, we also have that since a change is a relationship, and thus has an identity that is dependent on the things being related, no change exists apart from nor in contradiction to entities.
+
+Now, an action of an entity, being a change directly tied to an entity, is the fundamental form of change (since an indirect connection implies a chain of connections that, in the end, resolves in a direct connection). Given our premises so far, an action can exist neither apart from nor in contradiction to an entity and its identity; an action is hence an inseparable aspect of the entity's identity (just to clarify, an action is inseparable from the entity, the entity is inseparable from its identity, thus the action is inseparable from the entity's identity). Thus, an entity's action cannot in any way be arbitrary (i.e. without a basis in the entity's identity), and cannot be impossible to the entity's identity. Hence, an action is an _expression and extension_ of the entity's identity; what an entity is and what it does are inextricably tied together (note that to mention both "entity" and "entity's identity" in this context is redundant, but it is done for the sake of clarity).
+
+\*\* _Note that even a conscious being exists independent of consciousness; consciousness is an aspect of such a being that is inseparable from the being as a whole. Hence, consciousness is not an entity but does exist as an aspect of an entity. Therefore, man acts with consciousness, but consciousness does not "act" by itself, i.e. independent of the entity that is man._
 
 ---
 
-**NOTE 1**: To mention both "entity" and "entity's identity" in this context is redundant, but it is done for the sake of clarity.
-
-**NOTE 2**: Needless to say, being a part of reality, a particular change has a particular identity.
+**NOTE**: It is key to identify an entity's action as the fundamental form of change, because it makes it clear that while there can be changes in things other from entities (e.g. attributes, events, thoughts, feelings, etc.), these changes are ultimately tied to entities and their actions. Consider: if a change happens in an attribute, or an event, or a thought or a feeling, the natural questions are (1) an attribute of what (i.e. what entity)? (2) an event involving what (i.e. what entities)? (3) a thought or feeling of what or of whom (i.e. what being, which is also an entity)?
 
 ### Argument
-Causality is the law of identity applied to actions, and by extension, events (which are the result of the actions and interactions of two or more entities). As a part of existence, an action has an identity. But an entity's action can exist neither apart from nor in contradiction to the entity's identity, which is to say that an entity can act only according to its identity. Hence, by extension, a subset of existence can only change according to the identities of the entities acting and interacting within it.
+Causality is the law of identity applied to actions, and by extension, change (which is the result of the actions and/or interactions of one or more entities). As a part of existence, an action has an identity. Furthermore, an entity's action can exist neither apart from nor in contradiction to the entity's identity, which is to say that an entity can act only according to its identity. Hence, by extension, a subset of existence can only change according to the identities of the entities acting and interacting within it.
 
 **NOTE**: _Pointing out that actions cannot exist apart from entities and their identities is key in showing that their identities (i.e. their natures) result in certain actions in a certain context, i.e. their actions are based on their identities. This, of course, is necessary to reach the law of causality._
 
-Hence, we get the law of causality: actions and events have identities that are metaphysically inseparable from and derived from the identities of the entities that act. Hence, given an entity with a particular identity, its action (in a certain relation to other entities and their actions) can have only a particular corresponding identity and nothing else.
+Hence, we get the law of causality: actions have identities that are metaphysically inseparable from and derived from the identities of the entities that act. Hence, given an entity with a particular identity, its action (in a certain relation to other entities and their actions) can have only a particular corresponding identity and nothing else.
 
-To extend the idea further, note that the identity of the change in any part of reality is inseparable from and derived from the identity of that part of reality. Thus, the law of causality means that given the same set of facts, no other change or kind of change can happen. In other words, the same entities in the same conditions can act only in a certain way and no other (i.e. their actions can have only a certain identity with respect to their own identities and no other).
+To extend the idea further, note that the identity of the change in any part of reality is inseparable from and derived from the identity of that part of reality, particularly from the entities acting and interacting in that part of reality. Thus, the law of causality means that given the same set of facts, no other change or kind of change can happen. In other words, the same entities in the same conditions can act only in a certain way and no other (i.e. their actions can have only a certain identity with respect to their own identities and no other).
 
 _The interactive nature of causality_...
 
@@ -189,7 +199,7 @@ The law of causality is a necessary, inseparable implication of the law of ident
 #### Fundamentality of entities
 Any way you put it, there must always exist entities at the basis of any phenomenon, since any phenomenon that exists presupposes things that exist in and of themselves, i.e. entities. Note that consciousness is not an entity but an aspect (albeit an essential aspect) of the self, i.e. the integration of mind and body that makes you what you are. Consciousness can only act via its apparatus.
 
-#### Causless change
+#### Causeless change
 A change without a cause, i.e. disconnected from any past or present entities in one or more ways, is a change without an identity, i.e. a non-existent. This is because such a change would be a change that is both of entities (i.e. based on entities, as any change must be) and not of entities (i.e. not based on entities). This is contradiction.
 
 # The primacy of existence
