@@ -50,13 +50,13 @@ For example, the nature of fire and its causal relationships with oxygen and the
 **NOTE**: _Since everything exists and acts in a context and can only be grasped as such, knowledge is always contextual. Hence, it is key to keep the context in mind when applying generalisations. For example, knowing the general nature of fire, we can understand the basic contributors to its growth and decline, but just from this, we cannot understand how a fire may behave in a given environment, e.g. how a fire would spread across a forest, or how a fire may cause other effects on other materials such as cracking of clay or melting of ice. The point is that causal relationships and knowledge more broadly do not exist in isolation._
 
 ## Logical necessity
-Facts can never be contradicted.
+Facts can never exist in contradiction.
 
 In other words, if a statement is such that denying it would contradict known facts, then it must be true, even if its contents have not been verified by direct observation or validated by the grasp of causal relationships.
 
 ---
 
-For example (taken from Euclid's Propositions), consider a triangle ABC with two equal angles ∠ABC and ∠ACB. Now, assume that the sides opposite to these angles, i.e. BC and AB, are unequal. Now, draw a line from point A perpendicular to BC. Let D be the point where it meets BC; hence, this line would be AD. Now, note that the sine of ∠ABC is AD/BC, while the sine of ∠ACB is AD/AB. Since BC and AB are unequal, AD/BC and AD/AB are unequal, and thus, the sines of ∠ABC and ∠ACB are unequal. But ∠ABC and ∠ACB are equal; let us say both measurement to k. Hence, we have that the sine of k is two unequal values, which is a contradiction, since logically, one angle has only one measurement of sine. Hence, since facts can never be contradicted, and since the contradiction was drawn from the assumption that the opposite sides of equal angles in a triangle can be unequal, as must declare the assumption to be false, and its logical opposite to be true, namely that the opposite sides of equal angles in a triangle must also be equal.
+For example (taken from Euclid's Propositions), consider a triangle ABC with two equal angles ∠ABC and ∠ACB. Now, assume that the sides opposite to these angles, i.e. BC and AB, are unequal. Now, draw a line from point A perpendicular to BC. Let D be the point where it meets BC; hence, this line would be AD. Now, note that the sine of ∠ABC is AD/BC, while the sine of ∠ACB is AD/AB. Since BC and AB are unequal, AD/BC and AD/AB are unequal, and thus, the sines of ∠ABC and ∠ACB are unequal. But ∠ABC and ∠ACB are equal; let us say both measure to k. Hence, we have that the sine of k is two unequal values, which is a contradiction, since logically, one angle has only one measurement of sine. Hence, since facts can never be contradicted, and since the contradiction was drawn from the assumption that the opposite sides of equal angles in a triangle can be unequal, as must declare the assumption to be false, and its logical opposite to be true, namely that the opposite sides of equal angles in a triangle must also be equal.
 
 # Principles of rejecting the arbitrary
 If something is not based on truth insofar as it can be grasped by the senses or by reason, it is arbitrary. _It is as simple as that._
@@ -73,7 +73,7 @@ Observe what is being said or done, and see how it relates to your first-hand ob
 
 **Find causal relationships**:
 
-Can you see causal relationships or likely causal relationships between facts you know first-hand and things you do not know first-hand? For example, you may grasp the validity of the scientific method, and thereby have greater trust the results of those who teach it, preach it and aim to practice it. As another example, you may grasp the incentives of a business, the variety of people involved in it with aligned motives (since trade cannot happen if motives do not align in some way), and the way these factors go against the act of trying to sell customers poison for food.
+Can you see causal relationships or likely causal relationships between facts you know first-hand and things you do not know first-hand? For example, you may grasp the validity of the scientific method, and thereby have greater trust in the results of those who teach it, preach it and aim to practice it. As another example, you may grasp the incentives of a business, the variety of people involved in it with aligned motives (since trade cannot happen if motives do not align in some way), and the way these factors go against the act of trying to sell customers poison for food.
 
 **Logical necessity**:
 
