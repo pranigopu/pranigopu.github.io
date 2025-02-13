@@ -118,7 +118,7 @@ Suppose I am preparing for a project. What if I study every topic even tangentia
 # Interrelation between 1, 2 and 3
 Simplicity clarifies goals.
 
-Goals drive engagement.
+Goals drive steady focus.
 
 Steady focus leads to:
 
@@ -127,7 +127,7 @@ Steady focus leads to:
 
 ---
 
-Furthermore, note that these principles are not ordered in any way. Each are aspects of an integrated whole, this whole being _effective purposefulness_. Purposeful goals may be followed by simplicity, or simplicity may lead to purposeful goals, or full engagement may reveal purposeful goals, or full engagement may lead to simple focus, etc.
+Furthermore, note that these principles are not ordered in any way. Each are aspects of an integrated whole, this whole being _effective purposefulness_. Purposeful goals may be followed by simplicity, or simplicity may lead to purposeful goals, or steady focus may reveal purposeful goals, or steady focus may lead to simple focus, etc.
 
 # 4. Value the process
 ## Principle
