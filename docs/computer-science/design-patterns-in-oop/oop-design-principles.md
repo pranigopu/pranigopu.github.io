@@ -46,7 +46,7 @@ Inheritance brings implementation dependency between the parent class and its su
 - Class hierarchies remain manageable
 
 ## Interplay between inheritance and composition
-If possible, do not create new components to achieve reuse and try to get as much of the functionality you need just by assembling existing components through object composition. But this is rarely the enough, since the set of existing components is never quite rich enough in practice. Reuse by inheritance makes it easier to make new components that can be composed with old ones. Thus, inheritance and object composition work best together.
+If possible, do not create new components to achieve reuse and try to get as much of the functionality you need just by assembling existing components through object composition. But this is rarely enough, since the set of existing components is never quite rich enough in practice. Reuse by inheritance makes it easier to make new components that can be composed with old ones. Thus, inheritance and object composition work best together.
 
 ---
 
