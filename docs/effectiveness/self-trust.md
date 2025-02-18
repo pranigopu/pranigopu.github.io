@@ -12,6 +12,7 @@
   - [Self-honesty](#self-honesty)
   - [Pride](#pride)
   - [Consistency](#consistency)
+  - [Trust in one's own ability to judge](#trust-in-ones-own-ability-to-judge)
 
 ---
 
@@ -81,3 +82,10 @@ By undermining reason in such a fundamental way, you undermine the very basis of
 ---
 
 What does this mean in practice? For one, it means to never subjugate a consciously chosen intention or commitment to whim. For example, if you honestly make a promise to someone, you must not back out of it simply because you do not feel like it. This is not to say you must never back out of promises, only that you must never do so merely out of discomfort or a lack of desire. Defaulting on an honest promise is rational if and only if fulfilling the promise requires the sacrifice of a more fundamental value (e.g. it is not immoral to cancel an outing if you are too sick to enjoy it, since your own health and happiness are higher priorities than the happiness of others). Note that promises naturally also apply to promises made to oneself; there is no reason why the above reasoning does not apply here.
+
+## Trust in one's own ability to judge
+This ties directly to trust in one's ability. The value of trusting one's own judgement is put eloquently as follows by the novelist-philosopher Ayn Rand in her novel _Atlas Shrugged_:
+
+_Do not say that you're afraid to trust your mind because you know so little. Are you safer in surrendering to mystics and discarding the little that you know? Live and act within the limit of your knowledge and keep expanding it to the limit of your life. Redeem your mind from the hockshops of authority. Accept the fact that you are not omniscient, but playing a zombie will not give you omniscience — that your mind is fallible, but becoming mindless will not make you infallible — that an error made on your own is safer than ten truths accepted on faith, because the first leaves you the means to correct it, but the seconds destroys your capacity to distinguish truth from error. In place of your dream of an omniscient automaton, accept the fact that any knowledge man acquires is acquired by his own will and effort, and that that is is his distinction in the universe, that is his nature, his morality, his glory._
+
+In practice, this means owning your decisions, even if you risk mistakes, and remaining committed to learning from them as you refine your ability to judge. It also means the refusal to give into authority (be it political, intellectual, spiritual, etc.) merely out of fear or a reluctance to think. The only rational basis by which accept someone else's claims is your own judgement of the validity and reliability of the contents and/or the source. Trusting your ability to judge is central to self-trust, as it empowers you to navigate uncertainty with confidence and independence.
