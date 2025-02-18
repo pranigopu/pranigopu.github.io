@@ -24,6 +24,7 @@ _Fundamentals_...
 - [Unmitigated Selfishness](https://pranigopu.github.io/effectiveness/unmitigated-selfishness.html)
 - [Self-Respect](https://pranigopu.github.io/effectiveness/self-respect.html)
 - [Misjudgement and Guilt](https://pranigopu.github.io/effectiveness/misjudgement-and-guilt.html)
+- [Self-Trust](https://pranigopu.github.io/effectiveness/self-trust.html)
 
 _Practical principles_...
 
