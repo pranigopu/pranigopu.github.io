@@ -68,7 +68,7 @@ _An extra definition for certain discussions_...
 Any particular part of active consciousness, such as a particular sensation, perception, concept, thought, emotion, etc.
 
 # The first principle
-One must hold as _inescapable and sacrosanct_ that what is, is, and what is not, is not. Is it possible to deny it, namely to say that what is, is not, or what is not, is? To say something is possible is to say that it has some basis in existence. On what basis could one say that it is possible for a thing to exist and not exist at once, i.e. to be existent and non-existent at once? Any way you try to see it, the non-existent has no place in existence; then, on what basis can one deny that what is, is, and what is not, is not? None whatsover in reality.
+One must hold as _inescapable and sacrosanct_ that what is, is, and what is not, is not. Is it possible to deny it, namely to say that what is, is not, or what is not, is? To say something is possible is to say that it has some basis in existence. On what basis could one say that it is possible for a thing to exist and not exist at once, i.e. to be existent and non-existent at once? Any way you try to see it, the non-existent has no place in existence; then, on what basis can one deny that what is, is, and what is not, is not? None whatsoever in reality.
 
 ---
 
@@ -143,7 +143,7 @@ An entity is a thing whose identity is independent of one's consciousness; it is
 
 **Change**:
 
-A change is a difference in the past and the present \* of an entity or a set of entities (the terms "difference", "past", "present" are defined ostensively; "past" and "present" in particular are defined by pointing to the relationship between one's awareness in the moment and one’s memory, memory being retained awareness). Hence, change not only applies to intrinsic changes (change in an entity's own features) but also relational changes (e.g. relative spatial movement/repositioning). Needless to say, being a part of reality, a particular change has a particular identity.
+A change is a difference in the past and the present\* of an entity or a set of entities (the terms "difference", "past", "present" are defined ostensively; "past" and "present" in particular are defined by pointing to the relationship between one's awareness in the moment and one’s memory, memory being retained awareness). Hence, change not only applies to intrinsic changes (change in an entity's own features) but also relational changes (e.g. relative spatial movement/repositioning). Needless to say, being a part of reality, a particular change has a particular identity.
 
 \* _Note that time is a concept derived from change, since time is, in essence, a measure of change (i.e. a relationship between a change and a unit of change; a unit of change is a perceptually-grasped change that recurs and whose recurrences are constantly spaced in memory). Hence, by speaking of "past" and "present", I am speaking not of time as such but of the direct awareness of change; the concept of times comes from this awareness. Note here that time is not a perceptually derived construct; like any measurement, it relates things in reality through observations of the facts, and thus, the properties of things in reality reflect on measured time._
 
