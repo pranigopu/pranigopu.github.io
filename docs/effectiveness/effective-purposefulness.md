@@ -19,6 +19,8 @@
 - [3. Steady focus](#3-steady-focus)
   - [Principle](#principle-2)
   - [Explanation](#explanation-2)
+    - [Why is focus important?](#why-is-focus-important)
+    - [Why be rational about how to direct focus?](#why-be-rational-about-how-to-direct-focus)
   - [Examples](#examples-2)
 - [Interrelation between 1, 2 and 3](#interrelation-between-1-2-and-3)
 - [4. Value the process](#4-value-the-process)
@@ -104,6 +106,10 @@ What does it mean to divide focus without reason?
 In short, to place the arbitrary above the rational.
 
 ## Explanation
+### Why is focus important?
+Focus is the basis of awareness, and is the means by which I identify, integrate and effectively pursue the facts and demands of reality, including the facts and demands of an endeavour. If the endeavour is simple enough, it may not need full focus, but for endeavours that are complex, not giving your full focus and dividing your attention harms your very ability to deal with the facts and demands of the endeavour, and if it is worth doing, then harming your ability or at least your potential capacity to deal with it is counterproductive.
+
+### Why be rational about how to direct focus?
 Reason is the fundamental value, and rationality the fundamental virtue. Why? Consider: what is anti-reason? Reason is the power that takes what is given by the senses and ties it together, identifying entities, actions and relationships, and putting them together to identify systems. Thus, that which is anti-reason rejects our best efforts to know reality. Hence, that which is anti-reason is anti-knowledge and thus anti-life, because how are we to live well if we blind ourselves? Thus, as St. Thomas Aquinas said, "Every will at variance with reason, whether right or erring, is always evil."
 
 ---
