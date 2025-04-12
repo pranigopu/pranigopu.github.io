@@ -42,7 +42,6 @@ As another example, the game "Cool Choices" (Wisconsin Sustainable Business Coun
 The theoretical foundations established in the introduction, combined with a general grasp of the effectiveness of games in driving motivation as well as real-life examples of successful and proposed applications of gamification principles, show the relevance, reality and potential of applying game concepts to non-game contexts. However, gamification is not without potential pitfalls, such as over-reliance on extrinsic motivators or addiction-like behaviours from black hat techniques; these pitfalls can be observed in gaming, and thus can naturally extend to the application of game concepts. This underscores the importance of rational and thoughtful gamification, involving not just effective game design but also psychological, ethical and long-range considerations.
 
 # References
-
 Chou, Y.K. (no date). _The Octalysis Framework for Gamification & Behavioral Design_. \[online\] Available from: [https://yukaichou.com/gamification-examples/octalysis-complete-gamification-framework](https://yukaichou.com/gamification-examples/octalysis-complete-gamification-framework).
 
 Engineer's Planet. (2024). _Gamification for Regional Planning Became Possible by GIS Data and Drone Land Survey Maps_. \[online\] Available from: [https://engineersplanet.com/abstracts/gamification-for-regional-planning-became-possible-by-gis-data-and-drone-land-survey-maps](https://engineersplanet.com/abstracts/gamification-for-regional-planning-became-possible-by-gis-data-and-drone-land-survey-maps).
