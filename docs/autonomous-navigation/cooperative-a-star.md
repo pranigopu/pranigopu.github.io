@@ -38,7 +38,7 @@
 
 ---
 
-A\* is an optimal, relatively simple and (as of now) sufficiently well-performing algorithm for single-agent pathfinding; moreover, due to the modularity of the code, we can easily switch the pathfinding algorithms used in the future, if need be, as long as we follow the same standard format for path representation. Due to this, my first attempt at multi-agent path planning will be to implement the simplest extension of A\* into a multi-agent context, namely cooperative A\*. Due to its basis in A\*, it should be relatively easy to understand, implement and test, and due to its optimal nature, it should produce promising results to present for the next minimum viable solution (MVS). Moreover, it introduces (in practical terms) multi-agent concepts such as consideration of other agent paths into an agent's own path planning, priority-based planning and fixed-window projection of future coordination (since cooperative path planning would be an ongoing process in a warehouse simulation context). Hence, in short, my first step toward multi-agent path planning is CA\* due to the following reasons:
+A\* is an optimal, relatively simple and (as of now) sufficiently well-performing algorithm for single-agent pathfinding; moreover, due to the modularity of the code, we can easily switch the pathfinding algorithms used in the future, if need be, as long as we follow the same standard format for path representation. Due to this, my first attempt at multi-agent path planning will be to implement the simplest extension of A\* into a multi-agent context, namely cooperative A\*. Due to its basis in A\*, it should be relatively easy to understand, implement and test, and due to its optimal nature, it should produce promising results to present for the next minimum viable solution (MVS). Moreover, it introduces (in practical terms) multi-agent concepts such as consideration of other agent paths into an agent's own path planning, priority-based planning and fixed-window projection of future coordination (since cooperative path planning would be an ongoing process in a multi-agent simulation context). Hence, in short, my first step toward multi-agent path planning is CA\* due to the following reasons:
 
 - Relative simplicity (conceptually and technically)
     - Allows for quick and promising deliverable
@@ -310,7 +310,7 @@ It provides a structured and repeatable process that can be extended to any curr
 <details>
 <summary><b>2. Simple but crucial extension of fixed-priority CA*</b></summary>
 <p>
-It builds on fixed-priority CA* while adding the feature of indefinite repeatability, which is a required feature for an indefinite/long-term simulation. Thus, it is a practical next step in progressing toward a minimum viable solution (MVS) that manages cooperative pathfinding within a warehouse simulation.
+It builds on fixed-priority CA* while adding the feature of indefinite repeatability, which is a required feature for an indefinite/long-term simulation. Thus, it is a practical next step in progressing toward a minimum viable solution (MVS) that manages cooperative pathfinding within a multi-agent simulation.
 </p>
 </details>
 
