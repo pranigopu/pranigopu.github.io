@@ -18,7 +18,7 @@
 ---
 
 # About
-Collection of my writings in:
+Collection of my work in:
 
 - Academic areas
 - Researched topics
