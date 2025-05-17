@@ -36,19 +36,19 @@ Collection of my work in:
 
 # Explore
 ## Bayesian Deep Learning
-- [Comparative Evaluation of Uncertainty Quantification of BNNs](https://pranigopu.github.io/comparative-evaluation-of-uncertainty-quantification-of-bnns.pdf)
+- [Comparative Evaluation of Uncertainty Quantification of BNNs (PDF)](https://pranigopu.github.io/comparative-evaluation-of-uncertainty-quantification-of-bnns.pdf)
 - [`pranigopu`/`mastersProject` (GitHub)](https://github.com/pranigopu/mastersProject)
 
 ## Neural Style Transfer for Audio
-- [Ambience-to-Music Neural Style Transfer (AM-NST)](https://app.readytensor.ai/publications/ambiencetomusic-neural-style-transfer-amnst-2CirVDc5nt0b)
+- [Ambience-to-Music Neural Style Transfer (AM-NST), **app.readytensor.ai**](https://app.readytensor.ai/publications/ambiencetomusic-neural-style-transfer-amnst-2CirVDc5nt0b)
 - [`pranigopu`/`ambience-to-music-neuralStyleTransfer` (GitHub)](https://github.com/pranigopu/ambience-to-music-neuralStyleTransfer)
 
 ## Procedural Generation
-- [Procedural Generation in *Unexplored*](https://pranigopu.github.io/procedural-generation-in-unexplored.pdf)
+- [Procedural Generation in *Unexplored* (PDF)](https://pranigopu.github.io/procedural-generation-in-unexplored.pdf)
 - [`pranigopu`/`diver-vs-mermaid` (GitHub)](https://github.com/pranigopu/diver-vs-mermaid)
 
 ## Ethics and Regulation in AI
-- [Transparency, Explainability and Accountability (TEA) in AI](https://pranigopu.github.io/report-on-transparency-explainability-and-accountability-in-ai.pdf)
+- [Transparency, Explainability and Accountability (TEA) in AI (PDF)](https://pranigopu.github.io/report-on-transparency-explainability-and-accountability-in-ai.pdf)
 - [`pranigopu`/`ethics--regulation--law-for-intelligentSystems` (GitHub)](https://github.com/pranigopu/ethics--regulation--law-for-intelligentSystems)
 
 ## Autonomous Navigation
