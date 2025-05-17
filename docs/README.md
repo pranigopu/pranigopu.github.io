@@ -10,7 +10,7 @@
   - [Bayesian Deep Learning](#bayesian-deep-learning)
   - [Neural Style Transfer for Audio](#neural-style-transfer-for-audio)
   - [Procedural Generation](#procedural-generation)
-  - [Ethics and Regulation in AI - *Review and Case Study*](#ethics-and-regulation-in-ai---review-and-case-study)
+  - [Ethics and Regulation in AI](#ethics-and-regulation-in-ai)
   - [Autonomous Navigation](#autonomous-navigation)
   - [Computer Science](#computer-science)
   - [Mathematics](#mathematics)
@@ -47,7 +47,7 @@ Collection of my work in:
 - [Procedural Generation in *Unexplored*](https://pranigopu.github.io/procedural-generation-in-unexplored.pdf)
 - [`pranigopu`/`diver-vs-mermaid` (GitHub)](https://github.com/pranigopu/diver-vs-mermaid)
 
-## Ethics and Regulation in AI - *Review and Case Study*
+## Ethics and Regulation in AI
 - [Transparency, Explainability and Accountability (TEA) in AI](https://pranigopu.github.io/report-on-transparency-explainability-and-accountability-in-ai.pdf)
 - [`pranigopu`/`ethics--regulation--law-for-intelligentSystems` (GitHub)](https://github.com/pranigopu/ethics--regulation--law-for-intelligentSystems)
 
