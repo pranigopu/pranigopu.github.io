@@ -40,7 +40,7 @@ Collection of my work in:
 - [`pranigopu`/`mastersProject` (GitHub)](https://github.com/pranigopu/mastersProject)
 
 ## Neural Style Transfer for Audio
-- [Ambience-to-Music Neural Style Transfer (AM-NST), **app.readytensor.ai**](https://app.readytensor.ai/publications/ambiencetomusic-neural-style-transfer-amnst-2CirVDc5nt0b)
+- [Ambience-to-Music Neural Style Transfer (AM-NST) (app.readytensor.ai)](https://app.readytensor.ai/publications/ambiencetomusic-neural-style-transfer-amnst-2CirVDc5nt0b)
 - [`pranigopu`/`ambience-to-music-neuralStyleTransfer` (GitHub)](https://github.com/pranigopu/ambience-to-music-neuralStyleTransfer)
 
 ## Procedural Generation
