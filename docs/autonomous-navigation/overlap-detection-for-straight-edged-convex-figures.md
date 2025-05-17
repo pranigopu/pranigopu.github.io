@@ -1,4 +1,13 @@
-<h1>OVERLAP DETECTION FOR STRAIGHT-EDGED CONVEX FIGURES</h1>
+<head>
+  <script>
+    MathJax = {tex: {inlineMath: [['$', '$']]}};
+  </script>
+  <script id="MathJax-script" async
+    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+  </script>
+</head>
+
+<h1>Overlap Detection for Straight-Edged Convex Figures</h1>
 
 ---
 
@@ -33,11 +42,11 @@ Although the foreseeable use-case of this solution is for rectangles, I have mad
 
 ---
 
-**NOTE: Why not reuse the solution used for hybrid patterns?**
+**NOTE: Difference from overlap resolution for axis-aligned rectangles**
 
-The overlap detection and resolution method used in [`solutions-documentation`/`key-solutions-for-hybrid-patterns.md`](https://github.com/GreendzineTech/WASP-PPA/blob/main/solutions-documentation/key-solutions-for-hybrid-patterns.md) is insufficient, since here, it was assumed that the boxes were axis-aligned (i.e. their edges were parallel to the x and y axes). This assumption simplifies the overlap resolution process, because under this assumption, to prove the presence of an overlap, it is sufficient to show that any vertical and horizontal edge of one box overlaps with any vertical and horizontal edge (respectively) of the other box on the x and y axes (also respectively). Without this assumption, we can see how the above can hold true even where the boxes do not overlap; for example:
+The overlap detection and resolution method that assumes axis-aligned rectangles (i.e. rectangles whose edges are parallel to the x and y axes) is insufficient. This assumption simplifies the overlap resolution process, because under this assumption, to prove the presence of an overlap, it is sufficient to show that any vertical and horizontal edge of one box overlaps with any vertical and horizontal edge (respectively) of the other box on the x and y axes (also respectively). Without this assumption, we can see how the above can hold true even where the boxes do not overlap; for example:
 
-![Non-Overlap Example](resources/non-overlap-example.png)
+![Non-Overlap Example](https://pranigopu.github.io/autonomous-navigation/resources/non-overlap-example.png)
 
 # Key to the solution
 ## Separating axis theorem (statement)
@@ -66,7 +75,7 @@ The projection of a point $p$ on an axis is the intersection between the axis an
 <details><summary><i>Example of a point being projected</i>...</summary>
 The black dot is projected on the blue axis as the blue dot:
 <br>
-<img src="resources/point-projection-example.png">
+<img src="https://pranigopu.github.io/autonomous-navigation/resources/point-projection-example.png">
 </details>
 
 ### CONCEPT 3: Projection of a figure on an axis
@@ -75,11 +84,11 @@ The projection of a figure $S$ on an axis is the projection of all its points on
 <details><summary><i>Example of a rectangle being projected on 2 axes</i>...</summary>
 Visualisation of the projection of a rectangle:
 <br>
-<img src="resources/shape-projection-example.png">
+<img src="https://pranigopu.github.io/autonomous-navigation/resources/shape-projection-example.png">
 <br>
 Considering only the extremeties:
 <br>
-<img src="resources/shape-projection-only-extremeties-example.png">
+<img src="https://pranigopu.github.io/autonomous-navigation/resources/shape-projection-only-extremeties-example.png">
 </details>
 
 ## Separating axis theorem (case-specific interpretation)
@@ -92,7 +101,7 @@ But what is the minimum set of axes $A$ we must check to verify that there exist
 <details><summary><i>Example involving 2 rectangles</i>...</summary>
 Rectangles have pairs of parallel edges hence, A has size 2+2=4:
 <br>
-<img src="resources/min-set-of-axes-to-check-example.png">
+<img src="https://pranigopu.github.io/autonomous-navigation/resources/min-set-of-axes-to-check-example.png">
 </details>
 
 ---
@@ -106,8 +115,8 @@ It is insufficient to consider the axes parallel to the edges of just one figure
         <th>One axis of R shows no overlap</th>
     </tr>
     <tr>
-        <td><img src="resources/counterexample-proving-one-figures-axes-are-insufficient-1.png"></td>
-        <td><img src="resources/counterexample-proving-one-figures-axes-are-insufficient-2.png"></td>
+        <td><img src="https://pranigopu.github.io/autonomous-navigation/resources/counterexample-proving-one-figures-axes-are-insufficient-1.png"></td>
+        <td><img src="https://pranigopu.github.io/autonomous-navigation/resources/counterexample-proving-one-figures-axes-are-insufficient-2.png"></td>
     </tr>
 </table>
 
@@ -117,7 +126,7 @@ Hence, we see why to consider the axes of both figures.
 # Obtaining projections on an axis
 Consider the following diagram:
 
-![Obtaining Point Projection](resources/obtaining-point-projection-1.png)
+![Obtaining Point Projection](https://pranigopu.github.io/autonomous-navigation/resources/obtaining-point-projection-1.png)
 
 ---
 
@@ -152,7 +161,7 @@ Now, let us define the following for convenience:
 Note an interesting fact: shifting the axis $\alpha$ along its normal (i.e. along the vector perpendicular to it), which leads to some axis $\alpha_i \in A$, preserves the relative positions of the projections of $S$ and $P$, where "relative" means with respect to each other; thus, it also preserves the value of $SQ$, thereby preserving the relative position of the projection of $P$, where "relative" means with respect to the axis. Such a shift also preserves the angle $\theta$ between the vectors $\vec{OP}$ and the axis. In other words, any axis $\alpha_i \in A$ parallel to $\alpha$ has the same relative positions for the projections of $S$ and $P$ and the same value for $\theta$.
 
 <details><summary><i>Visualise the shifting of the axis</i>...</summary>
-<img src="resources/obtaining-point-projection-2.png">
+<img src="https://pranigopu.github.io/autonomous-navigation/resources/obtaining-point-projection-2.png">
 </details>
 
 ---
@@ -211,8 +220,8 @@ A visualisation of how the projection of 2 points can be compared:
         <th>Shifting axis</th>
     </tr>
     <tr>
-        <td><img src="resources/obtaining-2-points-projection-1.png"></td>
-        <td><img src="resources/obtaining-2-points-projection-2.png"></td>
+        <td><img src="https://pranigopu.github.io/autonomous-navigation/resources/obtaining-2-points-projection-1.png"></td>
+        <td><img src="https://pranigopu.github.io/autonomous-navigation/resources/obtaining-2-points-projection-2.png"></td>
     </tr>
 </table>
 </details>
