@@ -282,5 +282,5 @@ $P$ _and_ $Q$ _overlap iff overlaps exist along each axis in_ $A$.
 We can leverage parallel operations (e.g. using NumPy) to perform the above detections for each $R_1, R_2 ... R_k$ against $T$ all at once, thereby greatly speeding up the implementation.
 
 # Practical testing
-> [`autonomousNavigation`/`implementation`/`spatial_querying`, owned by `pranigopu`, GitHub](https://github.com/pranigopu/autonomousNavigation/tree/main/implementation/spatial_querying) <br> *Directory containing practical implementation and test cases*
-> [`tests.ipynb` from the above](https://github.com/pranigopu/autonomousNavigation/blob/main/implementation/spatial_querying/tests.ipynb) <br> *Comprehensive testing of practical implementation via Jupyter Notebook*
+> - [`autonomousNavigation`/`implementation`/`spatial_querying`, owned by `pranigopu`, GitHub](https://github.com/pranigopu/autonomousNavigation/tree/main/implementation/spatial_querying) <br> *Directory containing practical implementation and test cases*
+> - [`tests.ipynb` from the above](https://github.com/pranigopu/autonomousNavigation/blob/main/implementation/spatial_querying/tests.ipynb) <br> *Comprehensive testing of practical implementation via Jupyter Notebook*
