@@ -80,6 +80,7 @@ $KFE \sim KIG \sim GHC \sim BJG$
 <ul>
     <li>At least 2 equal angles between each</li>
     <li><b>HINT</b>: Each of JGI, KGB and KGC forms a right angle</li>
+</ul>
 </details>
 
 ---
@@ -92,6 +93,7 @@ $GHC \equiv BJG$
 <ul>
     <li>Equal angles GHC, BJG</li>
     <li>Equal sides BG = GC = w/2 opposite to the equal angles</li>
+</ul>
 </details>
 
 ## Key derived values
