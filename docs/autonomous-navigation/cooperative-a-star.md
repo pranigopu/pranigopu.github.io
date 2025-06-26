@@ -29,6 +29,9 @@
 - [Fixed-priority equal speed CA\*](#fixed-priority-equal-speed-ca)
   - [Motivation for starting with fixed priority equal-speed CA\*](#motivation-for-starting-with-fixed-priority-equal-speed-ca)
 - [Windowed CA\* (WCA\*)](#windowed-ca-wca)
+- [Dynamic window size in WCA\*](#dynamic-window-size-in-wca)
+  - [Motivation](#motivation)
+  - [Possible approaches](#possible-approaches)
 - [Practical testing](#practical-testing)
 
 ---
@@ -339,6 +342,60 @@ Hence, in practice, due to its ability to (1) extend indefinitely across time, (
 
 - Effect of window size
 - (*Related to the above point*) Effect of replanning frequency
+
+# Dynamic window size in WCA\*
+## Motivation
+A key hurdle with CA\* (fixed-priority and windowed) is that there is no straightforward way to ensure that higher-priority agents do not ignore inactive lower-priority agents (who may be inactive due to path completion); this is not an issue when lower-priority agents are active, because, by the algorithm's design, active lower-priority agents accommodate the movement of higher-priority agents. Note also that it is straightforward to ensure that lower-priority agents do not ignore inactive higher-priority agents for n time stamps; this can be done by reserving the inactive higher-priority agents' position across n time stamps, which lower-priority agents are surely going to account for.
+
+I tried avoiding this issue by prioritising agents such that those with the lowest abstract path cost (i.e. the lowest planned path length without accounting for other agents) are prioritised. However, this is not a sure fix, because if an agent's goal is blocked by an inactive agent who had the same goal and has already reached it, the agent may be forced to meander or stay outside its goal position for an extended period of time, possibly obstructing other agents and, in the process, possibly ignoring and colliding with inactive lower priority agents whose goals were not blocked.
+
+However, **_I regard this issue as an issue in goal-assignment_**, since this issue can be avoided by improving goal-assignment, e.g. reassigning goals upon getting notified that the previously set goals are blocked, or establishing a reservation mechanism for goals such that no agent is assigned to a goal that has been reserved/blocked by another agent. Nonetheless, even with improvements in goal-assignment, there could be unexpected conflicts (at least, I have no reason to think they would be completely avoided), which means dynamic collision avoidance is still a valuable future step.
+
+In any case, even with improved goal-assignment, the abstract paths of other agents do not account for agents that reached sooner in a cooperative context; accounting for these could change the ideal agent prioritisation. To deal with this, we have 2 options: (1) check and order the path sizes of each agent after a higher priority agent is managed (this involves $n!$ (n factorial) pathfinding checks, where n is the number of agents), or (2) as mentioned previously, add logic that handles conflicts in an ad hoc manner. Option (1) is computationally intensive (to a potentially impractical extent), and option (2) relies on mechanisms apart from multi-agent path planning, and thus, does not leverage the efficiency of planning to avoid potential conflicts.
+
+To address the key issue efficiently and effectively using path planning mechanisms, I propose the use of dynamic window sizes. The core motivation for dynamic window sizes is to be able to (1) adjust cooperative planning windows for all agents such that stationary positions of agents that have a lower priority in the current planning iteration are not ignored by other agents, and (2) reprioritise agents for the next planning iteration such that stationary agents or agents that are expected to reach their goals sooner are prioritised. This approach removes the need to separately recalculate abstract distances for reprioritisation, and it also ensures stationary agents are not ignored by agents that currently have a higher priority.
+
+## Possible approaches
+1.<br>
+Run CA\* steps with 1 CA\* step per agent per iteration.
+
+_Opportunities_...
+
+- Apply a reduced window size for all agents at once
+- Avoid wasting cooperative planning steps where unnecessary
+
+_Issues_...
+
+- Frontiers and visited nodes must be saved at once for all agents
+- Unnecessarily complex logic, if multithreading is implemented
+
+2.<br>
+Hierarchical windowing., i.e. organise agents as follows:
+
+- Agent 1 with least abstract distance to the goal
+- Agent 2 with least distance to the goal considering agent 1
+- Agent 3 with least distance to the goal considering agents 1, 2
+- etc.
+
+Window length for agent 2 is abstract distance of agent 1, window length of agent 3 is path distance of agent 2, etc. This is essentially the approach of performing n! pathfinding calls (where n is the number of agents), which is highly inefficient computationally.
+
+3.<br>
+Perform WCA\* as usual, but upon encountering an agent whose path length is less than the window size, reduce to the window size to its path length, truncate the cooperative paths of previous agents according to the new window size, and continue for the subsequent agents with the reduced window size.
+
+This approach adds minimal complexity to the existing WCA\* implementation while ensuring lower-priority stationary agents are not ignored by higher priority agents. There is potential for wasted cooperative path planning, but a lot of computation is saved since pre-calculation of path lengths to sort the agents is avoided. The amount of recalculation of cooperative paths may vary across planning iterations, but it can be expected to be roughly as computationally intensive as the current WCA\* implementation, especially for longer paths (wherein window size reduction would be less frequent).
+
+To ensure we are not operating with a permanently reduced window size (which can lead to excessive pathfinding operations), we can reset the window size for the next planning iteration. In this case, the amount of recalculation is minimised if we reprioritise agents in the next planning iteration such that agents who are stationary or who have just reached their goals in the current planning iteration are prioritised over agents who have not yet reached their goals and will still be moving in the next iteration.
+
+**NOTE**: _We could optimise the resetting of the window size for the next planning iteration by setting it as the size of the smallest path length among the agents who have not yet reached their goals._
+
+---
+
+Based on the above, the 3rd approach is preferred. Benefits:
+
+- Prioritises reservation of stationary agent positions <br> _Prevents unintended collisions_
+- Does not involve excessive pre-calculation of paths <br> _As is done in shortest-abstract-path-first prioritisation approach_
+- Window size is/can be non-arbitrary (apart from initial size) <br> _Dynamically optimises to minimise unintended collisions_
+- Wait times can be introduced without adjusting to fixed windows <br> _We can set the initial window size as the shortest wait time_
 
 # Practical testing
 - [`autonomousNavigation`/`implementation`/`path_planning`, owned by `pranigopu`, GitHub](https://github.com/pranigopu/autonomousNavigation/tree/main/implementation/path_planning) <br> *Directory containing practical implementations*
