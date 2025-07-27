@@ -960,7 +960,7 @@ A member's public encryption key must be such that a message encrypted using thi
 ## Rivest-Shamir-Adleman algorithm
 RSA is a public key cryptosystem that is widely used today to ensure secure digital communications. The basic idea behind it is as follows...
 
-Let $m$ be a given positive integer, and let $e$, $d$ and $n$ (where $n>m$) be large positive integers that satisfy the congruence $(m^e)^d \equiv m \pmod n$ (i.e. the remainder of $(m^e)^d/n$ is the same as the remainder of $m/n$). If  $e$ and $n$ are large numbers, it can be extremely difficult to deduce  $d$for a given  $m$, even if $e$, $m$ and $n$ are known. This is the basis of RSA algorithm. In this algorithm, we have
+Let $m$ be a given positive integer, and let $e$, $d$ and $n$ (where $n>m$) be large positive integers that satisfy the congruence $(m^e)^d \equiv m \pmod n$ (i.e. the remainder of $(m^e)^d/n$ is the same as the remainder of $m/n$). If  $e$ and $n$ are large numbers, it can be extremely difficult to deduce  $d$ for a given  $m$, even if $e$, $m$ and $n$ are known. This is the basis of RSA algorithm. In this algorithm, we have
 
 
 - $p$ and $q$ are two distinct large primes (which are kept secret)

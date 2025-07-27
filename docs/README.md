@@ -60,5 +60,5 @@ Collection of my work in:
 - [Gamification: *Non-Game Applications of Video Game Concepts*](https://pranigopu.github.io/gamification.html)
 
 ## Mathematics
-- [Applications of Number Theory](https://pranigopu.github.io/applications-of-number-theory/main.html)
+- [Applications of Number Theory](https://pranigopu.github.io/applications-of-number-theory/)
 - [Linear vs. Nonlinear Phenomena](https://pranigopu.github.io/linear-vs-nonlinear-phenomena.html)
