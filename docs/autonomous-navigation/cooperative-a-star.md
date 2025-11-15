@@ -398,4 +398,4 @@ Based on the above, the 3rd approach is preferred. Benefits:
 - Wait times can be introduced without adjusting to fixed windows <br> _We can set the initial window size as the shortest wait time_
 
 # Practical testing
-- [`autonomousNavigation`/`implementation`/`path_planning`, owned by `pranigopu`, GitHub](https://github.com/pranigopu/autonomousNavigation/tree/main/implementation/path_planning) <br> *Directory containing practical implementations*
+- [`autonomousNavigation`/`path_planning`, owned by `pranigopu`, GitHub](https://github.com/pranigopu/autonomousNavigation/tree/main/path_planning) <br> *Directory containing practical implementations*
