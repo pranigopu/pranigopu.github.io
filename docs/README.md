@@ -57,7 +57,7 @@ Collection of my work in:
 - [`pranigopu`/`ros2-nav2-foundations` (GitHub)](https://github.com/pranigopu/ros2-nav2-foundations)
 
 ## Computer Science
-- [Can Computers Think?](https://pranigopu.github.io/can-computers-think.html)'
+- [Can Computers Think?](https://pranigopu.github.io/can-computers-think.html)
 - [Gamification: *Non-Game Applications of Video Game Concepts*](https://pranigopu.github.io/gamification.html)
 
 ## Mathematics
