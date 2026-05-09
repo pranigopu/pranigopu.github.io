@@ -7,6 +7,8 @@
   </script>
 </head>
 
+[<< **Home Page**](https://pranigopu.github.io)
+
 <h1>Linear Versus Nonlinear Phenomena</h1>
 
 **_Their relationship, and algorithmic approaches_**

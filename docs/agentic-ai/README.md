@@ -1,3 +1,5 @@
+[<< **Home Page**](https://pranigopu.github.io)
+
 <h1>Agentic AI</h1>
 
 ---
@@ -12,4 +14,4 @@ This potential seems immense in theory, but what are the implications of this po
 
 ---
 
-1. [Conceptual Foundations](https://pranigopu.github.io/agentic-ai/1-conceptual-foundation.html)
+1. [Conceptual Foundations](https://pranigopu.github.io/agentic-ai/conceptual-foundation.html)

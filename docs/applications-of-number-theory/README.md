@@ -7,6 +7,8 @@
   </script>
 </head>
 
+[<< **Home Page**](https://pranigopu.github.io)
+
 <h1>Applications of Number Theory</h1>
 
 ---

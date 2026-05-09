@@ -28,10 +28,10 @@ Collection of my work in:
 
 # Links
 - [`pranigopu` (GitHub)](https://github.com/pranigopu) (projects)
-- [`pranav-gopalkrishna` (LinkedIn)](https://www.linkedin.com/in/pranav-gopalkrishna)
+- [`@pranigopu` (YouTube)](https://www.youtube.com/@pranigopu)
 - [Personal Writing Collection (WordPress)](https://pranigopu.wordpress.com/)
-- [`@PraniGopu` (YouTube)](https://www.youtube.com/@PraniGopu)
 - [`pranav-gopalkrishna` (GitHub)](https://github.com/pranav-gopalkrishna) (personal)
+- [`pranav-gopalkrishna` (LinkedIn)](https://www.linkedin.com/in/pranav-gopalkrishna)
 
 ---
 

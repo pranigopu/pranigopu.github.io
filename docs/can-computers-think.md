@@ -1,3 +1,5 @@
+[<< **Home Page**](https://pranigopu.github.io)
+
 <h1>Can Computers Think?</h1>
 
 ---
