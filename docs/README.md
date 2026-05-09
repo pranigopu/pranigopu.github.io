@@ -14,6 +14,7 @@
   - [Autonomous Navigation](#autonomous-navigation)
   - [Computer Science](#computer-science)
   - [Mathematics](#mathematics)
+  - [Agentic AI](#agentic-ai)
 
 ---
 
@@ -62,3 +63,6 @@ Collection of my work in:
 ## Mathematics
 - [Applications of Number Theory](https://pranigopu.github.io/applications-of-number-theory/)
 - [Linear vs. Nonlinear Phenomena](https://pranigopu.github.io/linear-vs-nonlinear-phenomena.html)
+
+## Agentic AI
+- [Agentic AI](https://pranigopu.github.io/agentic-ai)
