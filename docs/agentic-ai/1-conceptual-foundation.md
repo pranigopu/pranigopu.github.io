@@ -7,7 +7,7 @@
 **Context**:
 
 - ["About" section for **Agentic AI**](https://pranigopu.github.io/agentic-ai)
-- [Abbreviation Reference](https://pranigopu.github.io/abbreviation-reference.html)
+- [Abbreviation Reference](https://pranigopu.github.io/agentic-ai/abbreviation-reference.html)
 
 ---
 
