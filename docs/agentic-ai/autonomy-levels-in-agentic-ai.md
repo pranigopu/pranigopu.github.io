@@ -27,13 +27,13 @@
   - [L3 - User as Consultant](#l3---user-as-consultant)
   - [L4 - User as Approver](#l4---user-as-approver)
   - [L5 - User as Observer](#l5---user-as-observer)
-- [4. Levels Described by Problem-Space Parameters](#4-levels-described-by-problem-space-parameters)
+- [4. Levels Described by Problem Space Parameters](#4-levels-described-by-problem-space-parameters)
   - [L1 - User as Operator](#l1---user-as-operator-1)
   - [L2 - User as Collaborator](#l2---user-as-collaborator-1)
   - [L3 - User as Consultant](#l3---user-as-consultant-1)
   - [L4 - User as Approver](#l4---user-as-approver-1)
   - [L5 - User as Observer](#l5---user-as-observer-1)
-- [5. Interpretability and Accountability Considerations by Level](#5-interpretability-and-accountability-considerations-by-level)
+- [5. Interpretability/Accountability Considerations by Level](#5-interpretabilityaccountability-considerations-by-level)
   - [Framing](#framing)
   - [L1 - User as Operator](#l1---user-as-operator-2)
   - [L2 - User as Collaborator](#l2---user-as-collaborator-2)
@@ -127,13 +127,15 @@ Each workflow below describes the interaction pattern between...
 ## L1 - User as Operator
 
 ```
-H: Defines goal and breaks it into subtasks (long-term planning owned by human)
+H: Defines goal and breaks it into subtasks
+|  NOTE: (long-term planning owned by human)
 │
 ├─► H: Begins executing subtask 1
 │       A: Observes context passively
 │       A: Proactively suggests assistance (but does NOT act)
 │       H: Accepts or ignores suggestion
-│       H: Explicitly invokes A for specific support (e.g. summarise, search)
+│       H: Explicitly invokes A for specific support
+|          (e.g. summarise, search)
 │       A: Executes requested support action
 │       A: Returns output to H
 │       H: Reviews output, continues task
@@ -153,7 +155,8 @@ H: Defines goal and breaks it into subtasks (long-term planning owned by human)
 H: Submits goal to agent
 │
 A: Drafts initial plan of action
-H: Reviews, edits, and approves plan (may modify steps, reassign tasks)
+H: Reviews, edits, and approves plan
+|  (may modify steps, reassign tasks)
 H + A: Negotiate task delegation (who does what)
 │
 ├─► H: Executes H-assigned subtasks independently
@@ -172,7 +175,7 @@ H: Reviews and may modify A's contributions
     H: Retains override and takeover capability throughout
 ```
 
-**Key dynamic**: True parallelism. Both agents (human and AI) are executing concurrently. Communication is frequent and bidirectional. The human retains the ability to take over at any point, which means the workflow is always recoverable.
+**Key dynamic**: *True parallelism. Both agents (human and AI) are executing concurrently. Communication is frequent and bidirectional. The human retains the ability to take over at any point, which means the workflow is always recoverable.*
 
 ## L3 - User as Consultant
 
@@ -185,7 +188,8 @@ A: Revises plan based on H feedback, confirms changes
 │
 A: Begins autonomous execution of plan
     │
-    ├─► A: Reaches a decision point requiring user expertise or preference
+    ├─► A: Reaches a decision point requiring user
+    |      (i.e. user expertise or preference)
     │       A: Consults H (proactively, at chosen timing)
     │       H: Provides directional input or expert knowledge
     │       A: Incorporates feedback, continues
@@ -198,7 +202,8 @@ A: Begins autonomous execution of plan
     │       H: Pauses agent, requests changes
     │       A: Revises prior work if needed, resumes
     │
-    └─► A: Reaches blocker (missing credentials, unresolvable failure)
+    └─► A: Reaches blocker
+           (e.g. missing credentials, unresolvable failure)
             A: Requests H input for that specific blocker
             H: Resolves blocker
             A: Continues
@@ -207,7 +212,7 @@ A: Produces final output
 H: Reviews completed output
 ```
 
-**Key dynamic**: The agent owns the execution thread. Human involvement is consultative and asynchronous, not concurrent. The human cannot directly edit or control the agent's process - influence is exercised through feedback and comments relayed *to* the agent.
+**Key dynamic**: *The agent owns the execution thread. Human involvement is consultative and asynchronous, not concurrent. The human cannot directly edit or control the agent's process or outputs - influence is exercised through feedback and comments relayed to the agent.*
 
 ## L4 - User as Approver
 
@@ -215,7 +220,7 @@ H: Reviews completed output
 H: Submits goal; optionally pre-specifies which action types require approval
 │
 A: Drafts plan of action
-    [Plan displayed to H for transparency only - not for feedback]
+|  (displayed to H for transparency only, not for feedback)
 │
 A: Executes plan autonomously
     │
@@ -224,14 +229,17 @@ A: Executes plan autonomously
     │       H: Provides credential or instructs agent to skip
     │       A: Continues
     │
-    ├─► A: Reaches consequential action (pre-flagged by H or detected by A)
+    ├─► A: Reaches consequential action
+    |      (pre-flagged by H or detected by A)
     │       A: Presents proposed action + rationale to H
     │       H: Approves or rejects
     │       A: Executes or selects alternative based on response
     │
     ├─► A: Reaches unresolvable failure state
     │       A: Notifies H, requests resolution
-    │       H: Provides resolution or instructs agent to modify approach
+    │       H: Does one of the following:
+    |          - Provides resolution
+    |          - Instructs agent to modify approach
     │       A: Continues
     │
     └─► A: Prepares final output, presents for confirmation
@@ -241,7 +249,7 @@ A: Executes plan autonomously
 H: Receives completed output
 ```
 
-**Key dynamic**: The agent drives all decision-making except at structural blockers. The human's role is confirmatory and reactive. Approval interactions are infrequent, pre-defined in scope, and initiated by the agent - not the human.
+**Key dynamic**: *The agent drives all decision-making except at structural blockers. The human's role is confirmatory and reactive. Approval interactions are infrequent, pre-defined in scope and initiated by the agent, not the human.*
 
 ## L5 - User as Observer
 
@@ -251,16 +259,17 @@ H: Submits initial goal
 A: Drafts plan of action autonomously
 A: Begins execution
     │
-    ├─► A: Encounters obstacles → iterates on solutions independently
+    ├─► A: Encounters obstacles
+    |      ─► Iterates on solutions independently
     ├─► A: Dynamically revises plan based on findings
     ├─► A: Makes all data source, tool, and analysis decisions autonomously
     ├─► A: Populates running document with findings
     └─► A: Polishes and formats final output independently
 │
-H: Monitors activity log [read-only, no input mechanism]
+H: Monitors activity log (read-only, no input mechanism)
 │
 [Emergency condition detected by H]
-└─► H: Triggers emergency stop [only available intervention]
+└─► H: Triggers emergency stop (only available intervention)
     A: Halts all activity
 │
 [Normal completion]
@@ -268,167 +277,279 @@ A: Delivers final output to H
 H: Reviews output
 ```
 
-**Key dynamic**: The human is structurally outside the execution loop. Their only real-time capability is observation and emergency termination. All task intelligence, error handling, and decision-making belongs to the agent. The human's involvement is pre-task (goal submission) and post-task (output review), with no in-task influence pathway except the kill switch.
+**Key dynamic**: *The human is structurally outside the execution loop. Their only real-time capability is observation and emergency termination. All task intelligence, error handling, and decision-making belongs to the agent. The human's involvement is pre-task (goal submission) and post-task (output review), with no in-task influence pathway except the kill switch.*
 
-# 4. Levels Described by Problem-Space Parameters
+# 4. Levels Described by Problem Space Parameters
+> **Major context provided here**: ["Problem Spaces Agentic AI Can Handle" (*Conceptual Foundations*)](https://pranigopu.github.io/agentic-ai/conceptual-foundation.html#problem-spaces-agentic-ai-can-handle)
 
-The three problem-space parameters - **Goal-Driven Planning (GDP)**, **Integration with Diverse Tools (IDT)**, and **Autonomous Execution Loops (AEL)** - describe the kind and depth of complexity an agentic system can handle. Below, each level is characterised with respect to all three.
+---
+
+The 3 problem-space parameters...
+
+1. **Goal-Driven Planning**
+2. **Integration with Diverse Tools**
+3. **Autonomous Execution Loops**
+
+... describe the type and depth of complexity an AI agent can handle.
+
+*Below, each level is characterised with respect to all three.*
 
 ## L1 - User as Operator
+**Goal-Driven Planning**:
 
-**Goal-Driven Planning**
 The agent does not engage in goal-driven planning at the workflow level. Goal decomposition into subtasks is the exclusive responsibility of the human. The agent may engage in very short-horizon, reactive micro-planning (e.g. determining how to answer a user's request for a summary), but this is incidental rather than structural. The agent lacks the planning authority to treat a high-level goal as its own and reason toward it independently.
 
-**Integration with Diverse Tools**
+**Integration with Diverse Tools**:
+
 Tool use at L1 is reactive and human-directed. The agent uses tools (web search, code autocompletion, document summarisation) only when explicitly invoked by the user. The *diversity* of tool use is bounded by what the user chooses to summon. The agent is capable of tool use but does not independently select which tools to use or in what sequence, except within a single invocation.
 
-**Autonomous Execution Loops**
+**Autonomous Execution Loops**:
+
 L1 does not instantiate an autonomous execution loop in any meaningful sense. The observe-orient-decide-act cycle is broken at the "act" stage without human approval. The agent observes (context-awareness), may orient (suggest), but does not decide or act autonomously. There is no self-sustaining loop: each cycle requires a human to close it.
 
 ## L2 - User as Collaborator
+**Goal-Driven Planning**:
 
-**Goal-Driven Planning**
 L2 introduces shared goal-driven planning. The agent can draft a plan toward a high-level goal, decompose it into ordered subtasks, and reason about task assignment. Critically, the agent's plan is subject to human revision before execution - the human retains veto authority over the plan structure. Within its assigned subtasks, the agent engages in local goal-driven planning autonomously.
 
-**Integration with Diverse Tools**
+**Integration with Diverse Tools**:
+
 Tool integration at L2 is agent-directed within the scope of assigned subtasks. The agent independently selects and sequences tools to accomplish its delegated tasks. Because tasks are divided between human and agent, the agent's tool use is bounded by its sub-scope, but within that scope, it can exercise genuine tool diversity. The overall system (human + agent) achieves the broadest tool integration of any level, since both parties contribute their own tool capabilities.
 
-**Autonomous Execution Loops**
+**Autonomous Execution Loops**:
+
 L2 instantiates *partial* autonomous execution loops. Within its assigned tasks, the agent cycles through the OODA/BDI loop without human involvement - observing results, adjusting approach, continuing toward sub-goals. However, the loop is porous: the human can interrupt at any time, and task handoffs break and restart the loop. The loop is autonomous within subtask scope, not across the full workflow.
 
 ## L3 - User as Consultant
 
-**Goal-Driven Planning**
+**Goal-Driven Planning**:
+
 L3 is the first level where the agent owns end-to-end goal-driven planning for the entire workflow. It decomposes the high-level goal, sequences subtasks, prioritises actions, and revises the plan dynamically as conditions change. Human input shapes the plan (via consultation and feedback) but does not co-author it in real time. The agent treats the human as an expert resource to query, rather than a co-planner.
 
-**Integration with Diverse Tools**
+**Integration with Diverse Tools**:
+
 The agent independently determines which tools to use, when, and in what sequence, across the full workflow. Tool decisions are made autonomously as the plan executes. The agent may surface tool-related decisions to the user only when they require credentials, preference-based choices, or involve unfamiliar trade-offs. Tool integration is broad and agent-driven.
 
-**Autonomous Execution Loops**
+**Autonomous Execution Loops**:
+
 L3 sustains a genuine autonomous execution loop across the full workflow. The OODA/BDI cycle runs continuously: the agent observes findings, re-orients its plan, decides next actions, and acts - looping until the goal is achieved or a consultation checkpoint is reached. Human consultation is *integrated into* the loop as a scheduled or triggered event, not as an external interruption of it. The loop is self-sustaining but not fully closed: human input is a designed input to the loop, not a breakdown of it.
 
 ## L4 - User as Approver
 
-**Goal-Driven Planning**
+**Goal-Driven Planning**:
+
 Goal-driven planning is fully agent-owned at L4. The agent not only plans the workflow but also makes all strategic decisions within it - which sources to trust, which data to use, how to frame conclusions - without seeking human input on those decisions. The plan is displayed to the user for transparency but is not a subject of human deliberation. Planning is autonomous, comprehensive, and proactive.
 
-**Integration with Diverse Tools**
+**Integration with Diverse Tools**:
+
 L4 agents exercise the broadest tool integration of the single-agent levels (excluding L5). They independently access web resources, scholarly databases, APIs, code execution environments, and analysis tools, resolving tool access issues (e.g. paywalls, missing API keys) by either requesting credentials or adapting the approach to avoid the tool. Tool selection and sequencing are entirely agent-driven.
 
-**Autonomous Execution Loops**
+**Autonomous Execution Loops**:
+
 L4 runs a robust and nearly closed autonomous execution loop. The agent observes, orients, decides, and acts across the full workflow with minimal external inputs. The loop is only broken when a structural blocker (credential, unresolvable failure, consequential action threshold) is reached - at which point the loop pauses briefly for human input, then resumes. The loop is self-correcting within its domain and adapts dynamically. Human interactions are edge cases in the loop, not structural components of it.
 
 ## L5 - User as Observer
 
-**Goal-Driven Planning**
+**Goal-Driven Planning**:
+
 Goal-driven planning at L5 is fully autonomous, dynamic, and self-correcting across the entire workflow and time horizon. The agent not only plans the initial decomposition but continuously re-plans as findings emerge, obstacles are encountered, and new information changes the landscape. No human input is incorporated into planning during execution. Planning is an ongoing internal process, not a discrete stage.
 
-**Integration with Diverse Tools**
+**Integration with Diverse Tools**:
+
 Tool integration is maximal and fully autonomous. The agent selects, sequences, and substitutes tools based on real-time conditions with no human involvement. When a tool is inaccessible, the agent finds alternatives or adapts its approach. The agent may use a wider diversity of tools in a single workflow than any lower-level agent, since no human task domain is reserved.
 
-**Autonomous Execution Loops**
+**Autonomous Execution Loops**:
+
 L5 instantiates a fully closed, self-sustaining autonomous execution loop. The OODA/BDI cycle runs without any designed human input pathway during execution. The agent observes its own outputs, orients to new information, decides next actions, and acts - continuously and recursively. Errors are not corrected by the human but must be caught and corrected by the agent's own internal error-handling. The loop terminates only at goal completion or emergency stop.
 
-# 5. Interpretability and Accountability Considerations by Level
+# 5. Interpretability/Accountability Considerations by Level
 
 ## Framing
+> **Major context provided here**: ["TERMINOLOGICAL NOTE: "Interpretability" vs. "Accountability"" (*Interpretability*)](https://pranigopu.github.io/agentic-ai/interpretability.html#terminological-note-interpretability-vs-accountability)
 
-Interpretability refers to the capacity to understand *why* an agentic system made a decision or took an action. Accountability refers to the capacity to assign responsibility for outcomes and to audit, reconstruct, and (where necessary) remediate those outcomes. The two are related but distinct: a system can be interpretable without being accountable (if no one acts on the interpretation), and nominally accountable without being interpretable (if accountability is assigned by default rather than by understood causation).
+Interpretability refers to the capacity to understand *why* an agentic system made a decision or took an action. Accountability refers to the capacity to provide reasoning/explanations for outcomes and/or to audit, reconstruct and (where necessary) remediate those outcomes. The two are related but distinct: a system can be interpretable without being accountable (if no one interprets the available information or acts on the interpretation), and nominally accountable without being interpretable (if accountability (especially the action-related part of it) is assigned by default rather than by understood causation).
 
-As autonomy increases from L1 to L5, the demand for interpretability and accountability increases, because:
-1. More decisions are made by the agent rather than the human, so more decisions require external interpretation.
-2. The causal chain from user input to final output grows longer and less visible.
-3. The consequences of errors compound without human correction.
-4. Legal and ethical responsibility becomes harder to assign.
+Demand for interpretability/accountability increases with the level of autonomy, as (1) more decisions are made by the agent rather than the human, so more decisions require external interpretation, (2) the causal chain from user input to final output grows longer and less visible, (3) he consequences of errors compound without human correction, and (4) legal and ethical responsibility becomes harder to assign.
 
 ## L1 - User as Operator
-
-**Problem-statement considerations**
+**Problem statement considerations**:
 
 At L1, accountability is primarily human. The agent's actions are invoked and sanctioned by the user; any output is reviewed before use. Interpretability requirements are therefore relatively low for the agent itself, since the human is co-present at every step and can interrogate outputs immediately. Safety requirements are manageable: the agent's constrained action scope limits blast radius. Validation requirements focus on the accuracy of individual AI responses (summaries, search results, code completions) rather than on workflow-level correctness.
 
-**Required capacities for interpretability and accountability**
+---
 
-- **Output-level explainability**: The agent should be able to explain why it suggested a particular action or produced a particular output, in terms the user can verify against their own knowledge.
-- **Source attribution**: For any retrieved or synthesised information, the agent must cite provenance so the user can independently validate it.
-- **Suggestion audit trail**: Even at L1, a record of what the agent suggested (even if declined by the user) is valuable for understanding the agent's behaviour over time.
-- **Human review as the primary accountability mechanism**: The human's continuous presence is itself the main accountability safeguard. The agent need not have elaborate self-reporting mechanisms because the human validates at each step.
+**Required capacities for interpretability/accountability**:
+
+<details><summary><b>Output-level explainability</b></summary>
+The agent should be able to explain why it suggested a particular action or produced a particular output, in terms the user can verify against their own knowledge.
+</details>
+
+<details><summary><b>Source attribution</b></summary>
+For any retrieved or synthesised information, the agent must cite provenance so the user can independently validate it.
+</details>
+
+<details><summary><b>Suggestion audit trail</b></summary>
+Even at L1, a record of what the agent suggested (even if declined by the user) is valuable for understanding the agent's behaviour over time.
+</details>
+
+<details><summary><b>Human review as the primary accountability mechanism</b></summary>
+The human's continuous presence is itself the main accountability safeguard. The agent need not have elaborate self-reporting mechanisms because the human validates at each step.
+</details>
 
 ## L2 - User as Collaborator
 
-**Problem-statement considerations**
+**Problem-statement considerations**:
 
 L2 introduces concurrent human-agent execution, which complicates accountability. When both parties contribute to a shared output, it may not always be clear which contributions came from the agent and which from the human, especially when the human modifies agent outputs. Validation requirements must therefore address the traceability of contributions. Safety requirements at L2 are moderate: the human can intervene at any point, but the agent may execute consequential sub-tasks before the human reviews them.
 
-**Required capacities for interpretability and accountability**
+---
 
-- **Contribution traceability**: Shared documents or workspaces must track which content was generated by the agent versus the human, and must preserve a history of modifications.
-- **Decision rationale at delegation points**: When the agent makes delegation-related decisions (e.g. determining that a task is within its capability), it should be able to articulate the basis for that decision.
-- **Blocker and handoff logs**: Every blocker the agent encounters and every task handoff (in either direction) should be logged with timestamp, reason, and resolution.
-- **Progress transparency**: The agent's ongoing activity should be visible to the human in real time, sufficient for the human to make informed takeover decisions.
-- **Joint accountability model**: Because both human and agent co-produce outputs, accountability frameworks must be designed to handle shared causation - for example, distinguishing agent-generated errors from human-introduced errors in post-hoc review.
+**Required capacities for interpretability/accountability**:
+
+<details><summary><b>Contribution traceability</b></summary>
+Shared documents or workspaces must track which content was generated by the agent versus the human, and must preserve a history of modifications.
+</details>
+
+<details><summary><b>Decision rationale at delegation points</b></summary>
+When the agent makes delegation-related decisions (e.g. determining that a task is within its capability), it should be able to articulate the basis for that decision.
+</details>
+
+<details><summary><b>Blocker and handoff logs</b></summary>
+Every blocker the agent encounters and every task handoff (in either direction) should be logged with timestamp, reason, and resolution.
+</details>
+
+<details><summary><b>Progress transparency</b></summary>
+The agent's ongoing activity should be visible to the human in real time, sufficient for the human to make informed takeover decisions.
+</details>
+
+<details><summary><b>Joint accountability model</b></summary>
+Because both human and agent co-produce outputs, accountability frameworks must be designed to handle shared causation — for example, distinguishing agent-generated errors from human-introduced errors in post-hoc review.
+</details>
 
 ## L3 - User as Consultant
 
-**Problem-statement considerations**
+**Problem-statement considerations**:
 
 At L3, the agent owns the execution thread, and the human's influence is indirect. This significantly increases interpretability demands: the human must be able to understand the agent's decisions without having made them. Validation requirements are more complex, since the human cannot directly audit each step in real time and must rely on the agent's own reporting. Accountability becomes more agent-facing: errors that occur between consultation checkpoints are not easily attributable to human decisions.
 
 For high-stakes domains (legal, medical, financial), L3 requires rigorous documentation of the agent's reasoning at each consultation checkpoint, because these are the moments at which the human *could* have intervened and therefore the moments that are legally and ethically significant.
 
-**Required capacities for interpretability and accountability**
+---
 
-- **Plan-level reasoning logs**: The agent must document not just what it planned, but why it structured the plan as it did - including what alternatives were considered and rejected.
-- **Consultation rationale**: Each time the agent consults the user, it must be able to articulate why it chose to consult at that moment, what it was uncertain about, and how the user's input was subsequently incorporated.
-- **Step-by-step execution records**: Every significant action taken during autonomous execution should be logged with sufficient detail for post-hoc reconstruction of the decision chain.
-- **Discrepancy flagging**: The agent should identify and flag cases where its execution diverged from the approved plan, along with the reason for divergence.
-- **Feedback integration audit**: When the user provides input or requests changes, the agent must log how that input was interpreted and acted upon - including whether it triggered downstream changes.
-- **Accountability demarcation**: At each consultation point, the record should make clear what information was available to the human and what decision or non-decision the human made - establishing a clear accountability boundary.
+**Required capacities for interpretability/accountability**:
+
+<details><summary><b>Plan-level reasoning logs</b></summary>
+The agent must document not just what it planned, but why it structured the plan as it did — including what alternatives were considered and rejected.
+</details>
+
+<details><summary><b>Consultation rationale</b></summary>
+Each time the agent consults the user, it must be able to articulate why it chose to consult at that moment, what it was uncertain about, and how the user's input was subsequently incorporated.
+</details>
+
+<details><summary><b>Step-by-step execution records</b></summary>
+Every significant action taken during autonomous execution should be logged with sufficient detail for post-hoc reconstruction of the decision chain.
+</details>
+
+<details><summary><b>Discrepancy flagging</b></summary>
+The agent should identify and flag cases where its execution diverged from the approved plan, along with the reason for divergence.
+</details>
+
+<details><summary><b>Feedback integration audit</b></summary>
+When the user provides input or requests changes, the agent must log how that input was interpreted and acted upon — including whether it triggered downstream changes.
+</details>
+
+<details><summary><b>Accountability demarcation</b></summary>
+At each consultation point, the record should make clear what information was available to the human and what decision or non-decision the human made — establishing a clear accountability boundary.
+</details>
 
 ## L4 - User as Approver
 
-**Problem-statement considerations**
+**Problem-statement considerations**:
 
 L4 substantially increases accountability risk. The human's engagement is minimal and reactive; there is a real risk of rubber-stamping (approving actions without genuine understanding), which can undermine accountability even when formal approval is obtained. Safety requirements are therefore high, particularly for consequential-action detection: the agent must reliably identify which of its decisions cross a threshold requiring human approval, and the human must have enough context at approval time to make a genuine decision rather than a reflexive one.
 
-Security requirements are also elevated: the agent handles credentials and sensitive access, creating attack surfaces that must be designed against. Interpretability must be sufficient to support *meaningful* approval - an approver who cannot understand what they are approving cannot be held genuinely accountable.
+Security requirements are also elevated: the agent handles credentials and sensitive access, creating attack surfaces that must be designed against. Interpretability must be sufficient to support *meaningful* approval — an approver who cannot understand what they are approving cannot be held genuinely accountable.
 
-**Required capacities for interpretability and accountability**
+---
 
-- **Pre-approval decision briefs**: Before requesting approval for a consequential action, the agent must provide a concise, human-readable summary of what the action is, why it is being taken, what alternatives exist, and what the risk/consequence profile is.
-- **Consequential action classification log**: The agent must maintain a log of every action it classified as consequential (sought approval) or non-consequential (executed autonomously), enabling post-hoc audit of whether the classification was appropriate.
-- **Approval interaction records**: Every approval interaction must be logged: what was proposed, what context was provided to the approver, and what the approver decided - creating a verifiable accountability trail.
-- **Credential handling audit trail**: All credential use must be logged with scope, purpose, and duration, and access must be revocable by the user at any time.
-- **Engagement quality monitoring**: Mechanisms to detect and flag low-engagement approval patterns (e.g. approval granted in under 2 seconds consistently) that may indicate rubber-stamping rather than genuine review.
-- **Misalignment detection hooks**: Logging and anomaly detection systems capable of identifying patterns suggestive of an agent exploiting user disengagement (e.g. progressively expanding the scope of self-authorised actions over time).
+**Required capacities for interpretability/accountability**:
+
+<details><summary><b>Pre-approval decision briefs</b></summary>
+Before requesting approval for a consequential action, the agent must provide a concise, human-readable summary of what the action is, why it is being taken, what alternatives exist, and what the risk/consequence profile is.
+</details>
+
+<details><summary><b>Consequential action classification log</b></summary>
+The agent must maintain a log of every action it classified as consequential (sought approval) or non-consequential (executed autonomously), enabling post-hoc audit of whether the classification was appropriate.
+</details>
+
+<details><summary><b>Approval interaction records</b></summary>
+Every approval interaction must be logged: what was proposed, what context was provided to the approver, and what the approver decided — creating a verifiable accountability trail.
+</details>
+
+<details><summary><b>Credential handling audit trail</b></summary>
+All credential use must be logged with scope, purpose, and duration, and access must be revocable by the user at any time.
+</details>
+
+<details><summary><b>Engagement quality monitoring</b></summary>
+Mechanisms to detect and flag low-engagement approval patterns (e.g. approval granted in under 2 seconds consistently) that may indicate rubber-stamping rather than genuine review.
+</details>
+
+<details><summary><b>Misalignment detection hooks</b></summary>
+Logging and anomaly detection systems capable of identifying patterns suggestive of an agent exploiting user disengagement (e.g. progressively expanding the scope of self-authorised actions over time).
+</details>
 
 ## L5 - User as Observer
 
-**Problem-statement considerations**
+**Problem-statement considerations**:
 
 L5 places the highest possible demands on interpretability and accountability, because the human has no in-task corrective capability. Every decision the agent makes must be interpretable after the fact, since it cannot be reviewed before it is acted upon. Accountability is almost entirely agent-facing; the human's role is limited to post-hoc review and the emergency stop.
 
 L5 should only be deployed where:
-1. The problem space is well-defined enough that failure modes are predictable and bounded.
-2. The environment is closed or sandboxed enough to contain the consequences of errors.
-3. Monitoring infrastructure is sophisticated enough to detect anomalous agent behaviour before errors compound irreversibly.
-4. Post-hoc audit is legally and ethically sufficient for the domain (i.e. real-time human oversight is not a regulatory requirement).
+
+1. The problem space is well-defined enough <br> ... *such that failure modes are predictable and bounded*
+2. The environment is closed or sandboxed enough <br> ... *to contain the consequences of errors*
+3. Monitoring infrastructure is sophisticated enough <br> ... *to catch anomalous behaviour before errors compound irreversibly*
+4. Post-hoc audit is legally and ethically sufficient <br> ... *i.e. real-time human oversight is not a regulatory requirement*
 
 Validation requirements at L5 must be satisfied primarily through pre-deployment testing and formal verification of agent behaviour within the intended problem scope, rather than through runtime human review.
 
-**Required capacities for interpretability and accountability**
+---
 
-- **Full execution audit logs**: Every action, decision, tool use, plan revision, and self-correction must be logged in sufficient detail to allow complete post-hoc reconstruction of the agent's reasoning and behaviour.
-- **Decision provenance chains**: For every significant output or decision, the agent must be able to trace back through the chain of prior observations, orientations, and decisions that led to it - enabling root cause analysis of errors.
-- **Anomaly detection systems**: Real-time monitoring systems (independent of the agent itself) must be capable of detecting deviating agent behaviour - unusual tool use patterns, unexpected plan deviations, resource consumption anomalies - and surfacing these to the human observer.
-- **Emergency stop design**: The stop mechanism must be designed with care: it must be clearly accessible, unambiguous in effect, and must preserve the agent's state at the point of termination in a form that allows investigation of what had occurred up to that point.
-- **Pre-deployment formal validation**: Given the absence of in-task human correction, L5 agents must be validated exhaustively prior to deployment - including red-teaming, adversarial testing, and failure mode analysis - within the intended problem scope.
-- **Sandboxing and consequence containment**: The execution environment must be designed to prevent unintended external consequences, and this containment must itself be auditable.
-- **Accountability by design**: Because no human made in-task decisions, the accountability framework must be established contractually and legally *before* deployment: who is responsible for which categories of agent error, and under what conditions.
+**Required capacities for interpretability/accountability**:
+
+<details><summary><b>Full execution audit logs</b></summary>
+Every action, decision, tool use, plan revision, and self-correction must be logged in sufficient detail to allow complete post-hoc reconstruction of the agent's reasoning and behaviour.
+</details>
+
+<details><summary><b>Decision provenance chains</b></summary>
+For every significant output or decision, the agent must be able to trace back through the chain of prior observations, orientations, and decisions that led to it — enabling root cause analysis of errors.
+</details>
+
+<details><summary><b>Anomaly detection systems</b></summary>
+Real-time monitoring systems (independent of the agent itself) must be capable of detecting deviating agent behaviour — unusual tool use patterns, unexpected plan deviations, resource consumption anomalies — and surfacing these to the human observer.
+</details>
+
+<details><summary><b>Emergency stop design</b></summary>
+The stop mechanism must be designed with care: it must be clearly accessible, unambiguous in effect, and must preserve the agent's state at the point of termination in a form that allows investigation of what had occurred up to that point.
+</details>
+
+<details><summary><b>Pre-deployment formal validation</b></summary>
+Given the absence of in-task human correction, L5 agents must be validated exhaustively prior to deployment — including red-teaming, adversarial testing, and failure mode analysis — within the intended problem scope.
+</details>
+
+<details><summary><b>Sandboxing and consequence containment</b></summary>
+The execution environment must be designed to prevent unintended external consequences, and this containment must itself be auditable.
+</details>
+
+<details><summary><b>Accountability by design</b></summary>
+Because no human made in-task decisions, the accountability framework must be established contractually and legally *before* deployment: who is responsible for which categories of agent error, and under what conditions.
+</details>
 
 # 6. Cross-Level Interpretability and Accountability: Principles
 
-Across all levels, the following principles hold with increasing urgency as autonomy increases:
+Across all levels, the following principles hold:
+
+**NOTE**: *The urgency of the following increases with autonomy.*
 
 | Principle | Description | Becomes Critical At |
 |-----------|-------------|-------------------|
