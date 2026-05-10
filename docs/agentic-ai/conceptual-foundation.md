@@ -13,7 +13,7 @@ Previous | Next
 **Contents**:
 
 - [Definition-Set 1: Philosophical Foundation](#definition-set-1-philosophical-foundation)
-  - [Autonomy and Freedom](#autonomy-and-freedom)
+  - [Autonomy, Agency and Freedom](#autonomy-agency-and-freedom)
   - [Agent](#agent)
   - [Intelligence](#intelligence)
   - [Artificial Intelligence (AI)](#artificial-intelligence-ai)
@@ -45,10 +45,16 @@ Previous | Next
 ---
 
 # Definition-Set 1: Philosophical Foundation
-## Autonomy and Freedom
+## Autonomy, Agency and Freedom
 Autonomy refers to the state of being independent and self-directed in one's action; independence within a given context implies that the mechanism for action is self-contained (i.e. one can act on one's own, within the given context), whereas self-directed within a given context implies that the motive for action, i.e. the goal/motivation, is self-contained (i.e. the goal is grasped and deliberately acted upon by oneself).
 
-Autonomy implies with the concept of "freedom", i.e. the freedom to act on one's own, toward one's goals, as per one's judgement. For this purpose, precisely understanding "freedom" as a technical term can aid in understanding the scope and potential of autonomy as a quality. To do this, I shall draw upon the article [*Freedom of the Will, Measured by Complexity*, **tomkins.org**](https://www.tomkins.org/free-will-and-complexity).
+Agency is a concept that is related to autonomy, but carries its own conceptual weight. Drawing from Feng et al (2025), agency is the capacity to formulate an intention for an action and carry out that action. Agency implies autonomy, since it involves the exercise of independent, self-directed action within a given context. However, agency more precisely refers to the exercising of powers/faculties autonomously.
+
+This means an autonomous entity, such as a strictly-programmed automation, can be highly independent and self-directed, hence autonomous, while being highly limited in its agency, since its motives and its ability to define and pursue further goals are limited entirely to its program. On the other hand, an autonomous entity that has a wider range of motives and the ability to define a wider range of goals may still lack agency if it lacks the actual ability to act on these motives and goals (e.g. due to the lack of tools or infrastructure to use these tools).
+
+Now, since agency presupposes autonomy and is essentially a measure of the scope of autonomous action, I regard agency as an aspect of autonomy. It is nonetheless an important aspect to highlight, since it gives us a clear way to conceptualise the practical differences between different types of autonomous entities. More specifically, what differentiates the autonomy of an AI agent (which shall be defined later in this document) from the autonomy of a programmed agent is agency. However, for simplicity in any further discussion, the idea of agency being an aspect of autonomy shall be implicit but not explicitly highlighted at every point.
+
+Autonomy - especially when considering the aspect of agency - involves the concept of "freedom", i.e. the freedom to act on one's own, toward one's goals, as per one's judgement. For this purpose, precisely understanding "freedom" as a technical term can aid in understanding the scope and potential of autonomy and agency as a quality. To do this, I shall draw upon the article [*Freedom of the Will, Measured by Complexity*, **tomkins.org**](https://www.tomkins.org/free-will-and-complexity).
 
 Quoting from this article: "By complexity we mean, after Gibbs, the number of independently variable states of a system." This is the the concept of "degrees of freedom", and this quote ties "degrees of freedom" in a system and the complexity of the system. Quoting again from the article: "The freedom of any feedback system is, consequently a conjoint function of its complexity and the complexity of its surround. The freedom of a feedback system, we argue, should be measured by the product of the complexity of its "aims" and the frequency of their attainment."
 
@@ -56,7 +62,7 @@ Here, note that "aims" refer to motives or "affect", which is a key part of a se
 
 Another aspect of the aforementioned quote is the frequency of the attainment of aims as a part of the measure of freedom. This is in fact crucial, since it grounds freedom not in theoretical potential but in actual, concrete power, i.e. effectiveness. Freedom requires actually achieving something with one's aims, which is ultimately the only measure of one's aims being feasible and not merely theoretical; this in turn is crucial in grounding freedom in actual capability rather than incoherent, floating abstractions of "potential" or "possibility".
 
-Applied to autonomy, this connection helps recognise that for any apparatus capable of action, reaction and interaction with its environment (which is a form of a feedback system), the "level of autonomy", i.e. the potential for the depth (i.e. intensity) and breadth (diversity) of impact of an apparatus as an independent causal force within a given context depends in part on the "freedom" inherent in this apparatus, which is tied to its complexity, in part on the complexity of its aims/motives, and in part on its demonstrated capacity to actually achieve its aims. A key quote that, to me, summarises the essence of autonomy is:
+Applied to autonomy, this connection helps recognise that for any apparatus capable of action, reaction and interaction with its environment (which is a form of a feedback system), the "level of autonomy", i.e. the potential for the depth (i.e. intensity) and breadth (diversity) of impact of an apparatus as an independent causal force within a given context depends in part on the "freedom" inherent in this apparatus, which is tied to its complexity, in part on the complexity of its aims/motives, and in part on its demonstrated capacity to actually achieve its aims. A key quote from Tomkins (No Date) that, to me, summarises the essence of autonomy is:
 
 ***Reason without affect would be impotent, affect without reason would be blind.***
 
@@ -66,7 +72,9 @@ Applied to autonomy, this connection helps recognise that for any apparatus capa
 > 
 > - [*autonomy*, **merriam-webster.com/dictionary**](https://www.merriam-webster.com/dictionary/autonomy)
 > - [*Autonomy – Definition and Explanation*, **oxford-review.com/the-oxford-review-dei-diversity-equity-and-inclusion-dictionary**](https://oxford-review.com/the-oxford-review-dei-diversity-equity-and-inclusion-dictionary/autonomy-definition-and-explanation/) <br> **NOTE**: *This is a political definition that I generalised from*
-> - [*Freedom of the Will, Measured by Complexity*, **tomkins.org**](https://www.tomkins.org/free-will-and-complexity)
+> - (Tomkins, No Date): [*Freedom of the Will, Measured by Complexity*, **tomkins.org**](https://www.tomkins.org/free-will-and-complexity)
+> - (Feng et al, 2025): [*Levels of Autonomy for AI Agents*, **knightcolumbia.org/content**](https://knightcolumbia.org/content/levels-of-autonomy-for-ai-agents-1)
+
 
 ## Agent
 An agent is any entity that exerts power autonomously.
@@ -249,7 +257,7 @@ TL;DR:
 | Term | Meaning |
 | --- | --- |
 | AI Agent | 1 or more AI models + tools acting as agent(s) |
-| Agentic AI | A way to indicate that a system is based on AI agent(s) |
+| Agentic AI | The general concept of a system is based on AI agent(s) |
 
 Hence, note that:
 
@@ -262,7 +270,7 @@ Hence, note that:
 The system decides when and how to act independently without constant human oversight. Even with a human in the loop, it is up to the system to identify what needs human feedback; this is an aspect of autonomous operation and decision-making. This is not a core part of agentic AI alone: autonomy is what makes an agent an agent, AI or otherwise. However, the implication of highlighting "autonomous operation" here is that autonomy occurs in a more complex problem-space; this aspect is expanded upon by the following points.
 
 ### Multi-Step Problem Solving
-The ability to take a high-level goal and autonomously work through multiple dependent steps - goal interpretation, planning, acting, checking results and adapting - until the goal is achieved or escalated. This relates to the complexity of mechanisms and motives discussed in [Autonomy and Freedom](#autonomy-and-freedom); mechanisms must be complex enough to pursue a goal that is complex enough to require interpretation and planning, and the complexity of the goal is what "complexity of motives" would refer to.
+The ability to take a high-level goal and autonomously work through multiple dependent steps - goal interpretation, planning, acting, checking results and adapting - until the goal is achieved or escalated. This relates to the complexity of mechanisms and motives discussed in [Autonomy, Agency and Freedom](#autonomy-agency-and-freedom); mechanisms must be complex enough to pursue a goal that is complex enough to require interpretation and planning, and the complexity of the goal is what "complexity of motives" would refer to.
 
 ### Adaptability
 Adaptability refers to the ability to change its behavior during task execution based on new information, outcomes or changing conditions while pursuing a goal instead of rigidly following a fixed script. Agentic AI adapts using reasoning, heuristics, rules and short-term memory. This aspect gives an agentic AI system a unique edge in handling complex and dynamic environments. This aspect also serves as the distinction with respect to intelligence that makes an agent an AI agent and distinguishes it from a procedural automation.
@@ -326,4 +334,4 @@ This is essentially an OODA loop (Observe, Orient, Decide, Act), or more precise
 > **Reference**:
 >
 > - [*OODA Loop*, **corporatefinanceinstitute.com/resources/management**](https://corporatefinanceinstitute.com/resources/management/ooda-loop/): Key quote: *"The OODA Loop is an acronym representing the four essential steps: Observe, Orient, Decide, and Act. John Boyd, a United States Air Force fighter pilot and military strategist, originally created this mental model to describe the cycle of decision-making and action observed in successful combat operations. In creating mental models, Boyd emphasized the significance of adaptability and agility in decision-making, especially in situations where the environment is constantly changing and evolving."* While created for humans, this applies more broadly to intelligence agents as such, and drawing upon this allows us to relate the adaptability requirements of dynamic settings for humans to similar requirements for AI agents.
-> - [*Belief-Desire-Intention (BDI) Software Model*, **opentrain.ai/glossary**](https://www.opentrain.ai/glossary/belief-desire-intention-bdi-software-model/): Key excerpts:<br>1. *"In this model, an agent's decision-making process is guided by three key components: beliefs (information the agent has about the world), desires (objectives or situations the agent aims to achieve), and intentions (the plans or actions the agent commits to in order to fulfill its desires)."*<br><br>2. *"The BDI model provides a structured approach for agents to dynamically select and execute plans based on their current beliefs and desires while considering their intentions. This allows for adaptive behavior, where the agent can respond to changes in its environment or internal state."*<br><br>Excerpt 1 echoes the quote from [*Freedom of the Will, Measured by Complexity*, **tomkins.org**](https://www.tomkins.org/free-will-and-complexity) (as discussed in [Autonomy and Freedom](#autonomy-and-freedom)): *"Reason without affect would be impotent, affect without reason would be blind,"* highlighting the importance of a system of motivations as key to an agentic system (especially an intelligent one), not just a system of mechanisms. Excerpt 2 echoes my previous discussion on [Behavioural/Structural Hallmarks of Agentic AI](#behaviouralstructural-hallmarks-of-agentic-ai), which highlights the point the hallmark of "adaptability" as what gives agentic AI an edge in handling complex and dynamic environments, and what distinguishes it from other agentic applications and non-agentic AI applications.
+> - [*Belief-Desire-Intention (BDI) Software Model*, **opentrain.ai/glossary**](https://www.opentrain.ai/glossary/belief-desire-intention-bdi-software-model/): Key excerpts:<br>1. *"In this model, an agent's decision-making process is guided by three key components: beliefs (information the agent has about the world), desires (objectives or situations the agent aims to achieve), and intentions (the plans or actions the agent commits to in order to fulfill its desires)."*<br><br>2. *"The BDI model provides a structured approach for agents to dynamically select and execute plans based on their current beliefs and desires while considering their intentions. This allows for adaptive behavior, where the agent can respond to changes in its environment or internal state."*<br><br>Excerpt 1 echoes the quote from [*Freedom of the Will, Measured by Complexity*, **tomkins.org**](https://www.tomkins.org/free-will-and-complexity) (as discussed in [Autonomy, Agency and Freedom](#autonomy-agency-and-freedom)): *"Reason without affect would be impotent, affect without reason would be blind,"* highlighting the importance of a system of motivations as key to an agentic system (especially an intelligent one), not just a system of mechanisms. Excerpt 2 echoes my previous discussion on [Behavioural/Structural Hallmarks of Agentic AI](#behaviouralstructural-hallmarks-of-agentic-ai), which highlights the point the hallmark of "adaptability" as what gives agentic AI an edge in handling complex and dynamic environments, and what distinguishes it from other agentic applications and non-agentic AI applications.
