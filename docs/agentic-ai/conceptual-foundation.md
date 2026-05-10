@@ -245,6 +245,7 @@ TL;DR:
 *The following section clarifies the terms "AI agent" vs. "agentic AI".*
 
 ## TERMINOLOGICAL NOTE: "AI Agent" vs. "Agentic AI"
+
 | Term | Meaning |
 | --- | --- |
 | AI Agent | 1 or more AI models + tools acting as agent(s) |

@@ -29,6 +29,7 @@ Previous | Next
 While this has been defined in ["AI Agent as a Compound AI System" (*Conceptual Foundation*)](https://pranigopu.github.io/agentic-ai/conceptual-foundation.html#ai-agent-as-a-compound-ai-system), it is worth clarifying that by "AI agent", I am covering/considering both single-agent systems and multi-agent systems. At its most minimal, a single-agent system can simply be one AI model using tools to act as an agent in an environment with no ecosystem around it, but there is no theoretical limit on the level of complexity in single-agent and multi-agent systems. Hence, the term "AI agent" is used as a catch-all term to denote both single-model AI agents and more complex agentic AI systems. This helps in discussing ideas and principles that apply to both.
 
 # TERMINOLOGICAL NOTE: "AI Agent" vs. "Agentic AI"
+
 | Term | Meaning |
 | --- | --- |
 | AI Agent | 1 or more AI models + tools acting as agent(s) |
