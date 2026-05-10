@@ -54,7 +54,7 @@ An "account", in this context, refers to:
 
 In other words, an account by an entity/system for its action(s) consists of the answer to the question: "Why or for what did the entity/system act in the way it did for the given situation in the given context?" For an entity/system to be accountable for its actions, its actions must be explainable/interpretable in terms of its causes (a mechanistic explanation - "due to what factors?") and/or motives (a teleological explanation - "due to what considerations toward a purpose?").
 
-For an AI agent, given that goal-driven action, adaptability and an autonomous execution loop are its core characteristics, being held accountable involves accountability not only from its engineers but also from its own internal reasoning/decision-making apparatus. The reason for this is straightforward: for an AI agent to be able to have substantial impact, by its nature, it must have substantial Autonomy, Agency and Freedom ("freedom" as defined in the section ["Autonomy, Agency and Freedom" (*Conceptual Foundation*, **Agentic AI**)](https://pranigopu.github.io/agentic-ai/conceptual-foundation.html#autonomy-agency-and-freedom)); this means, due to the lack of human intention dictating the logic of every step of decision-making, human engineers/operators cannot be relied upon to give a complete account of the actions taken by the AI agent, and thus, the onus falls on the AI agent itself, on some level. In use-cases with the potential for substantial impact, this accountability ensures the ability to:
+For an AI agent, given that goal-driven action, adaptability and an autonomous execution loop are its core characteristics, being held accountable involves accountability not only from its engineers but also from its own internal reasoning/decision-making apparatus. The reason for this is straightforward: for an AI agent to be able to have substantial impact, by its nature, it must have substantial autonomy and freedom ("freedom" as defined in the section ["Autonomy, Agency and Freedom" (*Conceptual Foundation*)](https://pranigopu.github.io/agentic-ai/conceptual-foundation.html#autonomy-agency-and-freedom)); this means, due to the lack of human intention dictating the logic of every step of decision-making, human engineers/operators cannot be relied upon to give a complete account of the actions taken by the AI agent, and thus, the onus falls on the AI agent itself, on some level. In use-cases with the potential for substantial impact, this accountability ensures the ability to:
 
 - Identify poor decision-making
 - Debug and analyse undesirable outcomes
@@ -126,4 +126,13 @@ Feng et al (2025) define 5 levels of autonomy for AI agents.
 
 **NOTE**: *Level 1 represents the lowest level of autonomy.*
 
-> **Read further**: [Autonomy Levels in Agentic AI](https://pranigopu.github.io/agentic-ai/autonomy-levels-in-agentic-ai.html)
+---
+
+`<START BRANCH 1>`
+
+**Branch to**: [Autonomy Levels in Agentic AI](https://pranigopu.github.io/agentic-ai/autonomy-levels-in-agentic-ai.html)
+
+`<END BRANCH 1>`
+
+---
+

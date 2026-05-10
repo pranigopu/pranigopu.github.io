@@ -1,6 +1,6 @@
 **Agentic AI**/**GenAI Use Details**
 
-- Document = [*Interpretability*, **Agentic AI**](https://pranigopu.github.io/agentic-ai/interpretability.html)
+- Document = [*Autonomy Levels in Agentic AI*, **Agentic AI**](https://pranigopu.github.io/agentic-ai/autonomy-levels-in-agentic-ai.html)
 - Description = Levels-of-autonomy-analysis
 
 ---
