@@ -22,6 +22,7 @@ Previous | Next
 - [The Question of Autonomy](#the-question-of-autonomy)
   - [Autonomy as a Central Design Decision](#autonomy-as-a-central-design-decision)
   - [Level of Autonomy as a Design Decision](#level-of-autonomy-as-a-design-decision)
+- [Development Interpretability and Accountability](#development-interpretability-and-accountability)
 
 ---
 
@@ -109,10 +110,7 @@ As stated in [Interpretability Clarifies Agentic AI Development](#interpretabili
 Hence, we see that interpretability is a core part of accountability, whereas interpretability as such does not entail accountability. This is a crucial distinction, since though this document is focused on interpretability in agentic AI, exploring this also involves exploring accountability as and when it is a need that interpretability has to address. Hence, please note that any mention of achieving/addressing accountability also addresses interpretability, with added elements that use this interpretability to fulfill requirements of safety and reliability. Also note that when I discuss interpretability as such, the discussion may also be applicable to accountability-related concerns as and when appropriate, although this may not always be pointed out during the discussion.
 
 # The Question of Autonomy
-> **Mentioned references**:
-> 
-> - (Feng et al, 2025): [*Levels of Autonomy for AI Agents*, **knightcolumbia.org/content**](https://knightcolumbia.org/content/levels-of-autonomy-for-ai-agents-1)
-> - (Zhu et al, 2026): [*Interpreting Agentic Systems: Beyond Model Explanations to System-Level Accountability*, **(arXiv, January 2026)**](https://arxiv.org/abs/2601.17168)
+> **Mentioned reference**: (Feng et al, 2025): [*Levels of Autonomy for AI Agents*, **knightcolumbia.org/content**](https://knightcolumbia.org/content/levels-of-autonomy-for-ai-agents-1)
 
 ## Autonomy as a Central Design Decision
 "While autonomy can unlock innovative applications that amplify the benefits of AI, it can also do the same for AI's negative consequences, raising significant concerns about AI risks. Scholars contend that it is simultaneously more important and more difficult to anticipate harms from autonomous AI, especially as accountability for AI actions becomes harder to trace." (Feng et al, 2025)
@@ -144,4 +142,15 @@ BRANCH 1's treatment of interpretability across autonomy levels reveals a centra
 
 This shapes agentic AI development in a fundamental way: building a more autonomous agent is not simply an engineering challenge of capability, but an epistemological (i.e. knowledge-acquisition-related) challenge of self-transparency: the agent must be able to account for its own reasoning in a form that a human can audit after the fact. What this says about the nature of agentic AI is something philosophically significant: genuine autonomy and genuine accountability are in structural tension, i.e. (1) increasing autonomy does not automatically increase the other, (2) increasing autonomy on its own can decrease interpretability, and yet (3) the demand for interpretability tends to grow with growing autonomy.
 
-Referencing the work of Zhu et al (2026), we shall now explore why resolving this tension is not a feature to be added late in development but a foundational design constraint. An agentic AI solution that cannot explain itself is not merely opaque, it is ungovernable, and we cannot ensure that a ungovernable agent remains consistently verifiable, reliable and extensible, regardless of how competently it pursues them. As argued in the section [Why Bother with Interpretability in Agentic AI?](#why-bother-with-interpretability-in-agentic-ai) in this document, this undermines the effectiveness of the agentic AI solution, especially long-term and for more critical use-cases.
+Referencing the work of Zhu et al (2026) (reference: [*Interpreting Agentic Systems: Beyond Model Explanations to System-Level Accountability*, **(arXiv, January 2026)**](https://arxiv.org/abs/2601.17168)), we shall now explore why resolving this tension is not a feature to be added late in development but a foundational design constraint. An agentic AI solution that cannot explain itself is not merely opaque, it is ungovernable, and we cannot ensure that a ungovernable agent remains consistently verifiable, reliable and extensible, regardless of how competently it pursues them. As argued in the section [Why Bother with Interpretability in Agentic AI?](#why-bother-with-interpretability-in-agentic-ai) in this document, this undermines the effectiveness of the agentic AI solution, especially long-term and for more critical use-cases.
+
+# Development Interpretability and Accountability
+> **Mentioned reference**: (Zhu et al, 2026): [*Interpreting Agentic Systems: Beyond Model Explanations to System-Level Accountability*, **(arXiv, January 2026)**](https://arxiv.org/abs/2601.17168)
+
+---
+
+`<START BRANCH 2>`
+
+**Branch to**: [Notes for Interpreting Agentic Systems: *Beyond Model Explanations to System-Level Accountability*](https://pranigopu.github.io/agentic-ai/notes-for--interpreting-agentic-systems--beyond-model-explanations-to-system-level-accountability.html)
+
+`<END BRANCH 2>`
