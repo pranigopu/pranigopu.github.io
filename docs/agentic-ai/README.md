@@ -16,5 +16,5 @@ This potential seems immense in theory, but what are the implications of this po
 
 1. [Conceptual Foundations](https://pranigopu.github.io/agentic-ai/conceptual-foundation.html)
 2. [Interpretability](https://pranigopu.github.io/agentic-ai/interpretability.html)
-   1. **BRANCH 1**: [Autonomy Levels in Agentic AI](https://pranigopu.github.io/agentic-ai/autonomy-levels-in-agentic-ai.html)
+   1. **BRANCH 1**: [Autonomy Levels in Agentic AI: *A Deep Analysis*](https://pranigopu.github.io/agentic-ai/autonomy-levels-in-agentic-ai--a-deep-analysis.html)
    2. **BRANCH 2**: [Notes for Interpreting Agentic Systems: *Beyond Model Explanations to System-Level Accountability*](https://pranigopu.github.io/agentic-ai/notes-for--interpreting-agentic-systems--beyond-model-explanations-to-system-level-accountability.html)

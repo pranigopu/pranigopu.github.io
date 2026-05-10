@@ -1,6 +1,6 @@
 **Agentic AI**/**GenAI Use Details**
 
-- Document: [*Autonomy Levels in Agentic AI*, **Agentic AI**](https://pranigopu.github.io/agentic-ai/autonomy-levels-in-agentic-ai.html)
+- Document: [Autonomy Levels in Agentic AI: *A Deep Analysis*, **Agentic AI**](https://pranigopu.github.io/agentic-ai/autonomy-levels-in-agentic-ai--a-deep-analysis.html)
 - Description: Deep analysis of autonomy levels in agentic AI
 
 ---

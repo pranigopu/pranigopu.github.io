@@ -27,7 +27,7 @@ Previous | Next
 ---
 
 # CONCEPTUAL NOTE: Meaning of "AI Agent"
-While this has been defined in ["AI Agent as a Compound AI System" (*Conceptual Foundation*)](https://pranigopu.github.io/agentic-ai/conceptual-foundation.html#ai-agent-as-a-compound-ai-system), it is worth clarifying that by "AI agent", I am covering/considering both single-agent systems and multi-agent systems. At its most minimal, a single-agent system can simply be one AI model using tools to act as an agent in an environment with no ecosystem around it, but there is no theoretical limit on the level of complexity in single-agent and multi-agent systems. Hence, the term "AI agent" is used as a catch-all term to denote both single-model AI agents and more complex agentic AI systems. This helps in discussing ideas and principles that apply to both.
+While this has been defined in ["AI Agent as a Compound AI System" (Conceptual Foundation)](https://pranigopu.github.io/agentic-ai/conceptual-foundation.html#ai-agent-as-a-compound-ai-system), it is worth clarifying that by "AI agent", I am covering/considering both single-agent systems and multi-agent systems. At its most minimal, a single-agent system can simply be one AI model using tools to act as an agent in an environment with no ecosystem around it, but there is no theoretical limit on the level of complexity in single-agent and multi-agent systems. Hence, the term "AI agent" is used as a catch-all term to denote both single-model AI agents and more complex agentic AI systems. This helps in discussing ideas and principles that apply to both.
 
 # TERMINOLOGICAL NOTE: "AI Agent" vs. "Agentic AI"
 
@@ -41,7 +41,7 @@ Hence, note that:
 - AI agent = A particular agentic AI system
 - Agentic AI = An agentic AI system as a general concept
 
-> **Reference**: ["TERMINOLOGICAL NOTE: "AI Agent" vs. "Agentic AI"" (*Conceptual Foundation*)](https://pranigopu.github.io/agentic-ai/conceptual-foundation.html#terminological-note-ai-agent-vs-agentic-ai):
+> **Reference**: ["TERMINOLOGICAL NOTE: "AI Agent" vs. "Agentic AI"" (Conceptual Foundation)](https://pranigopu.github.io/agentic-ai/conceptual-foundation.html#terminological-note-ai-agent-vs-agentic-ai):
 
 # Why Bother with Interpretability in Agentic AI?
 ## Accountability as a Central Concern
@@ -55,7 +55,7 @@ An "account", in this context, refers to:
 
 In other words, an account by an entity/system for its action(s) consists of the answer to the question: "Why or for what did the entity/system act in the way it did for the given situation in the given context?" For an entity/system to be accountable for its actions, its actions must be explainable/interpretable in terms of its causes (a mechanistic explanation - "due to what factors?") and/or motives (a teleological explanation - "due to what considerations toward a purpose?").
 
-For an AI agent, given that goal-driven action, adaptability and an autonomous execution loop are its core characteristics, being held accountable involves accountability not only from its engineers but also from its own internal reasoning/decision-making apparatus. The reason for this is straightforward: for an AI agent to be able to have substantial impact, by its nature, it must have substantial autonomy and freedom ("freedom" as defined in the section ["Autonomy, Agency and Freedom" (*Conceptual Foundation*)](https://pranigopu.github.io/agentic-ai/conceptual-foundation.html#autonomy-agency-and-freedom)); this means, due to the lack of human intention dictating the logic of every step of decision-making, human engineers/operators cannot be relied upon to give a complete account of the actions taken by the AI agent, and thus, the onus falls on the AI agent itself, on some level. In use-cases with the potential for substantial impact, this accountability ensures the ability to:
+For an AI agent, given that goal-driven action, adaptability and an autonomous execution loop are its core characteristics, being held accountable involves accountability not only from its engineers but also from its own internal reasoning/decision-making apparatus. The reason for this is straightforward: for an AI agent to be able to have substantial impact, by its nature, it must have substantial autonomy and freedom ("freedom" as defined in the section ["Autonomy, Agency and Freedom" (Conceptual Foundation)](https://pranigopu.github.io/agentic-ai/conceptual-foundation.html#autonomy-agency-and-freedom)); this means, due to the lack of human intention dictating the logic of every step of decision-making, human engineers/operators cannot be relied upon to give a complete account of the actions taken by the AI agent, and thus, the onus falls on the AI agent itself, on some level. In use-cases with the potential for substantial impact, this accountability ensures the ability to:
 
 - Identify poor decision-making
 - Debug and analyse undesirable outcomes
@@ -128,7 +128,7 @@ Feng et al (2025) define 5 levels of autonomy for AI agents.
 
 `<START BRANCH 1>`
 
-**Branch to**: [Autonomy Levels in Agentic AI](https://pranigopu.github.io/agentic-ai/autonomy-levels-in-agentic-ai.html)
+**Branch to**: [Autonomy Levels in Agentic AI: *A Deep Analysis*](https://pranigopu.github.io/agentic-ai/autonomy-levels-in-agentic-ai--a-deep-analysis.html)
 
 `<END BRANCH 1>`
 

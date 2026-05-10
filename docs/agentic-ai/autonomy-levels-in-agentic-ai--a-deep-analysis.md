@@ -2,7 +2,7 @@
 
 **BRANCH 1 from document**: [Interpretability](https://pranigopu.github.io/agentic-ai/interpretability.html#level-of-autonomy-as-a-design-decision)
 
-<h1>Autonomy Levels in Agentic AI<br><i>A Deep Analysis</i></h1>
+<h1>Autonomy Levels in Agentic AI:<br><i>A Deep Analysis</i></h1>
 
 ---
 
@@ -61,7 +61,7 @@
 </details>
 
 # 2. AI Agency vs. Human Agency Matrix
-> "Agency" is defined here: ["Autonomy, Agency and Freedom" (*Conceptual Foundation*)](https://pranigopu.github.io/agentic-ai/conceptual-foundation.html#autonomy-agency-and-freedom)
+> "Agency" is defined here: ["Autonomy, Agency and Freedom" (Conceptual Foundation)](https://pranigopu.github.io/agentic-ai/conceptual-foundation.html#autonomy-agency-and-freedom)
 
 The 2 axes are:
 
@@ -280,7 +280,7 @@ H: Reviews output
 **Key dynamic**: *The human is structurally outside the execution loop. Their only real-time capability is observation and emergency termination. All task intelligence, error handling, and decision-making belongs to the agent. The human's involvement is pre-task (goal submission) and post-task (output review), with no in-task influence pathway except the kill switch.*
 
 # 4. Levels Described by Problem Space Parameters
-> **Major context provided here**: ["Problem Spaces Agentic AI Can Handle" (*Conceptual Foundations*)](https://pranigopu.github.io/agentic-ai/conceptual-foundation.html#problem-spaces-agentic-ai-can-handle)
+> **Major context provided here**: ["Problem Spaces Agentic AI Can Handle" (Conceptual Foundations)](https://pranigopu.github.io/agentic-ai/conceptual-foundation.html#problem-spaces-agentic-ai-can-handle)
 
 ---
 
@@ -365,7 +365,7 @@ L5 instantiates a fully closed, self-sustaining autonomous execution loop. The O
 # 5. Interpretability/Accountability Considerations by Level
 
 ## Framing
-> **Major context provided here**: ["TERMINOLOGICAL NOTE: "Interpretability" vs. "Accountability"" (*Interpretability*)](https://pranigopu.github.io/agentic-ai/interpretability.html#terminological-note-interpretability-vs-accountability)
+> **Major context provided here**: ["TERMINOLOGICAL NOTE: "Interpretability" vs. "Accountability"" (Interpretability)](https://pranigopu.github.io/agentic-ai/interpretability.html#terminological-note-interpretability-vs-accountability)
 
 Interpretability refers to the capacity to understand *why* an agentic system made a decision or took an action. Accountability refers to the capacity to provide reasoning/explanations for outcomes and/or to audit, reconstruct and (where necessary) remediate those outcomes. The two are related but distinct: a system can be interpretable without being accountable (if no one interprets the available information or acts on the interpretation), and nominally accountable without being interpretable (if accountability (especially the action-related part of it) is assigned by default rather than by understood causation).
 

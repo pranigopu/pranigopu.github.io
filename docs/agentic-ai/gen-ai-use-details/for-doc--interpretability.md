@@ -36,7 +36,7 @@ Provide a brief (1 paragraph) summary for the above-generated doc regarding:
 
 ---
 
-> **For context**: The following was summarised: <br> [*Autonomy Levels in Agentic AI*, **Agentic AI**](https://pranigopu.github.io/agentic-ai/autonomy-levels-in-agentic-ai.html); the response was then divided into 3 paragraphs and substantially edited.
+> **For context**: The following was summarised: <br> [Autonomy Levels in Agentic AI: *A Deep Analysis*, **Agentic AI**](https://pranigopu.github.io/agentic-ai/autonomy-levels-in-agentic-ai--a-deep-analysis.html); the response was then divided into 3 paragraphs and substantially edited.
 
 ## Unedited Response
 
