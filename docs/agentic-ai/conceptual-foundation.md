@@ -46,6 +46,11 @@ Previous | Next
 
 # Definition-Set 1: Philosophical Foundation
 ## Autonomy, Agency and Freedom
+> **Mentioned references**:
+> 
+> - (Tomkins, No Date): [*Freedom of the Will, Measured by Complexity*, **tomkins.org**](https://www.tomkins.org/free-will-and-complexity)
+> - (Feng et al, 2025): [*Levels of Autonomy for AI Agents*, **knightcolumbia.org/content**](https://knightcolumbia.org/content/levels-of-autonomy-for-ai-agents-1)
+
 Autonomy refers to the state of being independent and self-directed in one's action; independence within a given context implies that the mechanism for action is self-contained (i.e. one can act on one's own, within the given context), whereas self-directed within a given context implies that the motive for action, i.e. the goal/motivation, is self-contained (i.e. the goal is grasped and deliberately acted upon by oneself).
 
 Agency is a concept that is related to autonomy, but carries its own conceptual weight. Drawing from Feng et al (2025), agency is the capacity to formulate an intention for an action and carry out that action. Agency implies autonomy, since it involves the exercise of independent, self-directed action within a given context. However, agency more precisely refers to the exercising of powers/faculties autonomously.
@@ -54,11 +59,11 @@ This means an autonomous entity, such as a strictly-programmed automation, can b
 
 Now, since agency presupposes autonomy and is essentially a measure of the scope of autonomous action, I regard agency as an aspect of autonomy. It is nonetheless an important aspect to highlight, since it gives us a clear way to conceptualise the practical differences between different types of autonomous entities. More specifically, what differentiates the autonomy of an AI agent (which shall be defined later in this document) from the autonomy of a programmed agent is agency. However, for simplicity in any further discussion, the idea of agency being an aspect of autonomy shall be implicit but not explicitly highlighted at every point.
 
-Autonomy - especially when considering the aspect of agency - involves the concept of "freedom", i.e. the freedom to act on one's own, toward one's goals, as per one's judgement. For this purpose, precisely understanding "freedom" as a technical term can aid in understanding the scope and potential of autonomy and agency as a quality. To do this, I shall draw upon the article [*Freedom of the Will, Measured by Complexity*, **tomkins.org**](https://www.tomkins.org/free-will-and-complexity).
+Autonomy - especially when considering the aspect of agency - involves the concept of "freedom", i.e. the freedom to act on one's own, toward one's goals, as per one's judgement. For this purpose, precisely understanding "freedom" as a technical term can aid in understanding the scope and potential of autonomy and agency as a quality. To do this, I shall draw upon Tomkins (No Date).
 
-Quoting from this article: "By complexity we mean, after Gibbs, the number of independently variable states of a system." This is the the concept of "degrees of freedom", and this quote ties "degrees of freedom" in a system and the complexity of the system. Quoting again from the article: "The freedom of any feedback system is, consequently a conjoint function of its complexity and the complexity of its surround. The freedom of a feedback system, we argue, should be measured by the product of the complexity of its "aims" and the frequency of their attainment."
+Quoting from this article: *"By complexity we mean, after Gibbs, the number of independently variable states of a system." This is the the concept of "degrees of freedom", and this quote ties "degrees of freedom" in a system and the complexity of the system. Quoting again from the article: "The freedom of any feedback system is, consequently a conjoint function of its complexity and the complexity of its surround. The freedom of a feedback system, we argue, should be measured by the product of the complexity of its "aims" and the frequency of their attainment."*
 
-Here, note that "aims" refer to motives or "affect", which is a key part of a self-driven, self-directing, i.e. autonomous system. Quoting again from the article: "A human being thus becomes freer as his wants grow and as his capacities to satisfy them grow. Restriction either of his wants or his abilities to achieve them represents a loss of freedom. The human being is the most complex system in nature; his superiority over other animals is as much a consequence of his more complex affect system as it is of his more complex analytical system.
+Here, note that "aims" refer to motives or "affect", which is a key part of a self-driven, self-directing, i.e. autonomous system. Quoting again from the article: *"A human being thus becomes freer as his wants grow and as his capacities to satisfy them grow. Restriction either of his wants or his abilities to achieve them represents a loss of freedom. The human being is the most complex system in nature; his superiority over other animals is as much a consequence of his more complex affect system as it is of his more complex analytical system."*
 
 Another aspect of the aforementioned quote is the frequency of the attainment of aims as a part of the measure of freedom. This is in fact crucial, since it grounds freedom not in theoretical potential but in actual, concrete power, i.e. effectiveness. Freedom requires actually achieving something with one's aims, which is ultimately the only measure of one's aims being feasible and not merely theoretical; this in turn is crucial in grounding freedom in actual capability rather than incoherent, floating abstractions of "potential" or "possibility".
 
@@ -72,9 +77,6 @@ Applied to autonomy, this connection helps recognise that for any apparatus capa
 > 
 > - [*autonomy*, **merriam-webster.com/dictionary**](https://www.merriam-webster.com/dictionary/autonomy)
 > - [*Autonomy – Definition and Explanation*, **oxford-review.com/the-oxford-review-dei-diversity-equity-and-inclusion-dictionary**](https://oxford-review.com/the-oxford-review-dei-diversity-equity-and-inclusion-dictionary/autonomy-definition-and-explanation/) <br> **NOTE**: *This is a political definition that I generalised from*
-> - (Tomkins, No Date): [*Freedom of the Will, Measured by Complexity*, **tomkins.org**](https://www.tomkins.org/free-will-and-complexity)
-> - (Feng et al, 2025): [*Levels of Autonomy for AI Agents*, **knightcolumbia.org/content**](https://knightcolumbia.org/content/levels-of-autonomy-for-ai-agents-1)
-
 
 ## Agent
 An agent is any entity that exerts power autonomously.
