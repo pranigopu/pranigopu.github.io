@@ -126,12 +126,4 @@ Feng et al (2025) define 5 levels of autonomy for AI agents.
 
 **NOTE**: *Level 1 represents the lowest level of autonomy.*
 
----
-
-`<START OF AI-GENERATED CONTENT>`
-
-> **Details**: [`doc=interpretability--desc=levels-of-autonomy-analysis`](https://pranigopu.github.io/agentic-ai/doc=interpretability--desc=levels-of-autonomy-analysis.html)
-
-
-
-`<END OF AI-GENERATED CONTENT>`
+> **Read further**: [Autonomy Levels in Agentic AI](https://pranigopu.github.io/agentic-ai/autonomy-levels-in-agentic-ai.html)
