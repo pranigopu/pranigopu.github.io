@@ -1,6 +1,6 @@
 **Agentic AI**/**GenAI Use Details**
 
-- Document: [*Interpretability*, **Agentic AI**](https://pranigopu.github.io/agentic-ai/interpretability.html)
+- Document: [Interpretability, **Agentic AI**](https://pranigopu.github.io/agentic-ai/interpretability.html)
 - Description: See section-wise details
 
 ---
