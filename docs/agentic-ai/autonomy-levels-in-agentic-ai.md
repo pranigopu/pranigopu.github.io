@@ -511,7 +511,12 @@ L5 should only be deployed where:
 3. Monitoring infrastructure is sophisticated enough <br> ... *to catch anomalous behaviour before errors compound irreversibly*
 4. Post-hoc audit is legally and ethically sufficient <br> ... *i.e. real-time human oversight is not a regulatory requirement*
 
-Validation requirements at L5 must be satisfied primarily through pre-deployment testing and formal verification of agent behaviour within the intended problem scope, rather than through runtime human review.
+Validation requirements at L5 must be satisfied primarily through...
+
+- pre-deployment testing
+- formal verification of agent behaviour
+
+... within the intended problem scope, rather than through runtime human review.
 
 ---
 
