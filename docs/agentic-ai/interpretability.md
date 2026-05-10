@@ -122,3 +122,16 @@ This echoes the same ideas presented at the start of this document (see: [Accoun
 ## Level of Autonomy as a Design Decision
 As discussed, in the previous sub-section, the prerequisite for defining interpretability requirements for an AI agent is defining the level of autonomy the AI agent is allowed; lower levels imply less substantial potential impact and can get by as an effective solution even with lower standards of interpretability, whereas higher levels imply more substantial potential impact and thus require more stringent and/or comprehensive interpretability requirements for the AI agent to serve as an effective solution.
 
+Feng et al (2025) define 5 levels of autonomy for AI agents.
+
+**NOTE**: *Level 1 represents the lowest level of autonomy.*
+
+---
+
+`<START OF AI-GENERATED CONTENT>`
+
+> **Details**: [`doc=interpretability--desc=levels-of-autonomy-analysis`](https://pranigopu.github.io/agentic-ai/doc=interpretability--desc=levels-of-autonomy-analysis.html)
+
+
+
+`<END OF AI-GENERATED CONTENT>`
