@@ -24,7 +24,7 @@
   - [The 3 Foundational Modules of AI Agents](#the-3-foundational-modules-of-ai-agents)
   - [How Agentic Systems Build upon This](#how-agentic-systems-build-upon-this)
   - [Modules that Together Represent the Backbone of Agentic Systems](#modules-that-together-represent-the-backbone-of-agentic-systems)
-- [\[CONCEPTUAL CHECKPOINT\]: Key Points to Consider/Account for](#conceptual-checkpoint-key-points-to-consideraccount-for)
+- [CONCEPTUAL CHECKPOINT: Key Points to Consider/Account for](#conceptual-checkpoint-key-points-to-consideraccount-for)
 - [Early ML Paradigms to Agentic Systems](#early-ml-paradigms-to-agentic-systems)
   - [Why Learn this?](#why-learn-this)
   - [Foundation Provided by LLMs](#foundation-provided-by-llms)
@@ -35,7 +35,7 @@
 - [Unique Interpretability Need and Issues in Agentic Systems](#unique-interpretability-need-and-issues-in-agentic-systems)
 - [Key Techniques Enabling Core Capabilities in Agentic Systems](#key-techniques-enabling-core-capabilities-in-agentic-systems)
 - [Key Agentic System Framework Types to Reflect Design-Changes](#key-agentic-system-framework-types-to-reflect-design-changes)
-- [\[CONCEPTUAL CHECKPOINT\]: Unique Risk Factors for Agentic Systems](#conceptual-checkpoint-unique-risk-factors-for-agentic-systems)
+- [CONCEPTUAL CHECKPOINT: Unique Risk Factors for Agentic Systems](#conceptual-checkpoint-unique-risk-factors-for-agentic-systems)
 
 ---
 
@@ -106,7 +106,7 @@ Agentic systems build upon this with advanced modules, including:
 
 ... under a coordinated autonomy paradigm.
 
-# \[CONCEPTUAL CHECKPOINT\]: Key Points to Consider/Account for
+# CONCEPTUAL CHECKPOINT: Key Points to Consider/Account for
 - Emergent behaviour of agents and agentic systems
 - System-level actions (rather than individual agent actions)
 - Shared context
@@ -191,7 +191,7 @@ In high-performing deployments, these components operate jointly rather than in 
 
 \[NEEDS FURTHER CLARITY\]
 
-# \[CONCEPTUAL CHECKPOINT\]: Unique Risk Factors for Agentic Systems
+# CONCEPTUAL CHECKPOINT: Unique Risk Factors for Agentic Systems
 New categories of risk that exceed traditional AI failure modes:
 
 - Stem from their ability to plan, act, and adapt:
