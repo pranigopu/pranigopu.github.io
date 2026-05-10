@@ -34,7 +34,7 @@ While this has been defined in ["AI Agent as a Compound AI System" (*Conceptual 
 | AI Agent | 1 or more AI models + tools acting as agent(s) |
 | Agentic AI | A way to indicate that a system is based on AI agent(s) |
 
-**NOTE**:
+Hence, note that:
 
 - AI agent = A particular agentic AI system
 - Agentic AI = An agentic AI system as a general concept
@@ -119,4 +119,5 @@ Hence, we see that interpretability is a core part of accountability, whereas in
 This echoes the same ideas presented at the start of this document (see: [Accountability as a Central Concern](#accountability-as-a-central-concern)), where I showed that accountability was a central concern for an effective agentic AI solution due to the high level of autonomy given to agentic AI. However, Feng et al (2025) go deeper at precisely how the level of autonomy we give an AI agent is not just "an inevitable consequence of increasing agent capability" but a "deliberate design decision made by agent developers". This design decision about the level of autonomy we give an AI agent also serves as a way of adjusting the level of interpretability and accountability we need to achieve, given well-defined capabilities and a well-scoped operational environment. For example, if the mechanisms for interpretability and accountability are insufficient for a higher level of autonomy, we can purposely (and rationally) opt for lower levels to ensure the solution's effectiveness (especially when safety is a key consideration). To get a clearer understanding of the way such a design decision translates to requirements for interpretability and accountability, I shall use the work of Feng et al (2025) to delve into the actual, architectural and practical implications this decision decision.
 
 ## Level of Autonomy as a Design Decision
-As discussed, in the previous sub-section, tne prerequisite for defining interpretability requirements for an AI agent is defining the level of autonomy the AI agent is allowed; lower levels imply less substantial potential impact and can get by as an effective solution even with lower standards of interpretability, whereas higher levels imply more substantial potential impact and thus require more stringent and/or comprehensive interpretability requirements for the AI agent to serve as an effective solution.
+As discussed, in the previous sub-section, the prerequisite for defining interpretability requirements for an AI agent is defining the level of autonomy the AI agent is allowed; lower levels imply less substantial potential impact and can get by as an effective solution even with lower standards of interpretability, whereas higher levels imply more substantial potential impact and thus require more stringent and/or comprehensive interpretability requirements for the AI agent to serve as an effective solution.
+

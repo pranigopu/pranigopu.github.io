@@ -233,12 +233,16 @@ Some examples:
 > - (Kapoor et al, 2024): [*AI Agents That Matter*, **(arXiv, July 2024)**](https://arxiv.org/abs/2407.01502)
 > - (Feng et al, 2025): [*Levels of Autonomy for AI Agents*, **knightcolumbia.org/content**](https://knightcolumbia.org/content/levels-of-autonomy-for-ai-agents-1)
 
-Another way to define an AI agent (which is consistent with the definition given in the sub-section [AI Agent](#ai-agent)) is an AI system (e.g. a decision tree, a neural network, an LLM, etc.) that uses one or more tools to act and modify its environment autonomously. Now, an AI system can indeed be a system of AI agents themselves, i.e. there is nothing in the definition of an AI agent that requires it to be a single AI model that acts as an agent. This being said, the definition of agentic AI, given in the sub-section [Agentic AI](#agentic-ai), still holds, but now with the added complexity that an AI agent within an agentic AI system can itself be an agentic AI system. Hence, any mention of "single" or "multiple" agents in an agentic AI system is more about practical and conceptual boundaries between agents (that can help us, say, distinguish differently-specialised agents) and less about strict technologically-driven distinctions.
+Another way to define AI agents is as "compound software systems, inclusive of one or more AI models, that operate within an environment and take actions within it." (Feng et al). Let me build up to this definition by building from the definition given in the sub-section [AI Agent](#ai-agent): AI agent is an AI system (e.g. a decision tree, a neural network, an LLM, etc.) that uses one or more tools to act and modify its environment autonomously. Now, an AI system can indeed be a system of AI agents themselves, i.e. there is nothing in the definition of an AI agent that requires it to be a single AI model that acts as an agent.
+
+This being said, the definition of agentic AI as a system of AI agents, given in the sub-section [Agentic AI](#agentic-ai), still holds, but now with the added complexity that an AI agent within an agentic AI system can itself be an agentic AI system. Hence, any mention of "single" or "multiple" agents in an agentic AI system is more about practical and conceptual boundaries between agents (that can help us, say, distinguish differently-specialised agents) and less about strict software-based distinctions.
 
 TL;DR:
 
 - An AI agent is essentially a compound AI system
 - An agentic AI system can itself be considered an AI agent
+
+*The following section clarifies the terms "AI agent" vs. "agentic AI".*
 
 ## TERMINOLOGICAL NOTE: "AI Agent" vs. "Agentic AI"
 | Term | Meaning |
@@ -246,7 +250,7 @@ TL;DR:
 | AI Agent | 1 or more AI models + tools acting as agent(s) |
 | Agentic AI | A way to indicate that a system is based on AI agent(s) |
 
-**NOTE**:
+Hence, note that:
 
 - AI agent = A particular agentic AI system
 - Agentic AI = An agentic AI system as a general concept
