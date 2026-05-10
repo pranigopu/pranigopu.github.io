@@ -14,15 +14,42 @@
 **Contents**:
 
 - [Why Bother with Interpretability in Agentic AI?](#why-bother-with-interpretability-in-agentic-ai)
-  - [Interpretability as the Central Concern](#interpretability-as-the-central-concern)
-  - [Interpretability as a Way to Agentic AI's Soul](#interpretability-as-a-way-to-agentic-ais-soul)
+  - [Accountability as a Central Concern](#accountability-as-a-central-concern)
+  - [Interpretability as Clarifying Agentic AI Development](#interpretability-as-clarifying-agentic-ai-development)
 
 ---
 
 # Why Bother with Interpretability in Agentic AI?
-## Interpretability as the Central Concern
-Agentic AI, by virtue of its autonomous and adaptive operations, can accrue substantial control over critical functions: data management, governance, monitoring, workflow execution. And it accrues this control without any built-in mechanism of accountability.
+## Accountability as a Central Concern
+Agentic AI, by virtue of its autonomous and adaptive operations, can obtain substantial control over critical functions: data management, governance, monitoring, workflow execution. And it obtains this control without any built-in mechanism of accountability. I shall now delve into the concept of accountability and tie it to agentic systems, particularly to agentic AI.
 
-## Interpretability as a Way to Agentic AI's Soul
+An "account", in this context, refers to:
 
-It is, as noted, "a bunch of machines." The question is not whether this creates risks, but how to map those risks and design against them.
+- A statement explaining one's conduct
+- A statement or exposition of reasons/causes/motives
+- A reason for an action
+
+In other words, an account by an entity/system for its action(s) consists of the answer to the question: "Why or for what did the entity/system act in the way it did for the given situation in the given context?" For an entity/system to be accountable for its actions, its actions must be explainable in terms of its causes (a mechanistic explanation - "due to what factors?") and/or motives (a teleological explanation - "due to what considerations toward a purpose?").
+
+For agentic AI, given that goal-driven action, adaptability and an autonomous execution loop are its core characteristics, being held accountable involves accountability not only from its engineers but also from its own internal reasoning/decision-making apparatus. The reason for this is straightforward: for agentic AI to be able to have substantial impact, by its nature, it must have substantial autonomy and freedom ("freedom" as defined in the section ["Autonomy and Freedom" (*Conceptual Foundation*, **Agentic AI**)](https://pranigopu.github.io/agentic-ai/conceptual-foundation.html#autonomy-and-freedom)); this means, due to the lack of human intention dictating the logic of every step of decision-making, human engineers/operators cannot be relied upon to give a complete account of the actions taken by the agentic AI system, and thus, the onus falls on the agentic AI system itself, on some level. In use-cases with the potential for substantial impact, this accountability ensures the ability to:
+
+- Identify poor decision-making
+- Debug and analyse undesirable outcomes
+- Know what to change to achieve desirable outcomes
+
+In other words, accountability in agentic AI - which should at least in part be internally-driven or internally-enabled accountability - ensures that the system is verifiable, reliable (at least reliable enough to maintain and/or fix) and extensible. Verifiability allows us to trace reasoning/decision-making to conclusions/outcomes, thus allowing us to distinguish "it got the right answer for the right reasons" from "it got the right answer for reasons that are likely to fail in other cases." Reliability allows us to cede operational control to the system without losing control over the quality of its outcomes. Extensibility allows us to evolve the existing system to improve on its existing purposes or adapt it to new ones. Together, these qualities are crucial in ensuring that a decision-making system serves as an effective solution, especially long-term.
+
+Now, note that an internally-drive or at least internally-enabled means of accountability relies on interpretability of actions and mechanisms. Hence, interpretability in agentic AI is not just a quality that is "nice-to-have", but a central concern of effective agentic AI solutions. Hence, exploring interpretability is crucial in engaging with agentic AI solutions that are effective (i.e. reliable and extensible) decision-making systems in real-world contexts.
+
+> **References**:
+>
+> - [account, **merriam-webster.com/dictionary**](https://www.merriam-webster.com/dictionary/account)
+> - [accountable, **merriam-webster.com/dictionary**](https://www.merriam-webster.com/dictionary/accountable)
+> - [accountability, **merriam-webster.com/dictionary**](https://www.merriam-webster.com/dictionary/accountability)
+
+## Interpretability as Clarifying Agentic AI Development
+Interpretability in a system is the quality of the system's mechanisms and (where applicable) aims/motives being transparent enough to connect internal, systemic causes to external, observed outcomes. In other words, interpretability implies that the system can be reliably understood. Of course, when I speak of "being understood", I mean "being understood by human stakeholders", because agentic AI is not an end in itself but a means to solve human problems.
+
+> **SIDE NOTE**: "Being understood by human stakeholders" means interpretability requirements are context-dependent. A research team, a business operator and a regulator each have differing technical knowledge/abilities and context-specific considerations, leading to differing levels of details and areas of focus in the explanations given.
+
+In this light, we see that exploring interpretability in agentic AI is less about exploring a specific use-case and more about exploring the architectural and practical aspects of agentic AI and its development, since, at the end of the day, we want to build a system we can sufficiently understand, and exploring interpretability means chasing this understanding and ensuring we continue to understand the system as it develops.
