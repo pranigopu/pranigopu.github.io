@@ -6,10 +6,7 @@ Previous | Next
 --- | ---
 [Conceptual Foundation](https://pranigopu.github.io/agentic-ai/conceptual-foundation.html) | -
 
----
-
 [Abbreviation Reference](https://pranigopu.github.io/agentic-ai/abbreviation-reference.html)
-
 
 ---
 
@@ -17,7 +14,10 @@ Previous | Next
 
 - [Why Bother with Interpretability in Agentic AI?](#why-bother-with-interpretability-in-agentic-ai)
   - [Accountability as a Central Concern](#accountability-as-a-central-concern)
-  - [Interpretability as Clarifying Agentic AI Development](#interpretability-as-clarifying-agentic-ai-development)
+  - [Interpretability Clarifies Agentic AI Development](#interpretability-clarifies-agentic-ai-development)
+- [CONCEPTUAL NOTE: Meaning of "Effective Solution"](#conceptual-note-meaning-of-effective-solution)
+- [CONCEPTUAL NOTE: Meaning of "Agentic AI"](#conceptual-note-meaning-of-agentic-ai)
+- [Levels of Autonomy](#levels-of-autonomy)
 
 ---
 
@@ -49,9 +49,43 @@ Now, note that an internally-drive or at least internally-enabled means of accou
 > - [accountable, **merriam-webster.com/dictionary**](https://www.merriam-webster.com/dictionary/accountable)
 > - [accountability, **merriam-webster.com/dictionary**](https://www.merriam-webster.com/dictionary/accountability)
 
-## Interpretability as Clarifying Agentic AI Development
+## Interpretability Clarifies Agentic AI Development
 Interpretability in a system is the quality of the system's mechanisms and (where applicable) aims/motives being transparent enough to connect internal, systemic causes to external, observed outcomes. In other words, interpretability implies that the system can be reliably understood. Of course, when I speak of "being understood", I mean "being understood by human stakeholders", because agentic AI is not an end in itself but a means to solve human problems.
 
 > **SIDE NOTE**: "Being understood by human stakeholders" means interpretability requirements are context-dependent. A research team, a business operator and a regulator each have differing technical knowledge/abilities and context-specific considerations, leading to differing levels of details and areas of focus in the explanations given.
 
 In this light, we see that exploring interpretability in agentic AI is less about exploring a specific use-case and more about exploring the architectural and practical aspects of agentic AI and its development, since, at the end of the day, we want to build a system we can sufficiently understand, and exploring interpretability means chasing this understanding and ensuring we continue to understand the system as it develops.
+
+# CONCEPTUAL NOTE: Meaning of "Effective Solution"
+Although previously mentioned, it is worth clarifying:
+
+> An effective solution is a solution that is sufficiently:
+>
+> - Verifiable, i.e.:
+>   - Reasoning/decision-making can be validated
+>   - Processing steps can be traced to mechanisms and motives
+> - Reliable, i.e.:
+>   - Outcomes are consistent in quality
+>   - Design matches the requirements
+>   - Implementation follows its intended design
+> - Extensible, i.e.:
+>   - Adaptable to evolving requirements and constraints
+>   - Modifiable to achieve:
+>       - Different purposes
+>       - Improvements (for the same purposes)
+
+"Sufficiency" depends on the context, i.e.:
+
+- Human stakeholders
+- Nature of the environment
+- Level of autonomy given to the system
+
+These aspects shall be clarified in the following sections.
+
+# CONCEPTUAL NOTE: Meaning of "Agentic AI"
+While this has been defined in [Conceptual Foundation](https://pranigopu.github.io/agentic-ai/conceptual-foundation.html), it is worth clarifying that by "agentic AI", I mean both single-agent and multi-agent systems. At its most minimal, a single-agent system can simply be one AI agent acting in an environment with no ecosystem around it, but there is no theoretical limit on the level of complexity in single-agent and multi-agent systems. Hence, the term "agentic AI" is used as a catch-all term to denote both single AI agents and more complex agentic AI systems. This helps in discussing ideas and principles that apply to both.
+
+# Levels of Autonomy
+One pre-requisite for defining interpretability requirements for an agentic AI system is defining the level of autonomy this system is allowed; lower levels imply less substantial potential impact and can get by as an effective solution even with lower standards of interpretability, whereas higher levels imply more substantial potential impact and thus require more stringent and.or comprehensive interpretability requirements for the system to serve as an effective solution.
+
+https://knightcolumbia.org/content/levels-of-autonomy-for-ai-agents-1

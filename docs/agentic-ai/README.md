@@ -15,3 +15,4 @@ This potential seems immense in theory, but what are the implications of this po
 ---
 
 1. [Conceptual Foundations](https://pranigopu.github.io/agentic-ai/conceptual-foundation.html)
+2. [Interpretability](https://pranigopu.github.io/agentic-ai/interpretability.html)

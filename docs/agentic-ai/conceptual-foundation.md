@@ -6,8 +6,6 @@ Previous | Next
 --- | ---
 ["About" section for **Agentic AI**](https://pranigopu.github.io/agentic-ai) | [Interpretability](https://pranigopu.github.io/agentic-ai/interpretability.html)
 
----
-
 [Abbreviation Reference](https://pranigopu.github.io/agentic-ai/abbreviation-reference.html)
 
 ---
