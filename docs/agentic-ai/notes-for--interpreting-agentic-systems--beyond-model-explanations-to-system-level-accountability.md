@@ -40,7 +40,7 @@
 ---
 
 # Paper's Purpose
-Examine interpretability as foundational to trust safety in agentic systems.
+Examine interpretability as foundational to trust the safety of agentic systems.
 
 # What Does an AI Agent Orchestrate?
 - Perception
