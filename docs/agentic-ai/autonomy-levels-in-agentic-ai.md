@@ -423,7 +423,7 @@ The agent's ongoing activity should be visible to the human in real time, suffic
 </details>
 
 <details><summary><b>Joint accountability model</b></summary>
-Because both human and agent co-produce outputs, accountability frameworks must be designed to handle shared causation — for example, distinguishing agent-generated errors from human-introduced errors in post-hoc review.
+Because both human and agent co-produce outputs, accountability frameworks must be designed to handle shared causation; for example, distinguishing agent-generated errors from human-introduced errors in post-hoc review.
 </details>
 
 ## L3 - User as Consultant
@@ -439,7 +439,7 @@ For high-stakes domains (legal, medical, financial), L3 requires rigorous docume
 **Required capacities for interpretability/accountability**:
 
 <details><summary><b>Plan-level reasoning logs</b></summary>
-The agent must document not just what it planned, but why it structured the plan as it did — including what alternatives were considered and rejected.
+The agent must document not just what it planned, but why it structured the plan as it did, including what alternatives were considered and rejected.
 </details>
 
 <details><summary><b>Consultation rationale</b></summary>
@@ -455,11 +455,11 @@ The agent should identify and flag cases where its execution diverged from the a
 </details>
 
 <details><summary><b>Feedback integration audit</b></summary>
-When the user provides input or requests changes, the agent must log how that input was interpreted and acted upon — including whether it triggered downstream changes.
+When the user provides input or requests changes, the agent must log how that input was interpreted and acted upon, including whether it triggered downstream changes.
 </details>
 
 <details><summary><b>Accountability demarcation</b></summary>
-At each consultation point, the record should make clear what information was available to the human and what decision or non-decision the human made — establishing a clear accountability boundary.
+At each consultation point, the record should make clear what information was available to the human and what decision or non-decision the human made - establishing a clear accountability boundary.
 </details>
 
 ## L4 - User as Approver
@@ -468,7 +468,7 @@ At each consultation point, the record should make clear what information was av
 
 L4 substantially increases accountability risk. The human's engagement is minimal and reactive; there is a real risk of rubber-stamping (approving actions without genuine understanding), which can undermine accountability even when formal approval is obtained. Safety requirements are therefore high, particularly for consequential-action detection: the agent must reliably identify which of its decisions cross a threshold requiring human approval, and the human must have enough context at approval time to make a genuine decision rather than a reflexive one.
 
-Security requirements are also elevated: the agent handles credentials and sensitive access, creating attack surfaces that must be designed against. Interpretability must be sufficient to support *meaningful* approval — an approver who cannot understand what they are approving cannot be held genuinely accountable.
+Security requirements are also elevated: the agent handles credentials and sensitive access, creating attack surfaces that must be designed against. Interpretability must be sufficient to support *meaningful* approval - an approver who cannot understand what they are approving cannot be held genuinely accountable.
 
 ---
 
@@ -483,7 +483,7 @@ The agent must maintain a log of every action it classified as consequential (so
 </details>
 
 <details><summary><b>Approval interaction records</b></summary>
-Every approval interaction must be logged: what was proposed, what context was provided to the approver, and what the approver decided — creating a verifiable accountability trail.
+Every approval interaction must be logged: what was proposed, what context was provided to the approver, and what the approver decided - creating a verifiable accountability trail.
 </details>
 
 <details><summary><b>Credential handling audit trail</b></summary>
@@ -522,11 +522,11 @@ Every action, decision, tool use, plan revision, and self-correction must be log
 </details>
 
 <details><summary><b>Decision provenance chains</b></summary>
-For every significant output or decision, the agent must be able to trace back through the chain of prior observations, orientations, and decisions that led to it — enabling root cause analysis of errors.
+For every significant output or decision, the agent must be able to trace back through the chain of prior observations, orientations, and decisions that led to it - enabling root cause analysis of errors.
 </details>
 
 <details><summary><b>Anomaly detection systems</b></summary>
-Real-time monitoring systems (independent of the agent itself) must be capable of detecting deviating agent behaviour — unusual tool use patterns, unexpected plan deviations, resource consumption anomalies — and surfacing these to the human observer.
+Real-time monitoring systems (independent of the agent itself) must be capable of detecting deviating agent behaviour - unusual tool use patterns, unexpected plan deviations, resource consumption anomalies - and surfacing these to the human observer.
 </details>
 
 <details><summary><b>Emergency stop design</b></summary>
@@ -534,7 +534,7 @@ The stop mechanism must be designed with care: it must be clearly accessible, un
 </details>
 
 <details><summary><b>Pre-deployment formal validation</b></summary>
-Given the absence of in-task human correction, L5 agents must be validated exhaustively prior to deployment — including red-teaming, adversarial testing, and failure mode analysis — within the intended problem scope.
+Given the absence of in-task human correction, L5 agents must be validated exhaustively prior to deployment, including red-teaming, adversarial testing, and failure mode analysis, within the intended problem scope.
 </details>
 
 <details><summary><b>Sandboxing and consequence containment</b></summary>
