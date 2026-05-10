@@ -1,8 +1,8 @@
 [<< **Agentic AI**](https://pranigopu.github.io/agentic-ai)
 
-<h1>Autonomy Levels in Agentic AI<br><i>A Deep Analysis</i></h1>
-
 **Branched from document**: [Interpretability](https://pranigopu.github.io/agentic-ai/interpretability.html)
+
+<h1>Autonomy Levels in Agentic AI<br><i>A Deep Analysis</i></h1>
 
 ---
 
@@ -53,6 +53,12 @@
 | **L3** | *User as Consultant* | Agent takes initiative in planning and execution over extended time horizons; user provides feedback, preferences, and directional guidance rather than direct control | Agent must know when and how to consult the user for high-quality input; user cannot directly seize control but can pause, comment, and redirect; a training/calibration period may be needed |
 | **L4** | *User as Approver* | Agent operates nearly fully autonomously; user interaction limited to resolving blockers (credentials, consequential action approval, unresolvable failure states) | Heightened security concerns (credential storage, attack surface); risk of rubber-stamping from disengaged users; agent must reliably distinguish consequential from non-consequential actions |
 | **L5** | *User as Observer* | Fully autonomous; no mechanism for user input during execution; user can only monitor via activity logs and trigger an emergency stop | Only appropriate in closed/sandboxed environments or where user intervention demonstrably degrades output quality; errors compound without correction; monitoring and off-switch design are critical |
+
+---
+
+<details><summary><b>See the original table for reference</b></summary>
+<img src="./images/levels-of-autonomy-for-ai-agents.png">
+</details>
 
 # 2. AI Agency vs. Human Agency Matrix
 > "Agency" is defined here: ["Autonomy, Agency and Freedom" (*Conceptual Foundation*)](https://pranigopu.github.io/agentic-ai/conceptual-foundation.html#autonomy-agency-and-freedom)
@@ -109,7 +115,14 @@ Human agency at L5 is effectively zero during execution. The user submits an ini
 
 # 3. Generalised Workflows by Level
 
-Each workflow below describes the interaction pattern between the human (H) and the AI agent (A) across the phases of a task: **initiation → planning → execution → review → completion**.
+Each workflow below describes the interaction pattern between...
+
+- the human (H)
+- the AI agent (A)
+
+... across the phases of a task:
+
+`initiation -> planning -> execution -> review -> completion`
 
 ## L1 - User as Operator
 
