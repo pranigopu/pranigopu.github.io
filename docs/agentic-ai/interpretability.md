@@ -2,7 +2,9 @@
 
 <h1>Interpretability</h1>
 
-[<< Conceptual Foundation](https://pranigopu.github.io/agentic-ai/conceptual-foundation.html)
+Previous | Next
+--- | ---
+[Conceptual Foundation](https://pranigopu.github.io/agentic-ai/conceptual-foundation.html) | -
 
 ---
 
