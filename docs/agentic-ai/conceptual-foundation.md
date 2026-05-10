@@ -6,7 +6,7 @@ Previous | Next
 --- | ---
 ["About" section for **Agentic AI**](https://pranigopu.github.io/agentic-ai) | [Interpretability](https://pranigopu.github.io/agentic-ai/interpretability.html)
 
-[Abbreviation Reference](https://pranigopu.github.io/agentic-ai/abbreviation-reference.html)
+> [Abbreviation Reference](https://pranigopu.github.io/agentic-ai/abbreviation-reference.html)
 
 ---
 
@@ -24,10 +24,13 @@ Previous | Next
   - [AI Agent](#ai-agent)
   - [AI Orchestration](#ai-orchestration)
   - [AI Orchestration Platform](#ai-orchestration-platform)
+  - ["Tool" in the Context of AI Agents](#tool-in-the-context-of-ai-agents)
   - [Agentic AI](#agentic-ai)
     - [Single-Agent](#single-agent)
     - [Multi-Agent](#multi-agent)
   - [AI Communication Standards](#ai-communication-standards)
+  - [AI Agent as a Compound AI System](#ai-agent-as-a-compound-ai-system)
+  - [TERMINOLOGICAL NOTE: "AI Agent" vs. "Agentic AI"](#terminological-note-ai-agent-vs-agentic-ai)
 - [Key Conceptual Points Related to Definition-Set 2](#key-conceptual-points-related-to-definition-set-2)
   - [Behavioural/Structural Hallmarks of Agentic AI](#behaviouralstructural-hallmarks-of-agentic-ai)
     - [Autonomous Operation](#autonomous-operation)
@@ -170,6 +173,14 @@ Some AI orchestration platforms:
 - Bedrock AgentCore (Amazon)
 - Vertex AI Agent Builder (Google)
 
+## "Tool" in the Context of AI Agents
+Software that allows AI agents to:
+
+- Execute actions
+- Modify their environment
+
+> **Reference**: [*Levels of Autonomy for AI Agents*, **knightcolumbia.org/content**](https://knightcolumbia.org/content/levels-of-autonomy-for-ai-agents-1)
+
 ## Agentic AI
 A system of coordinating AI agents + tools, i.e. a system wherein:
 
@@ -216,6 +227,30 @@ Some examples:
 
 **NOTE**: *A2A is now managed by the Linux foundation.*
 
+## AI Agent as a Compound AI System
+> **Mentioned references**:
+> 
+> - (Kapoor et al, 2024): [*AI Agents That Matter*, **(arXiv, July 2024)**](https://arxiv.org/abs/2407.01502)
+> - (Feng et al, 2025): [*Levels of Autonomy for AI Agents*, **knightcolumbia.org/content**](https://knightcolumbia.org/content/levels-of-autonomy-for-ai-agents-1)
+
+Another way to define an AI agent (which is consistent with the definition given in the sub-section [AI Agent](#ai-agent)) is an AI system (e.g. a decision tree, a neural network, an LLM, etc.) that uses one or more tools to act and modify its environment autonomously. Now, an AI system can indeed be a system of AI agents themselves, i.e. there is nothing in the definition of an AI agent that requires it to be a single AI model that acts as an agent. This being said, the definition of agentic AI, given in the sub-section [Agentic AI](#agentic-ai), still holds, but now with the added complexity that an AI agent within an agentic AI system can itself be an agentic AI system. Hence, any mention of "single" or "multiple" agents in an agentic AI system is more about practical and conceptual boundaries between agents (that can help us, say, distinguish differently-specialised agents) and less about strict technologically-driven distinctions.
+
+TL;DR:
+
+- An AI agent is essentially a compound AI system
+- An agentic AI system can itself be considered an AI agent
+
+## TERMINOLOGICAL NOTE: "AI Agent" vs. "Agentic AI"
+| Term | Meaning |
+| --- | --- |
+| AI Agent | 1 or more AI models + tools acting as agent(s) |
+| Agentic AI | A way to indicate that a system is based on AI agent(s) |
+
+**NOTE**:
+
+- AI agent = A particular agentic AI system
+- Agentic AI = An agentic AI system as a general concept
+
 # Key Conceptual Points Related to Definition-Set 2
 ## Behavioural/Structural Hallmarks of Agentic AI
 ### Autonomous Operation
@@ -245,7 +280,7 @@ None is sufficient without all:
 ***Together, they define something qualitatively new*** (i.e. they do not simply augment/enhance one or more dimensions of existing systems/solutions). The connection drawn back to the autonomy/freedom framework - specifically that the complexity of mechanisms must match the complexity of motives - is structurally significant. In this light, the conceptual groundwork in [Definition-Set 1](#definition-set-1) is not decorative but load-bearing.
 
 ## Problem Spaces Agentic AI Can Handle
-In [Behavioural/Structural Hallmarks of Agentic AI](#behaviouralstructural-hallmarks-of-agentic-ai), I discussed what makes an agentic AI a distinct kind of agentic system. Here, I shall clarify the characteristics that are implicit in agentic AI but are nonetheless worth highlighting for clarifying the nature of the problem-spaces that agentic AI can tackle.
+In [Behavioural/Structural Hallmarks of Agentic AI](#behaviouralstructural-hallmarks-of-agentic-ai), I discussed what makes an AI agent a distinct kind of agentic system. Here, I shall clarify the characteristics that are implicit in agentic AI but are nonetheless worth highlighting for clarifying the nature of the problem-spaces that agentic AI can tackle.
 
 ### Problems Requiring Goal-Driven Planning
 AI agents can break complex goals into ordered subtasks and adjust plans as conditions change to enable complex workflows rather than single actions. This aspect arises quite straightforwardly to the points about [autonomous operation](#autonomous-operation) and [adaptability](#adaptability).
@@ -286,4 +321,4 @@ This is essentially an OODA loop (Observe, Orient, Decide, Act), or more precise
 > **Reference**:
 >
 > - [*OODA Loop*, **corporatefinanceinstitute.com/resources/management**](https://corporatefinanceinstitute.com/resources/management/ooda-loop/): Key quote: *"The OODA Loop is an acronym representing the four essential steps: Observe, Orient, Decide, and Act. John Boyd, a United States Air Force fighter pilot and military strategist, originally created this mental model to describe the cycle of decision-making and action observed in successful combat operations. In creating mental models, Boyd emphasized the significance of adaptability and agility in decision-making, especially in situations where the environment is constantly changing and evolving."* While created for humans, this applies more broadly to intelligence agents as such, and drawing upon this allows us to relate the adaptability requirements of dynamic settings for humans to similar requirements for AI agents.
-> - [*Belief-Desire-Intention (BDI) Software Model*, **opentrain.ai/glossary**](https://www.opentrain.ai/glossary/belief-desire-intention-bdi-software-model/): Key excerpts:<br>1. *"In this model, an agent's decision-making process is guided by three key components: beliefs (information the agent has about the world), desires (objectives or situations the agent aims to achieve), and intentions (the plans or actions the agent commits to in order to fulfill its desires)."*<br><br>2. *"The BDI model provides a structured approach for agents to dynamically select and execute plans based on their current beliefs and desires while considering their intentions. This allows for adaptive behavior, where the agent can respond to changes in its environment or internal state."*<br><br>Excerpt 1 echoes the quote from [*Freedom of the Will, Measured by Complexity*, **tomkins.org**](https://www.tomkins.org/free-will-and-complexity) (as discussed in [Autonomy and Freedom](#autonomy-and-freedom)): *"Reason without affect would be impotent, affect without reason would be blind,"* highlighting the importance of a system of motivations as key to an agentic system (especially an intelligent one), not just a system of mechanisms. Excerpt 2 echoes my previous discussion on [Behavioural/Structural Hallmarks of Agentic AI](#behaviouralstructural-hallmarks-of-agentic-ai), which highlights the point the hallmark of "adaptability" as what gives the agentic AI system an edge in handling complex and dynamic environments, and what distinguishes it from other agentic applications and non-agentic AI applications.
+> - [*Belief-Desire-Intention (BDI) Software Model*, **opentrain.ai/glossary**](https://www.opentrain.ai/glossary/belief-desire-intention-bdi-software-model/): Key excerpts:<br>1. *"In this model, an agent's decision-making process is guided by three key components: beliefs (information the agent has about the world), desires (objectives or situations the agent aims to achieve), and intentions (the plans or actions the agent commits to in order to fulfill its desires)."*<br><br>2. *"The BDI model provides a structured approach for agents to dynamically select and execute plans based on their current beliefs and desires while considering their intentions. This allows for adaptive behavior, where the agent can respond to changes in its environment or internal state."*<br><br>Excerpt 1 echoes the quote from [*Freedom of the Will, Measured by Complexity*, **tomkins.org**](https://www.tomkins.org/free-will-and-complexity) (as discussed in [Autonomy and Freedom](#autonomy-and-freedom)): *"Reason without affect would be impotent, affect without reason would be blind,"* highlighting the importance of a system of motivations as key to an agentic system (especially an intelligent one), not just a system of mechanisms. Excerpt 2 echoes my previous discussion on [Behavioural/Structural Hallmarks of Agentic AI](#behaviouralstructural-hallmarks-of-agentic-ai), which highlights the point the hallmark of "adaptability" as what gives agentic AI an edge in handling complex and dynamic environments, and what distinguishes it from other agentic applications and non-agentic AI applications.
