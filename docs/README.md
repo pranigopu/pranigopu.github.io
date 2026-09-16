@@ -15,6 +15,7 @@
   - [Computer Science](#computer-science)
   - [Mathematics](#mathematics)
   - [Agentic AI](#agentic-ai)
+  - [Observability](#observability)
 
 ---
 
@@ -66,3 +67,6 @@ Collection of my work in:
 
 ## Agentic AI
 - [Agentic AI](https://pranigopu.github.io/agentic-ai)
+
+## Observability
+- [Observability](https://pranigopu.github.io/observability)
