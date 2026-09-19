@@ -32,4 +32,4 @@ The process/practice of **automatically** doing the following: (1) making measur
 
 > **NOTE**: "Specified" => Predetermined by design, not accidentally/coincidentally.
 
-Why consider both measurements and records? Because, in essence, telemetry is about **automatic observation followed by automatic transmission (of this observation)**, and both measurements and records count as kinds of observations that can be automated, i.e. captured and persisted independently of conscious experience.
+Why consider both measurements and records? Because, in essence, telemetry is about **automatic observation followed by automatic transmission (of this observation)**, and both measurements and records count as kinds of observations that can be automated and automatically transmitted, i.e. captured, persisted, and shared independently of conscious experience.
