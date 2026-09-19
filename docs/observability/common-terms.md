@@ -6,7 +6,6 @@
 
 **Contents**:
 
-- [Instrumentation](#instrumentation)
 - [Measurement](#measurement)
 - [Metric](#metric)
 - [Monitoring](#monitoring)
@@ -15,11 +14,6 @@
 - [Transmission](#transmission)
 
 ---
-
-# Instrumentation
-> In the context of software applications/systems.
-
-
 
 # Measurement
 Measurement is the act or product of relating a known/fixed instance of an attribute to an unknown/variable instance of the same. For example, we can know/fix a "second" by marking it perceptually or via a pendulum swing, and through relating N seconds to a span of events that occur, we can measure the time it took for the events to occur. As another example, we can know/fix a meter perceptually, maybe by reference to a "standard" object or marking, and through relating N meters to a one-dimensional span of space, we can measure the length of this space.
