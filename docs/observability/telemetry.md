@@ -6,33 +6,30 @@
 
 **Contents**:
 
-- [Measurement](#measurement)
-- [Record](#record)
-- [Remote Source](#remote-source)
+- [Preliminary concepts](#preliminary-concepts)
+  - [Externally referenced](#externally-referenced)
+  - [Remote source](#remote-source)
 - [Telemetry](#telemetry)
 
 ---
 
-# Measurement
-Measurement is the act or product of relating a known/fixed instance of an attribute to an unknown/variable instance of the same. For example, we can know/fix a "second" by marking it perceptually or via a pendulum swing, and through relating N seconds to a span of events that occur, we can measure the time it took for the events to occur. As another example, we can know/fix a meter perceptually, maybe by reference to a "standard" object or marking, and through relating N meters to a one-dimensional span of space, we can measure the length of this space.
+# Preliminary concepts
+## Externally referenced
+- [Measurement](./common-terms.md#measurement)
+- [Record](./common-terms.md#record)
+- [Transmission](./common-terms.md#transmission)
 
-# Record
-Persistent encapsulation of an event/set of events, e.g.:
-
-- Notes
-- Logs
-- Marks
-- Measurements (yes, measurements can be a kind for record)
-
-# Remote Source
-- "Remote" = Distant and independently existing.
+## Remote source
+- "Remote" = Independently existing.
     > Relative to some point of reference.
 - "Source" = Origin.
-- "Remote source" = Origin that is distant and independently existing.
+- "Remote source" = Origin that is independently existing.
+
+> **NOTE**: Initially, I had defined "remote" as "distant and independently existing", but this definition was vague, because "distant" is, on its own, a vague term that implies separation along with some implied magnitude of separation that is "large enough". I think "separation", and specifically, the sense of separation as "independently existing", is what is relevant to consider when considering how to automate observation and transmission (see the next section). Now, what "independent existence" means for an entity is that the entity's operations are not fundamentally defined in relation to a specific system, even if its operations can contribute to this system in some way. For example, a thread of a specific process has no purpose apart from this process; it is fundamentally defined in relation to this process. A sensor, on the other hand, has a purpose of its own, apart from any specific system, and it can contribute to a range of systems without being defined by the system it contributes to.
 
 # Telemetry
 The process/practice of **automatically** doing the following: (1) making measurements/records from **remote sources** (the events/data/information to be measured/recorded originate from here) and (2) transmitting these measurements/records to a specified system (receiver/processor/storage/hybrid) - this specified system is the point of reference for observability (relative to which remote sources are "remote").
 
 > **NOTE**: "Specified" => Predetermined by design, not accidentally/coincidentally.
 
-Why consider both measurements and records? Because, in essence, telemetry is about **automatic observation**, and both measurements and records count as kinds of observations that can be automated, i.e. captured and persisted independently of conscious experience.
+Why consider both measurements and records? Because, in essence, telemetry is about **automatic observation followed by automatic transmission (of this observation)**, and both measurements and records count as kinds of observations that can be automated, i.e. captured and persisted independently of conscious experience.

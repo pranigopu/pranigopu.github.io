@@ -5,5 +5,10 @@
 ---
 
 # Explore
-- [Telemetry](https://pranigopu.github.io/observability/telemetry.html)
-- [OTel](https://pranigopu.github.io/observability/otel.html)
+## Terminology
+- [Common Terms](./common-terms.md)
+- [Telemetry](./telemetry.md)
+
+## Technology
+- [OTel](./otel.md)
+- [Prometheus](./prometheus.md)
