@@ -16,6 +16,8 @@
 - [Intent](#intent)
   - [Lineage](#lineage)
   - [Conclusion](#conclusion)
+- [Additions to the OTel ecosystem](#additions-to-the-otel-ecosystem)
+  - [OTel Collector](#otel-collector)
 
 ---
 
@@ -196,4 +198,19 @@ OpenCensus is a set of libraries for various languages that allow you to collect
 > - [OpenTelemetry: The Merger of OpenCensus and OpenTracing, **opensource.googleblog.com/2019/05/opentelemetry-merger-of-opencensus-and.html**](https://opensource.googleblog.com/2019/05/opentelemetry-merger-of-opencensus-and.html)
 
 ## Conclusion
-OTel comes from a lineage of distributed tracing solutions, from tools and platforms to API specifications to libraries and, finally, to a framework that combines requirements, standards, specifications, and libraries, along with tooling (e.g. OTel Collector, which shall be discussed below). The goal was always this: ensure a complex, distributed system does not remain a blackbox. The intent of OTel (following from OpenTrace's and OpenCensus' goals) was to ensure such transparency could be achieved in a ubiquitous (i.e. arbitrarily scalable and granular), continuous, and vendor-neutral manner, from the level of specifications to libraries to tooling.
+OTel comes from a lineage of distributed tracing solutions, from tools and platforms to API specifications to libraries and, finally, to a framework that combines requirements, standards, specifications, and libraries, along with tooling (e.g. OTel Collector, which shall be discussed below). The goal was always this: **ensure a complex, distributed system does not remain a blackbox**. The intent of OTel (following from OpenTracing's and OpenCensus' goals) was to ensure such transparency could be achieved in a ubiquitous (i.e. arbitrarily scalable and granular), continuous, and vendor-neutral manner, from the level of specifications to libraries to tooling. Furthermore, OTel generalises beyond traces, serving as a framework for all levels of telemetry (logs, events, metrics, traces, etc.) while also serving the intent of sharing context in a traceable and interpretable manner across components and cross-cutting concerns in a distributed system.
+
+# Additions to the OTel ecosystem
+## OTel Collector
+The OpenTelemetry Collector is a **vendor-neutral telemetry processing agent**: a stateless binary that receives telemetry (logs, metrics, traces), optionally transforms it, and exports it to one or more backends. It is not an SDK, not an observability backend, and does not store data.
+
+As discussed above, OTel itself is a CNCF-graduated open-source framework that standardises how telemetry is collected, processed, and exported across distributed systems. The OTel Collector is an add-on (not core) component of this framework - specifically, it is an add-on component that handles the part of the pipeline tying remote data sources to storage backends.
+
+> **References**:
+>
+> - [OpenTelemetry Collector, **opentelemetry.io/docs/collector**](https://opentelemetry.io/docs/collector/)
+> - [OpenTelemetry CNCF project, **cncf.io/projects/opentelemetry**](https://www.cncf.io/projects/opentelemetry/)
+
+The Collector exists in two distributions: `core` (maintained by the OTel project, fewer components) and `contrib` (maintained by the community, includes the ClickHouse exporter and `k8s_attributes` processor). For EKS + ClickHouse use cases, the `contrib` distribution is required.
+
+> **Reference**: [*opentelemetry-collector-contrib*, **github.com/open-telemetry**](https://github.com/open-telemetry/opentelemetry-collector-contrib)

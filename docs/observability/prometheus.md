@@ -13,6 +13,9 @@
   - [Sample in Prometheus](#sample-in-prometheus)
 - [What is Prometheus?](#what-is-prometheus)
 - [Intent](#intent)
+- [Design-level details](#design-level-details)
+  - [Prometheus server as the core](#prometheus-server-as-the-core)
+  - [Prometheus data model](#prometheus-data-model)
 
 ---
 
@@ -161,4 +164,62 @@ To support this intent, Prometheus has some important features:
    > Allows the selection/filtering/altering of scrape targets after the initial service discovery, ensuring that the scrape targets can be narrowed down to what is desired rather than whatever the service discovery brings up. This helps prevent unintended bloat in the metrics collection and storage, which is important for reliability and efficiency.
 - Metrics relabelling
    > Allows for the selection/filtering/altering of metrics after their collection. This is another mechanism to allow for selectivity and prevent unintended bloat, just further downstream compared to target relabelling.
+
+# Design-level details
+## Prometheus server as the core
+The core component of a Prometheus deployment is the Prometheus server, which is a process (shipped as a single binary, without dependencies, true to the self-reliant, self-contained design philosophy) that performs the core functions of Prometheus:
+
+1. Metrics retrieval, which involves:
+   1. Service discovery of scrape targets
+   2. Scraping the targets for metrics
+2. Metrics storage in the TSDB
+   > This TSDB is persisted on disk.
+3. Query engine (that uses PromQL as its query language)
+
+Additionally, the Prometheus server also contains:
+
+- Prometheus web UI, which includes:
+  - PromQL querying
+  - Basic graphing based on queries
+  - Viewing active targets
+  - Viewing configured alerts
+- A mechanism to define alert rules and fire alerts
+
+Other functions are shipped as separate processes, e.g.:
+
+- Pushgateway that enables:
+  - Data sources to push metrics to it
+  - Prometheus to scrape these via Pushgateway's endpoints
+   > Intended for metrics pushed by short-lived jobs that could disappear before a scrape can happen.
+- Prometheus web UI
+- Alertmanager (to which Prometheus can send its alerts)
+   > Manages downstream use-cases (e.g. emailing notifications).
+- Dashboarding and graphing via Grafana
+
+## Prometheus data model
+Time series are frequently identified using this notation:
+
+```
+<metric name>{<label name>="<label value>", ...}
+```
+
+For example, given:
+
+- Metric name: `api_http_requests_total`
+- Labels: `method="POST"` and `handler="/messages"`
+
+This is written as:
+
+```
+api_http_requests_total{method="POST", handler="/messages"}
+```
+
+> **NOTE**:
+> 
+> - Each unique combination of metric name and label values defines a distinct **series**
+> - This identity is created at write time and persists in memory
+
+---
+
+> **Reference**: [Data model, **prometheus.io/docs/concepts/data_model**](https://prometheus.io/docs/concepts/data_model/)
 

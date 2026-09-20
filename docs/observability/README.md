@@ -9,6 +9,8 @@
 - [Common Terms](./common-terms.md)
 - [Telemetry](./telemetry.md)
 
-## Technology
+## Deeper technical references
 - [OTel](./otel.md)
 - [Prometheus](./prometheus.md)
+
+## Essays & other writings
