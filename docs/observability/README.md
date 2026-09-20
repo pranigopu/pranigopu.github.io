@@ -14,3 +14,4 @@
 - [Prometheus](./prometheus.md)
 
 ## Essays & other writings
+- [OTel + Prometheus in a Push-Based Architecture](./otel-plus-prometheus-in-a-push-based-architecture.md)
