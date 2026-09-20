@@ -13,5 +13,9 @@
 - [OTel](./otel.md)
 - [Prometheus](./prometheus.md)
 
-## Essays & other writings
-- [OTel + Prometheus in a Push-Based Architecture](./otel-plus-prometheus-in-a-push-based-architecture.md)
+## Other writings
+- [Statement Of Motivation](./statement-of-motivation.md)
+- [OPCM](./opcm.md)
+    > OPCM = OTel + Prometheus Centralised Monitoring
+    > 
+    > Contains navigation to OPCM-related writings.
