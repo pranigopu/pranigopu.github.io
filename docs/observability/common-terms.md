@@ -6,6 +6,11 @@
 
 **Contents**:
 
+- [Observability building-blocks](#observability-building-blocks)
+  - [Event](#event)
+  - [Log](#log)
+  - [Span](#span)
+  - [Trace](#trace)
 - [Measurement](#measurement)
 - [Metric](#metric)
 - [Monitoring](#monitoring)
@@ -14,6 +19,33 @@
 - [Transmission](#transmission)
 
 ---
+
+# Observability building-blocks
+## Event
+Events are structured logs (see: ["Log"](#log)). They follow a standardised format (e.g. JSON).
+
+> **Reference**: [Unpacking Observability: Understanding Logs, Events, Traces, and Spans, **medium.com/dzerolabs/observability-journey-understanding-logs-events-traces-and-spans-836524d63172**](https://medium.com/dzerolabs/observability-journey-understanding-logs-events-traces-and-spans-836524d63172)
+
+## Log
+Logs are human-readable flat text data that are used by developers to capture useful data that may be unstructured (e.g. error messages, console outputs for the program's progress information, etc.). Logs messages occur at a single point in time. Log formats are not standardised across languages or frameworks, so they can be hard to parse and challenging to query.
+
+> **Reference**: [Unpacking Observability: Understanding Logs, Events, Traces, and Spans, **medium.com/dzerolabs/observability-journey-understanding-logs-events-traces-and-spans-836524d63172**](https://medium.com/dzerolabs/observability-journey-understanding-logs-events-traces-and-spans-836524d63172)
+
+## Span
+A span represents a unit of work. They can be thought of as the work being done during an operation's execution. Logs (see: ["Log"](#log)) represent occurrences at a specific point in time. Events (see: ["Event"](#event)) are not that much more useful, other than being easier to read and query. A span, on the other hand, is captured information for a given block of time.
+
+> **NOTE**: A span is the basic building block of a trace (see: ["Trace"](#trace)). A trace is made up of a tree of spans, starting with a root span (i.e. span with no parent), which encapsulates the end-to-end time that it takes to accomplish a task.
+
+> **Reference**: [Unpacking Observability: Understanding Logs, Events, Traces, and Spans, **medium.com/dzerolabs/observability-journey-understanding-logs-events-traces-and-spans-836524d63172**](https://medium.com/dzerolabs/observability-journey-understanding-logs-events-traces-and-spans-836524d63172)
+
+## Trace
+Traces (also known as distributed traces) are data are a type of data that captures requests as they flow through a system, capturing key steps across services and components. They help identify errors, slowdowns, and bottlenecks, allowing IT teams to resolve problems quickly and optimise performance.
+
+> **Reference**: [What Are Traces in Observability? Concepts and Examples, **edgedelta.com/company/knowledge-center/what-are-traces-in-observability**](https://edgedelta.com/company/knowledge-center/what-are-traces-in-observability)
+
+A span (see: ["Span"](#span)) is the basic building block of a trace (see: ["Trace"](#trace)). A trace is made up of a tree of spans, starting with a root span (i.e. span with no parent), which encapsulates the end-to-end time that it takes to accomplish a task.
+
+> **Reference**: [Unpacking Observability: Understanding Logs, Events, Traces, and Spans, **medium.com/dzerolabs/observability-journey-understanding-logs-events-traces-and-spans-836524d63172**](https://medium.com/dzerolabs/observability-journey-understanding-logs-events-traces-and-spans-836524d63172)
 
 # Measurement
 Measurement is the act or product of relating a known/fixed instance of an attribute to an unknown/variable instance of the same. For example, we can know/fix a "second" by marking it perceptually or via a pendulum swing, and through relating N seconds to a span of events that occur, we can measure the time it took for the events to occur. As another example, we can know/fix a meter perceptually, maybe by reference to a "standard" object or marking, and through relating N meters to a one-dimensional span of space, we can measure the length of this space.
