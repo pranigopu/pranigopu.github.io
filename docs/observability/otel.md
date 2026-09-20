@@ -132,7 +132,7 @@ The motivating problem was the opacity in the workings of large-scale distribute
 >   - Spell-checking
 >   - Subsystems to manage image and video searches
 
-To fundamental requirements for Dapper to address its motivating problem:
+2 fundamental requirements for Dapper to address its motivating problem:
 
 1. Ubiquitous deployment
   > The usefulness of tracing depends on all parts of the system being monitored.
