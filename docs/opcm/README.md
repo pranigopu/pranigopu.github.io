@@ -1,10 +1,6 @@
-[<< **Observability**](https://pranigopu.github.io/observability)
-
-**Context**: [OPCM](./opcm.md)
+[<< **Home Page**](https://pranigopu.github.io)
 
 <h1>OPCM</h1>
-
-**Main Page**:
 
 > OPCM = OTel + Prometheus Centralised Monitoring
 
@@ -13,7 +9,9 @@
 **Contents**:
 
 - [About](#about)
-- [Navigate](#navigate)
+- [Explore](#explore)
+  - [Conceptual foundations](#conceptual-foundations)
+  - [Project-related writings](#project-related-writings)
 
 ---
 
@@ -24,5 +22,13 @@ I recently created an observability solution for my organisation. The key ask wa
 
 To sum up, this project is about centralised metrics monitoring, standardised using OTel framework, hosted on Kubernetes as the platform (via AWS EKS) and AWS as the cloud provider, centralised using Prometheus as the metrics aggregator, with OTel Collectors as the collection-point for local (in-cluster) telemetry. More abstractly, there are remote sources - endpoints within a cluster, clusters within a set of clusters, all spokes to a hub - and a central system - the hub itself - for receiving, processing, and storing telemetry from these remote sources.
 
-# Navigate
+# Explore
+## Conceptual foundations
+- [Common Terms](./common-terms.md)
+- [Telemetry](./telemetry.md)
+- [OTel](./otel.md)
+- [Prometheus](./prometheus.md)
+
+## Project-related writings
+- [Statement Of Motivation](./statement-of-motivation.md)
 - [Philosophical Compromise & Potential](./opcm-philosophical-compromise-and-potential.md)

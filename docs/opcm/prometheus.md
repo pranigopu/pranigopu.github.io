@@ -1,4 +1,4 @@
-[<< **Observability**](https://pranigopu.github.io/observability)
+[<< **OPCM**](https://pranigopu.github.io/opcm)
 
 <h1>Prometheus</h1>
 

@@ -1,6 +1,4 @@
-[<< **Observability**](https://pranigopu.github.io/observability)
-
-**Context**: [OPCM](./opcm.md)
+[<< **OPCM**](https://pranigopu.github.io/opcm)
 
 <h1>Philosophical Compromise & Potential</h1>
 
