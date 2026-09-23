@@ -83,7 +83,7 @@ Collection of my work in:
       var items = rows.filter(function (r) { return r.cat === c && (!term || r.text.indexOf(term) >= 0); });
       if (!items.length) return;
       shown += items.length;
-      html += '<h3>' + esc(c) + '</h3><ul>' + items.map(function (r) { return '<li>' + r.work + ' - ' + r.desc + '</li>'; }).join('') + '</ul>';
+      html += '<h3>' + esc(c) + '</h3><ul>' + items.map(function (r) { return '<li>' + r.work + ' <br> <blockquote>' + r.desc + '</blockquote></li>'; }).join('') + '</ul>';
     });
     out.innerHTML = html || '<p>No works match.</p>';
     status.textContent = 'Showing ' + shown + ' of ' + rows.length + ' works';
