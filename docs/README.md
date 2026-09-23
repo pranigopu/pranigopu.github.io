@@ -43,7 +43,7 @@ Collection of my work in:
 | Computer Science | [Gamification: *Non-Game Applications of Video Game Concepts*](https://pranigopu.github.io/gamification.html) | An essay on the value and potential of gamification beyond games. |
 | Mathematics | [Applications of Number Theory](https://pranigopu.github.io/applications-of-number-theory/) | Number theory is quite an abstract field of Mathematics, but its applications can be surprisingly practical. |
 | Mathematics | [Linear vs. Nonlinear Phenomena](https://pranigopu.github.io/linear-vs-nonlinear-phenomena.html) | An essay on linear vs. nonlinear systems, and the value in understanding their nature and relating them. |
-| Agentic AI | [Agentic AI](https://pranigopu.github.io/agentic-ai) | A page containing my writings on agentic AI from a foundational level. |
+| Agentic AI | [Foundations of Agentic AI](https://pranigopu.github.io/foundations-of-agentic-ai) | A page containing my writings on agentic AI from a foundational level. |
 | Observability | [OPCM](https://pranigopu.github.io/opcm) | OTel + Prometheus Centralised Monitoring, based on my journey in a professional project. |
 
 <!-- The following must come after the above table, so the above table is loaded before the script tries to search and organise it -->

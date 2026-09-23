@@ -1,6 +1,6 @@
 [<< **Home Page**](https://pranigopu.github.io)
 
-<h1>Agentic AI</h1>
+<h1>Foundations of Agentic AI</h1>
 
 ---
 

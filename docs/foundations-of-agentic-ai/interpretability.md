@@ -1,4 +1,4 @@
-[<< **Agentic AI**](https://pranigopu.github.io/agentic-ai)
+[<< **Foundations of Agentic AI**](https://pranigopu.github.io/foundations-of-agentic-ai)
 
 <h1>Interpretability</h1>
 

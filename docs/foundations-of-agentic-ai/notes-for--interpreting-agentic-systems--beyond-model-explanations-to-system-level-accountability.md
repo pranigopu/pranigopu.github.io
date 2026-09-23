@@ -1,4 +1,4 @@
-[<< **Agentic AI**](https://pranigopu.github.io/agentic-ai)
+[<< **Foundations of Agentic AI**](https://pranigopu.github.io/foundations-of-agentic-ai)
 
 **BRANCH 2 from document**: [Interpretability](https://pranigopu.github.io/agentic-ai/interpretability.html#development-interpretability-and-accountability)
 
