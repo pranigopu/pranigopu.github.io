@@ -28,6 +28,85 @@ Collection of my work in:
 
 # Categorised Work
 
+<div id="works-explorer" hidden>
+<input type="search" id="we-q" placeholder="Search works by title, topic or keyword" aria-label="Search works">
+<div id="we-chips" class="we-chips" role="group" aria-label="Filter by category"></div>
+<p id="we-status" class="we-status" aria-live="polite"></p>
+<div id="we-results"></div>
+</div>
+<style>
+#works-explorer{--we-line:color-mix(in srgb,currentColor 20%,transparent);--we-soft:color-mix(in srgb,currentColor 8%,transparent);margin:1.5rem 0}
+#works-explorer input{width:100%;box-sizing:border-box;padding:.65rem .85rem;font:inherit;color:inherit;background:transparent;border:1px solid var(--we-line);border-radius:6px}
+#works-explorer input:focus-visible,#works-explorer .we-chip:focus-visible{outline:2px solid currentColor;outline-offset:2px}
+.we-chips{display:flex;flex-wrap:wrap;gap:.4rem;margin:.9rem 0 .4rem}
+.we-chip{font:inherit;font-size:.85em;color:inherit;background:transparent;border:1px solid var(--we-line);border-radius:999px;padding:.25rem .75rem;cursor:pointer}
+.we-chip span{opacity:.6;margin-left:.2rem}
+.we-chip:hover{background:var(--we-soft)}
+.we-chip[aria-pressed="true"]{background:var(--we-soft);border-color:currentColor;font-weight:600}
+.we-status{font-size:.85em;opacity:.7;margin:.4rem 0 1rem}
+.we-group{margin:0 0 1.75rem}
+.we-h{font-weight:700;font-size:1.05em;padding-bottom:.35rem;margin-bottom:.75rem;border-bottom:1px solid var(--we-line)}
+.we-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:.75rem}
+.we-card{border:1px solid var(--we-line);border-radius:6px;padding:.8rem .9rem;display:flex;flex-direction:column;gap:.35rem}
+.we-card:hover{background:var(--we-soft)}
+.we-kind{align-self:flex-start;font-size:.72em;border:1px solid var(--we-line);border-radius:4px;padding:0 .4rem;opacity:.75}
+.we-title{font-weight:600;line-height:1.3;overflow-wrap:anywhere}
+.we-desc{font-size:.9em;opacity:.85;line-height:1.45}
+</style>
+<script>
+(function () {
+  var box = document.getElementById('works-explorer');
+  var table = Array.from(document.querySelectorAll('table')).find(function (t) {
+    return Array.from(t.querySelectorAll('th')).map(function (th) { return th.textContent.trim().toLowerCase(); }).join('|') === 'category|work|description';
+  });
+  if (!box || !table) return;
+  var esc = function (s) { return s.replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); };
+  var rows = Array.from(table.querySelectorAll('tbody tr')).map(function (tr) {
+    var c = tr.children, a = c[1].querySelector('a'), href = a ? a.href : '';
+    return {
+      cat: c[0].textContent.trim(), work: c[1].innerHTML, desc: c[2].innerHTML, text: tr.textContent.toLowerCase(),
+      kind: /github\.com/.test(href) ? 'GitHub' : /\.pdf($|\?)/i.test(href) ? 'PDF' : 'Page'
+    };
+  });
+  var cats = [];
+  rows.forEach(function (r) { if (cats.indexOf(r.cat) < 0) cats.push(r.cat); });
+  var state = { cat: '', q: '' };
+  var m = location.hash.match(/cat=([^&]*)/);
+  if (m) { var c0 = decodeURIComponent(m[1]); if (cats.indexOf(c0) >= 0) state.cat = c0; }
+  var q = box.querySelector('#we-q'), chips = box.querySelector('#we-chips'), out = box.querySelector('#we-results'), status = box.querySelector('#we-status');
+  var count = function (c) { return rows.filter(function (r) { return r.cat === c; }).length; };
+  chips.innerHTML = [['', 'All', rows.length]].concat(cats.map(function (c) { return [c, c, count(c)]; })).map(function (x) {
+    return '<button type="button" class="we-chip" data-cat="' + esc(x[0]) + '" aria-pressed="' + (state.cat === x[0]) + '">' + esc(x[1]) + ' <span>' + x[2] + '</span></button>';
+  }).join('');
+  function draw() {
+    var term = state.q.trim().toLowerCase(), shown = 0, html = '';
+    cats.forEach(function (c) {
+      if (state.cat && state.cat !== c) return;
+      var items = rows.filter(function (r) { return r.cat === c && (!term || r.text.indexOf(term) >= 0); });
+      if (!items.length) return;
+      shown += items.length;
+      html += '<section class="we-group"><div class="we-h">' + esc(c) + '</div><div class="we-grid">' + items.map(function (r) {
+        return '<article class="we-card"><span class="we-kind">' + r.kind + '</span><div class="we-title">' + r.work + '</div><div class="we-desc">' + r.desc + '</div></article>';
+      }).join('') + '</div></section>';
+    });
+    out.innerHTML = html || '<p>No works match. Try another word or pick a different category.</p>';
+    status.textContent = 'Showing ' + shown + ' of ' + rows.length + ' works';
+  }
+  chips.addEventListener('click', function (e) {
+    var b = e.target.closest('.we-chip');
+    if (!b) return;
+    state.cat = state.cat === b.dataset.cat ? '' : b.dataset.cat;
+    chips.querySelectorAll('.we-chip').forEach(function (x) { x.setAttribute('aria-pressed', String(x.dataset.cat === state.cat)); });
+    history.replaceState(null, '', state.cat ? '#cat=' + encodeURIComponent(state.cat) : location.pathname + location.search);
+    draw();
+  });
+  q.addEventListener('input', function () { state.q = q.value; draw(); });
+  table.style.display = 'none';
+  box.hidden = false;
+  draw();
+})();
+</script>
+
 | Category | Work | Description |
 | --- | --- | --- |
 | Bayesian Deep Learning | [Comparative Evaluation of Uncertainty Quantification of BNNs (PDF)](https://pranigopu.github.io/comparative-evaluation-of-uncertainty-quantification-of-bnns.pdf) | My master's thesis |
@@ -48,7 +127,5 @@ Collection of my work in:
 
 # Uncategorised Work
 > May eventually be migrated to "Categorised Work".
-
-Sometimes, thoughts know no bounds.
 
 **See**: [Untitled](./untitled/)
