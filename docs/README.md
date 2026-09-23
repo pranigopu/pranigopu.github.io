@@ -46,31 +46,14 @@ Collection of my work in:
 | Agentic AI | [Agentic AI](https://pranigopu.github.io/agentic-ai) | A page containing my writings on agentic AI from a foundational level. |
 | Observability | [OPCM](https://pranigopu.github.io/opcm) | OTel + Prometheus Centralised Monitoring, based on my journey in a professional project. |
 
+<!-- The following must come after the above table, so the above table is loaded before the script tries to search and organise it -->
 <div id="works-explorer" hidden>
-<input type="search" id="we-q" placeholder="Search works by title, topic or keyword" aria-label="Search works">
-<div id="we-chips" class="we-chips" role="group" aria-label="Filter by category"></div>
-<p id="we-status" class="we-status" aria-live="polite"></p>
+<input type="search" id="we-q" placeholder="Search works" aria-label="Search works">
+<p id="we-chips"></p>
+<p id="we-status" aria-live="polite"></p>
 <div id="we-results"></div>
 </div>
-<style>
-#works-explorer{--we-line:color-mix(in srgb,currentColor 20%,transparent);--we-soft:color-mix(in srgb,currentColor 8%,transparent);margin:1.5rem 0}
-#works-explorer input{width:100%;box-sizing:border-box;padding:.65rem .85rem;font:inherit;color:inherit;background:transparent;border:1px solid var(--we-line);border-radius:6px}
-#works-explorer input:focus-visible,#works-explorer .we-chip:focus-visible{outline:2px solid currentColor;outline-offset:2px}
-.we-chips{display:flex;flex-wrap:wrap;gap:.4rem;margin:.9rem 0 .4rem}
-.we-chip{font:inherit;font-size:.85em;color:inherit;background:transparent;border:1px solid var(--we-line);border-radius:999px;padding:.25rem .75rem;cursor:pointer}
-.we-chip span{opacity:.6;margin-left:.2rem}
-.we-chip:hover{background:var(--we-soft)}
-.we-chip[aria-pressed="true"]{background:var(--we-soft);border-color:currentColor;font-weight:600}
-.we-status{font-size:.85em;opacity:.7;margin:.4rem 0 1rem}
-.we-group{margin:0 0 1.75rem}
-.we-h{font-weight:700;font-size:1.05em;padding-bottom:.35rem;margin-bottom:.75rem;border-bottom:1px solid var(--we-line)}
-.we-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:.75rem}
-.we-card{border:1px solid var(--we-line);border-radius:6px;padding:.8rem .9rem;display:flex;flex-direction:column;gap:.35rem}
-.we-card:hover{background:var(--we-soft)}
-.we-kind{align-self:flex-start;font-size:.72em;border:1px solid var(--we-line);border-radius:4px;padding:0 .4rem;opacity:.75}
-.we-title{font-weight:600;line-height:1.3;overflow-wrap:anywhere}
-.we-desc{font-size:.9em;opacity:.85;line-height:1.45}
-</style>
+<style>#we-chips button[aria-pressed="true"]{font-weight:bold}</style>
 <script>
 (function () {
   var box = document.getElementById('works-explorer');
@@ -80,11 +63,8 @@ Collection of my work in:
   if (!box || !table) return;
   var esc = function (s) { return s.replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); };
   var rows = Array.from(table.querySelectorAll('tbody tr')).map(function (tr) {
-    var c = tr.children, a = c[1].querySelector('a'), href = a ? a.href : '';
-    return {
-      cat: c[0].textContent.trim(), work: c[1].innerHTML, desc: c[2].innerHTML, text: tr.textContent.toLowerCase(),
-      kind: /github\.com/.test(href) ? 'GitHub' : /\.pdf($|\?)/i.test(href) ? 'PDF' : 'Page'
-    };
+    var c = tr.children;
+    return { cat: c[0].textContent.trim(), work: c[1].innerHTML, desc: c[2].innerHTML, text: tr.textContent.toLowerCase() };
   });
   var cats = [];
   rows.forEach(function (r) { if (cats.indexOf(r.cat) < 0) cats.push(r.cat); });
@@ -94,8 +74,8 @@ Collection of my work in:
   var q = box.querySelector('#we-q'), chips = box.querySelector('#we-chips'), out = box.querySelector('#we-results'), status = box.querySelector('#we-status');
   var count = function (c) { return rows.filter(function (r) { return r.cat === c; }).length; };
   chips.innerHTML = [['', 'All', rows.length]].concat(cats.map(function (c) { return [c, c, count(c)]; })).map(function (x) {
-    return '<button type="button" class="we-chip" data-cat="' + esc(x[0]) + '" aria-pressed="' + (state.cat === x[0]) + '">' + esc(x[1]) + ' <span>' + x[2] + '</span></button>';
-  }).join('');
+    return '<button type="button" data-cat="' + esc(x[0]) + '" aria-pressed="' + (state.cat === x[0]) + '">' + esc(x[1]) + ' (' + x[2] + ')</button>';
+  }).join(' ');
   function draw() {
     var term = state.q.trim().toLowerCase(), shown = 0, html = '';
     cats.forEach(function (c) {
@@ -103,18 +83,16 @@ Collection of my work in:
       var items = rows.filter(function (r) { return r.cat === c && (!term || r.text.indexOf(term) >= 0); });
       if (!items.length) return;
       shown += items.length;
-      html += '<section class="we-group"><div class="we-h">' + esc(c) + '</div><div class="we-grid">' + items.map(function (r) {
-        return '<article class="we-card"><span class="we-kind">' + r.kind + '</span><div class="we-title">' + r.work + '</div><div class="we-desc">' + r.desc + '</div></article>';
-      }).join('') + '</div></section>';
+      html += '<h3>' + esc(c) + '</h3><ul>' + items.map(function (r) { return '<li>' + r.work + ' — ' + r.desc + '</li>'; }).join('') + '</ul>';
     });
-    out.innerHTML = html || '<p>No works match. Try another word or pick a different category.</p>';
+    out.innerHTML = html || '<p>No works match.</p>';
     status.textContent = 'Showing ' + shown + ' of ' + rows.length + ' works';
   }
   chips.addEventListener('click', function (e) {
-    var b = e.target.closest('.we-chip');
+    var b = e.target.closest('button');
     if (!b) return;
     state.cat = state.cat === b.dataset.cat ? '' : b.dataset.cat;
-    chips.querySelectorAll('.we-chip').forEach(function (x) { x.setAttribute('aria-pressed', String(x.dataset.cat === state.cat)); });
+    chips.querySelectorAll('button').forEach(function (x) { x.setAttribute('aria-pressed', String(x.dataset.cat === state.cat)); });
     history.replaceState(null, '', state.cat ? '#cat=' + encodeURIComponent(state.cat) : location.pathname + location.search);
     draw();
   });
