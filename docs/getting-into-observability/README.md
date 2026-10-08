@@ -20,7 +20,7 @@ Observability is the ability to understand the internal state or condition of a 
 > **Reference**: [What is observability?, **www.ibm.com/think/topics/observability**](https://www.ibm.com/think/topics/observability)
 
 # Approach
-I want to clarity my approach to engaging with topics in observability in particular and technical topics in general, because it will help myself and you, the reader, understand how to structure our reading to get the most value and meaning out of the technical material. My approach involves the differentiation of 2 aspects of a study:
+I want to clarity my approach to engaging with topics in observability in particular and technical topics in general, because it will help myself and you, the reader, understand how to structure our reading to get the most value and meaning out of the technical material. My approach involves the differentiation of 2 aspects of study:
 
 1. Design focus
 2. Technical focus
