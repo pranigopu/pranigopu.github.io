@@ -20,7 +20,7 @@
     - [2. Kubernetes-Specific Telemetry](#2-kubernetes-specific-telemetry)
     - [3. Curated, Automatic Dashboards](#3-curated-automatic-dashboards)
     - [4. Diagnostic Information](#4-diagnostic-information)
-    - [5. Prometheus \& OpenTelemetry Integration](#5-prometheus--opentelemetry-integration)
+    - [5. Prometheus and OpenTelemetry Integration](#5-prometheus-and-opentelemetry-integration)
     - [6. Accelerated Compute Observability](#6-accelerated-compute-observability)
   - [Summary Table (EKS scope)](#summary-table-eks-scope)
 - [Installation Methods](#installation-methods)
@@ -145,7 +145,7 @@ Standard CloudWatch metrics for EKS operate at coarse granularity - typically cl
 > **Reference**: [*AWS What's New - Enhanced Observability for EKS, November 2023*, **aws.amazon.com/about-aws/whats-new/2023/11**](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-cloudwatch-container-insights-enhanced-observability-eks)
 
 ### 2. Kubernetes-Specific Telemetry
-***(Kube-State Metrics & Control Plane)***
+***(Kube-State Metrics and Control Plane)***
 
 *CloudWatch has no native understanding of Kubernetes abstractions.*
 
@@ -184,7 +184,7 @@ More specifically, Container Insights surfaces structured operational diagnostic
 
 > **Reference**: [*AWS Documentation - Container Insights*, **docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring**](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/ContainerInsights.html)
 
-### 5. Prometheus & OpenTelemetry Integration
+### 5. Prometheus and OpenTelemetry Integration
 The CloudWatch agent auto-discovers Prometheus metrics from containerised workloads on EKS and forwards them to CloudWatch as performance log events, removing the need for a standalone Prometheus server.
 
 > **Reference**: [*AWS Observability Best Practices - Collecting service metrics with Container Insights*, **aws-observability.github.io/observability-best-practices/guides/containers/aws-native/ecs**](https://aws-observability.github.io/observability-best-practices/guides/containers/aws-native/ecs/best-practices-metrics-collection-2/)

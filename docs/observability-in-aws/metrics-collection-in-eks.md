@@ -18,7 +18,7 @@
   - [Architecture](#architecture)
 - [Full Metrics Pipeline in Kubernetes](#full-metrics-pipeline-in-kubernetes)
   - [About](#about-1)
-  - [Scope \& Approach](#scope--approach)
+  - [Scope and Approach](#scope-and-approach)
 - [Key Aspects of EKS Metrics](#key-aspects-of-eks-metrics)
   - [Metrics API](#metrics-api)
   - [Custom Metrics API](#custom-metrics-api)
@@ -225,7 +225,7 @@ The architecture components consist of the following:
 
 A full metrics pipeline gives you access to richer metrics (as compared to resource metrics pipeline; see: [Resource Metrics Pipeline in Kubernetes, in this document](#resource-metrics-pipeline-in-kubernetes)). Kubernetes can respond to these metrics by automatically scaling or adapting the cluster based on its current state, using mechanisms such as the `HorizontalPodAutoscaler`. The monitoring pipeline fetches metrics from the kubelet and then exposes them to Kubernetes via an adapter by implementing either the `custom.metrics.k8s.io` or `external.metrics.k8s.io` API.
 
-## Scope & Approach
+## Scope and Approach
 
 When designing and implementing a full metrics pipeline you can make that monitoring data available back to Kubernetes. E.g. a `HorizontalPodAutoscaler` can use the processed metrics to work out how many pods to run for a component of your workload. Integration of a full metrics pipeline into a Kubernetes implementation is outside the scope of Kubernetes documentation because of the very wide scope of possible solutions (for reference, see: [CNCF Landscape, "Observability and Analysis - Monitoring" projects, **landscape.cncf.io**](https://landscape.cncf.io/?group=projects-and-products&view-mode=card#observability-and-analysis--monitoring); includes a mix of open-source software, paid-for software-as-a-service, and other commercial products).
 
