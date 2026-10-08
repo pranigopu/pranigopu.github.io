@@ -116,7 +116,7 @@ Collection of my work in:
       if (!items.length) return;
       shown += items.length;
       // One heading per category, followed by subcategories (if any).
-      html += '<h3>' + esc(c) + '</h3><ul>'
+      html += '<h3>' + esc(c) + '</h3><ul>';
       // Now list the subcategories.
       var subcats = items.map(function (r) { return r.subcat });
       // Deduplicating the list of subcategories.
