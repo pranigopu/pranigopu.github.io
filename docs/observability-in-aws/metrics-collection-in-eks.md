@@ -112,13 +112,101 @@ No matter how those statistics arrive, the kubelet then exposes the aggregated p
 
 The architecture components consist of the following:
 
-| Name | Description |
-| --- | --- |
-| cAdvisor | <ul><li>Daemon for... <ul><li>collecting</li><li>aggregating</li><li>exposing</li></ul>... container metrics included in Kubelet.</li><li>Embedded directly in the kubelet binary in modern Kubernetes <br> => <i>No separate installation required</i></li><li>Metrics are accessible via the kubelet's `/metrics/cadvisor` endpoint</li></ul> |
-| kubelet | <ul><li>Node agent for managing container resources</li>Resource metrics are accessible using the endpoints:<ul><li><code>/metrics/resource</code></li><li><code>/stats</code></li></ul></li></ul> |
-| node-level resource metrics | <ul><li>API provided by the kubelet</li><li>For discovering + retrieving per-node summarized stats</li><li>These stats are available through the <code>/metrics/resource</code> endpoint</li></ul> |
-| metrics-server | <ul><li>Cluster add-on component that collects + aggregates resource metrics</li><li>These resource metrics are pulled from each kubelet</li><li>API server serves Metrics API for use by:<ul><li>HPA (HorizontalPodAutoscaler)</li><li>VPA (VerticalPodAutoscaler)</li><li><code>kubectl top</code> command</li></ul></li><li>metrics-server is a reference implementation of the Metrics API</li><li>Default scrape interval is 60 seconds<ul><li>Configurable via <code>--metric-resolution</code> flag</li><li>The resolution at which kubelet calculates metrics is 15s</li><li>Hence, values below 15s are not recommended</li></ul></li></ul> |
-| Metrics API | <ul><li>Kubernetes API supporting access to... <ul><li>CPU</li><li>memory used</li></li></ul>... for workload autoscaling</li><li>To make this work in your cluster, you need... <ul><li>an API extension server</li><li>that provides the Metrics API</li></li></ul> |
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>cAdvisor</td>
+      <td>
+        <ul>
+          <li>Daemon for...
+            <ul>
+              <li>collecting</li>
+              <li>aggregating</li>
+              <li>exposing</li>
+            </ul>
+            ... container metrics included in Kubelet.
+          </li>
+          <li>Embedded directly in the kubelet binary in modern Kubernetes <br> =&gt; <i>No separate installation required</i></li>
+          <li>Metrics are accessible via the kubelet's <code>/metrics/cadvisor</code> endpoint</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>kubelet</td>
+      <td>
+        <ul>
+          <li>Node agent for managing container resources</li>
+          <li>Resource metrics are accessible using the endpoints:
+            <ul>
+              <li><code>/metrics/resource</code></li>
+              <li><code>/stats</code></li>
+            </ul>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>node-level resource metrics</td>
+      <td>
+        <ul>
+          <li>API provided by the kubelet</li>
+          <li>For discovering + retrieving per-node summarized stats</li>
+          <li>These stats are available through the <code>/metrics/resource</code> endpoint</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>metrics-server</td>
+      <td>
+        <ul>
+          <li>Cluster add-on component that collects + aggregates resource metrics</li>
+          <li>These resource metrics are pulled from each kubelet</li>
+          <li>API server serves Metrics API for use by:
+            <ul>
+              <li>HPA (HorizontalPodAutoscaler)</li>
+              <li>VPA (VerticalPodAutoscaler)</li>
+              <li><code>kubectl top</code> command</li>
+            </ul>
+          </li>
+          <li>metrics-server is a reference implementation of the Metrics API</li>
+          <li>Default scrape interval is 60 seconds
+            <ul>
+              <li>Configurable via <code>--metric-resolution</code> flag</li>
+              <li>The resolution at which kubelet calculates metrics is 15s</li>
+              <li>Hence, values below 15s are not recommended</li>
+            </ul>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Metrics API</td>
+      <td>
+        <ul>
+          <li>Kubernetes API supporting access to...
+            <ul>
+              <li>CPU</li>
+              <li>memory used</li>
+            </ul>
+            ... for workload autoscaling
+          </li>
+          <li>To make this work in your cluster, you need...
+            <ul>
+              <li>an API extension server</li>
+              <li>that provides the Metrics API</li>
+            </ul>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 **NOTE**: *cAdvisor supports reading metrics from cgroups (see [cgroup (Control Group), *MASTR*, **Untitled**](../untitled/miscellaneous-alphabetically-sorted-technical-references.md#cgroup-control-group)), which works with typical container runtimes on Linux. If you use a container runtime that uses another resource isolation mechanism (e.g. virtualization), then that container runtime must support CRI Container Metrics (see: [CRI (Container Runtime Interface) Container Metrics, *MASTR*, **Untitled**](../untitled/miscellaneous-alphabetically-sorted-technical-references.md#cri-container-runtime-interface-container-metrics)) in order for metrics to be available to the kubelet.*
 
