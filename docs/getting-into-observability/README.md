@@ -4,6 +4,16 @@
 
 ---
 
+**Contents**:
+
+- [About](#about)
+- [Approach](#approach)
+- [Explore](#explore)
+  - [Conceptual foundations](#conceptual-foundations)
+  - [Technologies](#technologies)
+
+---
+
 # About
 Observability is the ability to understand the internal state or condition of a complex system based solely on knowledge of its external outputs; in practice, external outputs often refer to the system's telemetry. The pursuit of observability involves the creation/maintenance of procedures, workflows, and infrastructure that facilitate both data collection and data inference.
 
