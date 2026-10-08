@@ -123,12 +123,12 @@ Collection of my work in:
       var deduped_subcats = subcats.filter(function (subcat, index) { return subcats.indexOf(subcat) === index; });
       subcats.forEach(function (s) {
           var items_for_subcat = items.filter(function (r) { r.subcat === s });
-          if (s !=== "none") {
+          if (s === "none") {
             html += '<h4> General </h4>';
           } else {
             html += '<h4> ' s ' </h4>';
           }
-          html += items_for_subcat.map(function (r) {
+          html += '<ul>' + items_for_subcat.map(function (r) {
             return '<li>' + r.work + ' <br> <blockquote>' + r.desc + '</blockquote></li>';
           }).join('') + '</ul>';
         }
