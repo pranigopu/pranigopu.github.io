@@ -10,7 +10,7 @@
 
 **Contents**:
 
-- [What is an OTel Collector?](#what-is-an-otel-collector)
+- [What is OTel Collector?](#what-is-otel-collector)
 - [Receiver -\> processor -\> exporter pipeline](#receiver---processor---exporter-pipeline)
   - [Flow overview](#flow-overview)
   - [Pipeline definition in config](#pipeline-definition-in-config)
@@ -39,7 +39,7 @@
 
 ---
 
-# What is an OTel Collector?
+# What is OTel Collector?
 The OpenTelemetry Collector is a **vendor-neutral telemetry processing agent**: a stateless binary that receives telemetry (logs, metrics, traces), optionally transforms it, and exports it to one or more backends. It is not an SDK, not an observability backend, and does not store data.
 
 As discussed above, OTel itself is a CNCF-graduated open-source framework that standardises how telemetry is collected, processed, and exported across distributed systems. The OTel Collector is an add-on (not core) component of this framework - specifically, it is an add-on component that handles the part of the pipeline tying remote data sources to storage backends.
