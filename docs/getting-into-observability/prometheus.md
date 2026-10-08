@@ -28,7 +28,7 @@
 - [Time series](./common-terms.md#time series)
 
 ## Label in Prometheus
-Key-value pairs attached to a metric.
+A key-value pair attached to a metric.
 
 > **NOTE**: A label is a specific key-value pair. Hence:
 >
@@ -62,6 +62,8 @@ Prometheus is an end-to-end opinionated dimensional time series metrics monitori
         > **KEY IDEA**: The monitoring system must survive when everything else is failing, and long-term global storage, cross-cluster querying, and durability are treated as separate concerns to be solved by other tools (e.g. Thanos for distributed storage).
         > 
         > "Prometheus is designed for reliability, to be the system you go to during an outage to allow you to quickly diagnose problems. Each Prometheus server is standalone, not depending on network storage or other remote services. You can rely on it when other parts of your infrastructure are broken, and you do not need to set up extensive infrastructure to use it."
+        > 
+        > (network storage => [network-attached storage](https://en.wikipedia.org/wiki/Network-attached_storage))
         > 
         > **Reference**: ["When does it fit?", Overview, **prometheus.io/docs/introduction/overview**](https://prometheus.io/docs/introduction/overview/#when-does-it-fit)
      1. Prometheus server is self-contained and autonomous
@@ -106,13 +108,13 @@ Prometheus was developed at SoundCloud (2012) to address the need to monitor a d
 
 - On-demand VMs are scaled up and down as required
 - Service instances are <br> - dynamically scheduled onto hosts <br> - by container orchestrators <br> - such as Kubernetes, Docker Swarm, or Mesos
-   > **NOTE**: The context here is a compute cluster (i.e. multiple physical/virtual machines working in a coordinated manner to address a common need or set of needs). "Service instance" is a copy of a service (i.e. an application or request-serving program). "Hosts" are the actual physical/virtual machines in the cluster in which workloads (processes, programs, and services) can run. "Dynamical scheduling" means that the decision of which service instance runs on which host is made automatically, during runtime, not by a fixed assignment before runtime.
+   > **NOTE**: The context here is a compute cluster (i.e. multiple physical/virtual machines working in a coordinated manner to address a common need or set of needs). "Service instance" is a copy of a service (i.e. an application or request-serving program). "Hosts" are the actual physical/virtual machines in the cluster in which workloads (processes, programs, and services) can run. "Dynamic scheduling" means that the decision of which service instance runs on which host is made automatically, during runtime, not by a fixed assignment before runtime.
 - Microservices lead to a growing number of individual services to operate and monitor
 
 These lead to a few concerns a monitoring system must address:
 
 1. **Dynamic components/attributes** (i.e. target/topology churn): For a monitoring system to work in such an environment, it must know - dynamically, during runtime (matching the dynamic scheduling described above as well as the potential proliferation of microservices) - which machines and/or service instances currently exist, what their identity is, and how to fetch metrics from them. Given the dynamic, automated nature of service instance scheduling as well as a non-static microservices architecture, monitoring targets cannot be statically configured.
-2. **Unknown dimensional hierarchy** (i.e. label/schema churn): We may know what metrics we want to capture, but since a dynamic cloud environment as such has no fixed architecture and has a number of components with dynamically defined attributes (e.g. service instances -> host mapping, host actually available, microservices actually available, etc.), the labelling (i.e. defining the dimensions) of these metrics (for downstream querying) must be flexible rather than adhering to a known hierarchy/structure of dimensions. The metrics are known, the dimensions are not.
+2. **Unknown dimensional hierarchy** (i.e. label/schema churn): We may know what metrics we want to capture, but since a dynamic cloud environment as such has no fixed architecture and has a number of components with dynamically defined attributes (e.g. service instances -> host mapping, hosts actually available, microservices actually available, etc.), the labelling (i.e. defining the dimensions) of these metrics (for downstream querying) must be flexible rather than adhering to a pre-defined hierarchy/structure of dimensions. The metrics are known, the dimensions are not.
 
 ---
 
@@ -121,7 +123,7 @@ Prometheus addresses these concerns as follows:
 **1. Dynamic components/attributes**:
 
 - Service discovery as a first-class subsystem
-   > Rather than treating "keep the target list current" as an added requirement on top of the core architecture, Prometheus has dynamic target discovery built into its core architecture, serving three distinct purposes: (1) building a view of what targets should exist (so it can detect and alert when one is unexpectedly missing, not just silently stop scraping it), (2) gaining the technical information needed to pull metrics from a target over HTTP, and (3) enriching the collected series with labelled metadata about the target's identity (this ties to the modelling of dimensions via labels discussed below: service discovery does not just find targets, it auto-populates the labels (pod name, namespace, node, etc.) that make those targets queryable and distinguishable once scraped).
+   > Rather than treating "keep the target list current" as an added requirement on top of the core architecture, Prometheus has dynamic target discovery built into its core architecture, serving three distinct purposes: (1) building a view of what targets should exist (so it can detect and alert when one is unexpectedly missing, not simply stop scraping it), (2) gaining the technical information needed to pull metrics from a target over HTTP, and (3) enriching the collected series with labelled metadata about the target's identity (this ties to the modelling of dimensions via labels discussed below: service discovery does not just find targets, it auto-populates the labels (pod name, namespace, node, etc.) that make those targets queryable and distinguishable once scraped).
    > 
    > **Reference**: [Service Discovery Integration, **training.promlabs.com/training/introduction-to-prometheus/prometheus-an-overview/service-discovery-integration**](https://training.promlabs.com/training/introduction-to-prometheus/prometheus-an-overview/service-discovery-integration/)
 - Pull-based metrics collection as the core default:
@@ -129,7 +131,7 @@ Prometheus addresses these concerns as follows:
 
 **2. Unknown dimensional hierarchy**:
 
-- Rather than encoding dimensions within a metric's name (e.g. `stats.api-server.tracks.post.500` for tracking the number of HTTP requests to API servers with the response code 500 and the method POST to the /tracks endpoint, an encoding seen in [Graphite](https://graphite.readthedocs.io/en/latest/)) and/or aggregating over instances (to gloss over the dynamic scheduling/creation/destruction), Prometheus encodes dimensions as key-value pairs (labels) (including instance identifiers, potentially) attached to a metric name (e.g. `api_server_http_requests_total{method="POST",handler="/tracks",status="500",instance="<sample1>"} `).
+- Rather than encoding dimensions within a metric's name (e.g. `stats.api-server.tracks.post.500` for tracking the number of HTTP requests to API servers with the response code 500 and the method POST to the /tracks endpoint, an encoding seen in [Graphite](https://graphite.readthedocs.io/en/latest/)) and/or aggregating over instances (thereby glossing over the dynamic scheduling/creation/destruction), Prometheus encodes dimensions as key-value pairs (labels) (including instance identifiers, potentially) attached to a metric name (e.g. `api_server_http_requests_total{method="POST",handler="/tracks",status="500",instance="<sample1>"} `).
    > => This approach uses flat labels for dimensions rather than dimensional hierarchy.
    > 
    > **References**:
@@ -191,7 +193,6 @@ Other functions are shipped as separate processes, e.g.:
   - Data sources to push metrics to it
   - Prometheus to scrape these via Pushgateway's endpoints
    > Intended for metrics pushed by short-lived jobs that could disappear before a scrape can happen.
-- Prometheus web UI
 - Alertmanager (to which Prometheus can send its alerts)
    > Manages downstream use-cases (e.g. emailing notifications).
 - Dashboarding and graphing via Grafana
