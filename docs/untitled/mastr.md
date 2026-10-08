@@ -31,7 +31,7 @@
   - [`port`](#port)
   - [`targetPort`](#targetport)
 - [Kubernetes StatefulSet](#kubernetes-statefulset)
-- [Prometheus `job` \& `instance`](#prometheus-job--instance)
+- [Prometheus `job` and `instance`](#prometheus-job-and-instance)
   - [Job](#job)
   - [Instance](#instance)
   - [Additional Point](#additional-point)
@@ -231,7 +231,7 @@ The StatefulSet guarantees that a given network identity will always map to the 
 
 > **Reference**: [*StatefulSet*, **kubernetes.io/docs/reference/kubernetes-api/apps**](https://kubernetes.io/docs/reference/kubernetes-api/apps/stateful-set-v1/)
 
-# Prometheus `job` & `instance`
+# Prometheus `job` and `instance`
 ## Job
 A job is a configured collection of targets that serve the same purpose (a replicated process, e.g. for scalability or reliability); Prometheus attaches the `job` label to every scraped series to record which configured job the target belongs to.
 
