@@ -120,7 +120,7 @@ Collection of my work in:
       // Now list the subcategories.
       var subcats = items.map(function (r) { return r.subcat });
       // Deduplicating the list of subcategories.
-      var deduped_subcats = subcats.filter(function (subcat, index) { return subcats.indexOf(subcat) === index; })
+      var deduped_subcats = subcats.filter(function (subcat, index) { return subcats.indexOf(subcat) === index; });
       subcats.forEach(function (s) {
           var items_for_subcat = items.filter(function (r) { r.subcat === s });
           if (s !=== "none") {
