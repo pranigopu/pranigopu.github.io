@@ -161,7 +161,7 @@ For Fluent Bit pods to reach the OTLP receiver, the Collector is exposed via a K
 <service-name>.<namespace>.svc.cluster.local
 ```
 
-For example, if the Service is named `otel-collector` in the `monitoring` namespace:
+For example, if the Service is named `otel-collector` in the `logging` namespace:
 
 ```
 otel-collector.logging.svc.cluster.local
@@ -223,7 +223,7 @@ processors:
   memory_limiter:
     check_interval:  1s
     limit_mib:       400
-    spike_limit_mib: 100   # soft ceiling; triggers early refusal
+    spike_limit_mib: 100   # the soft limit is limit_mib minus spike_limit_mib; this limit triggers early refusal
 ```
 
 > **Reference**: [`memory_limiter` processor, **github.com/open-telemetry/opentelemetry-collector/blob/main/processor/memorylimiterprocessor**](https://github.com/open-telemetry/opentelemetry-collector/blob/main/processor/memorylimiterprocessor/README.md)
