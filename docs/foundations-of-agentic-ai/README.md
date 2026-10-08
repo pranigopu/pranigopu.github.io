@@ -10,11 +10,11 @@ The evolution of AI from specialised ML to more general generative AI (including
 This potential seems immense in theory, but what are the implications of this potential in practice? I.e. what does this capacity of AI-powered agents to act autonomously mean for practical contexts, in terms of safety, reliability, effectiveness and efficiency? How would they work, and would this way of working enable us to establish robust, reliable solutions, or create new complications, or both? What is an agentic AI system anyway, how can it be effectively implemented, and who, in the end of the day, needs it at all? These are the questions I shall aim to answer.
 
 # Explore
-[Abbreviation Reference](https://pranigopu.github.io/agentic-ai/abbreviation-reference.html)
+[Abbreviation Reference](https://pranigopu.github.io/foundations-of-agentic-ai/abbreviation-reference.html)
 
 ---
 
-1. [Conceptual Foundations](https://pranigopu.github.io/agentic-ai/conceptual-foundation.html)
-2. [Interpretability](https://pranigopu.github.io/agentic-ai/interpretability.html)
+1. [Conceptual Foundations](https://pranigopu.github.io/foundations-of-agentic-ai/conceptual-foundation.html)
+2. [Interpretability](https://pranigopu.github.io/foundations-of-agentic-ai/interpretability.html)
    1. **BRANCH 1**: [Autonomy Levels in Agentic AI: *A Deep Analysis*](https://pranigopu.github.io/agentic-ai/autonomy-levels-in-agentic-ai--a-deep-analysis.html)
-   2. **BRANCH 2**: [Notes for Interpreting Agentic Systems: *Beyond Model Explanations to System-Level Accountability*](https://pranigopu.github.io/agentic-ai/notes-for--interpreting-agentic-systems--beyond-model-explanations-to-system-level-accountability.html)
+   2. **BRANCH 2**: [Notes for Interpreting Agentic Systems: *Beyond Model Explanations to System-Level Accountability*](https://pranigopu.github.io/foundations-of-agentic-ai/notes-for--interpreting-agentic-systems--beyond-model-explanations-to-system-level-accountability.html)
