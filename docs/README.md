@@ -117,7 +117,7 @@ Collection of my work in:
       if (!items.length) return;
       shown += items.length;
       // One heading per category, followed by subcategories (if any).
-      html += '<h3>' + esc(c) + '</h3>';
+      html += '<h2>' + esc(c) + '</h2>';
       // Collect the distinct category names in the order they first appear in the table.
       var subcats = ['none']; // Ensure the list of subcategories starts with "none" ("no subcategory").
       items.forEach(function (r) { if (subcats.indexOf(r.subcat) < 0) subcats.push(r.subcat); });
