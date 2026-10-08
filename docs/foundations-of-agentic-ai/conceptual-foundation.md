@@ -4,9 +4,9 @@
 
 Previous | Next
 --- | ---
-["About" section for **Agentic AI**](https://pranigopu.github.io/agentic-ai) | [Interpretability](https://pranigopu.github.io/agentic-ai/interpretability.html)
+["About" section for **Agentic AI**](https://pranigopu.github.io/foundations-of-agentic-ai) | [Interpretability](https://pranigopu.github.io/foundations-of-agentic-ai/interpretability.html)
 
-> [Abbreviation Reference](https://pranigopu.github.io/agentic-ai/abbreviation-reference.html)
+> [Abbreviation Reference](https://pranigopu.github.io/foundations-of-agentic-ai/abbreviation-reference.html)
 
 ---
 
@@ -123,7 +123,7 @@ A contextual definition of autonomy is key when discussing AI autonomy. A design
 > **Key references**:
 >
 > - [*Explaining Agentic AI: The Good, the Bad & the Ugly* by ExplainingComputers, **youtube.com**](https://www.youtube.com/watch?v=Gvt4TwGpqOs)
-> - [*What is agentic AI?*, **ibm.com/think/topics**](https://www.ibm.com/think/topics/agentic-ai)
+> - [*What is agentic AI?*, **ibm.com/think/topics**](https://www.ibm.com/think/topics/foundations-of-agentic-ai)
 > - [*What is Agentic AI?*, **databricks.com/blog**](https://www.databricks.com/blog/what-is-agentic-ai)
 
 ## AI Agent

@@ -1,6 +1,6 @@
 **Agentic AI**/**GenAI Use Details**
 
-- Document: [Autonomy Levels in Agentic AI: *A Deep Analysis*, **Agentic AI**](https://pranigopu.github.io/agentic-ai/autonomy-levels-in-agentic-ai--a-deep-analysis.html)
+- Document: [Autonomy Levels in Agentic AI: *A Deep Analysis*, **Agentic AI**](https://pranigopu.github.io/foundations-of-agentic-ai/autonomy-levels-in-agentic-ai--a-deep-analysis.html)
 - Description: Deep analysis of autonomy levels in agentic AI
 
 ---
@@ -21,7 +21,7 @@ Claude Sonnet 4.6
 `<START>`
 Talk in depth about:
 
-`all content of document`: [Conceptual Foundation](https://pranigopu.github.io/agentic-ai/conceptual-foundation.html)
+`all content of document`: [Conceptual Foundation](https://pranigopu.github.io/foundations-of-agentic-ai/conceptual-foundation.html)
 
 `<END>`
 
