@@ -29,7 +29,7 @@
 - [Trace](./common-terms.md#trace)
 
 ## Telemetry
-**See**: [*Telemetry*, **Observability**](https://pranigopu.github.io/observability/telemetry)
+**See**: [*Telemetry*, **Observability**](https://pranigopu.github.io/getting-into-observability/telemetry)
 
 ## Signal
 Category of telemetry, e.g.:
