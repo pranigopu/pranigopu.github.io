@@ -119,7 +119,7 @@ Collection of my work in:
       html += '<h3>' + esc(c) + '</h3>';
       // Collect the distinct category names in the order they first appear in the table.
       var subcats = [];
-      items.forEach(function (r) { if (subcats.indexOf(r.cat) < 0) subcats.push(r.subcat); });
+      items.forEach(function (r) { if (subcats.indexOf(r.subcat) < 0) subcats.push(r.subcat); });
       // One subheading per subcategory, followed by list of works + descriptions.
       subcats.forEach(function (s) {
           var items_for_subcat = items.filter(function (r) { r.subcat === s });
