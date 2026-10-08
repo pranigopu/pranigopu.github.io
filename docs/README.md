@@ -117,10 +117,10 @@ Collection of my work in:
       shown += items.length;
       // One heading per category, followed by subcategories (if any).
       html += '<h3>' + esc(c) + '</h3>';
-      // Now list the subcategories.
-      var subcats = items.map(function (r) { return r.subcat });
-      // Deduplicating the list of subcategories.
-      var deduped_subcats = subcats.filter(function (subcat, index) { return subcats.indexOf(subcat) === index; });
+      // Collect the distinct category names in the order they first appear in the table.
+      var subcats = [];
+      items.forEach(function (r) { if (subcats.indexOf(r.cat) < 0) subcats.push(r.subcat); });
+      // One subheading per subcategory, followed by list of works + descriptions.
       subcats.forEach(function (s) {
           var items_for_subcat = items.filter(function (r) { r.subcat === s });
           if (s === "none") {
