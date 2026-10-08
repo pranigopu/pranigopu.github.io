@@ -78,7 +78,7 @@ Collection of my work in:
     if (category_chain.length > 1) {
       return { cat: category_chain[0].trim(), work: c[1].innerHTML, desc: c[2].innerHTML, text: tr.textContent.toLowerCase(), subcat: category_chain[1].trim() };
     } else {
-      return { cat: c[0].textContent.split(',')[0].trim(), work: c[1].innerHTML, desc: c[2].innerHTML, text: tr.textContent.toLowerCase(), subcat: "<none>" };
+      return { cat: c[0].textContent.split(',')[0].trim(), work: c[1].innerHTML, desc: c[2].innerHTML, text: tr.textContent.toLowerCase(), subcat: "none" };
     }
     // NOTE: subcat ("subcategory") is the second listed category in the comma-separated list of categories.
   });
@@ -115,14 +115,24 @@ Collection of my work in:
       // Do not show a heading for a category with no matching rows.
       if (!items.length) return;
       shown += items.length;
-      // One heading per category, followed by a bulleted list of its works.
-      html += '<h3>' + esc(c) + '</h3><ul>' + items.map(function (r) {
-        if (r.subcat === "<none>") {
-          return '<li>' + r.work + ' <br> <blockquote>' + r.desc + '</blockquote></li>';
-        } else {
-          return '<li> <b>[' + r.subcat + ']</b> <br> ' + r.work + ' <br> <blockquote>' + r.desc + '</blockquote></li>';
+      // One heading per category, followed by subcategories (if any).
+      html += '<h3>' + esc(c) + '</h3><ul>'
+      // Now list the subcategories.
+      var subcats = items.map(function (r) { return r.subcat });
+      // Deduplicating the list of subcategories.
+      var deduped_subcats = subcats.filter(function (subcat, index) { return subcats.indexOf(subcat) === index; })
+      subcats.forEach(function (s) {
+          var items_for_subcat = items.filter(function (r) { r.subcat === s });
+          if (s !=== "none") {
+            html += '<h4> General </h4>';
+          } else {
+            html += '<h4> ' s ' </h4>';
+          }
+          html += items_for_subcat.map(function (r) {
+            return '<li>' + r.work + ' <br> <blockquote>' + r.desc + '</blockquote></li>';
+          }).join('') + '</ul>';
         }
-      }).join('') + '</ul>';
+      )
     });
     out.innerHTML = html || '<p>No works match.</p>';
     status.textContent = 'Showing ' + shown + ' of ' + rows.length + ' works';
