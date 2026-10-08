@@ -116,11 +116,13 @@ Collection of my work in:
       if (!items.length) return;
       shown += items.length;
       // One heading per category, followed by a bulleted list of its works.
-      if (r.subcat === "<none>") {
-        html += '<h3>' + esc(c) + '</h3><ul>' + items.map(function (r) { return '<li>' + r.work + ' <br> <blockquote>' + r.desc + '</blockquote></li>'; }).join('') + '</ul>';
-      } else {
-        html += '<h3>' + esc(c) + ' / ' + r.subcat + '</h3><ul>' + items.map(function (r) { return '<li>' + r.work + ' <br> <blockquote>' + r.desc + '</blockquote></li>'; }).join('') + '</ul>';
-      }
+      html += '<h3>' + esc(c) + '</h3><ul>' + items.map(function (r) {
+        if (r.subcat === "<none>") {
+          return '<li>' + r.work + ' <br> <blockquote>' + r.desc + '</blockquote></li>';
+        } else {
+          return '<li> <b>[' + r.subcat + ']</b> <br> ' + r.work + ' <br> <blockquote>' + r.desc + '</blockquote></li>';
+        }
+      }).join('') + '</ul>';
     });
     out.innerHTML = html || '<p>No works match.</p>';
     status.textContent = 'Showing ' + shown + ' of ' + rows.length + ' works';
