@@ -120,7 +120,7 @@ Collection of my work in:
       // Collect the distinct category names in the order they first appear in the table.
       var subcats = [];
       items.forEach(function (r) { if (subcats.indexOf(r.subcat) < 0) subcats.push(r.subcat); });
-      // One subheading per subcategory, followed by list of works + descriptions.
+      // One subheading per subcategory, followed by list of works and their respective descriptions.
       subcats.forEach(function (s) {
           var items_for_subcat = items.filter(function (r) { r.subcat === s });
           if (s === "none") {
