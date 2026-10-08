@@ -74,7 +74,11 @@ Collection of my work in:
   // Turn each table row into a plain object: its category, the Work cell's HTML (which includes the link), the Description cell's HTML, and all of the row's text in lowercase for searching.
   var rows = Array.from(table.querySelectorAll('tbody tr')).map(function (tr) {
     var c = tr.children;
-    return { cat: c[0].textContent.split(',')[0].trim(), work: c[1].innerHTML, desc: c[2].innerHTML, text: tr.textContent.toLowerCase(), subcat: c[0].textContent.split(',')[1].trim()};
+    if (c.length() > 1) {
+      return { cat: c[0].textContent.split(',')[0].trim(), work: c[1].innerHTML, desc: c[2].innerHTML, text: tr.textContent.toLowerCase(), subcat: c[0].textContent.split(',')[1].trim()};
+    } else {
+      return { cat: c[0].textContent.split(',')[0].trim(), work: c[1].innerHTML, desc: c[2].innerHTML, text: tr.textContent.toLowerCase(), subcat: "<none>"};
+    }
     // NOTE: subcat ("subcategory") is the second listed category in the comma-separated list of categories.
   });
   // Collect the distinct category names in the order they first appear in the table.
@@ -111,7 +115,11 @@ Collection of my work in:
       if (!items.length) return;
       shown += items.length;
       // One heading per category, followed by a bulleted list of its works.
-      html += '<h3>' + esc(c) + ' / ' + esc(r.subcat) '</h3><ul>' + items.map(function (r) { return '<li>' + r.work + ' <br> <blockquote>' + r.desc + '</blockquote></li>'; }).join('') + '</ul>';
+      if (r.subcat === "<none>") {
+        html += '<h3>' + esc(c) + '</h3><ul>' + items.map(function (r) { return '<li>' + r.work + ' <br> <blockquote>' + r.desc + '</blockquote></li>'; }).join('') + '</ul>';
+      } else {
+        html += '<h3>' + esc(c) + ' / ' + esc(r.subcat) '</h3><ul>' + items.map(function (r) { return '<li>' + r.work + ' <br> <blockquote>' + r.desc + '</blockquote></li>'; }).join('') + '</ul>';
+      }
     });
     out.innerHTML = html || '<p>No works match.</p>';
     status.textContent = 'Showing ' + shown + ' of ' + rows.length + ' works';
