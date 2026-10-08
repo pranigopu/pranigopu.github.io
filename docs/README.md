@@ -45,7 +45,7 @@ Collection of my work in:
 | Mathematics | [Applications of Number Theory](https://pranigopu.github.io/applications-of-number-theory/) | Number theory is quite an abstract discipline, but its applications can be surprisingly practical. |
 | Mathematics | [Linear vs. Nonlinear Phenomena](https://pranigopu.github.io/linear-vs-nonlinear-phenomena.html) | An essay on linear vs. nonlinear systems and the value of relating them. |
 | Observability | [Getting into Observability](https://pranigopu.github.io/getting-into-observability/) | Getting started with observability, conceptually and practically. |
-| Observability | [Observability in AWS](https://pranigopu.github.io/observability-in-aws/) | Focusing on observability infrastructure, tools. and solutions in AWS. |
+| Observability | [Observability in AWS](https://pranigopu.github.io/observability-in-aws/) | Focusing on observability infrastructure, tools, and solutions in AWS. |
 | Observability | [OPCM](https://pranigopu.github.io/opcm) | OTel + Prometheus Centralised Monitoring, based on my journey in a professional project. |
 
 <!-- The following must come after the above table, so the above table is loaded before the script tries to search and organise it -->
