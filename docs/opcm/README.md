@@ -24,4 +24,4 @@ To sum up, this project is about centralised metrics monitoring, standardised us
 > **Valuable context**: [**Getting into Observability**](https://pranigopu.github.io/getting-into-observability/)
 
 - [Statement Of Motivation](./statement-of-motivation.md)
-- [Philosophical Compromise & Potential](./opcm-philosophical-compromise-and-potential.md)
+- [Philosophical Compromise & Potential](./philosophical-compromise-and-potential.md)
