@@ -1,5 +1,7 @@
 [<< **Observability in AWS**](https://pranigopu.github.io/observability-in-aws/)
 
+**[DESIGN FOCUS]**
+
 <h1>Metrics Collection in EKS</h1>
 
 ---
