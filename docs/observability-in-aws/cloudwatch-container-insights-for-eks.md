@@ -1,6 +1,6 @@
 [<< **Observability in AWS**](https://pranigopu.github.io/observability-in-aws/)
 
-**[DESIGN FOCUS]**
+**[TECHNICAL FOCUS]**
 
 <h1>CloudWatch Container Insights for EKS</h1>
 
