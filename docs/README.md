@@ -116,7 +116,7 @@ Collection of my work in:
       if (!items.length) return;
       shown += items.length;
       // One heading per category, followed by subcategories (if any).
-      html += '<h3>' + esc(c) + '</h3><ul>';
+      html += '<h3>' + esc(c) + '</h3>';
       // Now list the subcategories.
       var subcats = items.map(function (r) { return r.subcat });
       // Deduplicating the list of subcategories.
@@ -124,9 +124,9 @@ Collection of my work in:
       subcats.forEach(function (s) {
           var items_for_subcat = items.filter(function (r) { r.subcat === s });
           if (s === "none") {
-            html += '<h4> General </h4>';
+            html += '<h4>General</h4>';
           } else {
-            html += '<h4> ' + s + ' </h4>';
+            html += '<h4>' + s + '</h4>';
           }
           html += '<ul>' + items_for_subcat.map(function (r) {
             return '<li>' + r.work + ' <br> <blockquote>' + r.desc + '</blockquote></li>';
