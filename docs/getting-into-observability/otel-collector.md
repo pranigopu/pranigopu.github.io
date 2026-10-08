@@ -1,5 +1,7 @@
 [<< **Getting into Observability**](https://pranigopu.github.io/getting-into-observability/)
 
+**[TECHNICAL FOCUS]**
+
 > **Parent document**: [*OTel*, **Getting into Observability**](./otel.md)
 
 <h1>OTel Collector</h1>

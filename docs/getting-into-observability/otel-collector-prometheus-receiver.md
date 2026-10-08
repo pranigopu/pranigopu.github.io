@@ -1,5 +1,7 @@
 [<< **Getting into Observability**](https://pranigopu.github.io/getting-into-observability/)
 
+**[TECHNICAL FOCUS]**
+
 > **Parent document**: [*OTel Collector*, **Getting into Observability**](./otel-collector.md)
 
 <h1>Prometheus Receiver</h1>

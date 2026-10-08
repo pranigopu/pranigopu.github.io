@@ -1,5 +1,7 @@
 [<< **Getting into Observability**](https://pranigopu.github.io/getting-into-observability/)
 
+**[DESIGN FOCUS]**
+
 <h1>Prometheus</h1>
 
 ---

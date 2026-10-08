@@ -1,5 +1,7 @@
 [<< **Getting into Observability**](https://pranigopu.github.io/getting-into-observability/)
 
+**[DESIGN FOCUS]**
+
 <h1>OTel</h1>
 
 > OTel = OpenTelemetry
