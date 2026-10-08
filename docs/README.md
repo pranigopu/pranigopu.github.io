@@ -128,6 +128,7 @@ Collection of my work in:
           } else {
             html += '<h4>' + s + '</h4>';
           }
+          html += items_for_subcat.length;
           html += '<ul>' + items_for_subcat.map(function (r) {
             return '<li>' + r.work + ' <br> <blockquote>' + r.desc + '</blockquote></li>';
           }).join('') + '</ul>';
