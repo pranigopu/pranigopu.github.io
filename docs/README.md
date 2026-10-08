@@ -122,13 +122,12 @@ Collection of my work in:
       items.forEach(function (r) { if (subcats.indexOf(r.subcat) < 0) subcats.push(r.subcat); });
       // One subheading per subcategory, followed by list of works and their respective descriptions.
       subcats.forEach(function (s) {
-          var items_for_subcat = items.filter(function (r) { r.subcat === s });
+          var items_for_subcat = items.filter(function (r) { return r.subcat === s });
           if (s === "none") {
             html += '<h4>General</h4>';
           } else {
             html += '<h4>' + s + '</h4>';
           }
-          html += items_for_subcat.length;
           html += '<ul>' + items_for_subcat.map(function (r) {
             return '<li>' + r.work + ' <br> <blockquote>' + r.desc + '</blockquote></li>';
           }).join('') + '</ul>';
