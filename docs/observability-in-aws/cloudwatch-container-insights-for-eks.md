@@ -97,7 +97,7 @@ Container Insights for EKS captures metrics at multiple levels. At each level, y
 
 > **Reference**: [*How to Set Up CloudWatch Container Insights for EKS*, **oneuptime.com/blog**](https://oneuptime.com/blog/post/2026-02-12-cloudwatch-container-insights-eks/view)
 
-![](../_common-resources/metrics-collected-by-cloudwatch-container-insights-for-eks.png)
+![](./resources/metrics-collected-by-cloudwatch-container-insights-for-eks.png)
 
 > **Source**: [*How to Set Up CloudWatch Container Insights for EKS*, **oneuptime.com/blog**](https://oneuptime.com/blog/post/2026-02-12-cloudwatch-container-insights-eks/view)
 >
