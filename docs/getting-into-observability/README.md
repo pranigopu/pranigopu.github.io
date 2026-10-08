@@ -16,4 +16,5 @@ Observability is the ability to understand the internal state or condition of a 
 
 ## Technologies
 - [OTel](./otel.md)
+- [OTel Collector](./otel-collector.md)
 - [Prometheus](./prometheus.md)

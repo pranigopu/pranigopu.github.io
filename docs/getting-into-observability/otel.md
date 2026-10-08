@@ -1,6 +1,8 @@
 [<< **Getting into Observability**](https://pranigopu.github.io/getting-into-observability/)
 
-<h1>OTel (OpenTelemetry)</h1>
+<h1>OTel</h1>
+
+> OTel = OpenTelemetry
 
 ---
 
@@ -16,7 +18,12 @@
 - [Intent](#intent)
   - [Lineage](#lineage)
   - [Conclusion](#conclusion)
-- [Additions to the OTel ecosystem](#additions-to-the-otel-ecosystem)
+- [Additional topics](#additional-topics)
+  - [OTel data point types for metrics](#otel-data-point-types-for-metrics)
+    - [Gauge](#gauge)
+    - [Sum](#sum)
+    - [Histogram](#histogram)
+    - [Summary](#summary)
   - [OTel Collector](#otel-collector)
 
 ---
@@ -46,7 +53,7 @@ Essentially, "signal" => "telemetry product of a specific kind".
 > **Reference**: [Signals, **opentelemetry.io/docs/specs/otel/glossary**](https://opentelemetry.io/docs/specs/otel/glossary/#signals)
 
 ## Context
-A `Context` is a mechanism (standard + implementation) which carries execution-scoped values (i.e. values that emerge from and are specific to an execution context) (1) across API boundaries (i.e. across API-specific contexts) and (2) between logically associated execution units (logical association => association as per some broader process/operation/program/application).
+A `Context` is a mechanism (i.e. a standard + the implementation of the standard) which carries execution-scoped values (i.e. values that emerge from and are specific to an execution context) (1) across API boundaries (i.e. across API-specific contexts) and (2) between logically associated execution units (logical association => association as per some broader process/operation/program/application).
 
 > **CONCEPT: Execution unit**: An umbrella term for the smallest unit of sequential code execution, used in different concepts of multitasking. Examples are threads, coroutines or fibers.
 >
@@ -91,11 +98,11 @@ Levels of abstraction:
 (Least abstract / most concrete)
 ```
 
-"OTel" refers to all the above, the requirements and standards at its core.
+"OTel" refers to all the above, the requirements and standards being at its core.
 
 ---
 
-Note that, as a set of requirements and standards, OTel becomes a cross-cutting concern in any application that chooses to adhere to it. The context propagation mechanism of OTel in turn becomes a mechanism for enabling cross-cutting concerns (e.g. monitoring) to share context. In other words, it is a cross-cutting concern that facilitates cross-cutting concerns.
+Note that, as a set of requirements and standards, OTel becomes a cross-cutting concern in any application that chooses to adhere to it. The context propagation mechanism of OTel in turn becomes a mechanism for enabling cross-cutting concerns (e.g. monitoring, tracing, etc.) to share context. In other words, it is a cross-cutting concern that facilitates observability-related cross-cutting concerns.
 
 ---
 
@@ -200,7 +207,22 @@ OpenCensus is a set of libraries for various languages that allow you to collect
 ## Conclusion
 OTel comes from a lineage of distributed tracing solutions, from tools and platforms to API specifications to libraries and, finally, to a framework that combines requirements, standards, specifications, and libraries, along with tooling (e.g. OTel Collector, which shall be discussed below). The goal was always this: **ensure a complex, distributed system does not remain a blackbox**. The intent of OTel (following from OpenTracing's and OpenCensus' goals) was to ensure such transparency could be achieved in a ubiquitous (i.e. arbitrarily scalable and granular), continuous, and vendor-neutral manner, from the level of specifications to libraries to tooling. Furthermore, OTel generalises beyond traces, serving as a framework for all levels of telemetry (logs, events, metrics, traces, etc.) while also serving the intent of sharing context in a traceable and interpretable manner across components and cross-cutting concerns in a distributed system.
 
-# Additions to the OTel ecosystem
+# Additional topics
+## OTel data point types for metrics
+> **Reference**: [`opentelemetry-proto`/`opentelemetry`/`proto`/`metrics`/`v1`/`metrics.proto`, **github.com**](https://github.com/open-telemetry/opentelemetry-proto/blob/c5c8b28012583fda55b0cb16f73a820722171d49/opentelemetry/proto/metrics/v1/metrics.proto#L247)
+
+### Gauge
+Gauge represents the type of scalar metric that always exports the current value for every data point.
+
+### Sum
+Sum represents the type of scalar metric that is calculated as a sum of all reported measurements over a time interval.
+
+### Histogram
+Histogram represents the type of metric that is calculated by aggregating a histogram of all reported measurements over a time interval.
+
+### Summary
+Summary metric data are used to carry quantile summaries.
+
 ## OTel Collector
 The OpenTelemetry Collector is a **vendor-neutral telemetry processing agent**: a stateless binary that receives telemetry (logs, metrics, traces), optionally transforms it, and exports it to one or more backends. It is not an SDK, not an observability backend, and does not store data.
 
@@ -214,3 +236,7 @@ As discussed above, OTel itself is a CNCF-graduated open-source framework that s
 The Collector exists in two distributions: `core` (maintained by the OTel project, fewer components) and `contrib` (maintained by the community, includes the ClickHouse exporter and `k8s_attributes` processor). For EKS + ClickHouse use cases, the `contrib` distribution is required.
 
 > **Reference**: [*opentelemetry-collector-contrib*, **github.com/open-telemetry**](https://github.com/open-telemetry/opentelemetry-collector-contrib)
+
+---
+
+**Read further**: [*OTel Collector*, **Getting into Observability**](./otel-collector.md)
