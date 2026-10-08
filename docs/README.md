@@ -126,7 +126,7 @@ Collection of my work in:
           if (s === "none") {
             html += '<h4> General </h4>';
           } else {
-            html += '<h4> ' s ' </h4>';
+            html += '<h4> ' + s + ' </h4>';
           }
           html += '<ul>' + items_for_subcat.map(function (r) {
             return '<li>' + r.work + ' <br> <blockquote>' + r.desc + '</blockquote></li>';
