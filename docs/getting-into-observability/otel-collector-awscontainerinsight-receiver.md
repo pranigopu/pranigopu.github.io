@@ -75,14 +75,14 @@ All metrics are emitted in **OTLP format**, so they flow through the same `proce
 ### 1. cAdvisor (node/pod/container metrics)
 > **Context**: ["cAdvisor (Container Advisor)", *MASTR*, **Untitled**](../untitled/miscellaneous-alphabetically-sorted-technical-notes#cadvisor-container-advisor)
 
-A customized, embedded cAdvisor library collects only the metrics and cgroups (Linux control groups; see: ["cgroup (Control Group)", *MASTR*, **Untitled**](../untitled/miscellaneous-alphabetically-sorted-technical-references.md#cgroup-control-group)) relevant to Container Insights. Raw cAdvisor data is shaped into infrastructure-layer metrics:
+A customized, embedded cAdvisor library collects only the metrics and cgroups (Linux control groups; see: ["cgroup (Control Group)", *MASTR*, **Untitled**](../untitled/mastr.md#cgroup-control-group)) relevant to Container Insights. Raw cAdvisor data is shaped into infrastructure-layer metrics:
 
 - **Node**: node, node filesystem, node disk I/O, node network
 - **Pod/Container**: pod, pod network, container, container filesystem
 
 Pod/container labels (`podName`, `podId`, `namespace`, `containerName`) are extracted from the cAdvisor container spec and attached as resource attributes, which the AWS Container Insights processor depends on for further processing.
 
-In the context of the OTel Collector being deployed as a DaemonSet, with `awscontainerinsight` receiver running in each DaemonSet pod, because cAdvisor reads node-local sources (`/sys/fs/cgroup`, `/proc`, kubelet port `10250`) via the node-local kubelet (see: ["Kubelet", *MASTR*, **Untitled**](../untitled/miscellaneous-alphabetically-sorted-technical-references.md#kubelet)), each DaemonSet pod scrapes only its own node. There is no cross-node coordination concern here - every pod independently produces its node-, pod-, and container-level metrics without risk of duplication.
+In the context of the OTel Collector being deployed as a DaemonSet, with `awscontainerinsight` receiver running in each DaemonSet pod, because cAdvisor reads node-local sources (`/sys/fs/cgroup`, `/proc`, kubelet port `10250`) via the node-local kubelet (see: ["Kubelet", *MASTR*, **Untitled**](../untitled/mastr.md#kubelet)), each DaemonSet pod scrapes only its own node. There is no cross-node coordination concern here - every pod independently produces its node-, pod-, and container-level metrics without risk of duplication.
 
 ### 2. `k8sapiserver` (cluster-level metrics)
 Collects cluster-level metrics from the Kubernetes API server.
@@ -316,7 +316,7 @@ The receiver uses a ConfigMap as a distributed lock primitive to elect a single 
 This section explains what Kubernetes Leases are, why they appear in many community RBAC templates for this receiver, and why they are not actually required.
 
 ### About Kubernetes Leases
-> **Additional conceptual context**: ["Kubernetes Lease", *MASTR*, **Untitled**](../untitled/miscellaneous-alphabetically-sorted-technical-references.md#kubernetes-lease)
+> **Additional conceptual context**: ["Kubernetes Lease", *MASTR*, **Untitled**](../untitled/mastr.md#kubernetes-lease)
 
 A `Lease` is a Kubernetes resource in the `coordination.k8s.io/v1` API group, purpose-built for distributed coordination primitives such as leader election. Kubernetes itself uses Leases for system-critical coordination including node heartbeats and control-plane component leader election (e.g. `kube-scheduler`, `kube-controller-manager`).
 

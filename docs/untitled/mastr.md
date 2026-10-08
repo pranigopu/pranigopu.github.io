@@ -1,7 +1,7 @@
-**MASTR**:
+<h1>MASTR</h1>
 
-*Miscellaneous Alphabetically-Sorted Technical References*
-
+> ***Miscellaneous Alphabetically-Sorted Technical References***
+> 
 > I don't know how to categorise these 😄
 
 ---

@@ -82,9 +82,9 @@ This pipeline provides a limited set of metrics related to cluster components su
 metrics-server (see: [metrics-server (*implements* Metrics API), in this document](#metrics-server-implements-metrics-api)) discovers all nodes on the cluster and queries each node's kubelet for CPU and memory usage. Each node's kubelet acts as a bridge between the Kubernetes master and the node, managing the pods and containers running on a machine. The kubelet translates each pod into its constituent containers and fetches individual container usage statistics from the container runtime through the container runtime interface.
 
 ### Method 2: cAdvisor
-> About cAdvisor: [cAdvisor (Container Advisor), *MASTR*, **Untitled**](../untitled/miscellaneous-alphabetically-sorted-technical-references.md#cadvisor-container-advisor)
+> About cAdvisor: [cAdvisor (Container Advisor), *MASTR*, **Untitled**](../untitled/mastr.md#cadvisor-container-advisor)
 
-If you use a container runtime that uses Linux cgroups (see: [cgroup (Control Group), *MASTR*, **Untitled**](../untitled/miscellaneous-alphabetically-sorted-technical-references.md#cgroup-control-group)) and namespaces to implement containers, and the container runtime does not publish usage statistics, then the node's kubelet can look up those statistics directly using code from cAdvisor.
+If you use a container runtime that uses Linux cgroups (see: [cgroup (Control Group), *MASTR*, **Untitled**](../untitled/mastr.md#cgroup-control-group)) and namespaces to implement containers, and the container runtime does not publish usage statistics, then the node's kubelet can look up those statistics directly using code from cAdvisor.
 
 > **NOTE**: cAdvisor is not a separate deployment in modern Kubernetes - it is embedded directly into the kubelet binary and runs on every node automatically. No separate installation is required. It exposes container resource metrics via the kubelet's `/metrics/cadvisor` endpoint in Prometheus format.*
 
@@ -210,7 +210,7 @@ The architecture components consist of the following:
   </tbody>
 </table>
 
-**NOTE**: *cAdvisor supports reading metrics from cgroups (see [cgroup (Control Group), *MASTR*, **Untitled**](../untitled/miscellaneous-alphabetically-sorted-technical-references.md#cgroup-control-group)), which works with typical container runtimes on Linux. If you use a container runtime that uses another resource isolation mechanism (e.g. virtualization), then that container runtime must support CRI Container Metrics (see: [CRI (Container Runtime Interface) Container Metrics, *MASTR*, **Untitled**](../untitled/miscellaneous-alphabetically-sorted-technical-references.md#cri-container-runtime-interface-container-metrics)) in order for metrics to be available to the kubelet.*
+**NOTE**: *cAdvisor supports reading metrics from cgroups (see [cgroup (Control Group), *MASTR*, **Untitled**](../untitled/mastr.md#cgroup-control-group)), which works with typical container runtimes on Linux. If you use a container runtime that uses another resource isolation mechanism (e.g. virtualization), then that container runtime must support CRI Container Metrics (see: [CRI (Container Runtime Interface) Container Metrics, *MASTR*, **Untitled**](../untitled/mastr.md#cri-container-runtime-interface-container-metrics)) in order for metrics to be available to the kubelet.*
 
 > **Reference**:
 >
@@ -278,7 +278,7 @@ When the standard Metrics API (`metrics.k8s.io`) (see: [Metrics API, in this doc
 
 > The above are also referenced in [Full Metrics Pipeline in Kubernetes, in this document](#full-metrics-pipeline-in-kubernetes)
 
-Neither API has a built-in implementation; each requires a **metrics adapter** (see: [Kubernetes Metrics Adapters, *MASTR*, **Untitled**](../untitled/miscellaneous-alphabetically-sorted-technical-references.md#kubernetes-metrics-adapters)) to be deployed alongside a monitoring backend. The adapter translates monitoring-backend query results into the Kubernetes metrics API format. A commonly used adapter is the **Prometheus Adapter** (`prometheus-community/prometheus-adapter`), which can serve both `custom.metrics.k8s.io` and `external.metrics.k8s.io` by mapping PromQL queries to Kubernetes metric names.
+Neither API has a built-in implementation; each requires a **metrics adapter** (see: [Kubernetes Metrics Adapters, *MASTR*, **Untitled**](../untitled/mastr.md#kubernetes-metrics-adapters)) to be deployed alongside a monitoring backend. The adapter translates monitoring-backend query results into the Kubernetes metrics API format. A commonly used adapter is the **Prometheus Adapter** (`prometheus-community/prometheus-adapter`), which can serve both `custom.metrics.k8s.io` and `external.metrics.k8s.io` by mapping PromQL queries to Kubernetes metric names.
 
 > The `HorizontalPodAutoscaling` can then reference these APIs directly in its manifest. At runtime, the `HorizontalPodAutoscaling` evaluates all configured metrics and scales to the replica count required by whichever metric demands the highest value.
 
@@ -306,9 +306,9 @@ kubectl get --raw "/apis/custom.metrics.k8s.io/v1beta1" | jq .
 
 ## Kubernetes Control Plane Metrics
 
-> About Kubernetes Control Plane: [Kubernetes Control Plane, *MASTR*, **Untitled**](../untitled/miscellaneous-alphabetically-sorted-technical-references.md#kubernetes-control-plane)
+> About Kubernetes Control Plane: [Kubernetes Control Plane, *MASTR*, **Untitled**](../untitled/mastr.md#kubernetes-control-plane)
 
-Amazon EKS exposes control plane metrics through the Kubernetes API server (kube-apiserver; search within: [Kubernetes Control Plane, *MASTR*, **Untitled**](../untitled/miscellaneous-alphabetically-sorted-technical-references.md#kubernetes-control-plane)) in a Prometheus format by using the `/metrics` HTTP API endpoint. Note that CloudWatch can capture and ingest these metrics (from the same HTTP API endpoint, naturally). CloudWatch and CloudWatch Container Insights (also called AWS Container Insights) can also be configured to provide comprehensive metrics capture, analysis and alarming for your Amazon EKS nodes and pods.
+Amazon EKS exposes control plane metrics through the Kubernetes API server (kube-apiserver; search within: [Kubernetes Control Plane, *MASTR*, **Untitled**](../untitled/mastr.md#kubernetes-control-plane)) in a Prometheus format by using the `/metrics` HTTP API endpoint. Note that CloudWatch can capture and ingest these metrics (from the same HTTP API endpoint, naturally). CloudWatch and CloudWatch Container Insights (also called AWS Container Insights) can also be configured to provide comprehensive metrics capture, analysis and alarming for your Amazon EKS nodes and pods.
 
 If using Prometheus:
 
@@ -390,7 +390,7 @@ The collector pipeline is structured as:
 
 ### ADOT as an EKS Add-on
 
-Amazon EKS supports deploying ADOT as a managed EKS add-on. The ADOT add-on is an implementation of a Kubernetes Operator (see: [Kubernetes Operator, *MASTR*, **Untitled**](../untitled/miscellaneous-alphabetically-sorted-technical-references.md#kubernetes-operator)), which is a software extension to Kubernetes that makes use of custom resources to manage applications and their components. The add-on installs one component of ADOT, namely the ADOT Operator (an implementation of a Kubernetes Operator), which watches for a custom resource named `OpenTelemetryCollector` and manages the lifecycle of an ADOT Collector based on the configuration settings specified in the custom resource. The following figure shows an illustration of how this works.
+Amazon EKS supports deploying ADOT as a managed EKS add-on. The ADOT add-on is an implementation of a Kubernetes Operator (see: [Kubernetes Operator, *MASTR*, **Untitled**](../untitled/mastr.md#kubernetes-operator)), which is a software extension to Kubernetes that makes use of custom resources to manage applications and their components. The add-on installs one component of ADOT, namely the ADOT Operator (an implementation of a Kubernetes Operator), which watches for a custom resource named `OpenTelemetryCollector` and manages the lifecycle of an ADOT Collector based on the configuration settings specified in the custom resource. The following figure shows an illustration of how this works.
 
 ![](../_common-resources/adot-collector-deployment.png)
 
