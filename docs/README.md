@@ -74,10 +74,10 @@ Collection of my work in:
   // Turn each table row into a plain object: its category, the Work cell's HTML (which includes the link), the Description cell's HTML, and all of the row's text in lowercase for searching.
   var rows = Array.from(table.querySelectorAll('tbody tr')).map(function (tr) {
     var c = tr.children;
-    if (c.length() > 1) {
-      return { cat: c[0].textContent.split(',')[0].trim(), work: c[1].innerHTML, desc: c[2].innerHTML, text: tr.textContent.toLowerCase(), subcat: c[0].textContent.split(',')[1].trim()};
+    if (c[0].textContent.split(',').length > 1) {
+      return { cat: c[0].textContent.split(',')[0].trim(), work: c[1].innerHTML, desc: c[2].innerHTML, text: tr.textContent.toLowerCase(), subcat: c[0].textContent.split(',')[1].trim() };
     } else {
-      return { cat: c[0].textContent.split(',')[0].trim(), work: c[1].innerHTML, desc: c[2].innerHTML, text: tr.textContent.toLowerCase(), subcat: "<none>"};
+      return { cat: c[0].textContent.split(',')[0].trim(), work: c[1].innerHTML, desc: c[2].innerHTML, text: tr.textContent.toLowerCase(), subcat: "<none>" };
     }
     // NOTE: subcat ("subcategory") is the second listed category in the comma-separated list of categories.
   });
