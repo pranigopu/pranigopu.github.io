@@ -30,10 +30,10 @@ Collection of my work in:
 
 | Category | Work | Description |
 | --- | --- | --- |
-| Bayesian Deep Learning | [Comparative Evaluation of Uncertainty Quantification of BNNs (PDF)](https://pranigopu.github.io/comparative-evaluation-of-uncertainty-quantification-of-bnns.pdf) | My master's thesis |
-| Bayesian Deep Learning | [`pranigopu`/`mastersProject` (GitHub)](https://github.com/pranigopu/mastersProject) | The repository backing my master's thesis |
-| Neural Style Transfer for Audio | [Ambience-to-Music Neural Style Transfer (AM-NST) (app.readytensor.ai)](https://app.readytensor.ai/publications/ambiencetomusic-neural-style-transfer-amnst-2CirVDc5nt0b) | A report for an academic project on NST for audio using spectrograms, taking inspiration from NST for images. |
-| Neural Style Transfer for Audio | [`pranigopu`/`ambience-to-music-neuralStyleTransfer` (GitHub)](https://github.com/pranigopu/ambience-to-music-neuralStyleTransfer) | The repository backing my AM-NST project. |
+| Deep Learning, Bayesian Deep Learning | [Comparative Evaluation of Uncertainty Quantification of BNNs (PDF)](https://pranigopu.github.io/comparative-evaluation-of-uncertainty-quantification-of-bnns.pdf) | My master's thesis |
+| Deep Learning, Bayesian Deep Learning | [`pranigopu`/`mastersProject` (GitHub)](https://github.com/pranigopu/mastersProject) | The repository backing my master's thesis |
+| Deep Learning, Neural Style Transfer | [Ambience-to-Music Neural Style Transfer (AM-NST) (app.readytensor.ai)](https://app.readytensor.ai/publications/ambiencetomusic-neural-style-transfer-amnst-2CirVDc5nt0b) | A report for an academic project on NST for audio using spectrograms, taking inspiration from NST for images. |
+| Deep Learning, Neural Style Transfer | [`pranigopu`/`ambience-to-music-neuralStyleTransfer` (GitHub)](https://github.com/pranigopu/ambience-to-music-neuralStyleTransfer) | The repository backing my AM-NST project. |
 | Procedural Generation | [Procedural Generation in *Unexplored* (PDF)](https://pranigopu.github.io/procedural-generation-in-unexplored.pdf) | A case-study on cyclic generation for procedural level generation in the game *Unexplored*. |
 | Procedural Generation | [`pranigopu`/`diver-vs-mermaid` (GitHub)](https://github.com/pranigopu/diver-vs-mermaid) | A project to design and implement cellular automata for terrain generation and behaviour trees for agent behaviour |
 | Ethics & Regulation in AI | [Transparency, Explainability and Accountability (TEA) in AI (PDF)](https://pranigopu.github.io/report-on-transparency-explainability-and-accountability-in-ai.pdf) | This report aims to address some relevant ethical ideas in AI, primarily transparency, explainability and accountability, and integrate these ideas with technical/business requirements and case studies |
@@ -74,7 +74,7 @@ Collection of my work in:
   // Turn each table row into a plain object: its category, the Work cell's HTML (which includes the link), the Description cell's HTML, and all of the row's text in lowercase for searching.
   var rows = Array.from(table.querySelectorAll('tbody tr')).map(function (tr) {
     var c = tr.children;
-    return { cat: c[0].textContent.trim(), work: c[1].innerHTML, desc: c[2].innerHTML, text: tr.textContent.toLowerCase() };
+    return { cat: c[0].textContent.split(',')[0].trim(), work: c[1].innerHTML, desc: c[2].innerHTML, text: tr.textContent.toLowerCase() };
   });
   // Collect the distinct category names in the order they first appear in the table.
   var cats = [];
