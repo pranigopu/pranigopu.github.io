@@ -1,4 +1,4 @@
-[<< **OPCM**](https://pranigopu.github.io/opcm)
+[<< **Getting into Observability**](https://pranigopu.github.io/getting-into-observability/)
 
 <h1>Common Terms</h1>
 
